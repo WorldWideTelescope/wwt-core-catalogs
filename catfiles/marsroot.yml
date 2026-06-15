@@ -31,22 +31,6 @@ children:
 - browseable: true
   children: []
   group: Explorer
-  name: HiRISE Spotlight
-  searchable: true
-  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
-  type: ''
-  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=hirisespotlight
-- browseable: true
-  children: []
-  group: Explorer
-  name: HiRISE Single Images
-  searchable: true
-  thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=hirise
-  type: ''
-  url: http://cdn.worldwidetelescope.org/wwtweb/catalog.aspx?W=Hiriseone
-- browseable: true
-  children: []
-  group: Explorer
   name: MOC Catalog
   searchable: true
   thumbnail: http://cdn.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=moc
