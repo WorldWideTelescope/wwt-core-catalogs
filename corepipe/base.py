@@ -448,6 +448,7 @@ class PipelineManager(object):
                 warn(
                     "unable to make AstroPix associations; download the AstroPix database to `astropix/all.json` (see README.md)"
                 )
+                ap_all = []
 
             for item in ap_all:
                 if item["publisher_id"] != astropix_pubid:
