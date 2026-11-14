@@ -30,7 +30,8 @@
      "-7.30555548200000e-05",
      "7.30555548200000e-05"
     ]
-   }
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-double-boomerang/"
   },
   {
    "id": "nrao20-cena-radio",
@@ -64,7 +65,8 @@
      "-9.32977795755e-05",
      "9.32977795755e-05"
     ]
-   }
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-cena-radio/"
   },
   {
    "id": "nrao20-m81-hi",
@@ -99,7 +101,8 @@
      "-0.00417617118",
      "0.00417617118"
     ]
-   }
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-m81-hi/"
   },
   {
    "id": "nrao21df05b",
@@ -140,7 +143,8 @@
      "0.00000005231",
      "0.00000826075"
     ]
-   }
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao21df05b/"
   },
   {
    "id": "nrao-antennae-alma-hst",
@@ -175,7 +179,8 @@
      "-0.00001419187",
      "0.00001419187"
     ]
-   }
+   },
+   "status": "duplicate: avm:ID NRAO_Gallery028 = \"ALMA First Image\", already catalogued; dropped"
   }
  ],
  "manual": [

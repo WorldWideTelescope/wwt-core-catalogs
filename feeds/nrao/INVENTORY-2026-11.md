@@ -5,9 +5,10 @@ date from 2019), checked for usable astrometry. Machine-readable version:
 [`inventory-2026-11.json`](inventory-2026-11.json). The crawl and probe scripts are in
 [`_tools/`](_tools/).
 
-**Result: most releases lack astrometry, so this run stops at the inventory (no tiling, no
-WTMLs).** Five images have complete AVM and could be tiled right away. Another 45 are clean
-observational sky images that would each need manual alignment.
+**Result: most releases lack astrometry.** Five images have complete AVM. One of them turned
+out to be an image already in the catalogue, and the other **4 are now tiled** with
+upload-ready WTMLs (see [Tiled](#tiled-2026-11-14)). Another 45 are clean observational sky
+images that would each need manual alignment.
 
 ## Why the configured source finds nothing
 
@@ -53,10 +54,38 @@ The 20 "full" files come down to **5 usable images**. The rest were set aside:
 | Centaurus A inner lobes (VLA) | Radio | 2020-02-14 | 2020/02/CenA_Radio_Red.jpg | eso0005b, eso1222c and Chandra composites show different data: keep |
 | M81 group in neutral hydrogen (GBT + VLA) | Radio | 2020-02-26 | 2020/02/m81_radio_only_GBTandVLA.tif | no radio imageset nearby; only 720 px, but covers 3° |
 | Host galaxy of FRB 20190520B (VLA + optical) | Multi (`Visible,Radio`) | 2022-06-06 | 2022/06/nrao21df05b.jpg | none |
-| Antennae galaxies (ALMA + Hubble) | Multi (`Visible,Radio`) | 2023-03-13 (file from 2018) | 2018/03/AntennaeZoomAllRGB.jpg | **NEAR eso1137a**: same 0.05"/px density, ~19% wider field (4005 vs 3375 px). User decides |
+| ~~Antennae galaxies (ALMA + Hubble)~~ | — | 2023-03-13 (file from 2018) | 2018/03/AntennaeZoomAllRGB.jpg | **DUPLICATE, dropped.** Its XMP says `avm:ID NRAO_Gallery028`, which is "ALMA First Image", catalogued in 2019 (same centre 180.47218194889, −18.87326742778 and same rotation) |
 
-All Multi entries get `Xdominant_band="Radio"`. These five are not ingested anywhere (AstroPix
-never had them). Tiling them is quick, but this run's rule was to stop at the inventory.
+## Tiled (2026-11-14)
+
+Tiling used `_tools/tile_avm.py` with `batch-2026-11.json`. The script builds the WCS from the
+XMP the way pyavm's `to_wcs` does (pyavm isn't installed in the `wwt` env), then applies
+toasty's usual AVM parity flip. The Boomerang's SIN projection is treated as TAN: over its
+25.7′ field the two differ by about 1e-5 of the field, which is sub-pixel.
+`build_deliverable.py --prefix https://data1.wwtassets.org/feeds/nrao/ --tag-feed nrao`
+wrote `processed/<id>/index.wtml` and `_merge/nrao-new-2026-11-merged.wtml` (4 places,
+0 artifacts). All Multi entries have `Xdominant_band="Radio"`.
+
+| id | Name | BandPass | Levels | Size |
+|---|---|---|---|---|
+| `nrao20-double-boomerang` | Double Boomerang radio galaxy PKS 2014-55 | Multi, `Visible,Radio` | 5 | 48 MB |
+| `nrao20-cena-radio` | Centaurus A in Radio | Radio | 4 | 1.4 MB |
+| `nrao20-m81-hi` | M81 Group in Radio | Radio | 2 | 0.3 MB |
+| `nrao21df05b` | FRB 20190520B and its host galaxy | Multi, `Visible,Radio` | 3 | 3.0 MB |
+
+Placement was checked against STScI DSS2 cutouts at the same centre and field:
+- Boomerang: the field stars match.
+- Cen A: the radio core is on the nucleus and the jet runs NE–SW.
+- M81: the HI ring is centred on M81 with the right position angle.
+- FRB: the two DSS-visible stars match.
+
+Text comes from the NRAO gallery and release captions. Cen A's embedded XMP description is
+a leftover from a Chandra template, so it was not used.
+
+To upload, copy each `feeds/nrao/processed/<id>/` (in this worktree) to the blob path
+`feeds/nrao/<id>/`. Total is 52 MB. Then `check_blobs.py _merge/nrao-new-2026-11-merged.wtml`.
+For ingest, prepend to `catfiles/studiesradio.yml` (the feed's `default_prepend_catfile`) with
+`--cx-handle=skip`.
 
 ## Would need manual alignment (45)
 

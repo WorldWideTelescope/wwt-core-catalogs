@@ -1,0 +1,46 @@
+[
+ {
+  "id": "nrao20-double-boomerang",
+  "src": "feeds/nrao/_dl/Xgalaxy_composite_02042020_SD.jpg",
+  "src_url": "https://public.nrao.edu/wp-content/uploads/2020/05/Xgalaxy_composite_02042020_SD.jpg",
+  "title": "Double Boomerang radio galaxy PKS 2014-55",
+  "credit": "NRAO/AUI/NSF, S. Dagnello & W. Cotton; SARAO; DES",
+  "credits_url": "https://public.nrao.edu/gallery/boomerang/",
+  "band": "Multi",
+  "xbands": "Visible,Radio",
+  "description": "This image of galaxy PKS 2014-55, located 800 million light years from Earth, was made by NRAO scientist William Cotton with the South African Radio Astronomy Observatory (SARAO) MeerKAT telescope. It shows for the first time how the galaxy’s X-shape is actually a ‘double boomerang’. Two powerful jets of radio waves, indicated in blue color, originate from a massive black hole at the center of the galaxy. They each extend 2.5 million light years into space (comparable to the distance between the Milky Way and the Andromeda galaxy, our nearest major neighbour). Eventually, the jets are ‘turned back’ by the pressure of tenuous intergalactic gas. As they flow back towards the central galaxy, they are deflected by its relatively high gas pressure into the shorter, horizontal arms of the boomerang. The background image shows visible light from myriad galaxies in the distant universe."
+ },
+ {
+  "id": "nrao20-cena-radio",
+  "src": "feeds/nrao/_dl/CenA_Radio_Red.jpg",
+  "src_url": "https://public.nrao.edu/wp-content/uploads/2020/02/CenA_Radio_Red.jpg",
+  "title": "Centaurus A in Radio",
+  "credit": "NRAO/AUI/NSF/Univ.Hertfordshire/M.Hardcastle",
+  "credits_url": "https://public.nrao.edu/gallery/centaurus-a-in-radio/",
+  "band": "Radio",
+  "xbands": "",
+  "description": "An active galaxy at a distance of 10 million light years from Earth, imaged by the Very Large Array at 4.9 GHz."
+ },
+ {
+  "id": "nrao20-m81-hi",
+  "src": "feeds/nrao/_dl/m81_radio_only_GBTandVLA.tif",
+  "src_url": "https://public.nrao.edu/wp-content/uploads/2020/02/m81_radio_only_GBTandVLA.tif",
+  "title": "M81 Group in Radio",
+  "credit": "Chynoweth et al., NRAO/AUI/NSF",
+  "credits_url": "https://public.nrao.edu/gallery/m81-in-radio/",
+  "band": "Radio",
+  "xbands": "",
+  "description": "Hydrogen gas in the M81 Group of galaxies, 11.8 million light-years from Earth. Hydrogen detected by the Green Bank Telescope is colored red, including five newly discovered clouds; hydrogen detected earlier by the Very Large Array is green. The galaxies are interacting gravitationally with each other, as shown clearly by the gas streaming among them. The newly-discovered gas clouds, each containing from 14 to 57 million times the mass of our Sun, are likely remnants of earlier interactions among the galaxies."
+ },
+ {
+  "id": "nrao21df05b",
+  "src": "feeds/nrao/_dl/nrao21df05b.jpg",
+  "src_url": "https://public.nrao.edu/wp-content/uploads/2022/06/nrao21df05b.jpg",
+  "title": "FRB 20190520B and its host galaxy",
+  "credit": "Niu, et al.; Bill Saxton, NRAO/AUI/NSF; CFHT",
+  "credits_url": "https://public.nrao.edu/news/strange-radio-burst-raises-new-questions/",
+  "band": "Multi",
+  "xbands": "Visible,Radio",
+  "description": "VLA image of Fast Radio Burst FRB 190520 (red), combined with optical image, when the FRB is bursting."
+ }
+]
