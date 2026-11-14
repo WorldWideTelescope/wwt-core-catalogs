@@ -4,7 +4,7 @@ default_copyright: Public domain
 default_license_id: CC-PDDC
 default_constellations_handle: hubble
 default_prepend_catfile: studieshubble
-publish_url_prefix: http://data1.wwtassets.org/feeds/hst/
+publish_url_prefix: https://data1.wwtassets.org/feeds/hst/
 astropix_publisher_id: esahubble
 
 djangoplicity:
