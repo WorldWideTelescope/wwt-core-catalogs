@@ -3050,6 +3050,30 @@ name: Pleiades
 ra_hr: 3.783333333333333
 zoom_level: 23.459999999999997
 ---
+_uuid: ebeafa31-ca03-46f5-9209-576cae3abc9c
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -28.07979279499716
+description: 'This is Euclid’s Deep Field Fornax. After only one observation, the
+  space telescope already spotted 4.5 million galaxies in this field. In the coming
+  years, Euclid will make 52 observations of this field to reach its full depth.
+
+
+  Euclid’s Deep Field Fornax spans 12.1 square degrees and is located in the southern
+  constellation Fornax, the furnace. It encompasses the much smaller Chandra Deep
+  Field South, a 0.11 square degree region of the sky that has been extensively surveyed
+  in the past couple of decades with NASA''s Chandra and ESA''s XMM-Newton X-ray observatories,
+  as well as the NASA/ESA Hubble Space Telescope and major ground-based telescopes.
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319k/L{1}X{2}Y{3}.png
+name: Euclid Deep Field Fornax – Preview
+ra_hr: 3.5289573362018074
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319k/thumb.jpg
+zoom_level: 49.60580133544043
+---
 _uuid: 5de77c2d-ecaa-4530-9ee4-1201ecd46353
 classification: ''
 constellation: FOR

@@ -1138,6 +1138,76 @@ name: NGC 7023
 ra_hr: 21.026666666666667
 zoom_level: 3.908333333333333
 ---
+_uuid: 78a064e2-0774-443f-ac98-8851302e81b8
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 17.68721523440807
+description: 'More than 50,000 galaxies are visible in this image of Abell 2390, a
+  galaxy cluster 2.7 billion light-years away from Earth. Near the center of the image,
+  some of the galaxies appear smudged and curved, an effect called strong gravitational
+  lensing that can be used to detect dark matter.
+
+
+  This image is released as part of the Early Release Observations from ESA’s Euclid
+  space mission. All data from these initial observations are made public on 23 May
+  2024 – including a handful of unprecedented new views of the nearby Universe, this
+  being one.
+
+
+  This new view shows the galaxy cluster Abell 2764 (top right), a very dense region
+  of space containing hundreds of galaxies orbiting within a halo of dark matter.
+
+
+  Euclid captures a range of objects in this patch of sky, including many background
+  galaxies, more distant galaxy clusters, interacting galaxies that have thrown off
+  streams and shells of stars, and a pretty edge-on spiral that allows us to see the
+  ‘thinness’ of its disk.
+
+
+  This complete view of Abell 2764 and surroundings – obtained thanks to Euclid’s
+  impressively wide field-of-view – allows scientists to ascertain the radius of the
+  cluster and study its outskirts with faraway galaxies still in frame. Euclid''s
+  observations of Abell 2764, as with Abell 2390 (another target depicted in the images
+  released today from the space telescope), are also allowing scientists to witness
+  some of the most distant galaxies that lived in a mysterious period known as the
+  cosmic dark ages. Euclid enables us to see these galaxies back when the Universe
+  was only 700 million years old, just 5% of its current age. Viewing their light
+  is a specialty of Euclid, and allows us to witness how the first galaxies formed.
+
+
+  Also seen here is a bright foreground star that lies within our own galaxy (lower
+  left: V*BP-Phoenicis/HD 1973, a star within our galaxy and in the southern hemisphere
+  that’s nearly bright enough to be seen by the human eye). When we look at a star
+  through a telescope, its light is scattered outwards into the typical spiked shape
+  due to the telescope’s optics. Euclid was designed to make this scatter as small
+  as possible. As a result, we can measure the star very accurately, and capture galaxies
+  that lie nearby without being blinded by the star’s brightness.
+
+
+  Technical details: The data in this image were taken in about three hours of observation.
+  This colour image was obtained by combining VIS data and NISP photometry in Y and
+  H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical
+  sources in four different wavelength ranges. Aesthetics choices led to the selection
+  of three out of these four bands to be cast onto the traditional Red-Green-Blue
+  colour channels used to represent images on our digital screens (RGB). The blue,
+  green, red channels capture the Universe seen by Euclid around the wavelength 0.7,
+  1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette:
+  hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel,
+  and regions rich in dust and molecular gas have a clear red hue. Distant redshifted
+  background galaxies appear very red. In the image, the stars have six prominent
+  spikes due to how light interacts with the optical system of the telescope in the
+  process of diffraction. Another signature of Euclid special optics is the presence
+  of a few, very faint and small round regions of a fuzzy blue colour. These are normal
+  artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable
+  during data analysis, they do not cause any problem for the science goals.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523d/L{1}X{2}Y{3}.png
+name: Euclid’s view of galaxy cluster Abell 2390
+ra_hr: 21.893922499431888
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523d/thumb.jpg
+zoom_level: 6.969202632
+---
 _uuid: 704c4047-06a7-43ce-b7f2-e1ca21c29905
 classification: ''
 constellation: AQR

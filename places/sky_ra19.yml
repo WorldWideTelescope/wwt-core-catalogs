@@ -2111,6 +2111,74 @@ name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
 ---
+_uuid: 093eae83-7f9d-4d88-9001-20bbadf9a951
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.85793046471393
+description: 'Here, Euclid captures NGC 6744, one of the largest spiral galaxies beyond
+  our local patch of space. It’s a typical example of the type of galaxy currently
+  forming most of the stars in the nearby Universe, making it a wonderful archetype
+  to study with Euclid. This image is released as part of the Early Release Observations
+  from ESA’s Euclid space mission.
+
+
+  Euclid’s large field-of-view covers the entire galaxy, revealing not only spiral
+  structure on larger scales but also capturing exquisite detail on small spatial
+  scales, and at a combination of wavelengths. This detail includes feather-like lanes
+  of dust emerging as ‘spurs’ from the spiral arms, which Euclid is able to image
+  with incredible clarity. Euclid’s observations will allow scientists to not only
+  count individual stars within NGC 6744 but also trace the wider distribution of
+  stars and dust in the galaxy, as well as mapping the dust associated with the gas
+  that fuels new star formation. Forming stars is the main way by which galaxies grow
+  and evolve, so these investigations are central to understanding galaxy evolution
+  – and why our Universe looks the way it does today.
+
+
+  Euclid scientists are using this dataset to understand how dust and gas are linked
+  to star formation; map how different stellar populations are distributed throughout
+  galaxies and where stars are currently forming; and unravel the physics behind the
+  structure of spiral galaxies, something that’s still not fully understood after
+  decades of study. Spiral structure is important in galaxies, as spiral arms move
+  and compress gas to foster star formation (most of which occurs along these arms).
+  However, the exact role of spirals in coordinating ongoing star formation remains
+  unclear. As the aforementioned ‘spurs’ along NGC 6744’s arms are only able to form
+  in a strong enough spiral, these features therefore provide important clues as to
+  why galaxies look and behave as they do.
+
+
+  The dataset will also allow scientists to identify clusters of old stars (globular
+  clusters) and hunt for new dwarf galaxies around NGC 6744. In fact, Euclid has already
+  found a new dwarf ‘satellite galaxy’ of NGC 6744 – a surprise given that this galaxy
+  has been intensively studied in the past.
+
+
+  NGC 6744 lies 30 million light-years away in the constellation of Pavo.
+
+
+  Technical details: The data in this image were taken in just about one hour of observation.
+  This colour image was obtained by combining VIS data and NISP photometry in Y and
+  H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical
+  sources in four different wavelength ranges. Aesthetics choices led to the selection
+  of three out of these four bands to be cast onto the traditional Red-Green-Blue
+  colour channels used to represent images on our digital screens (RGB). The blue,
+  green, red channels capture the Universe seen by Euclid around the wavelength 0.7,
+  1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette:
+  hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel,
+  and regions rich in dust and molecular gas have a clear red hue. Distant redshifted
+  background galaxies appear very red. In the image, the stars have six prominent
+  spikes due to how light interacts with the optical system of the telescope in the
+  process of diffraction. Another signature of Euclid special optics is the presence
+  of a few, very faint and small round regions of a fuzzy blue colour. These are normal
+  artifacts of complex optical systems, so-called ‘optical ghost’; easily identifiable
+  during data analysis, they do not cause any problem for the science goals.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/L{1}X{2}Y{3}.png
+name: Euclid’s view of spiral galaxy NGC 6744
+ra_hr: 19.162686900170673
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/thumb.jpg
+zoom_level: 6.969202632
+---
 _uuid: 5524d2a3-f952-4844-bcba-e74e690f55a1
 classification: ''
 constellation: SGE

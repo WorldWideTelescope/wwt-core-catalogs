@@ -3229,6 +3229,91 @@ name: Messier 92
 ra_hr: 17.285
 zoom_level: 4.876666666666667
 ---
+_uuid: 84299878-e9ed-4add-a35f-2780945f7ed0
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.99985852820062
+description: 'This is Euclid’s Deep Field North. After only one observation, the space
+  telescope has already spotted more than ten million galaxies in this field. It is
+  also very rich in Milky Way stars, as it is close to the Galactic plane. In the
+  coming years, Euclid will make 32 observations of this field to reach its full depth.
+
+
+  Below the center-left of the image lies the Cat’s Eye Nebula, around 3000 light-years
+  away. Also known as NGC 6543, this nebula is a visual ‘fossil record’ of the dynamics
+  and late evolution of a dying star. This dying star is shedding its outer colorful
+  shells.
+
+  A bit higher to the right of the center of the image, a large group of galaxies
+  can be spotted, dominated by the large galaxy NGC 6505. This galaxy hosts the first
+  Einstein Ring that Euclid discovered, and is located 590 million light-years away.
+
+
+  The faint blue structures in the image are dim clouds in between the stars in our
+  own galaxy. They are a mix of gas and dust, also called ‘galactic cirrus’ because
+  they look like cirrus clouds. Euclid is able to see these clouds with its very sensitive
+  visible light camera because they reflect optical light from the Milky Way.
+
+
+  Euclid’s Deep Field North has an area of 22.9 square degrees and is located very
+  close to the north ecliptic pole, in the constellation Draco, the dragon. The proximity
+  to the ecliptic pole ensures maximum coverage throughout the year; the exact position
+  was chosen to obtain maximum overlap with one of the deep fields surveyed by NASA''s
+  infrared workhorse, the Spitzer Space Telescope.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/L{1}X{2}Y{3}.png
+name: Euclid Deep Field North – Preview
+ra_hr: 17.953348345445658
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/thumb.jpg
+zoom_level: 65.7992210598179
+---
+_uuid: 6e39c3e4-cb87-41d2-bad8-488bc15c1001
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 66.6326638694858
+description: 'This is a zoom-in of Euclid’s Deep Field North, showing the Cat’s Eye
+  Nebula in the center of the image, around 3000 light-years away. Also known as NGC
+  6543, this nebula is a visual ‘fossil record’ of the dynamics and late evolution
+  of a dying star. This dying star is shedding its outer colorful shells.
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/L{1}X{2}Y{3}.png
+name: Euclid’s view of the Cat’s Eye Nebula
+ra_hr: 17.976335571686377
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/thumb.jpg
+zoom_level: 4.309676707363904
+---
+_uuid: bcb85039-c3d6-4ae0-a56d-836607a44f3a
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.53068962338794
+description: 'The ring of light surrounding the centre of the galaxy NGC 6505, captured
+  by ESA’s Euclid telescope, is a stunning example of an Einstein ring. NGC 6505 is
+  acting as a gravitational lens, bending light from a galaxy far behind it. The almost
+  perfect alignment of NGC 6505 and the background galaxy has bent and magnified the
+  light from the background galaxy into a spectacular ring. This rare phenomenon was
+  first theorised to exist by Einstein in his general theory of relativity.
+
+
+  This wide field shows the extended stellar halo of NGC 6505 and showcases the Einstein
+  ring, surrounded by colourful foreground stars and background galaxies.
+
+
+  Image processing by J.-C. Cuillandre, G. Anselmi, T. Li'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/L{1}X{2}Y{3}.png
+name: Euclid image of a bright Einstein ring around galaxy NGC 6505
+ra_hr: 17.852104226682872
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/thumb.jpg
+zoom_level: 0.6957064224
+---
 _uuid: 43d07179-2650-44f9-917a-5170538577c0
 classification: ''
 constellation: ARA

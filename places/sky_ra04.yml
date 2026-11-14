@@ -1453,6 +1453,97 @@ name: California Nebula
 ra_hr: 4.00055555555556
 zoom_level: 43.2
 ---
+_uuid: 12d1df12-9186-4a62-8574-b429e0d06675
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -55.78061943568938
+description: 'The Dorado Group of galaxies is one of the richest galaxy groups in
+  the southern hemisphere. Here, Euclid captures signs of galaxies evolving and merging
+  ‘in action’, with beautiful tidal tails and shells visible as a result of ongoing
+  interactions. As Dorado is a lot younger than other clusters (like Fornax), several
+  of its constituent galaxies are still forming stars and remain in the stage of interacting
+  with one another, while others show signs of having merged relatively recently.
+  In size, it sits between larger galaxy clusters and smaller galaxy groups, making
+  it a useful and fascinating object to study with Euclid. This image is released
+  as part of the Early Release Observations from ESA’s Euclid space mission.
+
+
+  This dataset is enabling scientists to study how galaxies evolve and collide over
+  time in order to improve our models of cosmic history and understand how galaxies
+  form within halos of dark matter, with this new image being a true testament to
+  Euclid’s immense versatility. A wide array of galaxies is visible here, from very
+  bright to very faint. Thanks to Euclid’s unique combination of large field-of-view
+  and high spatial resolution, for the first time we can use the same instrument and
+  observations to deeply study tiny (small objects the size of star clusters), wider
+  (the central parts of a galaxy) and extended (tidal merger tails) features over
+  a large part of the sky.
+
+
+  Scientists are also using Euclid observations of the Dorado Group to answer questions
+  that previously could only be explored using painstakingly small snippets of data.
+  This includes compiling a full list of the individual clusters of stars (globular
+  clusters) around the galaxies seen here. Once we know where these clusters are,
+  we can use them to trace how the galaxies formed and study their history and contents.
+  Scientists will also use these data to hunt for new dwarf galaxies around the Group,
+  as it did previously with the Perseus cluster.
+
+
+  The Dorado Group lies 62 million light-years away in the constellation of Dorado.
+
+
+  Technical details: The data in this image were taken in just about one hour of observation.
+  This colour image was obtained by combining VIS data and NISP photometry in Y and
+  H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical
+  sources in four different wavelength ranges. Aesthetics choices led to the selection
+  of three out of these four bands to be cast onto the traditional Red-Green-Blue
+  color channels used to represent images on our digital screens (RGB). The blue,
+  green, red channels capture the Universe seen by Euclid around the wavelength 0.7,
+  1.1, and 1.7 micron respectively. This gives Euclid a distinctive color palette:
+  hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel,
+  and regions rich in dust and molecular gas have a clear red hue. Distant redshifted
+  background galaxies appear very red. In the image, the stars have six prominent
+  spikes due to how light interacts with the optical system of the telescope in the
+  process of diffraction. Another signature of Euclid special optics is the presence
+  of a few, very faint and small round regions of a fuzzy blue color. These are normal
+  artifacts of complex optical systems, so-called ‘optical ghost’; easily identifiable
+  during data analysis, they do not cause any problem for the science goals.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523b/L{1}X{2}Y{3}.png
+name: Euclid’s view of the Dorado group of galaxies
+ra_hr: 4.267581215076213
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523b/thumb.jpg
+zoom_level: 6.969202632
+---
+_uuid: d42b9555-3430-4afb-bb25-052bddda5b4e
+classification: ''
+constellation: HOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -48.429534378777774
+description: 'This is Euclid’s Deep Field South. After only one observation, the space
+  telescope already spotted more than 11 million galaxies in this field. In the coming
+  years, Euclid will make more observations of this field to reach its full depth.
+
+
+  When looking at the image, a glimpse of the large-scale structure of the Universe
+  can be seen. This is the organisation of galaxies along the so-called ‘cosmic web’.
+  This web consists of huge clusters of galaxies connected to one another by strands
+  of gas and invisible dark matter.
+
+
+  Euclid’s Deep Field South covers 28.1 square degrees in the southern constellation
+  of Horologium, the pendulum clock. This field has not been covered to date by any
+  deep sky survey and so has a huge potential for new, exciting discoveries.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319f/L{1}X{2}Y{3}.png
+name: Euclid Deep Field South – Preview
+ra_hr: 4.0821513664953395
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319f/thumb.jpg
+zoom_level: 82.20548219999998
+---
 _uuid: b3dc54e8-aaaf-4fc9-8f11-99f785e94fcc
 classification: ''
 constellation: TAU

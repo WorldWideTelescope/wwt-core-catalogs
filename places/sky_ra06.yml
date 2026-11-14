@@ -1359,6 +1359,202 @@ name: Rosette Nebula
 ra_hr: 6.533055555555555
 zoom_level: 32.0
 ---
+_uuid: ac3e7e46-a89a-41f2-80d9-bc5c730c1485
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.79232163887707
+description: 'This mosaic made by ESA’s Euclid space telescopes contains 260 observations
+  collected between 25 March and 8 April 2024. This is 1% of the wide survey that
+  Euclid will capture during six years. In just two weeks, Euclid covered 132 square
+  degrees of the Southern Sky, more than 500 times the area of the full Moon as seen
+  from Earth. The full mosaic is 208 gigapixels. Until the first official data release
+  from the mission, the highest resolution for download is 11Kx4K.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  The empty regions within the mosaic were intentionally avoided during the survey
+  due to the presence of very bright stars, which would ‘blind’ Euclid’s sensitive
+  instrumentation.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/L{1}X{2}Y{3}.png
+name: Mosaic of Euclid observations in the Southern Sky
+ra_hr: 6.148648164355929
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/thumb.jpg
+zoom_level: 102.85625872585655
+---
+_uuid: a1072e42-ecc5-4e5d-8e27-5000195178a4
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -35.21424715257454
+description: 'This image displays an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in three times compared to the
+  large mosaic. This patch of the Southern Sky shows numerous stars in our own Milky
+  Way, and many galaxies beyond. Thanks to its visible and infrared cameras, Euclid
+  captures the stars in their various colours: red stars are colder, and white/blue
+  stars are hotter. On the right of the image, galaxy cluster Abell 3381 is visible
+  as a string of galaxies.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/L{1}X{2}Y{3}.png
+name: Euclid’s extragalactic view in Southern Sky patch
+ra_hr: 6.214612741372387
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/thumb.jpg
+zoom_level: 29.323020374569275
+---
+_uuid: 8a2d284b-8a35-4e38-9d6b-95f5126514a5
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.82678737836347
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in twelve times compared to the
+  large mosaic. In the middle left, spiral galaxy NGC 2188 is visible edge-on at a
+  distance of 25 million light-years. In the top right corner, galaxy cluster Abell
+  3381 is now clearly noticeable, 678 million light-years away from us.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/L{1}X{2}Y{3}.png
+name: Euclid sees spiral galaxy NGC 2188 and galaxy cluster Abell 3381
+ra_hr: 6.167065024984624
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/thumb.jpg
+zoom_level: 7.341933911248356
+---
+_uuid: c84551e4-0716-49a9-a1cf-e3691600d73b
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.51996369453204
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 36 times compared to the large
+  mosaic. In this image, the core of galaxy cluster Abell 3381 is visible, 678 million
+  light-years away from us. The image shows many different galaxies of various shapes
+  and sizes, from massive elliptical to modest spiral galaxies, down to tiny and dim
+  dwarf galaxies.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/L{1}X{2}Y{3}.png
+name: Euclid captures core of Abell 3381 galaxy cluster
+ra_hr: 6.1680867670360415
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/thumb.jpg
+zoom_level: 2.448814890633436
+---
+_uuid: 1f003973-eaca-48cc-a499-0f74d573a90c
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.63735781884573
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 150 times compared to the large
+  mosaic. On the left of the image, Euclid captured two galaxies (called ESO 364-G035
+  and G036) that are interacting with each other, 420 million light-years from us.
+  On the right of the image, galaxy cluster Abell 3381 is visible, 678 million light-years
+  away from us.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/L{1}X{2}Y{3}.png
+name: Euclid spots interacting galaxies
+ra_hr: 6.16518595573597
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/thumb.jpg
+zoom_level: 0.6120241619570638
+---
+_uuid: 344694dc-050c-43c4-b317-8134d578aaaf
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.6370843376252
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 600 times compared to the large
+  mosaic. In this image, a single spiral galaxy (called ESO 364-G036) is visible in
+  great detail, 420 million light-years from us. This image shows 0.0003% of the initial
+  image of 208 gigapixels, that is 1/330 000 of the area of the main Euclid mosaic.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/L{1}X{2}Y{3}.png
+name: Euclid beholds a distant swirling spiral galaxy
+ra_hr: 6.1667315377184755
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/thumb.jpg
+zoom_level: 0.14828817998943306
+---
 _uuid: dfcf8a6e-a80d-4bbc-9457-319c1127fe9e
 classification: ''
 constellation: MON
