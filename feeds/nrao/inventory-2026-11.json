@@ -1,0 +1,683 @@
+{
+ "ready": [
+  {
+   "id": "nrao20-double-boomerang",
+   "name": "PKS 2014-55 \"Double Boomerang\" radio galaxy (MeerKAT + DES)",
+   "band": "Multi",
+   "xbands": "Visible,Radio",
+   "near": "none in catalogue",
+   "note": "SIN projection, no CoordinateFrame tag (assume ICRS); 5861 px, 0.26\"/px, 25.7' FOV",
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/05/Xgalaxy_composite_02042020_SD.jpg",
+   "release": "https://public.nrao.edu/gallery/boomerang/",
+   "date": "2020-05-04",
+   "avm": {
+    "Equinox": "2000",
+    "CoordsystemProjection": "SIN",
+    "Rotation": "0",
+    "ReferenceValue": [
+     "3.04505418311E+02",
+     "-5.56587509461E+01"
+    ],
+    "ReferenceDimension": [
+     "5861",
+     "5861"
+    ],
+    "ReferencePixel": [
+     "2931",
+     "2932"
+    ],
+    "Scale": [
+     "-7.30555548200000e-05",
+     "7.30555548200000e-05"
+    ]
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-double-boomerang/"
+  },
+  {
+   "id": "nrao20-cena-radio",
+   "name": "Centaurus A inner lobes (VLA)",
+   "band": "Radio",
+   "xbands": "",
+   "near": "eso0005b (radio+optical composite), eso1222c (APEX), Chandra composites: different data, keep",
+   "note": "2400 px, 0.34\"/px, 13.4' FOV",
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/02/CenA_Radio_Red.jpg",
+   "release": "https://public.nrao.edu/gallery/centaurus-a-in-radio/",
+   "date": "2020-02-14",
+   "avm": {
+    "CoordinateFrame": "ICRS",
+    "Equinox": "J2000",
+    "CoordsystemProjection": "TAN",
+    "Quality": "Full",
+    "Rotation": "0.0",
+    "ReferenceValue": [
+     "201.3654175",
+     "-43.0188942"
+    ],
+    "ReferenceDimension": [
+     "2400",
+     "2400"
+    ],
+    "ReferencePixel": [
+     "1200",
+     "1200"
+    ],
+    "Scale": [
+     "-9.32977795755e-05",
+     "9.32977795755e-05"
+    ]
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-cena-radio/"
+  },
+  {
+   "id": "nrao20-m81-hi",
+   "name": "M81 group in neutral hydrogen (GBT + VLA)",
+   "band": "Radio",
+   "xbands": "",
+   "near": "no radio imageset within 0.5 deg",
+   "note": "only 720 px (15\"/px), but a 3 deg HI map; PinpointWCS solution",
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/02/m81_radio_only_GBTandVLA.tif",
+   "release": "https://public.nrao.edu/gallery/m81-in-radio/",
+   "date": "2020-02-26",
+   "avm": {
+    "CoordinateFrame": "ICRS",
+    "Equinox": "2000.0",
+    "CoordsystemProjection": "TAN",
+    "Quality": "Full",
+    "Rotation": "0.03646237973",
+    "Notes": "World Coordinate System resolved using PinpointWCS 0.9.2 revision 218+ by the Chandra X-ray Center",
+    "ReferenceValue": [
+     "148.88822100000",
+     "69.06529500000"
+    ],
+    "ReferenceDimension": [
+     "720.00",
+     "720.00"
+    ],
+    "ReferencePixel": [
+     "359.33263747233",
+     "362.44455825990"
+    ],
+    "Scale": [
+     "-0.00417617118",
+     "0.00417617118"
+    ]
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao20-m81-hi/"
+  },
+  {
+   "id": "nrao21df05b",
+   "name": "Host galaxy of FRB 20190520B (VLA + optical)",
+   "band": "Multi",
+   "xbands": "Visible,Radio",
+   "near": "none in catalogue",
+   "note": "1920x1080, 0.03\"/px, 57\" FOV; PinpointWCS solution",
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/06/nrao21df05b.jpg",
+   "release": "https://public.nrao.edu/news/strange-radio-burst-raises-new-questions/",
+   "date": "2022-06-06",
+   "avm": {
+    "CoordinateFrame": "ICRS",
+    "Equinox": "2000.0",
+    "CoordsystemProjection": "TAN",
+    "Quality": "Full",
+    "Rotation": "-0.36284035176",
+    "Notes": "World Coordinate System resolved using PinpointWCS 0.9.2 revision 218+ by the Chandra X-ray Center",
+    "ReferenceValue": [
+     "240.53878618400",
+     "-11.26187310100"
+    ],
+    "ReferenceDimension": [
+     "1920",
+     "1080"
+    ],
+    "ReferencePixel": [
+     "-1926.98644456576",
+     "3677.21314690083"
+    ],
+    "Scale": [
+     "-0.00000826092",
+     "0.00000826092"
+    ],
+    "CDMatrix": [
+     "-0.00000826075",
+     "0.00000005231",
+     "0.00000005231",
+     "0.00000826075"
+    ]
+   },
+   "status": "tiled 2026-11-14 -> processed/nrao21df05b/"
+  },
+  {
+   "id": "nrao-antennae-alma-hst",
+   "name": "Antennae galaxies (ALMA + Hubble)",
+   "band": "Multi",
+   "xbands": "Visible,Radio",
+   "near": "NEAR eso1137a (ALMA+HST composite, 3375 px at 0.052\"/px). This one is 4005 px at 0.051\"/px: same density, ~19% wider field. User decides keep/replace.",
+   "note": "file uploaded 2018, reused in the 2023 \"ALMA at 10\" release",
+   "url": "https://public.nrao.edu/wp-content/uploads/2018/03/AntennaeZoomAllRGB.jpg",
+   "release": "https://public.nrao.edu/news/alma-10-year-anniversary-inauguration/",
+   "date": "2023-03-13",
+   "avm": {
+    "CoordinateFrame": "ICRS",
+    "Equinox": "2000.0",
+    "CoordsystemProjection": "TAN",
+    "Quality": "Full",
+    "Rotation": "-0.18533004443",
+    "Notes": "World Coordinate System resolved using PinpointWCS 0.9.2 revision 218+ by the Chandra X-ray Center",
+    "ReferenceValue": [
+     "180.47218194889",
+     "-18.87326742778"
+    ],
+    "ReferenceDimension": [
+     "4005",
+     "4005"
+    ],
+    "ReferencePixel": [
+     "2028.92055477367",
+     "2150.02045516266"
+    ],
+    "Scale": [
+     "-0.00001419187",
+     "0.00001419187"
+    ]
+   },
+   "status": "duplicate: avm:ID NRAO_Gallery028 = \"ALMA First Image\", already catalogued; dropped"
+  }
+ ],
+ "manual": [
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2019/06/nrao19cb05_SagA_FITs_composite.png",
+   "object": "Sgr A* cool gas ring (ALMA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "1000x1000",
+   "date": "2019-06-05",
+   "release": "https://public.nrao.edu/news/2019-alma-ring/",
+   "anchor": "Sgr A* VLBI position + scale from Murchikova et al. 2019; nothing to match in surveys",
+   "note": "tiny field (~2\")"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2019/09/Radio_blue_2MB.jpg",
+   "object": "Galactic Centre radio bubbles (MeerKAT)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "1575x1800",
+   "date": "2019-09-05",
+   "release": "https://public.nrao.edu/news/2019-balloon-features-galactic-center/",
+   "anchor": "Better: tile the public SARAO MeerKAT Galactic Centre mosaic FITS (Heywood et al. 2019/2022) instead of this 1575 px JPEG; else compact sources vs. \"Galactic Center 90cm\" in catalogue",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2019/11/finalN4631v6-fieldReversals-scaled.jpg",
+   "object": "NGC 4631 magnetic ropes (VLA CHANG-ES + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "2560x1584",
+   "date": "2019-11-26",
+   "release": "https://public.nrao.edu/news/giant-magnetic-ropes/",
+   "anchor": "Field stars in the optical layer vs. DSS2 / SDSS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2019/12/nrao19in01a.jpg",
+   "object": "MAMBO-9 (ALMA + HST)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "1920x1080",
+   "date": "2019-12-11",
+   "release": "https://public.nrao.edu/news/alma-spots-most-distant-dusty-galaxy-hidden-in-plain-sight/",
+   "anchor": "HST COSMOS galaxies in frame",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2019/12/nrao20ir01_ALMAComposite.jpg",
+   "object": "NGC 6240 (ALMA + HST)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "1534x1724",
+   "date": "2020-01-05",
+   "release": "https://public.nrao.edu/news/the-turbulent-life-of-two-supermassive-black-holes-caught-in-a-galaxy-crash/",
+   "anchor": "Hubble NGC 6240 / PanSTARRS (nuclei + stars)",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/04/nrao20in04_ALMAContOCIIPcomposite.jpg",
+   "object": "Wolfe Disk DLA0817g (ALMA + HST)",
+   "band": "Multi",
+   "avm": "PARTIAL: CRVAL/CRPIX, no scale",
+   "size": "5400x5400",
+   "date": "2020-04-28",
+   "release": "https://public.nrao.edu/news/alma-discovers-massive-rotating-disk-in-early-universe/",
+   "anchor": "Scale + rotation from HST galaxies in frame",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/06/nrao20in08_Mosaic_ALMA_HST_comp_purple_05192020.jpg",
+   "object": "Giant young cluster forming (ALMA + HST mosaic)",
+   "band": "Multi",
+   "avm": "PARTIAL: CRVAL/CRPIX, no scale",
+   "size": "3780x3780",
+   "date": "2020-06-11",
+   "release": "https://public.nrao.edu/news/image-release-stellar-fireworks-in-giant-cluster/",
+   "anchor": "Stars vs. Gaia DR3 / HST: only scale + rotation missing",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/07/nrao20in12_RULup_blue.jpg",
+   "object": "RU Lup disk spiral (ALMA)",
+   "band": "Radio",
+   "avm": "PARTIAL: CRVAL/CRPIX, no scale",
+   "size": "3000x3000",
+   "date": "2020-07-13",
+   "release": "https://public.nrao.edu/news/alma-captures-stirred-up-planet-factory/",
+   "anchor": "DSHARP / Huang et al. 2020 public FITS; star at Gaia position",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/07/N4217b.jpeg",
+   "object": "NGC 4217 magnetic field (VLA + SDSS)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "1173x912",
+   "date": "2020-07-20",
+   "release": "https://public.nrao.edu/news/image-galaxy-magnetic-field/",
+   "anchor": "SDSS / DSS2 field stars (an \"Original TIFF\" exists, also without AVM)",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/08/nrao20df_AGNImage_Composite.jpg",
+   "object": "Young stop-and-start radio jets",
+   "band": "Multi",
+   "avm": "none",
+   "size": "1500x1500",
+   "date": "2020-08-24",
+   "release": "https://public.nrao.edu/news/stop-start-jets/",
+   "anchor": "Object ID + scale from the paper (Nyland et al. 2020); then optical counterpart in PanSTARRS",
+   "note": "needs object ID"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/11/IC310_composite_cropped.jpg",
+   "object": "IC 310, Perseus cluster (VLA + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4866x3114",
+   "date": "2020-11-09",
+   "release": "https://public.nrao.edu/news/galaxies-perseus-cluster/",
+   "anchor": "Field stars vs. PanSTARRS / SDSS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/11/NGC1265_composite_cropped.jpg",
+   "object": "NGC 1265, Perseus cluster (VLA + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4464x3132",
+   "date": "2020-11-09",
+   "release": "https://public.nrao.edu/news/galaxies-perseus-cluster/",
+   "anchor": "Field stars vs. PanSTARRS / SDSS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2020/11/NGC1275_composite_cropped.jpg",
+   "object": "NGC 1275 / Perseus A (VLA + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "2048x1489",
+   "date": "2020-11-09",
+   "release": "https://public.nrao.edu/news/galaxies-perseus-cluster/",
+   "anchor": "Field stars vs. PanSTARRS / SDSS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/03/nrao21df_HSTVLA_Composite.jpg",
+   "object": "Lensed faint radio galaxy behind MACS J0717.5+3745 (HST + VLA)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "10350x10350",
+   "date": "2021-03-15",
+   "release": "https://public.nrao.edu/news/cosmic-lens-reveals-faint-radio-galaxy/",
+   "anchor": "Hubble Frontier Fields MACS J0717 (cluster galaxies)",
+   "note": "10350 px"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/04/W51e2_cont_bluered_composite_cropped.jpg",
+   "object": "W51 e2 protostellar outflows (ALMA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "7056x7056",
+   "date": "2021-04-26",
+   "release": "https://public.nrao.edu/news/massive-young-stars-forming/",
+   "anchor": "ALMA archive FITS (Goddi et al. 2020); no stars in frame",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/04/W51e8_cont_redblue_composite_cropped.jpg",
+   "object": "W51 e8 protostellar outflows (ALMA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "7056x7056",
+   "date": "2021-04-26",
+   "release": "https://public.nrao.edu/news/massive-young-stars-forming/",
+   "anchor": "ALMA archive FITS (Goddi et al. 2020)",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/04/W51n_cont_bluered_composite_cropped.jpg",
+   "object": "W51 North protostellar outflows (ALMA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "7056x7056",
+   "date": "2021-04-26",
+   "release": "https://public.nrao.edu/news/massive-young-stars-forming/",
+   "anchor": "ALMA archive FITS (Goddi et al. 2020)",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/05/nrao21df_w49a-zoomout.jpg",
+   "object": "W49A star-forming region (VLA + IR)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4500x4500",
+   "date": "2021-05-03",
+   "release": "https://public.nrao.edu/news/new-look-bright-stellar-nursery/",
+   "anchor": "Stars vs. 2MASS / Spitzer GLIMPSE",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_ngc628_composite_color-copy.jpg",
+   "object": "PHANGS-ALMA NGC 628 (ALMA + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "13000x13000",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-2/",
+   "anchor": "Stars vs. DSS2 / PanSTARRS, or PHANGS-ALMA public moment-0 FITS",
+   "note": "NEAR NRAO_Gallery_nrao18cb12d (2019 PHANGS NGC 628 composite, already in catalogue)"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/PHANGS_ngc4254w_composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 4254 (M99)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "12000x12000",
+   "date": "2021-06-07",
+   "release": "https://public.nrao.edu/news/alma-phangs-stellar-nursery-census/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/PHANGES_ngc4321_composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 4321 (M100)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "10000x10000",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-ngc4321/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_ngc1385_COMPOSITE_color.jpg",
+   "object": "PHANGS-ALMA NGC 1385",
+   "band": "Multi",
+   "avm": "none",
+   "size": "8000x8000",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-survey-ngc1385/",
+   "anchor": "DSS2 / PanSTARRS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_ngc1566_Composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 1566",
+   "band": "Multi",
+   "avm": "none",
+   "size": "7400x7400",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-survey-ngc1566/",
+   "anchor": "DSS2 stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_ngc3351_composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 3351 (M95)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "13000x12000",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-survey-ngc3351/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_ngc3627_Composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 3627 (M66)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "14000x14000",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-survey-ngc3627/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/PHANGS_NGC4535_composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 4535",
+   "band": "Multi",
+   "avm": "none",
+   "size": "7000x7000",
+   "date": "2021-06-07",
+   "release": "https://public.nrao.edu/news/alma-phangs-stellar-nursery-census/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/sPHANGS_NGC5248_composite_color.jpg",
+   "object": "PHANGS-ALMA NGC 5248",
+   "band": "Multi",
+   "avm": "none",
+   "size": "7400x7400",
+   "date": "2021-06-08",
+   "release": "https://public.nrao.edu/gallery/phangs-alma-survey-ngc5248/",
+   "anchor": "DSS2 / SDSS stars, or PHANGS-ALMA FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/06/nrao21ao03a.jpg",
+   "object": "Elias 2-27 spiral disk (ALMA)",
+   "band": "Radio",
+   "avm": "PARTIAL: SIN + CRVAL, no scale",
+   "size": "1920x1080",
+   "date": "2021-06-17",
+   "release": "https://public.nrao.edu/news/chaotic-young-star-reveals-planet-formation/",
+   "anchor": "DSHARP public FITS; star at Gaia position",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/07/nrao20df_GLOSTAR.jpg",
+   "object": "GLOSTAR Galactic-plane strip (VLA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "12500x3200",
+   "date": "2021-07-21",
+   "release": "https://public.nrao.edu/news/new-study-star-formation-milky-way/",
+   "anchor": "GLOSTAR public FITS, or compact HII regions vs. Spitzer GLIMPSE / WISE",
+   "note": "12500 px"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/07/NGC4921_HubbleALMA.jpeg",
+   "object": "NGC 4921 ram-pressure stripping (HST + ALMA)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4046x3823",
+   "date": "2021-07-27",
+   "release": "https://public.nrao.edu/news/gas-reaccretion-seen-in-dying-galaxies/",
+   "anchor": "Hubble / SDSS stars and background galaxies",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/09/Fig6_HD163296_HCN_260GH_hf1_BLUElog_black_3K75percent.jpg",
+   "object": "HD 163296 in HCN (ALMA MAPS)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "3000x3000",
+   "date": "2021-09-13",
+   "release": "https://public.nrao.edu/news/alma-reveals-carbon-rich-organic-birth-environments-of-planets/",
+   "anchor": "MAPS public FITS (Oberg et al. 2021); star at Gaia position",
+   "note": "tiny field; eso1818a (continuum) in catalogue"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/10/NGC4567_4568_compositeHST_v2.jpg",
+   "object": "VERTICO NGC 4567/4568 (ALMA + HST)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "5080x4572",
+   "date": "2021-10-25",
+   "release": "https://public.nrao.edu/news/a-cosmic-whodunit-alma-study-confirms-whats-robbing-galaxies-of-their-star-forming-gas/",
+   "anchor": "SDSS / Hubble stars, or VERTICO public FITS",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/10/ngc4254_composite_HST.png",
+   "object": "VERTICO NGC 4254 (ALMA + HST)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "9936x9936",
+   "date": "2021-10-25",
+   "release": "https://public.nrao.edu/news/a-cosmic-whodunit-alma-study-confirms-whats-robbing-galaxies-of-their-star-forming-gas/",
+   "anchor": "SDSS / Hubble stars, or VERTICO public FITS",
+   "note": "NEAR PHANGS NGC 4254 above"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/10/IC1613.png",
+   "object": "IC 1613 neutral hydrogen (VLA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "1771x1771",
+   "date": "2021-10-20",
+   "release": "https://public.nrao.edu/gallery/ic1613/",
+   "anchor": "No stars: needs the HI FITS (LITTLE THINGS / paper data)",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2021/12/nrao21df04_M87_Total_Intensity_MagRot_112021.jpeg",
+   "object": "M87 jet double helix (VLA)",
+   "band": "Radio",
+   "avm": "none",
+   "size": "3000x1500",
+   "date": "2021-12-06",
+   "release": "https://public.nrao.edu/news/helix-structure-in-jet/",
+   "anchor": "Jet knots vs. Hubble / Chandra M87 imagery in catalogue",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/04/0379_cropped.jpeg",
+   "object": "Post-starburst galaxy 0379 (HST + ALMA)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4137x4508",
+   "date": "2022-04-22",
+   "release": "https://public.nrao.edu/news/post-starburst-galaxies-gas/",
+   "anchor": "SDSS ID from Smercina et al. 2022, then SDSS / PanSTARRS stars",
+   "note": "needs object ID"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/04/0570_cropped.jpeg",
+   "object": "Post-starburst galaxy 0570 (HST + ALMA)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "4137x4508",
+   "date": "2022-04-22",
+   "release": "https://public.nrao.edu/news/post-starburst-galaxies-gas/",
+   "anchor": "SDSS ID from Smercina et al. 2022, then SDSS / PanSTARRS stars",
+   "note": "needs object ID"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/05/nrao22ao08_b.jpg",
+   "object": "A1689-zD1 behind Abell 1689 (ALMA + HST)",
+   "band": "Multi",
+   "avm": "PARTIAL: mixed CRVALs, CRPIX of a component",
+   "size": "4092x3894",
+   "date": "2022-06-03",
+   "release": "https://public.nrao.edu/news/a1689-galaxy-complex/",
+   "anchor": "Hubble Abell 1689 (in catalogue): cluster galaxies",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/06/nrao22ao09_MacGregor_HD51343_HST_ALMA.jpg",
+   "object": "HD 53143 debris disk (HST + ALMA)",
+   "band": "Multi",
+   "avm": "PARTIAL: CRVAL/CRPIX, no scale",
+   "size": "3000x2600",
+   "date": "2022-06-06",
+   "release": "https://public.nrao.edu/news/alma-debris-disk-hd53143/",
+   "anchor": "Star at Gaia position + scale from the paper",
+   "note": "tiny field"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/06/nrao22ao01_Wong_Molecualrcloud_HSTALMA_composite.jpg",
+   "object": "30 Doradus molecular filaments (HST + ALMA)",
+   "band": "Multi",
+   "avm": "PARTIAL: CRVAL/CRPIX, no scale",
+   "size": "4000x5000",
+   "date": "2022-06-06",
+   "release": "https://public.nrao.edu/news/alma-star-formation-large-magellanic-cloud-30-doradus/",
+   "anchor": "Stars vs. Hubble 30 Dor (in catalogue) / Gaia",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2022/08/SDSS_J14481010_CO21_Composite.png",
+   "object": "SDSS J1448+1010 merger tidal tails (ALMA + optical)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "1000x1000",
+   "date": "2022-08-25",
+   "release": "https://public.nrao.edu/news/alma-merging-galaxies-tidal-tails/",
+   "anchor": "SDSS / PanSTARRS galaxies in frame",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2023/02/Apr299.jpeg",
+   "object": "Arp 299 (2023 release image)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "3823x3823",
+   "date": "2023-02-24",
+   "release": "https://public.nrao.edu/news/extreme-galaxy-hides-black-hole/",
+   "anchor": "Hubble Arp 299 / PanSTARRS",
+   "note": "probably duplicates NRAO_Gallery010 \"Arp 299\" (2019 feed): compare first"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2025/03/spt2349_extended_molecular_gas_full_nsulzenauer.jpg",
+   "object": "SPT2349-56 protocluster molecular gas (ALMA + optical/IR)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "2000x1200",
+   "date": "2025-03-17",
+   "release": "https://public.nrao.edu/news/hidden-cosmic-fuel-tank-found-in-infant-galaxy-cluster/",
+   "anchor": "Galaxies vs. HST/JWST archive",
+   "note": "confirm it is data, not an artist composite"
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2026/06/sgra_co_xray.jpg",
+   "object": "Sgr A* surroundings in CO + X-ray",
+   "band": "Multi",
+   "avm": "none",
+   "size": "3900x3890",
+   "date": "2026-06-04",
+   "release": "https://public.nrao.edu/news/black-hole-breathing/",
+   "anchor": "Chandra Galactic Centre imagery in catalogue (Sgr A East shell)",
+   "note": ""
+  },
+  {
+   "url": "https://public.nrao.edu/wp-content/uploads/2026/07/EON_HIandWISEbare.png",
+   "object": "Orion Nebula hidden HI shell (VLA + WISE)",
+   "band": "Multi",
+   "avm": "none",
+   "size": "3840x3840",
+   "date": "2026-07-09",
+   "release": "https://public.nrao.edu/news/vla-hidden-hydrogen-orion-nebula/",
+   "anchor": "WISE All-Sky in WWT (stars + nebula)",
+   "note": "the easiest of the batch"
+  }
+ ]
+}
