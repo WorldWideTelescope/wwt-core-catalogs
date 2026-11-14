@@ -1,0 +1,13 @@
+browseable: true
+children:
+- place 1740bc9f-3f93-47ed-a13a-cb2375b49883
+- place 2484f905-9186-46fe-9e02-5dd6c5122d47
+- place 8cf959fa-8331-4b98-83ea-67e79cf6e62d
+- place 7a5fd638-eeb9-40f4-a0f6-30acfc3b4c9e
+- place 3332f06c-46f8-41a6-8a1c-a8cfade8d203
+- place 46544509-c425-4a8b-a152-2de1f3acc860
+group: Explorer
+name: Euclid
+searchable: true
+thumbnail: http://data1.wwtassets.org/feeds/euclid/thumb.jpg
+type: Sky

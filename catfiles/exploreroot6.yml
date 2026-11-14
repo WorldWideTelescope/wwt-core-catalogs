@@ -56,6 +56,14 @@ children:
 - browseable: true
   children: []
   group: Explorer
+  name: Euclid
+  searchable: true
+  thumbnail: http://data1.wwtassets.org/feeds/euclid/thumb.jpg
+  type: Sky
+  url: http://www.worldwidetelescope.org/wwtweb/catalog.aspx?W=euclid
+- browseable: true
+  children: []
+  group: Explorer
   name: Spitzer Studies
   searchable: true
   thumbnail: http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=spitzer

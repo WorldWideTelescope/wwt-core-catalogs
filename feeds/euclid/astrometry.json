@@ -1,0 +1,27 @@
+{
+  "about": "Corrections applied by build_euclid.py on top of the AstroPix/ENSCI AVM WCS: east_as/north_as move the image on the sky (arcsec), scale multiplies the pixel scale by (1 + scale) about the tangent point, rotation_deg is added to the WTML Rotation. Measured 2026-11-14 by phase-correlating each tiled image (WCS rebuilt from its index_rel.wtml) with NASA SkyView DSS2 Red reprojected onto the same grid (>= 1\"/px), then re-testing with the correction applied. ENSCI's AVM sits 2-4\" north-west of DSS2. The WWT team's own placements of the six Euclid images already in the database differ from their AVM the same way (east 0.3-3.5\", south 1.5-4.6\"). The M78 control (euclid20240523c, retiled here, not delivered) measured east -1.3\", north -3.9\" against the database's +0.4\", -4.1\". The Q1 mosaics were fitted on a 3x3 grid of crops (each 20% of the field) with a similarity transform; the residuals listed are after correction. Smaller fields that DSS2 cannot constrain were registered to an overlapping, already-corrected Euclid image instead (see 'via'). Checker scripts: check_hips.py / fit_field.py (session scratchpad; see _HANDOFF.md).",
+  "corrections": {
+    "ensci_euclid20240523a": {"east_as": 1.93, "north_as": -3.19, "check": "3x3 blocks within 0.8 px at 1.8\"/px"},
+    "ensci_euclid20240523b": {"east_as": -0.43, "north_as": -2.92, "check": "3x3 blocks within 0.5 px at 1.8\"/px"},
+    "ensci_euclid20240523d": {"east_as": 2.0, "north_as": -2.54, "check": "blocks within 0.7 px at 1.8\"/px"},
+    "ensci_euclid20240523e": {"east_as": 0.89, "north_as": -3.43, "check": "blocks within 0.2 px at 1.5\"/px"},
+    "ensci_euclid20241015b": {"east_as": -0.8, "north_as": -2.53, "check": "blocks within 0.2 px at 11.5\"/px"},
+    "ensci_euclid20241015c": {"east_as": 1.9, "north_as": -3.02, "check": "blocks within 0.2 px at 2.9\"/px"},
+    "ensci_euclid20241015d": {"east_as": 1.13, "north_as": -3.3, "check": "blocks within 1 px at 1.0\"/px"},
+    "ensci_euclid20241015e": {"east_as": 1.08, "north_as": -2.99, "check": "global 0.1\" at 1\"/px (galaxies; few stars)"},
+    "ensci_euclid20241015f": {"east_as": 0.86, "north_as": -1.88, "via": "registered to ensci_euclid20241015e (corrected), corr 0.85; a 1.5' field has too few DSS2 stars"},
+    "ensci_euclid20250319f": {"east_as": 0.91, "north_as": -2.28, "scale": -3.22e-4, "rotation_deg": 0.0085, "check": "on top of the replaced WCS (wcs_replaced); 9 crops: 1.21\" rms after (3.81\" before)"},
+    "ensci_euclid20250319g": {"east_as": 1.90, "north_as": -2.75, "scale": 9.75e-4, "rotation_deg": -0.0089, "check": "9 crops: 0.77\" rms after (6.72\" before; up to 11\" at the corners)"},
+    "ensci_euclid20250319k": {"east_as": -0.02, "north_as": -2.39, "scale": -4.42e-4, "rotation_deg": -0.0187, "check": "9 crops: 0.18\" rms after (3.13\" before)"},
+    "ensci_euclid20250319l": {"east_as": 2.39, "north_as": -2.46, "check": "3x3 blocks within 1 px at 1\"/px"},
+    "ensci_euclid20251002a": {"east_as": 2.61, "north_as": -2.47, "via": "registered to ensci_euclid20250319g (EDFN, corrected), corr 0.58; a 4' field has too few DSS2 stars"},
+    "ensci_euclid20251105a": {"east_as": 0.71, "north_as": -2.07, "check": "LOW CONFIDENCE: global fit only (dark cloud, few DSS2 stars; sub-blocks don't constrain); consistent with the systematic"}
+  },
+  "uncorrected": {
+    "ensci_euclid20241015a": "10\"/px, 32 deg mosaic: DSS2 and Mellinger agree with the AVM to < 0.15 comparison px (100\"/px); a 3\" shift is below its resolution"
+  },
+  "wcs_replaced": {
+    "ensci_euclid20250319f": "AstroPix WCS (RA 50.029, Dec +52.185, rotation 0) is wrong. Rotation set to -(position angle of galactic north) at the field centre, as for EDFN/EDFF (their AVM rotations match that to 0.02 deg), giving -101.85; centre registered to DSS2 Red (RA 61.231592, Dec -48.42903); scale and reference pixel as published. Candidate JSON patched; original in _orig_candidates/.",
+    "ensci_euclid20250319l": "Published ReferenceDimension 15136x15136, but the image is 15136x15224 and the reference pixel matches the true size; the published value stretched Dec by 0.6% (a visible gradient against DSS2). Candidate JSON patched; original in _orig_candidates/."
+  }
+}

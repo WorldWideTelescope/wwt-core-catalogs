@@ -1,0 +1,17 @@
+feed_id: euclid
+source_type: astropix
+default_copyright: ESA/Euclid/Euclid Consortium/NASA
+default_license_id: CC-BY-SA-3.0-IGO
+default_constellations_handle: euclid
+default_prepend_catfile: euclid
+publish_url_prefix: https://data1.wwtassets.org/feeds/euclid/
+astropix_publisher_id: ensci
+
+# ESA's own pages (esa.int) carry no AVM. The Euclid NASA Science Center at
+# IPAC (ENSCI) republishes ESA's Euclid press images on AstroPix with AVM WCS
+# and links to the full-resolution originals on euclid.caltech.edu. This saved
+# AstroPix query lists every ensci image; items without TAN WCS are rejected
+# at refresh (spacecraft photos, collages, the Q1 zoom frames, and, as of
+# 2026-11-14, the June 2026 bulge survey and the DR1-Foundation images).
+astropix:
+  json_query_url: https://www.astropix.org/link/38d0?format=json
