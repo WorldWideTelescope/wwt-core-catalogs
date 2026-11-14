@@ -1,0 +1,272 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Folder Browseable="True" Group="Explorer" Name="Euclid" Searchable="True">
+  <Place Angle="0" AngularSize="0" Constellation="ORI" DataSetType="Sky" Dec="-8.390119821409646" Magnitude="0" Name="Euclid’s view of dark cloud LDN 1641" Opacity="100" RA="5.716764127014077" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251105a/thumb.jpg" ZoomLevel="8.90871264">
+    <Description>This shimmering view of interstellar gas and dust was captured by the European Space Agency’s Euclid space telescope. The nebula is part of a so-called dark cloud, named LDN 1641. It sits at about 1300 light-years from Earth, within a sprawling complex of dusty gas clouds where stars are being formed, in the constellation of Orion.
+
+In visible light this region of the sky appears mostly dark, with few stars dotting what seems to be a primarily empty background. But, by imaging the cloud with the infrared eyes of its NISP instrument, Euclid reveals a multitude of stars shining through a tapestry of dust and gas.
+
+This is because dust grains block visible light from stars behind them very efficiently but are much less effective at dimming near-infrared light.
+
+The nebula is teeming with very young stars. Some of the objects embedded in the dusty surroundings spew out material – a sign of stars being formed. The outflows appear as magenta-coloured spots and coils when zooming into the image.
+
+In the upper left, obstruction by dust diminishes and the view opens toward the more distant Universe with many galaxies lurking beyond the stars of our own galaxy.
+
+Euclid observed this region of the sky in September 2023 to fine-tune its pointing ability. For the guiding tests, the operations team required a field of view where only a few stars would be detectable in visible light; this portion of LDN 1641 proved to be the most suitable area of the sky accessible to Euclid at the time.
+
+The tests were successful and helped ensure that Euclid could point reliably and very precisely in the desired direction. This ability is key to delivering extremely sharp astronomical images of large patches of sky, at a fast pace. The data for this image, which is about 0.64 square degrees in size  or more than three times the area of the full Moon on the sky  were collected in just under five hours of observations.
+Euclid is surveying the sky to create the most extensive 3D map of the extragalactic Universe ever made. Its main objective is to enable scientists to pin down the mysterious nature of dark matter and dark energy.
+
+Yet the mission will also deliver a trove of observations of interesting regions in our galaxy, like this one, as well as countless detailed images of other galaxies, offering new avenues of investigation in many different fields of astronomy.
+
+Technical details: The color image was created from NISP observations in the Y-, J- and H-bands, rendered blue, green and red, respectively.
+The size of the image is 11,232 x 12,576 pixels. The jagged boundary is due to the gaps in the array of NISP’s sixteen detectors, and the way the observations were taken with small spatial offsets and rotations to create the whole image. This is a common effect in astronomical wide-field images.
+
+Image processing by M. Schirmer (MPIA, Heidelberg)</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.1378688" BaseTileLevel="0" BottomsUp="False" CenterX="85.75149959527484" CenterY="-8.39015178" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of dark cloud LDN 1641" OffsetX="3.4725e-05" OffsetY="3.4725e-05" Projection="Tan" QuadTreeMap="" Rotation="-4.4" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251105a/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20251105a" Xcorepipe_ids="euclid|ensci_euclid20251105a">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20251105a-euclid-peers-through-a-dark-cloud-s-dusty-veil</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251105a/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="HOR" DataSetType="Sky" Dec="-48.429534378777774" Magnitude="0" Name="Euclid Deep Field South – Preview" Opacity="100" RA="4.0821513664953395" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319f/thumb.jpg" ZoomLevel="82.20548219999998">
+    <Description>This is Euclid’s Deep Field South. After only one observation, the space telescope already spotted more than 11 million galaxies in this field. In the coming years, Euclid will make more observations of this field to reach its full depth.
+
+When looking at the image, a glimpse of the large-scale structure of the Universe can be seen. This is the organisation of galaxies along the so-called ‘cosmic web’. This web consists of huge clusters of galaxies connected to one another by strands of gas and invisible dark matter.
+
+Euclid’s Deep Field South covers 28.1 square degrees in the southern constellation of Horologium, the pendulum clock. This field has not been covered to date by any deep sky survey and so has a huge potential for new, exciting discoveries.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="10.924609142783998" BaseTileLevel="0" BottomsUp="False" CenterX="61.23197294918049" CenterY="-48.42966333333333" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid Deep Field South – Preview" OffsetX="0.00016669630649999997" OffsetY="0.00016669630649999997" Projection="Tan" QuadTreeMap="" Rotation="101.85849999999998" Sparse="True" StockSet="False" TileLevels="7" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319f/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20250319f" Xcorepipe_ids="euclid|ensci_euclid20250319f">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20250319f-euclid-deep-field-south-preview</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319f/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="DRA" DataSetType="Sky" Dec="65.99985852820062" Magnitude="0" Name="Euclid Deep Field North – Preview" Opacity="100" RA="17.953348345445658" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/thumb.jpg" ZoomLevel="65.7992210598179">
+    <Description>This is Euclid’s Deep Field North. After only one observation, the space telescope has already spotted more than ten million galaxies in this field. It is also very rich in Milky Way stars, as it is close to the Galactic plane. In the coming years, Euclid will make 32 observations of this field to reach its full depth.
+
+Below the center-left of the image lies the Cat’s Eye Nebula, around 3000 light-years away. Also known as NGC 6543, this nebula is a visual ‘fossil record’ of the dynamics and late evolution of a dying star. This dying star is shedding its outer colorful shells.
+A bit higher to the right of the center of the image, a large group of galaxies can be spotted, dominated by the large galaxy NGC 6505. This galaxy hosts the first Einstein Ring that Euclid discovered, and is located 590 million light-years away.
+
+The faint blue structures in the image are dim clouds in between the stars in our own galaxy. They are a mix of gas and dust, also called ‘galactic cirrus’ because they look like cirrus clouds. Euclid is able to see these clouds with its very sensitive visible light camera because they reflect optical light from the Milky Way.
+
+Euclid’s Deep Field North has an area of 22.9 square degrees and is located very close to the north ecliptic pole, in the constellation Draco, the dragon. The proximity to the ecliptic pole ensures maximum coverage throughout the year; the exact position was chosen to obtain maximum overlap with one of the deep fields surveyed by NASA's infrared workhorse, the Spitzer Space Telescope.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="10.920739187055831" BaseTileLevel="0" BottomsUp="False" CenterX="269.30063211325484" CenterY="66.00002596654316" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid Deep Field North – Preview" OffsetX="0.0003332745113237253" Projection="Tan" QuadTreeMap="" Rotation="-90.3412549517796" Sparse="True" StockSet="False" TileLevels="7" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20250319g" Xcorepipe_ids="euclid|ensci_euclid20250319g">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20250319g-euclid-deep-field-north-preview</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="FOR" DataSetType="Sky" Dec="-28.07979279499716" Magnitude="0" Name="Euclid Deep Field Fornax – Preview" Opacity="100" RA="3.5289573362018074" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319k/thumb.jpg" ZoomLevel="49.60580133544043">
+    <Description>This is Euclid’s Deep Field Fornax. After only one observation, the space telescope already spotted 4.5 million galaxies in this field. In the coming years, Euclid will make 52 observations of this field to reach its full depth.
+
+Euclid’s Deep Field Fornax spans 12.1 square degrees and is located in the southern constellation Fornax, the furnace. It encompasses the much smaller Chandra Deep Field South, a 0.11 square degree region of the sky that has been extensively surveyed in the past couple of decades with NASA's Chandra and ESA's XMM-Newton X-ray observatories, as well as the NASA/ESA Hubble Space Telescope and major ground-based telescopes.
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="5.461517892572757" BaseTileLevel="0" BottomsUp="False" CenterX="52.934199566955584" CenterY="-28.079981372292952" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid Deep Field Fornax – Preview" OffsetX="0.0003333445979353489" Projection="Tan" QuadTreeMap="" Rotation="81.8813" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319k/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20250319k" Xcorepipe_ids="euclid|ensci_euclid20250319k">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20250319k-euclid-deep-field-fornax-preview</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319k/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="DRA" DataSetType="Sky" Dec="66.6326638694858" Magnitude="0" Name="Euclid’s view of the Cat’s Eye Nebula" Opacity="100" RA="17.976335571686377" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/thumb.jpg" ZoomLevel="4.309676707363904">
+    <Description>This is a zoom-in of Euclid’s Deep Field North, showing the Cat’s Eye Nebula in the center of the image, around 3000 light-years away. Also known as NGC 6543, this nebula is a visual ‘fossil record’ of the dynamics and late evolution of a dying star. This dying star is shedding its outer colorful shells.
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="0.4547112349273735" BaseTileLevel="0" BottomsUp="False" CenterX="269.6419715519923" CenterY="66.63266887386122" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of the Cat’s Eye Nebula" OffsetX="1.3876685636211349e-05" OffsetY="-0.001214371349978221" Projection="Tan" QuadTreeMap="" Rotation="-90.42000000000021" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20250319l" Xcorepipe_ids="euclid|ensci_euclid20250319l">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20250319l-euclid-s-view-of-the-cat-s-eye-nebula</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="DRA" DataSetType="Sky" Dec="65.53068962338794" Magnitude="0" Name="Euclid image of a bright Einstein ring around galaxy NGC 6505" Opacity="100" RA="17.852104226682872" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/thumb.jpg" ZoomLevel="0.6957064224">
+    <Description>The ring of light surrounding the centre of the galaxy NGC 6505, captured by ESA’s Euclid telescope, is a stunning example of an Einstein ring. NGC 6505 is acting as a gravitational lens, bending light from a galaxy far behind it. The almost perfect alignment of NGC 6505 and the background galaxy has bent and magnified the light from the background galaxy into a spectacular ring. This rare phenomenon was first theorised to exist by Einstein in his general theory of relativity.
+
+This wide field shows the extended stellar halo of NGC 6505 and showcases the Einstein ring, surrounded by colourful foreground stars and background galaxies.
+
+Image processing by J.-C. Cuillandre, G. Anselmi, T. Li</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="0.115253248" BaseTileLevel="0" BottomsUp="False" CenterX="267.7815803833223" CenterY="65.5306825888889" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid image of a bright Einstein ring around galaxy NGC 6505" OffsetX="7.0345e-06" OffsetY="7.0345e-06" Projection="Tan" QuadTreeMap="" Rotation="0" Sparse="True" StockSet="False" TileLevels="5" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20251002a" Xcorepipe_ids="euclid|ensci_euclid20251002a">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20251002a-euclid-image-of-a-bright-einstein-ring-around-galaxy-ngc-6505</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-39.79232163887707" Magnitude="0" Name="Mosaic of Euclid observations in the Southern Sky" Opacity="100" RA="6.148648164355929" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/thumb.jpg" ZoomLevel="102.85625872585655">
+    <Description>This mosaic made by ESA’s Euclid space telescopes contains 260 observations collected between 25 March and 8 April 2024. This is 1% of the wide survey that Euclid will capture during six years. In just two weeks, Euclid covered 132 square degrees of the Southern Sky, more than 500 times the area of the full Moon as seen from Earth. The full mosaic is 208 gigapixels. Until the first official data release from the mission, the highest resolution for download is 11Kx4K.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+The empty regions within the mosaic were intentionally avoided during the survey due to the presence of very bright stars, which would ‘blind’ Euclid’s sensitive instrumentation.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="45.893162934761264" BaseTileLevel="0" BottomsUp="False" CenterX="92.22719299284223" CenterY="-39.79577345155554" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Mosaic of Euclid observations in the Southern Sky" OffsetX="0.0028010963705298623" OffsetY="0.0028010963705298623" Projection="Tan" QuadTreeMap="" Rotation="74.38220739347688" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015a" Xcorepipe_ids="euclid|ensci_euclid20241015a">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015a-mosaic-of-euclid-observations-in-the-southern-sky</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-35.21424715257454" Magnitude="0" Name="Euclid’s extragalactic view in Southern Sky patch" Opacity="100" RA="6.214612741372387" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/thumb.jpg" ZoomLevel="29.323020374569275">
+    <Description>This image displays an area of the mosaic released by ESA’s Euclid space telescope on 15 October 2024. The area is zoomed in three times compared to the large mosaic. This patch of the Southern Sky shows numerous stars in our own Milky Way, and many galaxies beyond. Thanks to its visible and infrared cameras, Euclid captures the stars in their various colours: red stars are colder, and white/blue stars are hotter. On the right of the image, galaxy cluster Abell 3381 is visible as a string of galaxies.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="5.451483816913387" BaseTileLevel="0" BottomsUp="False" CenterX="93.21867008198325" CenterY="-35.21508648256664" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s extragalactic view in Southern Sky patch" OffsetX="0.00066546433311931" OffsetY="0.00066546433311931" Projection="Tan" QuadTreeMap="" Rotation="71.89320704873786" Sparse="True" StockSet="False" TileLevels="4" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015b" Xcorepipe_ids="euclid|ensci_euclid20241015b">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015b-euclid-s-extragalactic-view-in-southern-sky-patch</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-33.82678737836347" Magnitude="0" Name="Euclid sees spiral galaxy NGC 2188 and galaxy cluster Abell 3381" Opacity="100" RA="6.167065024984624" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/thumb.jpg" ZoomLevel="7.341933911248356">
+    <Description>This image shows an area of the mosaic released by ESA’s Euclid space telescope on 15 October 2024. The area is zoomed in twelve times compared to the large mosaic. In the middle left, spiral galaxy NGC 2188 is visible edge-on at a distance of 25 million light-years. In the top right corner, galaxy cluster Abell 3381 is now clearly noticeable, 678 million light-years away from us.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.36494922387769" BaseTileLevel="0" BottomsUp="False" CenterX="92.50584792770695" CenterY="-33.82699788884506" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid sees spiral galaxy NGC 2188 and galaxy cluster Abell 3381" OffsetX="0.00016661977830538207" OffsetY="0.00016661977830538207" Projection="Tan" QuadTreeMap="" Rotation="71.70000000000012" Sparse="True" StockSet="False" TileLevels="4" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015c" Xcorepipe_ids="euclid|ensci_euclid20241015c">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015c-euclid-sees-spiral-galaxy-ngc-2188-and-galaxy-cluster-abell-3381</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-33.51996369453204" Magnitude="0" Name="Euclid captures core of Abell 3381 galaxy cluster" Opacity="100" RA="6.1680867670360415" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/thumb.jpg" ZoomLevel="2.448814890633436">
+    <Description>This image shows an area of the mosaic released by ESA’s Euclid space telescope on 15 October 2024. The area is zoomed in 36 times compared to the large mosaic. In this image, the core of galaxy cluster Abell 3381 is visible, 678 million light-years away from us. The image shows many different galaxies of various shapes and sizes, from massive elliptical to modest spiral galaxies, down to tiny and dim dwarf galaxies.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="0.455262608570922" BaseTileLevel="0" BottomsUp="False" CenterX="92.52125941308681" CenterY="-33.5200340183834" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid captures core of Abell 3381 galaxy cluster" OffsetX="5.5574048897817626e-05" OffsetY="5.5574048897817626e-05" Projection="Tan" QuadTreeMap="" Rotation="71.51999999999987" Sparse="True" StockSet="False" TileLevels="4" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015d" Xcorepipe_ids="euclid|ensci_euclid20241015d">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015d-euclid-captures-core-of-abell-3381-galaxy-cluster</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-33.63735781884573" Magnitude="0" Name="Euclid spots interacting galaxies" Opacity="100" RA="6.16518595573597" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/thumb.jpg" ZoomLevel="0.6120241619570638">
+    <Description>This image shows an area of the mosaic released by ESA’s Euclid space telescope on 15 October 2024. The area is zoomed in 150 times compared to the large mosaic. On the left of the image, Euclid captured two galaxies (called ESO 364-G035 and G036) that are interacting with each other, 420 million light-years from us. On the right of the image, galaxy cluster Abell 3381 is visible, 678 million light-years away from us.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="0.11378226976108086" BaseTileLevel="0" BottomsUp="False" CenterX="92.47777879431213" CenterY="-33.6373753915881" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid spots interacting galaxies" OffsetX="1.388943722669444e-05" OffsetY="1.388943722669444e-05" Projection="Tan" QuadTreeMap="" Rotation="71.54" Sparse="True" StockSet="False" TileLevels="4" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015e" Xcorepipe_ids="euclid|ensci_euclid20241015e">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015e-euclid-spots-interacting-galaxies</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="COL" DataSetType="Sky" Dec="-33.6370843376252" Magnitude="0" Name="Euclid beholds a distant swirling spiral galaxy" Opacity="100" RA="6.1667315377184755" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/thumb.jpg" ZoomLevel="0.14828817998943306">
+    <Description>This image shows an area of the mosaic released by ESA’s Euclid space telescope on 15 October 2024. The area is zoomed in 600 times compared to the large mosaic. In this image, a single spiral galaxy (called ESO 364-G036) is visible in great detail, 420 million light-years from us. This image shows 0.0003% of the initial image of 208 gigapixels, that is 1/330 000 of the area of the main Euclid mosaic.
+
+Technical details: This colour image was obtained by combining VIS data and NISP photometry in Y and H bands. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction.
+
+Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="0.027568463382203964" BaseTileLevel="0" BottomsUp="False" CenterX="92.50096790038474" CenterY="-33.637092829186855" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid beholds a distant swirling spiral galaxy" OffsetX="6.73058188042089e-06" OffsetY="6.73058188042089e-06" Projection="Tan" QuadTreeMap="" Rotation="71.85999999999996" Sparse="True" StockSet="False" TileLevels="3" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20241015f" Xcorepipe_ids="euclid|ensci_euclid20241015f">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, CEA Paris-Saclay</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20241015f-euclid-beholds-a-distant-swirling-spiral-galaxy</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="PHE" DataSetType="Sky" Dec="-49.2692297544797" Magnitude="0" Name="Euclid’s view of galaxy cluster Abell 2764" Opacity="100" RA="0.3786530624379347" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/thumb.jpg" ZoomLevel="6.969202632">
+    <Description>This new view shows the galaxy cluster Abell 2764 (top right), a very dense region of space containing hundreds of galaxies orbiting within a halo of dark matter. This image is released as part of the Early Release Observations from ESA’s Euclid space mission.
+
+Euclid captures a range of objects in this patch of sky, including many background galaxies, more distant galaxy clusters, interacting galaxies that have thrown off streams and shells of stars, and a pretty edge-on spiral that allows us to see the ‘thinness’ of its disk.
+
+This complete view of Abell 2764 and surroundings – obtained thanks to Euclid’s impressively wide field-of-view – allows scientists to ascertain the radius of the cluster and study its outskirts with faraway galaxies still in frame. Euclid's observations of Abell 2764, as with Abell 2390 (another target depicted in the images released today from the space telescope), are also allowing scientists to witness some of the most distant galaxies that lived in a mysterious period known as the cosmic dark ages. Euclid enables us to see these galaxies back when the Universe was only 700 million years old, just 5% of its current age. Viewing their light is a specialty of Euclid, and allows us to witness how the first galaxies formed.
+
+Also seen here is a bright foreground star that lies within our own galaxy (lower left: V*BP-Phoenicis/HD 1973, a star within our galaxy and in the southern hemisphere that’s nearly bright enough to be seen by the human eye). When we look at a star through a telescope, its light is scattered outwards into the typical spiked shape due to the telescope’s optics. Euclid was designed to make this scatter as small as possible. As a result, we can measure the star very accurately, and capture galaxies that lie nearby without being blinded by the star’s brightness.
+
+Abell 2764 lies around 1 billion light-years away in the direction of the Phoenix constellation.
+
+Technical details: The data in this image were taken in about three hours of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals.</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.3651771392" BaseTileLevel="0" BottomsUp="False" CenterX="5.679886084648264" CenterY="-49.26923311111111" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of galaxy cluster Abell 2764" OffsetX="4.16619e-05" OffsetY="4.16619e-05" Projection="Tan" QuadTreeMap="" Rotation="-41.7341" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20240523a" Xcorepipe_ids="euclid|ensci_euclid20240523a">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20240523a-abell-2764</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="DOR" DataSetType="Sky" Dec="-55.78061943568938" Magnitude="0" Name="Euclid’s view of the Dorado group of galaxies" Opacity="100" RA="4.267581215076213" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523b/thumb.jpg" ZoomLevel="6.969202632">
+    <Description>The Dorado Group of galaxies is one of the richest galaxy groups in the southern hemisphere. Here, Euclid captures signs of galaxies evolving and merging ‘in action’, with beautiful tidal tails and shells visible as a result of ongoing interactions. As Dorado is a lot younger than other clusters (like Fornax), several of its constituent galaxies are still forming stars and remain in the stage of interacting with one another, while others show signs of having merged relatively recently. In size, it sits between larger galaxy clusters and smaller galaxy groups, making it a useful and fascinating object to study with Euclid. This image is released as part of the Early Release Observations from ESA’s Euclid space mission.
+
+This dataset is enabling scientists to study how galaxies evolve and collide over time in order to improve our models of cosmic history and understand how galaxies form within halos of dark matter, with this new image being a true testament to Euclid’s immense versatility. A wide array of galaxies is visible here, from very bright to very faint. Thanks to Euclid’s unique combination of large field-of-view and high spatial resolution, for the first time we can use the same instrument and observations to deeply study tiny (small objects the size of star clusters), wider (the central parts of a galaxy) and extended (tidal merger tails) features over a large part of the sky.
+
+Scientists are also using Euclid observations of the Dorado Group to answer questions that previously could only be explored using painstakingly small snippets of data. This includes compiling a full list of the individual clusters of stars (globular clusters) around the galaxies seen here. Once we know where these clusters are, we can use them to trace how the galaxies formed and study their history and contents. Scientists will also use these data to hunt for new dwarf galaxies around the Group, as it did previously with the Perseus cluster.
+
+The Dorado Group lies 62 million light-years away in the constellation of Dorado.
+
+Technical details: The data in this image were taken in just about one hour of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue color channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive color palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue color. These are normal artifacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals.</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.3651771392" BaseTileLevel="0" BottomsUp="False" CenterX="64.01365054680771" CenterY="-55.78066441111111" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of the Dorado group of galaxies" OffsetX="4.16619e-05" OffsetY="4.16619e-05" Projection="Tan" QuadTreeMap="" Rotation="85.24" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523b/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20240523b" Xcorepipe_ids="euclid|ensci_euclid20240523b">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20240523b-dorado-group-of-galaxies</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523b/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="PEG" DataSetType="Sky" Dec="17.68721523440807" Magnitude="0" Name="Euclid’s view of galaxy cluster Abell 2390" Opacity="100" RA="21.893922499431888" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523d/thumb.jpg" ZoomLevel="6.969202632">
+    <Description>More than 50,000 galaxies are visible in this image of Abell 2390, a galaxy cluster 2.7 billion light-years away from Earth. Near the center of the image, some of the galaxies appear smudged and curved, an effect called strong gravitational lensing that can be used to detect dark matter.
+
+This image is released as part of the Early Release Observations from ESA’s Euclid space mission. All data from these initial observations are made public on 23 May 2024 – including a handful of unprecedented new views of the nearby Universe, this being one.
+
+This new view shows the galaxy cluster Abell 2764 (top right), a very dense region of space containing hundreds of galaxies orbiting within a halo of dark matter.
+
+Euclid captures a range of objects in this patch of sky, including many background galaxies, more distant galaxy clusters, interacting galaxies that have thrown off streams and shells of stars, and a pretty edge-on spiral that allows us to see the ‘thinness’ of its disk.
+
+This complete view of Abell 2764 and surroundings – obtained thanks to Euclid’s impressively wide field-of-view – allows scientists to ascertain the radius of the cluster and study its outskirts with faraway galaxies still in frame. Euclid's observations of Abell 2764, as with Abell 2390 (another target depicted in the images released today from the space telescope), are also allowing scientists to witness some of the most distant galaxies that lived in a mysterious period known as the cosmic dark ages. Euclid enables us to see these galaxies back when the Universe was only 700 million years old, just 5% of its current age. Viewing their light is a specialty of Euclid, and allows us to witness how the first galaxies formed.
+
+Also seen here is a bright foreground star that lies within our own galaxy (lower left: V*BP-Phoenicis/HD 1973, a star within our galaxy and in the southern hemisphere that’s nearly bright enough to be seen by the human eye). When we look at a star through a telescope, its light is scattered outwards into the typical spiked shape due to the telescope’s optics. Euclid was designed to make this scatter as small as possible. As a result, we can measure the star very accurately, and capture galaxies that lie nearby without being blinded by the star’s brightness.
+
+Technical details: The data in this image were taken in about three hours of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals.</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.3651771392" BaseTileLevel="0" BottomsUp="False" CenterX="328.4088961222786" CenterY="17.687196494444446" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of galaxy cluster Abell 2390" OffsetX="4.16619e-05" OffsetY="4.16619e-05" Projection="Tan" QuadTreeMap="" Rotation="-26.45409999999995" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523d/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20240523d" Xcorepipe_ids="euclid|ensci_euclid20240523d">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20240523d-50-000-galaxies-in-abell-2390</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523d/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+  <Place Angle="0" AngularSize="0" Constellation="PAV" DataSetType="Sky" Dec="-63.85793046471393" Magnitude="0" Name="Euclid’s view of spiral galaxy NGC 6744" Opacity="100" RA="19.162686900170673" Rotation="0" Thumbnail="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/thumb.jpg" ZoomLevel="6.969202632">
+    <Description>Here, Euclid captures NGC 6744, one of the largest spiral galaxies beyond our local patch of space. It’s a typical example of the type of galaxy currently forming most of the stars in the nearby Universe, making it a wonderful archetype to study with Euclid. This image is released as part of the Early Release Observations from ESA’s Euclid space mission.
+
+Euclid’s large field-of-view covers the entire galaxy, revealing not only spiral structure on larger scales but also capturing exquisite detail on small spatial scales, and at a combination of wavelengths. This detail includes feather-like lanes of dust emerging as ‘spurs’ from the spiral arms, which Euclid is able to image with incredible clarity. Euclid’s observations will allow scientists to not only count individual stars within NGC 6744 but also trace the wider distribution of stars and dust in the galaxy, as well as mapping the dust associated with the gas that fuels new star formation. Forming stars is the main way by which galaxies grow and evolve, so these investigations are central to understanding galaxy evolution – and why our Universe looks the way it does today.
+
+Euclid scientists are using this dataset to understand how dust and gas are linked to star formation; map how different stellar populations are distributed throughout galaxies and where stars are currently forming; and unravel the physics behind the structure of spiral galaxies, something that’s still not fully understood after decades of study. Spiral structure is important in galaxies, as spiral arms move and compress gas to foster star formation (most of which occurs along these arms). However, the exact role of spirals in coordinating ongoing star formation remains unclear. As the aforementioned ‘spurs’ along NGC 6744’s arms are only able to form in a strong enough spiral, these features therefore provide important clues as to why galaxies look and behave as they do.
+
+The dataset will also allow scientists to identify clusters of old stars (globular clusters) and hunt for new dwarf galaxies around NGC 6744. In fact, Euclid has already found a new dwarf ‘satellite galaxy’ of NGC 6744 – a surprise given that this galaxy has been intensively studied in the past.
+
+NGC 6744 lies 30 million light-years away in the constellation of Pavo.
+
+Technical details: The data in this image were taken in just about one hour of observation. This colour image was obtained by combining VIS data and NISP photometry in Y and H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical sources in four different wavelength ranges. Aesthetics choices led to the selection of three out of these four bands to be cast onto the traditional Red-Green-Blue colour channels used to represent images on our digital screens (RGB). The blue, green, red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette: hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel, and regions rich in dust and molecular gas have a clear red hue. Distant redshifted background galaxies appear very red. In the image, the stars have six prominent spikes due to how light interacts with the optical system of the telescope in the process of diffraction. Another signature of Euclid special optics is the presence of a few, very faint and small round regions of a fuzzy blue colour. These are normal artifacts of complex optical systems, so-called ‘optical ghost’; easily identifiable during data analysis, they do not cause any problem for the science goals.</Description>
+    <ForegroundImageSet>
+      <ImageSet BandPass="Multi" BaseDegreesPerTile="1.3651771392" BaseTileLevel="0" BottomsUp="False" CenterX="287.44041988711416" CenterY="-63.857959477777776" DataSetType="Sky" ElevationModel="False" FileType=".png" Generic="False" Name="Euclid’s view of spiral galaxy NGC 6744" OffsetX="4.16619e-05" OffsetY="4.16619e-05" Projection="Tan" QuadTreeMap="" Rotation="-15.5" Sparse="True" StockSet="False" TileLevels="6" Url="https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/L{1}X{2}Y{3}.png" WidthFactor="2" Xbands="Visible,IR" Xdominant_band="IR" Xastropix_ids="ensci|euclid20240523e" Xcorepipe_ids="euclid|ensci_euclid20240523e">
+        <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
+        <CreditsUrl>https://euclid.caltech.edu/image/euclid20240523e-galaxy-ngc-6744</CreditsUrl>
+        <ThumbnailUrl>https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/thumb.jpg</ThumbnailUrl>
+      </ImageSet>
+    </ForegroundImageSet>
+  </Place>
+</Folder>
