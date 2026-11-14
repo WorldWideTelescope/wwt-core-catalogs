@@ -64,7 +64,11 @@ no `&amp;amp;`. Nothing else in the DB changed.
 
 ### Upload (user)
 `feeds/euclid/processed/ensci_<id>/` -> `data1.wwtassets.org/feeds/euclid/ensci_<id>/` for the 16 ids in
-`euclid.wtml` (NOT ensci_euclid20240523c), 3.7 GB in total. Then `check_blobs.py feeds/euclid/euclid.wtml`.
+`euclid.wtml` (NOT ensci_euclid20240523c), 3.7 GB in total, plus `feeds/euclid/processed/thumb.jpg` ->
+`data1.wwtassets.org/feeds/euclid/thumb.jpg` (folder + Explore-root thumbnail). Then
+`check_blobs.py feeds/euclid/euclid.wtml`.
+Publish (user, after ingest + emit): `euclid.wtml`, `exploreroot6.wtml`, `explorerootweb.wtml` ->
+wwtfiles `catalog`; bump DataVersion.
 The working files (cache_done originals, processed tiles) are git-ignored and live in this worktree:
 move `feeds/euclid/` contents to the main checkout before removing the worktree.
 
@@ -72,8 +76,10 @@ move `feeds/euclid/` contents to the main checkout before removing the worktree.
 - Keep the Oct 2024 zoom crops (20241015b–f) and the Cat's Eye. Rubin's "full field of view only" rule
   doesn't apply to Euclid: its full fields are downsampled previews (EDFN 1.2"/px vs Cat's Eye 0.1"/px;
   mosaic 10"/px vs crops down to 0.05"/px), so the crops carry detail nothing else has.
-
-### Open decisions for the user
-- Folder thumbnail is the existing Horsehead thumb.jpg. ESA's spacecraft photos are "ESA Standard
-  Licence" (not CC); AstroPix only has artwork.
-- No Explore-root entry yet (exploreroot6.yml / explorerootweb.yml).
+- Folder thumbnail: a picture of the spacecraft. ESA's photos of the real hardware (M. Pédoussaut,
+  S. Corvaja) are "ESA Standard Licence" only, so it is a 96x45 crop (box 828,530-3473,1770) of ESA's
+  render "Euclid spacecraft" (2023-06; credit "ESA. Acknowledgement: Work performed by ATG under
+  contract for ESA."; CC BY-SA 3.0 IGO, the same licence as the Euclid sky images). Source in
+  `_thumbsrc/`, output `processed/thumb.jpg`.
+- Explore root: "Euclid" added after Rubin in exploreroot6.yml (http thumbnail) and explorerootweb.yml
+  (https), own commit; checked with a dry-run emit.
