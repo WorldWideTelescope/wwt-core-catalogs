@@ -7,6 +7,89 @@
 >
   <ImageSet
     BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.15907350345441282"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="47.4468449769"
+    CenterY="-20.5745345997"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="(UV-B) colour index in NGC 1232"
+    OffsetX="3.8836304554300004e-05"
+    OffsetY="7.767260910860001e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.06000000000000091"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/feeds/eso/eso9920k/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="eso|eso9920k"
+    Xcxstatus="queue:eso"
+  >
+    <Credits>ESO</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso9920k/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/eso9920k/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.0283438003774573"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="172.128284763433"
+    CenterY="58.5628959665402"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A Cosmic Collision Between Two Galaxies, UGC 06471 and UGC 06472"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-57.6808293581645"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000000300{Q}?g=138"
+    WidthFactor="2"
+    Xastropix_ids="stsci|2001-04d"
+    Xcxstatus="in:6564c461f864172823763c25"
+  >
+    <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
+    <CreditsUrl>http://hubblesite.org/contents/news-releases/2001/news-2001-04.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1240340553</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.0281465707345263"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="52.8785664521732"
+    CenterY="-30.2136485922359"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A Tiny, Youthful Spiral Galaxy, ESO 418-008"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-163.8337853851"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wsa0000002130{Q}?g=138"
+    WidthFactor="2"
+    Xastropix_ids="stsci|2001-04c"
+    Xcxstatus="in:6598294c293f0a5746370458"
+  >
+    <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
+    <CreditsUrl>http://hubblesite.org/contents/news-releases/2001/news-2001-04.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1809494568</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -56,6 +139,33 @@
     <Credits>Space Telescope Science Institute. The GALEX, Galaxy Explorer, instrument allows imaging and spectroscopic observations to be made in two ultraviolet bands, Far UV 1350-1780A and Near UV 1770-2730A. This is the GR2/3 release, not the most recent GR4 release. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope.</Credits>
     <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexnear</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.0280601068057937"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="159.692528407319"
+    CenterY="53.5002119517535"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The Central Region of the 'Star-burst' Spiral Galaxy NGC 3310"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-150.104342582149"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://r{S:1}.ortho.tiles.virtualearth.net/tiles/wsa0000010031{Q}?g=138"
+    WidthFactor="2"
+    Xastropix_ids="stsci|2001-04b"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>Photo credits: NASA, Rogier Windhorst (Arizona State University, Tempe, AZ), and the Hubble mid-UV team</Credits>
+    <CreditsUrl>http://hubblesite.org/contents/news-releases/2001/news-2001-04.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=4543651</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     AltUrl="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},euveColor_555_405_83_5"
@@ -164,6 +274,33 @@
   </ImageSet>
   <ImageSet
     BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.0283012900837682"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="290.991454868387"
+    CenterY="-59.9217515437591"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galaxy NGC 6882 in Ultraviolet Light"
+    Projection="Tan"
+    QuadTreeMap="0123"
+    Rotation="-77.0889196509942"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="http://r{S:3}.ortho.tiles.virtualearth.net/tiles/wsa0000003333{Q}?g=138"
+    WidthFactor="2"
+    Xastropix_ids="stsci|2001-37a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>Credits: NASA and The Hubble Heritage Team (STScI/AURA)  Acknowledgment: R. Windhorst (ASU)</Credits>
+    <CreditsUrl>http://hubblesite.org/contents/news-releases/2001/news-2001-37.html</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=341641841</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -213,6 +350,90 @@
     <Credits>Center for Extreme UV Astronomy, University of California at Berkeley. TOAST-formatted data was obtained from NASA's SkyView Virtual Telescope (euve405, Min=0.7, Max=70).</Credits>
     <CreditsUrl>http://archive.stsci.edu/euve/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=euvebw_jbis_map</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.113886347984486"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.768057976"
+    CenterY="-5.27457519128"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Messier 42"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.0199999999999978"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0601hL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+    Xastropix_ids="esahubble|heic0601h"
+    Xcorepipe_ids="hst|heic0601h"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, M. Robberto ( Space T; These dense, dark pillars of dust and gas are resisting erosion from intense ultraviolet light released by the Orion Nebula's bi...</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic0601h/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0601h.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="1.70825833716941"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="149.096940842"
+    CenterY="69.319507349"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Holmberg IX"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="11.66"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-heic0801bL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+    Xastropix_ids="esahubble|heic0801b"
+    Xcorepipe_ids="hst|heic0801b"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, and D. de Mello (Cath; A GALEX ultraviolet image of the interacting galaxies M81 and M82, which lie 12 million light-years away in the constellation Ur...</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic0801b/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-heic0801b.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.136295781497242"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.1024250695"
+    CenterY="-27.8065467535"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="GOODS South Field"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-49.1200000000001"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1835aL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+    Xastropix_ids="esahubble|potw1835a"
+    Xcorepipe_ids="hst|potw1835a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>ESA/Hubble &amp; NASA; Following on from last week’s Picture of the Week, this week we showcase the second part of the Hubble Deep UV (HDUV) Legacy Fie...</Credits>
+    <CreditsUrl>https://esahubble.org/images/potw1835a/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1835a.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Ultraviolet"

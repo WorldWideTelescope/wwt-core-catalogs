@@ -1359,6 +1359,10 @@ def do_emit_searchdata(settings):
             fgi["bl"] = 0
         if img.band_pass != Bandpass.VISIBLE:
             fgi["bp"] = img.band_pass.value
+        # A multi-band image's component bands ("XRay,Visible"), from Xbands.
+        bands = getattr(img.xmeta, "bands", None)
+        if bands:
+            fgi["bs"] = bands
         if img.bottoms_up:
             fgi["bu"] = img.bottoms_up
         if img.tile_levels != 4:

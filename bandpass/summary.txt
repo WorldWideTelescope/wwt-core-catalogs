@@ -1,0 +1,42 @@
+4196 sky imagesets -> bandpass\bandpass_proposal.csv
+
+proposed: {'Visible': 2674, 'IR': 769, 'XRay': 298, 'Multi': 291, 'Radio': 99, 'Microwave': 31, 'Ultraviolet': 19, 'Gamma': 10, 'HydrogenAlpha': 5}
+changes: 1399 | by confidence: {'high': 1379, 'medium': 20}
+
+changes by primary telescope:
+    265  Chandra      -> XRay
+    250  JWST         -> IR
+    249  Spitzer      -> IR
+    113  Chandra      -> Multi
+     96  WISE         -> IR
+     62  ESO          -> IR
+     60  ESO          -> Radio
+     50  Spitzer      -> Multi
+     41  Hubble       -> IR
+     38  Hubble       -> Multi
+     31  ESO          -> Multi
+     21  JWST         -> Multi
+     18  NRAO         -> Radio
+     14  NRAO         -> Multi
+     13  (unknown)    -> IR
+      9  ESO          -> XRay
+      9  Hubble       -> XRay
+      8  NOIRLab      -> Multi
+      7  (unknown)    -> Radio
+      7  Hubble       -> Ultraviolet
+      6  Euclid       -> Multi
+      6  NOIRLab      -> IR
+      6  SOFIA        -> IR
+      6  WISE         -> Multi
+      3  ESO          -> HydrogenAlpha
+      3  NOIRLab      -> Radio
+      3  SOFIA        -> Multi
+      1  (unknown)    -> Multi
+      1  (unknown)    -> HydrogenAlpha
+      1  Chandra      -> IR
+
+multi components: {'Visible+IR': 83, 'XRay+Visible': 61, 'Visible+Radio': 32, 'XRay+IR': 30, 'XRay+Visible+Radio': 18, 'XRay+Radio': 17, 'XRay+Visible+IR': 14, 'IR+Radio': 9, 'Visible+IR+Radio': 6, 'Ultraviolet+Visible+IR': 5, 'XRay+Ultraviolet+Visible+IR': 4, 'XRay+Visible+IR+Radio': 4}
+
+primary telescope: {'Hubble': 1320, 'ESO': 996, 'NOIRLab': 476, 'Chandra': 386, 'Spitzer': 324, 'JWST': 289, '(unknown)': 208, 'WISE': 102, 'NRAO': 32, 'Gemini': 18, 'WMAP': 16, 'SOFIA': 9, 'Planck': 8, 'Euclid': 6, 'Rubin': 6}
+
+telescopes credited (images naming each): {'Hubble': 1471, 'Chandra': 434, 'Spitzer': 360, 'JWST': 297, 'DSS': 252, 'Gemini': 111, 'VLT': 105, 'KPNO': 104, 'WISE': 104, 'ALMA': 84, 'NRAO': 62, 'CTIO': 40, 'MPG/ESO 2.2m': 36, 'VISTA': 32, 'WMAP': 24, 'VLA': 23, 'ROSAT': 14, 'CFHT': 12, '2MASS': 10, 'Subaru': 10, 'GALEX': 10, 'VST': 10, 'XMM-Newton': 9, 'SOFIA': 9, 'Rubin': 9, 'LOFAR': 8, 'SDSS': 8, 'APEX': 8, 'Planck': 8, 'Herschel': 7, 'Euclid': 6, 'IRAS': 6, 'DECam': 6, 'Fermi': 4, 'Keck': 3, 'CGRO': 3, 'GBT': 2, 'Parkes': 1, 'ATCA': 1, 'UKIRT': 1}

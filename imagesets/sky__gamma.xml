@@ -193,6 +193,34 @@ Credit: NASA and FERMI-LAT Team.</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Gamma"
+    BaseDegreesPerTile="0.045121596760064"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="222.711975392"
+    CenterY="5.11547705976"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="MCG+01-38-004"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-25.3"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://wwtfiles.blob.core.windows.net/vamp/Hubble-potw1735aL{1}X{2}Y{3}.png"
+    WidthFactor="1"
+    Xastropix_ids="esahubble|potw1735a"
+    Xcorepipe_ids="hst|potw1735a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>ESA/Hubble &amp; NASA;   Phenomena across the Universe emit radiation spanning the entire electromagnetic spectrum — from high-energy gamma rays, which...</Credits>
+    <CreditsUrl>https://esahubble.org/images/potw1735a/</CreditsUrl>
+    <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-Hubble-potw1735a.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Gamma"
     BaseDegreesPerTile="180"
     BaseTileLevel="0"
     BottomsUp="False"
