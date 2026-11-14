@@ -1138,6 +1138,290 @@ name: NGC 7023
 ra_hr: 21.026666666666667
 zoom_level: 3.908333333333333
 ---
+_uuid: 704c4047-06a7-43ce-b7f2-e1ca21c29905
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: -5.8495855354656605
+description: This Hubble Space Telescope image identified the location of an intermediate-mass
+  black hole (IMBH), weighing over 50 000 times the mass of our Sun (making it much
+  smaller than the supermassive black holes found in the centres of galaxies). The
+  black hole, named 3XMM J215022.4−055108, is indicated by the white circle. This
+  elusive type of black hole was first identified via a telltale burst of X-rays emitted
+  by hot gas from a star as it was captured and destroyed by the black hole. Hubble
+  was needed to pinpoint the black hole’s location in visible light. Hubble’s deep,
+  high-resolution imaging shows that the black hole resides inside a dense cluster
+  of stars that is far beyond our Milky Way galaxy. The star cluster is in the vicinity
+  of the galaxy at the centre of the image. Much smaller images of distant background
+  galaxies appear sprinkled around the image, including a face-on spiral just above
+  the central foreground galaxy. This photo was taken with Hubble’s Advanced Camera
+  for Surveys.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2005c/L{1}X{2}Y{3}.png
+name: Hubble Observation of Intermediate-Mass Black Hole
+ra_hr: 21.839497159942436
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2005c/thumb.jpg
+zoom_level: 0.11286130357455731
+---
+_uuid: dd6e6ddc-d22f-42c9-9adc-2fcc9d86b347
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 42.235883842406075
+description: This image from the NASA/ESA Hubble Space Telescope depicts NGC 7027,
+  or the “Jewel Bug” nebula. The object had been slowly puffing away its mass in quiet,
+  spherically symmetric or perhaps spiral patterns for centuries — until relatively
+  recently when it produced a new cloverleaf pattern. New observations of the object
+  have found unprecedented levels of complexity and rapid changes in the jets and
+  gas bubbles blasting off of the star at the centre of the nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2011c/L{1}X{2}Y{3}.png
+name: NGC 7027
+ra_hr: 21.117165977062104
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2011c/thumb.jpg
+zoom_level: 0.139917146664
+---
+_uuid: 6bee8110-7e32-4a67-b2bc-e4865b440c3c
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 36.693449690846414
+description: 'This newly processed image from the NASA/ESA Hubble Space Telescope
+  is the clearest view yet of the Egg Nebula. It is a preplanetary nebula, a structure
+  of gas and dust created as a Sun-like star approaches the end of its life. The Egg
+  that we see now will eventually hatch, revealing a white dwarf at its centre and
+  leaving its shell to become a spectacular planetary nebula. Many preplanetary nebulae
+  are relatively dim and hard to spot. They are made of layers of gas ejected by the
+  star, but that star is not yet hot enough to ionise the gas and cause it to glow.
+  The Egg Nebula is relatively unique, easily visible as a sparkling jewelled egg
+  in space. Powerful beams of starlight blast out of the inner cloud, two a-side,
+  giving a breathtaking illumination to this cosmic structure. Fast-moving outflows
+  of hot molecular hydrogen also emerge from within the dust cloud, visible just at
+  the base of the searchlight beams. These outflows glow with infrared light, which
+  is shown in this image by orange highlights. The central cloud of dust is surrounded
+  by concentric rings, themselves made up from thin, faint arcs of gas. These were
+  created by successive outbursts from the central star, which ejected a little more
+  material from its outer surface every few hundred years. The beams of starlight
+  are reflected by these layers of gas, creating an appearance like ripples on the
+  surface of water. The way that gas molecules reflect and scatter light gives a bluish
+  colour to the arcs. The reflected starlight reveals important details about the
+  central star, which is impossible to view directly in its dusty shell. [Image description:
+  In the centre an opaque cloud of grey gas hides a star. Two strong beams of light
+  from the star emerge from large holes in both sides of the cloud. The central cloud
+  is surrounded by concentric, wispy shells of gas, illuminated by the star’s light.
+  The shells reflect extra light where they’re hit by the twin beams. A crowd of smaller
+  stars with cross-shaped spikes over them surround the nebula on a black background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2604a/L{1}X{2}Y{3}.png
+name: The Egg Nebula
+ra_hr: 21.038501276611083
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2604a/thumb.jpg
+zoom_level: 0.1744710129107764
+---
+_uuid: 9477d70b-169c-46c9-bd18-94202dbabb9f
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 31.693793039300676
+description: Located around 5000 light-years away in the constellation of Cygnus (The
+  Swan), Abell 78 is an unusual type of planetary nebula. After exhausting the nuclear
+  fuel in their cores, stars with a mass of around 0.8 to 8 times the mass of our
+  Sun collapse to form dense and hot white dwarf stars. As this process occurs, the
+  dying star will throw off its outer layers of material, forming an elaborate cloud
+  of gas and dust known as a planetary nebula. This phenomenon is not uncommon, and
+  planetary nebulae are a popular focus for astrophotographers because of their often
+  beautiful and complex shapes. However, a few like Abell 78 are the result of a so-called
+  “born again” star. Although the core of the star has stopped burning hydrogen and
+  helium, a thermonuclear runaway at its surface ejects material at high speeds. This
+  ejecta shocks and sweeps up the material of the old nebula, producing the filaments
+  and irregular shell around the central star seen in this Picture of the Week, which
+  features data from Hubble’s Wide Field Camera 3 and PANSTARSS.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2111a/L{1}X{2}Y{3}.png
+name: A Flash of Life
+ra_hr: 21.59171921821658
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2111a/thumb.jpg
+zoom_level: 0.6293083715235626
+---
+_uuid: 045a0397-af05-4161-9716-1a939aeb2fc6
+classification: ''
+constellation: IND
+data_set_type: Sky
+dec_deg: -47.21900550777821
+description: 'The spiral arms of the galaxy NGC 7038 wind languidly across this image
+  from the NASA/ESA Hubble Space Telescope. NGC 7038 lies around 220 million light-years
+  from Earth in the southern constellation Indus. This image portrays an especially
+  rich and detailed view of a spiral galaxy, and exposes a huge number of distant
+  stars and galaxies around it. That’s because it’s made from a combined 15 hours
+  worth of Hubble time focused on NGC 7038 and collecting light. So much data indicates
+  that this is a valuable target, and indeed, NGC 7038 has been particularly helpful
+  to astronomers measuring distances at vast cosmic scales. The distances to astronomical
+  objects are determined using an interconnected chain of measurement techniques called
+  the Cosmic Distance Ladder. Each rung in the ladder is calibrated by earlier steps,
+  based on measurements of objects closer to us. This makes the accuracy of distances
+  at the largest scales dependent on how accurately distances to nearby objects can
+  be determined. Hubble inspected NGC 7038 with its Wide Field Camera 3 to calibrate
+  two of the most common distance measurement techniques: type 1A supernovae and Cepheid
+  variables. One of Hubble''s original science goals was to accurately establish distances
+  to night-sky objects, and over its three decades of operation Hubble’s increasingly
+  precise distance measurements have contributed to one of the most intriguing unsolved
+  problems in astronomy. Distance measurements are used to derive a quantity known
+  as the Hubble constant, which captures how fast the Universe is expanding. As astronomer’s
+  measurements of the Hubble constant have become more precise, their value has become
+  increasingly inconsistent with the value of the Hubble Constant derived from observations
+  of the Big Bang’s afterglow. Astronomers have been unable to explain the mismatch
+  between the two values of the Hubble constant, which suggests that a new discovery
+  in cosmology is waiting to be made. [Image description: An enormous spiral galaxy
+  fills half of the frame, in the centre. It is oval-shaped, with four blue spiral
+  arms winding around it. The galaxy’s centre shines brightly with pale yellow light.
+  Thin strands of orange dust are spread around the centre, following the paths of
+  the arms. Above and below the galaxy, very many small stars and galaxies are visible
+  on the black background.] Links Video of Investigating A Made-to-Measure Galaxy'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2245a/L{1}X{2}Y{3}.png
+name: Investigating A Made-to-Measure Galaxy
+ra_hr: 21.252073420016874
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2245a/thumb.jpg
+zoom_level: 0.4365162284431663
+---
+_uuid: 16fc2cd8-fc32-47bb-bc44-8c1cfdaa51f3
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: 2.4744661038836817
+description: 'The jellyfish galaxy JO206 trails across this image from the NASA/ESA
+  Hubble Space Telescope, showcasing a colourful star-forming disc surrounded by a
+  pale, luminous cloud of dust. A handful of bright stars with criss-cross diffraction
+  spikes stand out against an inky black backdrop at the bottom of the image. JO206
+  lies over 700 million light-years from Earth in the constellation Aquarius, and
+  this image of the galaxy is the sixth and final instalment in a series of observations
+  of jellyfish galaxies. Some of Hubble''s other observations of these peculiar galaxies
+  — which range from grandiose to ghostly — are available here. Jellyfish galaxies
+  are so-called because of their resemblance to their aquatic namesakes. In this image,
+  the disc of JO206 is trailed by long tendrils of bright star formation that stretch
+  towards the bottom right of this image, just as jellyfish trail tentacles behind
+  them. The tendrils of jellyfish galaxies are formed by the interaction between galaxies
+  and the intra-cluster medium, a tenuous superheated plasma that pervades galaxy
+  clusters. As galaxies move through galaxy clusters they ram into the intracluster
+  medium, which strips gas from the galaxies and draws it into the long tendrils of
+  star formation. The tentacles of jellyfish galaxies give astronomers a unique opportunity
+  to study star formation under extreme conditions, far from the influence of the
+  main disc of the galaxy. Surprisingly, Hubble revealed that there are no striking
+  differences between star formation in the discs of jellyfish galaxies and star formation
+  in their tentacles, which suggests the environment of newly-formed stars has only
+  a minor influence on their formation. [Image Description: A spiral galaxy that is
+  tilted partially toward us. Its inner disc is bright and colourful, with bluish
+  and reddish spots of star formation throughout the arms. An outer disc of pale,
+  dim dust surrounds it. It has many arms, which are being pulled away from the disc,
+  down and to the right. They stretch into long, faint trails that cross the image.
+  The background is dark and mostly empty, with three bright stars.] Links First science
+  paper in the Astrophysical Journal Second science paper in the Astrophysical Journal
+  Pan: Under the Sea'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2323a/L{1}X{2}Y{3}.png
+name: Under the Sea
+ra_hr: 21.22936666180301
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2323a/thumb.jpg
+zoom_level: 0.24688147233601943
+---
+_uuid: b50fc0a0-abdb-4b5b-af58-cdbf97a5b870
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 24.26598464559427
+description: 'The spiral galaxy UGC 11860 seems to float serenely against a field
+  of background galaxies in this image from the NASA/ESA Hubble Space Telescope. UGC
+  11860 lies around 184 million light-years away in the constellation Pegasus, and
+  its untroubled appearance is deceiving; this galaxy recently played host to an almost
+  unimaginably energetic stellar explosion. A supernova explosion — the catastrophically
+  violent end of a massive star’s life — was detected in UGC 11860 in 2014 by a robotic
+  telescope dedicated to scouring the skies for transient astronomical phenomena —
+  astronomical objects that are only visible for a short period of time. Two different
+  teams of astronomers used Hubble’s Wide Field Camera 3 to search through the aftermath
+  and unpick the lingering remnants of this vast cosmic explosion. One team explored
+  UGC 11860 to understand more about the progenitor star systems that eventually meet
+  their demise in supernovae. The hugely energetic processes during supernova explosions
+  are predominantly responsible for forging the elements between silicon and nickel
+  on the periodic table. This means that understanding the influence of the masses
+  and compositions of the progenitor star systems is vital to explaining how many
+  of the chemical elements here on Earth originated. The other group of astronomers
+  used Hubble to follow up supernovae that were detected by robotic telescopes. These
+  automated eyes on the sky function without human intervention, and capture transient
+  events in the night sky. Robotic telescopes allow astronomers to detect everything
+  from unexpected asteroids to rare, unpredictable supernovae, and can identify intriguing
+  objects that can then be investigated in more detail by powerful telescopes such
+  as Hubble. [Image Description: A spiral galaxy, a fuzzy oval tilted diagonally and
+  partially towards the viewer. The centre glows in warm colours, and has two prominent
+  spiral arms around it, with bright points of star formation. The galaxy appears
+  centrally in a field of small stars and galaxies on a dark background.] Links Pan:
+  Serene Supernova Aftermath'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2327a/L{1}X{2}Y{3}.png
+name: Serene Supernova Aftermath
+ra_hr: 21.966695901786018
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2327a/thumb.jpg
+zoom_level: 0.45862316461858255
+---
+_uuid: dc15790f-41b4-4cc0-9ea1-acd3af28f9da
+classification: ''
+constellation: MIC
+data_set_type: Sky
+dec_deg: -33.236913420026674
+description: 'This image features an interacting galaxy system known as Arp-Madore
+  2105-332, that lies about 200 million light-years from Earth in the constellation
+  Microscopium. Like other recent Hubble Pictures of the Week, this system belongs
+  to the Arp-Madore catalogue of peculiar galaxies. The wonderful quality of this
+  image also reveals several further galaxies, not associated with this system but
+  fortuitously positioned in such a way that they appear to be forming a line that
+  approaches the leftmost (in this image) component of Arp-Madore 2105-332, which
+  is known individually as 2MASX J21080752-3314337. The rightmost galaxy, meanwhile,
+  is known as 2MASX J21080362-3313196. These hefty names do not lend themselves to
+  easy memorisation, but they do actually contain valuable information: they are coordinates
+  in the right ascension and declination system used widely by astronomers to locate
+  astronomical objects. Both the galaxies are of a type known as emission-line galaxies.
+  This simply means that, when observed with spectrometers, the spectra of both galaxies
+  exhibit characteristic bright peaks, known as emission lines. This is distinct from,
+  for example, absorption-line galaxies whose spectra contain distinct gaps, known
+  as absorption lines. Emission lines are produced when gases are very hot, and therefore
+  have sufficient energy that the atoms and molecules are ‘excited’ and emit light.
+  In other words, emission-line galaxies are highly energetic places, marking them
+  out as likely hotbeds of star formation. As with many galaxy types, categorising
+  a galaxy as an emission-line galaxy does not exclude it from having other descriptions
+  that refer to its other properties. Arp-Madore 2105-332, for example, is also a
+  ‘peculiar’ galaxy, reflecting the atypical shapes of its two constituent galaxies.
+  [Image Description: A pair of interacting galaxies, one smaller than the other.
+  Each has a bright spot at the centre and two loosely-wound spiral arms, with threads
+  of dark dust following the arms. They appear as a broad, soft glow in which individual
+  stars can’t be seen. A number of bright stars and smaller, background galaxies can
+  also be seen — three such galaxies lie in a vertical line below the right-hand galaxy
+  of the pair.] Links Pan of Arp-Madore 2105-332'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2350a/L{1}X{2}Y{3}.png
+name: All lined up
+ra_hr: 21.1349094111543
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2350a/thumb.jpg
+zoom_level: 0.4577836816245604
+---
+_uuid: 74796869-31ec-4c45-a580-4f0d39af5310
+classification: ''
+constellation: CEP
+data_set_type: Sky
+dec_deg: 73.25271125651355
+description: 'Resting near the centre of the northerly constellation Cepheus, high
+  in the northern sky, is the barred spiral galaxy UGC 11861, the subject of the latest
+  Hubble Picture of the Week. UGC 11861 is located 69 million light-years away from
+  Earth — which may seem a vast distance, but it’s just right for Hubble to grab this
+  majestic shot of the galaxy’s spiral arms and the short but brightly glowing bar
+  in its centre. Among the cloudy gases and the dark wisps of dust, this galaxy is
+  actively forming new stars, visible in the glowing blue patches in its outer arms.
+  This activity has resulted in three supernova explosions being spotted in and nearby
+  UGC 11861, in 1995, 1997 and 2011. The earlier two were both Type II supernovae,
+  a kind which results from the collapse of a massive star at the end of its life.
+  This Hubble image was made from data collected to study Type II supernovae and their
+  environments. [Image Description: A spiral galaxy with two broad spiral arms wrapping
+  around a large central region, which has a glowing white bar in the very centre.
+  Thin strands of dark dust lie over much of the galaxy. The arms have small and large
+  patches of glowing blue light, emitted by new stars. The galaxy is on a dark background.
+  In the foreground, bright stars with four points are dotted around.] Links Pan of
+  UGC 11861'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2434a/L{1}X{2}Y{3}.png
+name: A super(nova) spiral
+ra_hr: 21.939253382470447
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2434a/thumb.jpg
+zoom_level: 0.4942749885874916
+---
 _uuid: 20669cb3-ece7-48b8-8df1-d492cb890895
 classification: ''
 constellation: CEP

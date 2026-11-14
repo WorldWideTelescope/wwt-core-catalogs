@@ -6725,6 +6725,813 @@ name: Witch Head Nebula
 ra_hr: 5.045833333333333
 zoom_level: 56.39666666666667
 ---
+_uuid: 33de11d7-bc81-40fb-bdac-a5363730f961
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.76630562836563
+description: This image shows a region of space called LHA 120-N150. It is a substructure
+  of the gigantic Tarantula Nebula. The latter is the largest known stellar nursery
+  in the local Universe. The nebula is situated more than 160 000 light-years away
+  in the Large Magellanic Cloud, a neighbouring dwarf irregular galaxy that orbits
+  the Milky Way.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2004a/L{1}X{2}Y{3}.png
+name: A massive laboratory
+ra_hr: 5.561752819108473
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2004a/thumb.jpg
+zoom_level: 0.3952292572467685
+---
+_uuid: 887e0b73-fca1-4ecd-a2aa-8d3104d74274
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: 9.08641728240723
+description: Although it looks more like an entity seen through a microscope than
+  a telescope, this rounded object, named NGC 2022, is certainly no alga or tiny,
+  blobby jellyfish. Instead, it is a vast orb of gas in space, cast off by an ageing
+  star. The star is visible in the orb's centre, shining through the gases it formerly
+  held onto for most of its stellar life. When stars like the Sun grow advanced in
+  age, they expand and glow red. These so-called red giants then begin to lose their
+  outer layers of material into space. More than half of such a star's mass can be
+  shed in this manner, forming a shell of surrounding gas. At the same time, the star's
+  core shrinks and grows hotter, emitting ultraviolet light that causes the expelled
+  gases to glow. This type of object is called, somewhat confusingly, a planetary
+  nebula, though it has nothing to do with planets. The name derives from the rounded,
+  planet-like appearance of these objects in early telescopes. NGC 2022 is located
+  in the constellation of Orion (The Hunter).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1932a/L{1}X{2}Y{3}.png
+name: The Inky Abyss
+ra_hr: 5.701737205394244
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1932a/thumb.jpg
+zoom_level: 0.14688434725223387
+---
+_uuid: 36d15b37-938d-4a41-b656-e291c473c6e4
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -49.56741348494314
+description: This bright, somewhat blob-like object — seen in this Picture of the
+  Week as observed by the NASA/ESA Hubble Space Telescope — is a galaxy named NGC
+  1803. It is about 200 million light-years away, in the southern constellation of
+  Pictor (The Painter’s Easel). NGC 1803 was discovered in 1834 by astronomer John
+  Herschel. Herschel is a big name in astronomy; John, his father William, and his
+  aunt Caroline all made huge contributions to the field, and their legacies remain
+  today. William systematically catalogued many of the objects he viewed in the night
+  sky, named many moons in the Solar System, discovered infrared radiation, and more.
+  Caroline discovered several comets and nebulae. John took this aforementioned catalogue
+  of night-sky objects and reworked and expanded it into his General Catalogue of
+  Nebulae and Clusters of Stars. This was the basis for the cataloguing system still
+  used today by astronomers (Dreyer’s New General Catalogue of Nebulae and Clusters
+  of Stars, or the New General Catalogue for short). This gives rise to the NGC names
+  assigned to a vast number of galaxies — including NGC 1803. This galaxy is one of
+  a galactic pair. It was described by Dreyer as being “faint, small, [and] round”,
+  and located near to a very bright star to the southeast. This star is in fact the
+  nebulous lenticular galaxy PGC 16720 — not visible in this image.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2002a/L{1}X{2}Y{3}.png
+name: Catalogues Galore
+ra_hr: 5.0907725222334985
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2002a/thumb.jpg
+zoom_level: 0.2759662647625013
+---
+_uuid: dab09786-8a37-4e9f-ae44-fdf21d049720
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -50.96638860900205
+description: The spiral galaxy NGC 2008 sits centre stage, its ghostly spiral arms
+  spreading out towards us, in this image captured by the NASA/ESA Hubble Space Telescope.
+  This galaxy is located about 425 million light-years from Earth in the constellation
+  of Pictor (The Painter’s Easel). Discovered in 1834 by astronomer John Herschel,
+  NGC 2008 is categorised as a type Sc galaxy in the Hubble sequence, a system used
+  to describe and classify the various morphologies of galaxies. The “S” indicates
+  that NGC 2008 is a spiral, while the “c” means it has a relatively small central
+  bulge and more open spiral arms. Spiral galaxies with larger central bulges tend
+  to have more tightly wrapped arms, and are classified as Sa galaxies, while those
+  in between are classified as type Sb. Spiral galaxies are ubiquitous across the
+  cosmos, comprising over 70% of all observed galaxies — including our own, the Milky
+  Way. However, their ubiquity does not detract from their beauty. These grand, spiralling
+  collections of billions of stars are among the most wondrous sights that have been
+  captured by telescopes such as Hubble, and are firmly embedded in astronomical iconography.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2006a/L{1}X{2}Y{3}.png
+name: Open Arms
+ra_hr: 5.58441894973028
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2006a/thumb.jpg
+zoom_level: 0.26699806488702743
+---
+_uuid: f1046b19-afce-4c94-b6bc-617ed5e7dd2a
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.11623635266635
+description: 'Many colourful stars are packed close together in this image of the
+  globular cluster NGC 1805, taken by the NASA/ESA Hubble Space Telescope. This tight
+  grouping of thousands of stars is located near the edge of the Large Magellanic
+  Cloud, a satellite galaxy of our own Milky Way. The stars orbit closely to one another,
+  like bees swarming around a hive. In the dense centre of one of these clusters,
+  stars are 100 to 1000 times closer together than the nearest stars are to our Sun,
+  making planetary systems around them unlikely. The striking difference in star colours
+  is illustrated beautifully in this image, which combines two different types of
+  light: blue stars, shining brightest in near-ultraviolet light, and red stars, illuminated
+  in red and near-infrared. Space telescopes like Hubble can observe in the ultraviolet
+  because they are positioned above Earth’s atmosphere, which absorbs most of this
+  wavelength, making it inaccessible to ground-based facilities. This young globular
+  cluster can be seen from the southern hemisphere, in the Dorado constellation, which
+  is Portugese for dolphinfish. Usually, globular clusters contain stars which are
+  born at the same time; however, NGC 1805 is unusual as it appears to host two different
+  populations of stars with ages millions of years apart. Observing such clusters
+  of stars can help astronomers understand how stars evolve, and what factors determine
+  whether they end their lives as white dwarfs, or explode as supernovae.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2036a/L{1}X{2}Y{3}.png
+name: A Pocketful of Stars
+ra_hr: 5.03914535476602
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2036a/thumb.jpg
+zoom_level: 0.4279511132699712
+---
+_uuid: e0dd0dca-9e3c-42fb-938b-8115bcc7e6fb
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -37.9802234493412
+description: An orange glow radiates from the centre of NGC 1792, the heart of this
+  stellar forge. Captured by the NASA/ESA Hubble Space Telescope, this intimate view
+  of NGC 1792 gives us some insight into this galactic powerhouse. The vast swathes
+  of tell-tale blue seen throughout the galaxy indicate areas that are full of young,
+  hot stars, and it is in the shades of orange, seen nearer the centre, that the older,
+  cooler stars reside. Nestled in the constellation of Columba (The Dove), NGC 1792
+  is both a spiral galaxy, and a starburst galaxy. Within starburst galaxies, stars
+  are forming at comparatively exorbitant rates. The rate of star formation can be
+  more than 10 times faster in a starburst galaxy than in the Milky Way. When galaxies
+  have a large resevoir of gas, like NGC 1792, these short lived starburst phases
+  can be sparked by galactic events such as mergers and tidal interactions. One might
+  think that these starburst galaxies would easily consume all of their gas in a large
+  forming event. However, supernova explosions and intense stellar winds produced
+  in these powerful starbursts can inject energy into the gas and disperse it. This
+  halts the star formation before it can completely deplete the galaxy of all its
+  fuel. Scientists are actively working to understand this complex interplay between
+  the dynamics that drive and quench these fierce bursts of star formation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2049a/L{1}X{2}Y{3}.png
+name: The Stellar Forge
+ra_hr: 5.087217976675632
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2049a/thumb.jpg
+zoom_level: 0.4268005725288931
+---
+_uuid: 41ef8a11-bd06-470f-8684-8644d4310c1d
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -63.76216549992581
+description: This unusual lenticular galaxy, known as NGC 1947, has lost almost all
+  the gas and dust from its signature spiral arms, which used to orbit around its
+  centre. Discovered almost 200 years ago by James Dunlop, a Scottish-born astronomer
+  who later studied the sky from Australia, NGC 1947 can only be seen from the southern
+  hemisphere, in the constellation Dorado (The Dolphinfish). Residing around 40 million
+  light-years away from Earth, this galaxy shows off its structure by backlighting
+  its remaining faint gas and dust disc with millions of stars. In this picture, taken
+  with the NASA/ESA Hubble Space Telescope, the faint remnants of the galaxy’s spiral
+  arms can still be made out in the stretched thin threads of dark gas encircling
+  it. Without most of its star-forming material, it is unlikely that many new stars
+  will be born within NGC 1947, leaving this galaxy to continue fading with time.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2051a/L{1}X{2}Y{3}.png
+name: Faint Remnant Threads
+ra_hr: 5.446695260658353
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2051a/thumb.jpg
+zoom_level: 0.3899681947706749
+---
+_uuid: 7d843a03-ba50-4db8-8d74-dd524686c0c0
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.51746557611405
+description: This Picture of the Week shows an open cluster known as NGC 2164, which
+  was first discovered in 1826 by a Scottish astronomer named James Dunlop. NGC 2164
+  is located within one of the Milky Way galaxy's closest neighbours — the satellite
+  galaxy known as the Large Magellanic Cloud. The Large Magellanic cloud is a relatively
+  small galaxy that lies about 160 000 light-years from Earth. It is considered a
+  satellite galaxy because it is gravitationally bound to the Milky Way. In fact,
+  the Large Magellanic cloud is on a very slow collision course with the Milky Way
+  — it’s predicted that they will collide 2.4 billion years from now. The Large Magellanic
+  Cloud only contains about one hundredth as much mass as the Milky Way, but it still
+  contains billions of stars. The open cluster NGC 2164 is in good company in the
+  Large Magellanic Cloud — the satellite galaxy is home to roughly 700 open clusters,
+  alongside about 60 globular clusters. This image of NGC 2164 was taken by the NASA/ESA
+  Hubble Space Telescope’s Wide Field Camera 3 (WFC3), which has previously imaged
+  many other open clusters, including NGC 330 and Messier 11.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2134a/L{1}X{2}Y{3}.png
+name: Cluster in the Cloud
+ra_hr: 5.9829232397891
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2134a/thumb.jpg
+zoom_level: 0.36732854883741217
+---
+_uuid: 416a5248-7649-4265-8ac0-356c32d0b337
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: 2.8107550000624517
+description: This striking image features a relatively rare celestial phenomenon known
+  as a Herbig–Haro object. This particular Herbig–Haro object is named HH111, and
+  was imaged by Hubble’s Wide Field Camera 3 (WFC3). These spectacular objects are
+  formed under very specific circumstances. Newly formed stars are often very active,
+  and in some cases they expel very narrow jets of rapidly moving ionised gas — gas
+  that is so hot that its molecules and atoms have lost their electrons, making the
+  gas highly charged. The streams of ionised gas then collide with the clouds of gas
+  and dust surrounding newly-formed stars at speeds of hundreds of kilometres per
+  second. It is these energetic collisions that create Herbig–Haro objects such as
+  HH111. WFC3 takes images at optical and infrared wavelengths, which means that it
+  observes objects at a wavelength range similar to the range that human eyes are
+  sensitive to (optical) and a range of wavelengths that are slightly too long to
+  be detected by human eyes (infrared). Herbig–Haro objects actually release a lot
+  of light at optical wavelengths, but they are difficult to observe because their
+  surrounding dust and gas absorb much of the visible light. Therefore, the WFC3’s
+  ability to observe at infrared wavelengths — where observations are not as affected
+  by gas and dust— is crucial to observing Herbo–Haro objects successfully.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2135a/L{1}X{2}Y{3}.png
+name: Astronomy in Action
+ra_hr: 5.862866026115167
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2135a/thumb.jpg
+zoom_level: 0.34438293029471756
+---
+_uuid: 1d20150f-ee83-4e1b-bc7d-c9eb2520efcf
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -6.460733169031553
+description: An energetic outburst from an infant star streaks across this image from
+  the NASA/ESA Hubble Space Telescope. This stellar tantrum — produced by an extremely
+  young star in the earliest phase of formation — consists of an incandescent jet
+  of gas travelling at supersonic speeds. As the jet collides with material surrounding
+  the still-forming star, the shock heats this material and causes it to glow. The
+  result is the colourfully wispy structures, which astronomers refer to as Herbig–Haro
+  objects, billowing across the lower left of this image. Herbig–Haro objects are
+  seen to evolve and change significantly over just a few years. This particular object,
+  called HH34, was previously captured by Hubble between 1994 and 2007, and again
+  in glorious detail in 2015. HH34 resides approximately 1250 light-years from Earth
+  in the Orion Nebula, a large region of star formation visible to the unaided eye.
+  The Orion Nebula is one of the closest sites of widespread star formation to Earth,
+  and as such has been pored over by astronomers in search of insights into how stars
+  and planetary systems are born. The data in this image are from a set of Hubble
+  observations of four nearby bright jets with the Wide Field Camera 3 taken to help
+  pave the way for future science with the NASA/ESA/CSA James Webb Space Telescope.
+  Webb — which will observe at predominantly infrared wavelengths — will be able to
+  peer into the dusty envelopes surrounding still-forming protostars, revolutionising
+  the study of jets from these young stars. Hubble’s high-resolution images of HH34
+  and other jets will help astronomers interpret future observations with Webb.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2210a/L{1}X{2}Y{3}.png
+name: Hubble Snaps a Jet Set
+ra_hr: 5.591792680808272
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2210a/thumb.jpg
+zoom_level: 0.3883247932833379
+---
+_uuid: fdb1e802-4003-41e1-86d9-b7df4bd4611d
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -70.64657035120702
+description: This image from the NASA/ESA Hubble Space Telescope shows the tattered
+  remnant of a supernova — a titanic explosion marking the end of the life of a dying
+  star. This object — known as DEM L249 — is thought to have been created by a Type
+  1a supernova during the death throes of a white dwarf. While white dwarfs are usually
+  stable, they can slowly accrue matter if they are part of a binary star system.
+  This accretion of matter continues until the white dwarf reaches a critical mass
+  and undergoes a catastrophic supernova explosion, ejecting a vast amount of material
+  into space in the process. DEM L249 lies in the constellation Mensa and is within
+  the Large Magellanic Cloud (LMC), a small satellite galaxy of the Milky Way only
+  160 000 light-years from Earth. The LMC is an ideal natural laboratory where astronomers
+  can study the births, lives, and deaths of stars, as this region is nearby, oriented
+  towards Earth, and contains relatively little light-absorbing interstellar dust.
+  The data in this image were gathered by Hubble’s Wide Field Camera 3 instrument,
+  and were obtained during a systematic search of the LMC for the surviving companions
+  of white dwarf stars which have gone supernova.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2219a/L{1}X{2}Y{3}.png
+name: Aftermath of a Cosmic Cataclysm
+ra_hr: 5.60210589333361
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2219a/thumb.jpg
+zoom_level: 0.44432073814433615
+---
+_uuid: 7b9ca75a-0cca-4fe8-9871-7d61141596bc
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: 1.3339969702399166
+description: This NASA/ESA Hubble Space Telescope observation has captured the galaxy
+  CGCG 396-2, an unusual multi-armed galaxy merger which lies around 520 million light-years
+  from Earth in the constellation Orion. This observation is a gem from the Galaxy
+  Zoo project, a citizen science project in which hundreds of thousands of volunteers
+  classified galaxies to help scientists solve a problem of astronomical proportions
+  — how to sort through the vast amounts of data generated by robotic telescopes.
+  Following a public vote, a selection of the most astronomically intriguing objects
+  from the Galaxy Zoo were selected for follow-up observations with Hubble. CGCG 396-2
+  is one such object, and was captured in this image by Hubble’s Advanced Camera for
+  Surveys. The Galaxy Zoo project originated when an astronomer was set an impossibly
+  mind-numbing task; classifying more than 900 000 galaxies by eye. By making a web
+  interface and inviting citizen scientists to contribute to the challenge, the Galaxy
+  Zoo team was able to crowdsource the analysis, and within six months a legion of
+  100 000 volunteer citizen astronomers had contributed more than 40 million galaxy
+  classifications. Since its initial success, the Galaxy Zoo project and its successor
+  projects have contributed to more than 100 peer-reviewed scientific articles and
+  led to a rich variety of intriguing astronomical discoveries above and beyond their
+  initial goals. The success of the project also inspired more than 100 citizen science
+  projects on the Zooniverse portal, ranging from analysing data from the ESA Rosetta
+  spacecraft's visit to Comet 67P/Churyumov–Gerasimenko to counting killer whales
+  around remote Alaskan islands! Links Video of Hubble Spies a Galactic Gem
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2227a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Galactic Gem
+ra_hr: 5.626108807339609
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2227a/thumb.jpg
+zoom_level: 0.32719268674751495
+---
+_uuid: bc48f056-d2f8-47d1-8ea6-6a4295271b8c
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.38756294508378
+description: This celestial cloudscape from the NASA/ESA Hubble Space Telescope captures
+  the colourful region surrounding the Herbig-Haro object HH 505. Herbig-Haro objects
+  are luminous regions surrounding newborn stars, and are formed when stellar winds
+  or jets of gas spewing from these newborn stars form shockwaves colliding with nearby
+  gas and dust at high speeds. In the case of HH 505, these outflows originate from
+  the star IX Ori, which lies on the outskirts of the Orion Nebula around 1000 light-years
+  from Earth. The outflows themselves are visible as gracefully curving structures
+  at the top and bottom of this image, and are distorted into sinuous curves by their
+  interaction with the large-scale flow of gas and dust from the core of the Orion
+  Nebula. This observation was captured with Hubble’s Advanced Camera for Surveys
+  (ACS) by astronomers studying the properties of outflows and protoplanetary discs.
+  The Orion Nebula is awash in intense ultraviolet radiation from bright young stars.
+  The shockwaves formed by the outflows are brightly visible to Hubble, but the slower-moving
+  currents of stellar material are also highlighted by this radiation. That allows
+  astronomers to directly observe jets and outflows and learn more about their structures.
+  The Orion Nebula is a dynamic region of dust and gas where thousands of stars are
+  forming, and is the closest region of massive star formation to Earth. As a result,
+  it is one of the most scrutinised areas of the night sky and has often been a target
+  for Hubble. This observation was also part of a spellbinding Hubble mosaic of the
+  Orion Nebula, which combined 520 ACS images in five different colours to create
+  the sharpest view ever taken of the region. Links Video of A Celestial Cloudscape
+  in the Orion Nebula
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2232a/L{1}X{2}Y{3}.png
+name: Celestial Cloudscape in the Orion Nebula
+ra_hr: 5.577881965338219
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2232a/thumb.jpg
+zoom_level: 0.5600003528709896
+---
+_uuid: 7e4bdf31-9043-46d9-a0d3-992c1ece17c9
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 24.246061163798544
+description: A bright young star is surrounded by a shroud of thick gas and dust in
+  this image from the NASA/ESA Hubble Space Telescope. Hubble’s Wide Field Camera
+  3 inspected a young stellar object, over 9000 light years away in the constellation
+  Taurus, to help astronomers understand the earliest stages in the lives of massive
+  stars. This object — which is known to astronomers as IRAS 05506+2414 — is thought
+  to be an example of an explosive event caused by the disruption of a massive young
+  star system. If so, it would only be the second such example known. Usually the
+  swirling discs of material surrounding a young star are funnelled into twin outflows
+  of gas and dust from the star. In the case of IRAS 05506+2414, however, a fan-like
+  spray of material travelling at velocities of up to 350 kilometres per second is
+  spreading outwards from the centre of this image. Astronomers turned to Hubble’s
+  Wide Field Camera 3 to measure the distance to IRAS 05506+2414. While it is possible
+  to measure the velocity of material speeding outwards from the star, astronomers
+  cannot tell how far from Earth the star actually is from a single observation. However,
+  by measuring the distance that the outflow travels between successive images, they
+  will be able to infer the distance to IRAS 05506+2414. This will allow astronomers
+  to determine how bright the star is and how much energy it is emitting, and hence
+  to estimate its mass — all vital information that will help to understand the origin
+  of this bright young star’s unusual outflow. Links Video of An Enigmatic Astronomical
+  Explosion
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2238a/L{1}X{2}Y{3}.png
+name: An Enigmatic Astronomical Explosion
+ra_hr: 5.8954218085953345
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2238a/thumb.jpg
+zoom_level: 0.34896105184352355
+---
+_uuid: f01e112b-1f71-4b85-a25c-3f5e14dce004
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -6.772018700919535
+description: 'The lives of newborn stars are tempestuous, as this image of the Herbig–Haro
+  objects HH 1 and HH 2 from the NASA/ESA Hubble Space Telescope depicts. Both objects
+  are in the constellation Orion and lie around 1250 light-years from Earth. HH 1
+  is the luminous cloud above the bright star in the upper right of this image, and
+  HH 2 is the cloud in the bottom left. While both Herbig–Haro objects are visible,
+  the young star system responsible for their creation is lurking out of sight, swaddled
+  in the thick clouds of dust at the centre of this image. However, an outflow of
+  gas from one of these stars can be seen streaming out from the central dark cloud
+  as a bright jet. Meanwhile, the bright star between that jet and the HH 1 cloud
+  was once thought to be the source of these jets, but it is now known to be an unrelated
+  double star that formed nearby. Herbig–Haro objects are glowing clumps found around
+  some newborn stars, and are created when jets of gas thrown outwards from these
+  young stars collide with surrounding gas and dust at incredibly high speeds. In
+  2002 Hubble observations revealed that parts of HH 1 are moving at more than 400
+  kilometres per second! This scene from a turbulent stellar nursery was captured
+  with Hubble’s Wide Field Camera 3 using 11 different filters at infrared, visible,
+  and ultraviolet wavelengths. Each of these filters is sensitive to just a small
+  slice of the electromagnetic spectrum, and they allow astronomers to pinpoint interesting
+  processes that emit light at specific wavelengths. In the case of HH 1/2, two groups
+  of astronomers requested Hubble observations for two different studies. The first
+  delved into the structure and motion of the Herbig–Haro objects visible in this
+  image, giving astronomers a better understanding of the physical processes occurring
+  when outflows from young stars collide with surrounding gas and dust. The second
+  study instead investigated the outflows themselves to lay the groundwork for future
+  observations with the NASA/ESA/CSA James Webb Space Telescope. Webb, with its ability
+  to peer past the clouds of dust enveloping young stars, will revolutionise the study
+  of outflows from young stars. [Image description: Two wispy, gaseous clouds occupy
+  the corners of this image, HH 1 in the upper right, and HH 2 in the lower left.
+  Both are light blue and surrounded by dimmer multi-coloured clouds, while the background
+  is dark black due to dense gas. A very bright orange star lies just to the lower
+  left of HH 1, and beyond that star is a narrow jet, emerging from the dark centre
+  of the field.] Links Video of Multiwavelength View of a Turbulent Stellar Nursery'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2242a/L{1}X{2}Y{3}.png
+name: Multiwavelength View of a Turbulent Stellar Nursery
+ra_hr: 5.60650198845262
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2242a/thumb.jpg
+zoom_level: 0.33830931990197344
+---
+_uuid: 017ccd91-2858-4dd7-a8cf-631ec3d2fbdf
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -6.71460761742889
+description: This peculiar portrait from the NASA/ESA Hubble Space Telescope showcases
+  NGC 1999, a reflection nebula in the constellation Orion. NGC 1999 is around 1350
+  light-years from Earth and lies near to the Orion Nebula, the closest region of
+  massive star formation to Earth. NGC 1999 itself is a relic of recent star formation
+  — it is composed of detritus left over from the formation of a newborn star. Just
+  like fog curling around a street lamp, reflection nebulae like NGC 1999 only shine
+  because of the light from an embedded source. In the case of NGC 1999, this source
+  is the aforementioned newborn star V380 Orionis which is visible at the centre of
+  this image. The most notable aspect of NGC 1999’s appearance, however, is the conspicuous
+  hole in its centre, which resembles an inky-black keyhole of cosmic proportions.
+  This image was created from archival Wide Field Planetary Camera 2 observations
+  that date from shortly after Servicing Mission 3A in 1999. At the time, astronomers
+  believed that the dark patch in NGC 1999 was something called a Bok globule — a
+  dense, cold cloud of gas, molecules, and cosmic dust that blots out background light.
+  However, follow-up observations using a collection of telescopes including ESA’s
+  Herschel Space Observatory revealed that the dark patch is actually an empty region
+  of space. The origin of this unexplained rift in the heart of NGC 1999 remains unknown.
+  Links Video of Cosmic Keyhole
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2243a/L{1}X{2}Y{3}.png
+name: Cosmic Keyhole
+ra_hr: 5.6068747026890025
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2243a/thumb.jpg
+zoom_level: 0.5048295193558053
+---
+_uuid: 15ccdd1f-dbf7-4b32-ba3a-442a755a498b
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -5.561372853304362
+description: 'The bright variable star V 372 Orionis takes centre stage in this image
+  from the NASA/ESA Hubble Space Telescope, which has also captured a smaller companion
+  star in the upper left of this image. Both stars lie in the Orion Nebula, a colossal
+  region of star formation roughly 1450 light years from Earth. V 372 Orionis is a
+  particular type of variable star known as an Orion Variable. These young stars experience
+  some tempestuous moods and growing pains, which are visible to astronomers as irregular
+  variations in luminosity. Orion Variables are often associated with diffuse nebulae,
+  and V 372 Orionis is no exception; the patchy gas and dust of the Orion Nebula pervade
+  this scene. This image overlays data from two of Hubble’s instruments. Data from
+  the Advanced Camera for Surveys and Wide Field Camera 3 at infrared and visible
+  wavelengths were layered to reveal rich details of this corner of the Orion Nebula.
+  Hubble also left its own subtle signature on this astronomical portrait in the form
+  of the diffraction spikes surrounding the bright stars. These prominent artefacts
+  are created by starlight interacting with Hubble’s inner workings, and as a result
+  they reveal hints of Hubble’s structure. The four spikes surrounding the stars in
+  this image are created by four vanes inside Hubble supporting the telescope’s secondary
+  mirror. The diffraction spikes of the NASA/ESA/CSA James Webb Space Telescope, on
+  the other hand, are six-pointed as a result of Webb’s hexagonal mirror segments
+  and 3-legged support structure for the secondary mirror. [Image description: Two
+  very bright stars with cross-shaped diffraction spikes are prominent: the larger
+  is slightly lower-right of centre, the smaller lies towards the upper-left corner.
+  Small red stars with short diffraction spikes are scattered around them. The background
+  is covered nearly completely by gas: smoky, bright blue gas around the larger star
+  in the centre and lower-right, and wispier red gas elsewhere.] Links Video of Tempestuous
+  Young Stars in Orion'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2304a/L{1}X{2}Y{3}.png
+name: Tempestuous Young Stars in Orion
+ra_hr: 5.580155986469641
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2304a/thumb.jpg
+zoom_level: 0.5640678947130153
+---
+_uuid: fe6e9226-d0a6-4a1f-a1c4-71a9cdc79a5a
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -54.506389423887974
+description: 'A menagerie of interesting astronomical finds fill this image from the
+  NASA/ESA Hubble Space Telescope. As well as several large elliptical galaxies, a
+  ring-shaped galaxy is lurking on the right of this image. A pair of bright stars
+  are also visible at the left of this image, notable for their colourful criss-crossing
+  diffraction spikes. This collection of astronomical curiosities is the galaxy cluster
+  ACO S520 in the constellation Pictor, which was captured by Hubble’s Advanced Camera
+  for Surveys. This is one of a series of Hubble observations searching for massive,
+  luminous galaxy clusters that had not been captured by earlier surveys. Appropriately,
+  the proposal for observing time was named "They almost got away"! Astronomers took
+  advantage of occasional gaps in Hubble''s busy schedule to capture images of these
+  barely-explored galaxy clusters, revealing a wealth of interesting targets for further
+  study with Hubble and the NASA/ESA/CSA James Webb Space Telescope. Galaxy clusters
+  are among the largest known objects in the Universe, and studying these objects
+  can provide insights into the distribution of dark matter, which is responsible
+  for most of the mass of a galaxy cluster. The vast masses of galaxy clusters is
+  what causes many of them to act as gravitational lenses which distort and magnify
+  light from even more distant objects. This can allow astronomers to use galaxy clusters
+  as a kind of natural gravitational telescope to reveal distant objects that would
+  usually be too faint to resolve — even for the crystal-clear vision of Hubble. [Image
+  description: A collection of oval-shaped, elliptical galaxies. The largest has two
+  neighbouring bright spots in the core. It and two others look like galaxy clusters,
+  with surrounding smaller galaxies. On the left edge of the image are two bright
+  stars with four long spikes, and on the right edge is a small ring-shaped galaxy.
+  Smaller stars and galaxies are spread evenly across the dark background.] Links
+  Pan: The cluster that almost got away'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2317a/L{1}X{2}Y{3}.png
+name: The cluster that almost got away
+ra_hr: 5.276936996976548
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2317a/thumb.jpg
+zoom_level: 0.3261093672245027
+---
+_uuid: b541c2f5-56d5-46b0-9cd1-0dc750fd74c1
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -45.32336005796607
+description: 'The massive cluster Abell 3322 is featured in this image from the NASA/ESA
+  Hubble Space Telescope, in which the galaxy 2MASX J05101744-4519179 basks in the
+  centre. This distant galaxy cluster is a cosmic leviathan that is highly luminous
+  at X-ray wavelengths. Observing galaxy clusters like Abell 3322 can advance our
+  understanding of the evolution and interactions of dark and luminous matter in galaxy
+  clusters, and also reveals powerful gravitational ‘telescopes’ that magnify distant
+  objects through gravitational lensing. Knowing the location of these lenses can
+  enable future observations with both Hubble and the NASA/ESA/CSA James Webb Space
+  Telescope. The galaxy cluster is located in the constellation Pictor, around 2.6
+  billion light-years from Earth. The unusual alignment of the three brightest cluster
+  galaxies in this image (two in a close pair in the centre of the image and a third
+  in the upper right region) suggests that A3322 is observed in the process of formation.
+  This is because at least two smaller clusters collide along an axis defined by the
+  locations of their individual brightest cluster galaxies. However, the diffuse super-hot
+  gas that permeates all massive galaxy clusters (and is visible only at x-ray wavelengths)
+  is understood to be distributed in a single, almost perfectly spherical halo. In
+  other words, it neither exhibits an elongation that follows the three-galaxy lineup,
+  nor does it show signs of two (or more) individual cluster cores. Discrepancies
+  like this are of great interest for astronomers who want to explore the differences
+  in the dynamic behaviour of gas, galaxies, dark matter, and cluster collisions.
+  Two of Hubble’s instruments joined forces to create this image: Wide Field Camera
+  3 and the Advanced Camera for Surveys. Both are third-generation instruments that
+  offer superb image quality and high sensitivity to astronomers studying a range
+  of scientific questions. Both instruments provide images of wide areas of the night
+  sky, but view slightly different parts of the electromagnetic spectrum. WFC3 spans
+  the spectrum from the ultraviolet through to visible light and the near-infrared.
+  In contrast to the wide panchromatic coverage of WFC3, ACS was optimised for visible-light
+  observations. Getting the best from Hubble requires instruments to use built-in
+  corrective optics to account for the effects of the primary mirror''s aberration.
+  During the construction of Hubble, a faulty instrument caused the primary mirror
+  to be very precisely ground to slightly the wrong shape by only 0.0002 mm. A corrective
+  instrument called COSTAR was developed to account for this tiny discrepancy, and
+  later instruments like WFC3 and ACS were built with their own corrective optics.
+  [Image Description: A cluster of elliptical galaxies, visible as a crowd of oval
+  shapes, each glowing around a bright core. The elliptical galaxy that appears largest
+  by far is in the centre, with the other largest galaxies close to it. They are surrounded
+  by a variety of more distant stars and galaxies, in many shapes and sizes but all
+  much smaller, on a dark background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2333a/L{1}X{2}Y{3}.png
+name: A clear view of a galaxy cluster
+ra_hr: 5.171580491493609
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2333a/thumb.jpg
+zoom_level: 0.462446551196791
+---
+_uuid: 01a79187-3655-47fb-9791-c6bc92c738b9
+classification: ''
+constellation: LEP
+data_set_type: Sky
+dec_deg: -17.86713617707058
+description: 'This image shows the spiral galaxy IC 438, which lies about 130 million
+  light-years from Earth in the constellation Lepus (the Hare). Lepus lies just south
+  of the celestial equator (the ring around the middle of Earth that falls at right
+  angles to its rotation axis). Appropriately, Lepus is flanked by the constellations
+  Canis Major (the Greater Dog) and Orion (the Hunter), whilst Canis Minor (the Lesser
+  Dog) lies very nearby, meaning that in artistic representations of the constellations,
+  Lepus is often shown as being pursued by Orion and his two hunting dogs. Lepus is
+  one of the 88 constellations that are officially recognised by the International
+  Astronomical Union (IAU). It is worth clarifying that, whilst the actual constellations
+  themselves only comprise a handful of stars, the area of sky covered by those stars
+  is often referred to using the name of the constellation. For example, when we say
+  that IC 438 is in Lepus, we do not mean that the galaxy is part of the constellation
+  — perhaps obviously, as it is not a single star, but an entire galaxy! Rather, we
+  mean that it falls in the region of sky covered by the Lepus constellation stars.
+  The IAU’s 88 official constellations are by no means the only constellations ever
+  described by humanity. Humans have been studying and naming the stars for a very
+  long time, and different cultures of course have their own constellations. The IAU
+  constellations are Eurocentric, with many taken from Ptolemy’s list of constellations.
+  Collectively, the 88 constellations divide the night sky into 88 regions which completely
+  cover it, so that the approximate location of any celestial object can be described
+  using one of the 88. The impetus behind Hubble examining this galaxy was a type
+  Iax supernova that took place in 2017, a kind of supernova that arises from a binary
+  system of two stars. While this data was obtained over three years after the supernova
+  occurred, and so it’s not visible in this image, there’s still a lot to learn from
+  studying the aftermath of supernovae like this one. [Image Description: A large
+  spiral galaxy seen close-up. The left side of the image shows the galaxy''s core
+  and its tightly-curled inner spiral arms. On the right side, one of the arms reaches
+  down from above, curving across the dark background. There is a bright star inside
+  the arc of the arm, and a couple more next to the galaxy.] Links Pan: Luminous in
+  Lepus'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2404a/L{1}X{2}Y{3}.png
+name: Luminous in Lepus
+ra_hr: 5.883938192136553
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2404a/thumb.jpg
+zoom_level: 0.22895763616031595
+---
+_uuid: c010931e-17d6-4d7d-92f9-bc605775756f
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -31.597590157571886
+description: 'This Hubble Picture of the Week depicts the spiral galaxy ESO 422-41,
+  which lies about 34 million light-years from Earth in the constellation Columba.
+  The patchy, star-filled structure of the galaxy’s spiral arms and the glow from
+  its dense core are laid out in intricate detail here by Hubble’s Advanced Camera
+  for Surveys. Images of this galaxy have, however, a decades-long history. The name
+  ESO 422-41 comes from its identification in the European Southern Observatory (B)
+  Atlas of the Southern Sky. In the times before automated sky surveys with space
+  observatories such as ESA’s Gaia, many stars, galaxies and nebulae were discovered
+  by means of large photographic surveys. Astronomers used the most advanced large
+  telescopes of the time to produce hundreds of photographs, covering an area of the
+  sky. They later studied the resulting photographs, attempting to catalogue all the
+  new astronomical objects revealed. In the 1970s a new telescope at ESO’s La Silla
+  facility in Chile performed such a survey of the southern sky, which still had not
+  been examined in as much depth as the sky in the north. At the time, the premier
+  technology for recording images was glass plates treated with chemicals. The resulting
+  collection of photographic plates became the ESO (B) Atlas of the Southern Sky.
+  Astronomers at ESO and in Uppsala, Sweden collaborated to study the plates, recording
+  hundreds of galaxies — ESO 422-41 being just one of those — star clusters, and nebulae.
+  Many were new to astronomy. Astronomical sky surveying has since transitioned through
+  digital, computer-aided surveys such as the Sloan Digital Sky Survey and the Legacy
+  Surveys, to surveys made by space telescopes including Gaia and the Wide-Field Infrared
+  Survey Explorer. Even so, photographic sky surveys contributed immensely to astronomical
+  knowledge for decades, and the archives of glass plates serve as an important historical
+  reference for large swathes of the sky. Some are still actively used today, for
+  instance to study variable stars through time. And the objects that these surveys
+  revealed, including ESO 422-41, can now be studied in depth by telescopes such as
+  Hubble. [Image Description: A spiral galaxy, with a brightly shining core and two
+  large arms. The arms are broad, faint overall and quite patchy, and feature several
+  small bright spots where stars are forming. A few foreground stars with small diffraction
+  spikes can be seen in front of the galaxy.]Links Pan video: ESO 422-41'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2417a/L{1}X{2}Y{3}.png
+name: Captured on glass
+ra_hr: 5.179757377128528
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2417a/thumb.jpg
+zoom_level: 0.45184415370488107
+---
+_uuid: 562693a7-e79c-4266-964b-0d3ae117ec50
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.75305823851043
+description: 'The globular cluster NGC 2005, featured in this Hubble Picture of the
+  Week, is not unusual in and of itself; but it is a peculiarity in relation to its
+  surroundings. NGC 2005 is located about 750 light-years from the heart of the Large
+  Magellanic Cloud (LMC), which is the Milky Way’s largest satellite galaxy and which
+  itself lies about 162 000 light-years from Earth. Globular clusters are densely-packed
+  clusters that can constitute tens of thousands or millions of stars. Their density
+  means that they are tightly gravitationally bound and are therefore very stable.
+  This stability contributes to their longevity: globular clusters can be billions
+  of years old, and as such often comprise very old stars. Thus, studying globular
+  clusters in space can be a little like studying fossils on Earth: where fossils
+  give insights into the characteristics of ancient plants and animals, globular clusters
+  illuminate the characteristics of ancient stars. Current theories of galaxy evolution
+  predict that galaxies merge with one another. It is widely thought that the relatively
+  large galaxies that we observe in the modern Universe were formed via the merging
+  of smaller galaxies. If this is correct, then astronomers would expect to see evidence
+  that the most ancient stars in nearby galaxies originated in different galactic
+  environments. As globular clusters are known to contain ancient stars, and because
+  of their stability, they are an excellent laboratory to test this hypothesis. NGC
+  2005 is such a globular cluster, and its very existence has provided evidence to
+  support the theory of galaxy evolution via mergers. Indeed, the stars in NGC 2005
+  have a chemical composition that is distinct from the stars in the LMC around it.
+  This suggests that the LMC underwent a merger with another galaxy somewhere in its
+  history. That other galaxy has long-since merged and otherwise dispersed, but NGC
+  2005 remains behind as an ancient witness to the long-past merger. [Image Description:
+  A globular cluster, appearing as a highly dense and numerous collection of shining
+  stars. Some appear a bit larger and brighter than others, with the brightest having
+  cross-shaped spikes around them. They are scattered mostly uniformly, but in the
+  centre they crowd together more and more densely, and merge into a strong glow at
+  the cluster’s core.] Links Pan of NGC 2005'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2424a/L{1}X{2}Y{3}.png
+name: An ancient witness
+ra_hr: 5.502787358681059
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2424a/thumb.jpg
+zoom_level: 0.3300431007501903
+---
+_uuid: 1db0a489-9b53-4ca9-830e-c0366d19e5b1
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -34.25040686207765
+description: 'Featured in this new NASA/ESA Hubble Space Telescope Picture of the
+  Week is the spiral galaxy NGC 2090, located in the constellation Columba. This galaxy
+  is notable as a part of the group of galaxies studied in Hubble’s Extragalactic
+  Distance Scale Key Project, which aimed to determine a new state-of-the-art value
+  for the Hubble constant, one of the then-new telescope’s primary science goals.
+  The contribution of NGC 2090 was in calibrating the Tully-Fisher (TF) distance method,
+  by observing Cepheid variable stars in the galaxy. The Cepheid-based measurement
+  from that study in 1998 put NGC 2090 as 37 million light-years away; the newest
+  measurement from 2020, using the TF method, has NGC 2090 slightly farther away,
+  at 40 million light-years. Before and since that project, NGC 2090 has been well
+  studied as a very prominent nearby example of star formation. It has been described
+  as a flocculent spiral, meaning a spiral galaxy with a patchy, dusty disc and arms
+  that are flaky or not visible at all. This Hubble image shows well why NGC 2090
+  earned that description, but its spiral arms do appear among the dust as winding
+  lanes of light. NGC 2090 is a galaxy still full of activity, with clusters of star
+  formation at various stages of evolution spread across the disc. Examining star
+  formation and the movement of matter in galaxies was the motivation for these Hubble
+  observations, taken in October of this year. Likewise Hubble’s partner in space
+  astronomy, the NASA/ESA/CSA James Webb Space Telescope, has also spied on this galaxy
+  to add infrared data to this overall picture of galaxy evolution. [Image Description:
+  A spiral galaxy with a wide, oval-shaped disc. It has a shining spot at the centre
+  which is surrounded by a whirl of dark threads and patches of dust, all atop a luminous
+  disc. Some brighter lanes curving through the disc indicate the galaxy’s spiral
+  arms. The glow of the disc fades smoothly into a dark background where faint, extended
+  patches of stars can be seen, as well as some foreground stars.] Links Pan of NGC
+  2090'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2448a/L{1}X{2}Y{3}.png
+name: Viewing a flaky disc
+ra_hr: 5.7838083527744715
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2448a/thumb.jpg
+zoom_level: 0.44164629733172056
+---
+_uuid: a81f1a24-d1de-4f08-bb11-03628380de05
+classification: ''
+constellation: ORI
+data_set_type: Sky
+dec_deg: -7.1540982328045555
+description: 'Today’s NASA/ESA Hubble Space Telescope Picture of the Week peers into
+  the dusty recesses of the nearest massive star-forming region to Earth, the Orion
+  Nebula. Just 1300 light-years away, the Orion Nebula is visible to the naked eye
+  below the three stars that form the ‘belt’ in the constellation Orion. The nebula
+  is home to hundreds of newborn stars including the subject of this image: the protostars
+  HOPS 150 and HOPS 153. These protostars get their names from the Herschel Orion
+  Protostar Survey, which was carried out with ESA’s Herschel Space Observatory. The
+  object that can be seen in the upper-right corner of this image is HOPS 150: it’s
+  a binary system, two young protostars orbiting each other. Each has a small, dusty
+  disc of material surrounding it that it is feeding from. The dark line that cuts
+  across the bright glow of these protostars is a cloud of gas and dust, over 2 000
+  times wider than the distance between Earth and the Sun, falling in on the pair
+  of protostars. Based on the amount of infrared versus other wavelengths of light
+  HOPS 150 is emitting, the protostars are mid-way down the path to becoming mature
+  stars. Extending across the left side of the image is a narrow, colourful outflow
+  called a jet. This jet comes from the nearby protostar HOPS 153, out of frame. HOPS
+  153 is a significantly younger stellar object than its neighbour, still deeply embedded
+  in its birth nebula and enshrouded by a cloud of cold, dense gas. While Hubble cannot
+  penetrate this gas to see the protostar, the jet HOPS 153 has emitted is brightly
+  visible as it plows into the surrounding gas and dust of the Orion Nebula. The transition
+  from tightly swaddled protostar to fully fledged star will dramatically affect HOPS
+  153’s surroundings. As gas falls onto the protostar, its jets spew material and
+  energy into interstellar space, carving out bubbles and heating the gas. By stirring
+  up and warming nearby gas, HOPS 153 may regulate the formation of new stars in its
+  neighbourhood and even slow its own growth. [Image Description: An area in the Orion
+  nebula filled with dark, puffy clouds. On the left side a large area of clouds,
+  crossed by a dark bar, is lit up in red and whitish colours by a protostar within.
+  At the other side a large jet of material ejected by the protostar appears, made
+  of thin, wispy, blue and pink clouds. A couple of foreground stars shine brightly
+  in front of the nebula.] Links Pan of HOPS 150 and HOPS 153'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2502a/L{1}X{2}Y{3}.png
+name: Jetting into space
+ra_hr: 5.6360106410404835
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2502a/thumb.jpg
+zoom_level: 0.352723064112356
+---
+_uuid: 358cff1e-051d-4461-9eac-faa1d0817117
+classification: ''
+constellation: CAM
+data_set_type: Sky
+dec_deg: 69.37477021067843
+description: 'A beautiful but skewed spiral galaxy dazzles in today’s NASA/ESA Hubble
+  Space Telescope Picture of the Week. This galaxy, called Arp 184 or NGC 1961, sits
+  about 190 million light-years away from Earth in the constellation Camelopardalis
+  (The Giraffe). The name Arp 184 comes from the Atlas of Peculiar Galaxies, which
+  was compiled by astronomer Halton Arp in 1966. The 338 galaxies in the atlas are
+  oddly shaped, tending to be neither entirely elliptical nor entirely spiral-shaped.
+  Many of the galaxies are in the process of interacting with other galaxies, while
+  others are dwarf galaxies without well-defined structures. Arp 184 earned its spot
+  in the catalogue thanks to its single broad, star-speckled spiral arm that appears
+  to stretch toward us. The galaxy’s far side sports a few wisps of gas and stars
+  but lacks a similarly impressive spiral arm. This Hubble image combines data from
+  three Snapshot observing programmes, which are composed of short observations that
+  can be slotted into time gaps between other proposals. One of the three programmes
+  targeted Arp 184 for its peculiar appearance. This programme surveyed galaxies listed
+  in the Atlas of Peculiar Galaxies as well as A Catalogue of Southern Peculiar Galaxies
+  and Associations, a similar catalogue compiled by Halton Arp and Barry Madore. The
+  remaining two programmes were designed to check up on the aftermath of fleeting
+  astronomical events like supernovae and tidal disruption events — when a star is
+  ripped apart after wandering too close to a supermassive black hole. Since Arp 184
+  has hosted four known supernovae in the past three decades, it’s a rich target for
+  a supernova hunt. [Image Description: A spiral galaxy seen at a skewed angle. Its
+  centre is a bright spot radiating light. A thick, stormy disc of material surrounds
+  this, with swirling strands of dark dust and bright spots of star formation strewn
+  through the disc. A large spiral arm extends from the disc towards the viewer. Some
+  foreground stars are visible atop the galaxy.] Links Pan video: Arp 184'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2517a/L{1}X{2}Y{3}.png
+name: Snapshot of a peculiar spiral
+ra_hr: 5.700370032575594
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2517a/thumb.jpg
+zoom_level: 0.4268696845547247
+---
 _uuid: df0aec7c-5715-40f5-a033-8ebecd80ce70
 classification: ''
 constellation: COL

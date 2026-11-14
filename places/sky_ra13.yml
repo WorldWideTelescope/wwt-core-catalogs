@@ -3838,6 +3838,710 @@ name: Whirlpool Galaxy
 ra_hr: 13.497777777777777
 zoom_level: 4.0
 ---
+_uuid: 399475aa-b5e3-4327-9a88-83f9a8fca1b3
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -47.47374657985856
+description: 'Omega Centauri is visible from Earth with the naked eye and is one of
+  the favourite celestial objects for stargazers in the southern hemisphere. Although
+  the cluster is 17 700 light-years away, lying just above the plane of the Milky
+  Way, it appears almost as large as the full Moon when seen from a dark rural area.
+  The exact classification of Omega Centauri has evolved through time, as our ability
+  to study it has improved. It was first listed in Ptolemy''s catalogue nearly two
+  thousand years ago as a single star. Edmond Halley reported it as a nebula in 1677,
+  and in the 1830s the English astronomer John Herschel was the first to recognise
+  it as a globular cluster. Omega Centauri consists of roughly 10 million stars that
+  are gravitationally bound. [Image Description: A globular cluster, appearing as
+  a highly dense and numerous collection of shining stars. Some appear a bit larger
+  and brighter than others, with the majority of stars appearing blue and orange.
+  They are scattered mostly uniformly, but in the centre they crowd together more
+  and more densely, and merge into a stronger glow at the cluster’s core.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2409a/L{1}X{2}Y{3}.png
+name: Omega Centauri
+ra_hr: 13.446186456504353
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2409a/thumb.jpg
+zoom_level: 1.556919399087552
+---
+_uuid: 8f997a33-9214-47f6-9de0-bb87454ddbaf
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 2.8124280566907283
+description: 'The Hubble Space Telescope captured in exquisite detail a face-on view
+  of a remarkable-looking galaxy. NGC 5335 is categorized as a flocculent spiral galaxy
+  with patchy streamers of star formation across its disk. There is a striking lack
+  of well-defined spiral arms that are commonly found among galaxies, including our
+  Milky Way. A notable bar structure slices across the center of the galaxy. The bar
+  channels gas inwards toward the galactic center, fueling star formation. Such bars
+  are dynamic in galaxies and may come and go over two-billion-year intervals. They
+  appear in about 30 percent of observed galaxies, including our Milky Way. [Image
+  description: Barred spiral galaxy NGC 5335 observed by the Hubble Space Telescope
+  takes up the majority of the view. At its center is a milky yellow, flattened oval
+  that extends bottom left to top. Within the oval is a bright central region that
+  looks circular, with the very center the brightest. In the bright central region
+  is what looks like a bar, extending from top left to bottom right. Around this is
+  a thick swath of blue stars speckled with white regions. Multiple arms wrap up and
+  around in a counterclockwise direction, becoming fainter the farther out they are.
+  Both the white core and the spiral arms are intertwined with dark streaks of dust.
+  The background of space is black. Thousands of distant galaxies in an array of colors
+  are speckled throughout.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2505i/L{1}X{2}Y{3}.png
+name: Barred Spiral Galaxy NGC 5335
+ra_hr: 13.882383080081755
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2505i/thumb.jpg
+zoom_level: 0.4537013129887876
+---
+_uuid: 86495366-e89b-48bf-87aa-fb74990d4941
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -51.20583195104101
+description: 'This Picture of the Week from the NASA/ESA Hubble Space Telescope shows
+  NGC 5307, a planetary nebula which lies about 10000 light years from Earth. It can
+  be seen in the constellation Centaurus (The Centaur), which can be seen primarily
+  in the southern hemisphere. A planetary nebula is the final stage of a Sun-like
+  star. As such, planetary nebulae allow us a glimpse into the future of our own Solar
+  System. A star like our Sun will, at the end of its life, transform into a red giant.
+  Stars are sustained by the nuclear fusion that occurs in their core, which creates
+  energy. The nuclear fusion processes constantly try to rip the star apart. Only
+  the gravity of the star prevents this from happening.
+
+
+  At the end of the red giant phase of a star, these forces become unbalanced. Without
+  enough energy created by fusion, the core of the star collapses in on itself, while
+  the surface layers are ejected outward. After that, all that remains of the star
+  is what we see here: glowing outer layers surrounding a white dwarf star, the remnants
+  of the red giant star’s core.
+
+
+  This isn’t the end of this star’s evolution though — those outer layers are still
+  moving and cooling. In just a few thousand years they will have dissipated, and
+  all that will be left to see is the dimly glowing white dwarf.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1934a/L{1}X{2}Y{3}.png
+name: A Passing Fancy
+ra_hr: 13.850922715142405
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1934a/thumb.jpg
+zoom_level: 0.10961302449344251
+---
+_uuid: 88ebf719-9946-4e90-b4ee-0bc03114bb68
+classification: ''
+constellation: CHA
+data_set_type: Sky
+dec_deg: -77.84453188906548
+description: This swirling mass of celestial gas, dust, and stars is a moderately
+  luminous spiral galaxy named ESO 021-G004, located just under 130 million light-years
+  away. This galaxy has something known as an active galactic nucleus. While this
+  phrase sounds complex, this simply means that astronomers measure a lot of radiation
+  at all wavelengths coming from the centre of the galaxy. This radiation is generated
+  by material falling inwards into the very central region of ESO 021-G004, and meeting
+  the behemoth lurking there — a supermassive black hole. As material falls towards
+  this black hole it is dragged into orbit as part of an accretion disc; it becomes
+  superheated as it swirls around and around, emitting characteristic high-energy
+  radiation until it is eventually devoured. The data comprising this image were gathered
+  by the Wide Field Camera 3 aboard the NASA/ESA Hubble Space Telescope.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1951a/L{1}X{2}Y{3}.png
+name: An Active Centre
+ra_hr: 13.544330163253555
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1951a/thumb.jpg
+zoom_level: 0.38957076754425984
+---
+_uuid: 5bee3dc4-7333-478d-9068-f088d0f5ec05
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 5.014419357269822
+description: This eye-catching galaxy is known as NGC 5364. Unmistakably a spiral,
+  NGC 5364 is also something known as a grand design spiral galaxy — a descriptive
+  name deserved by only one-tenth of spirals. While all spirals have a structure that
+  is broadly similar, there is quite a bit of variation amongst individual galaxies;
+  some have patchy, oddly-shaped arms, some have bars of stars cutting through their
+  core, some are colossal and radiant, and others are dim and diminutive. Grand designs
+  like NGC 5364 are in many ways the archetype of a spiral galaxy. They are characterised
+  by their prominent, well-defined arms, which circle outwards from a clear core.
+  Despite being classified in this way, NGC 5364 is far from perfect. Its arms are
+  asymmetrical compared to other grand design spirals — this is thought to be due
+  to interactions with a nearby neighbour. This neighbour and NGC 5364 are tugging
+  on one another, warping and moving their stars and gas around and causing this misshapen
+  appearance. This image was captured by the NASA/ESA Hubble Space Telescope’s Advanced
+  Camera for Surveys and Wide Field Camera 3.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2005a/L{1}X{2}Y{3}.png
+name: Nature’s Grand Design
+ra_hr: 13.936650091444593
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2005a/thumb.jpg
+zoom_level: 0.108079611025677
+---
+_uuid: ed43d735-27f7-443e-8381-32d5cd56ae9c
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 28.14706130741496
+description: 'The barred spiral galaxy known as NGC 4907 shows its best side from
+  270 million light-years away to anyone who can see it from the northern hemisphere.This
+  is a new image from the NASA/ESA Hubble Space Telescope of the face-on the galaxy,
+  displaying its beautiful spiral arms, wound loosely around its central bright bar
+  of stars. Shining brightly below the galaxy is a star that is actually within our
+  own Milky Way galaxy. This star appears much brighter than the many millions of
+  stars in NGC 4907 as it is 100 000 times closer, residing only 2500 light-years
+  away. NGC 4907 is also part of the Coma Cluster, a group of over 1000 galaxies,
+  some of which can be seen around NGC 4907 in this image. This massive cluster of
+  galaxies lies within the constellation of Coma Berenices, which is named for the
+  locks of Queen Berenice II of Egypt: the only constellation named after a historical
+  person.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2031a/L{1}X{2}Y{3}.png
+name: Seeing Near and Far
+ra_hr: 13.013449851369185
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2031a/thumb.jpg
+zoom_level: 0.4598170437839153
+---
+_uuid: 23cd71a6-020c-4102-b14b-6df5dd01f0cb
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -16.58819600542927
+description: This image shows the spiral galaxy NGC 5037, which is found in the constellation
+  of Virgo and was first documented by William Herschel in 1785. It lies about 150
+  million light-years away from Earth, and yet it is possible to see the delicate
+  structures of gas and dust within the galaxy in extraordinary detail. This was made
+  possible by Hubble’s Wide Field Camera 3 (WFC3), which was used to collect the exposures
+  that were combined to create this image. WFC3 is a very versatile camera, as it
+  can collect ultraviolet, visible and infrared light, thereby providing a wealth
+  of information about the objects that it observes. WFC3 was installed on Hubble
+  by astronauts in 2009, during servicing mission 4, which was Hubble’s fifth and
+  final servicing mission. Servicing mission 4 was intended to prolong Hubble’s life
+  for another five years. 12 years later, both Hubble and WFC3 remain in active use!
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2121a/L{1}X{2}Y{3}.png
+name: A Distant Spiral in Virgo
+ra_hr: 13.249828718948466
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2121a/thumb.jpg
+zoom_level: 0.34890118696555167
+---
+_uuid: d4f2f85a-4293-4f6e-a4ef-1e5a196fc1ad
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -17.249397692776682
+description: 'Clustered at the centre of this image are six luminous spots of light,
+  four of them forming a circle around a central pair. Appearances can be deceiving,
+  however, as this formation is not composed of six individual galaxies, but only
+  three: to be precise, a pair of galaxies and one distant quasar. Hubble data also
+  indicates that there is a seventh spot of light in the very center, which is a rare
+  fifth image of the distant quasar. This rare phenomenon is caused by the presence
+  of two galaxies in the foreground that act as a lens. These galaxies were imaged
+  in spectacular detail by Hubble’s Wide Field Camera 3 (WFC3), which was installed
+  on Hubble in 2009 during Hubble Servicing Mission 4, Hubble’s final servicing mission.
+  The WFC3 was intended to operate until 2014, but 12 years after it was installed
+  it continues to provide both top-quality data and fantastic images, such as this
+  one. The central pair of galaxies in this image are genuinely two separate galaxies.
+  The four bright points circling them, and the fainter one in the very center, are
+  actually five separate images of a single quasar (known as 2M1310-1714), an extremely
+  luminous but distant object. The reason behind this “seeing quintuple” effect is
+  a phenomenon known as gravitational lensing. Gravitational lensing occurs when a
+  celestial object with an enormous amount of mass — such as a pair of galaxies —
+  causes the fabric of space to warp such that the light travelling through that space
+  from a distant object is bent and magnified sufficiently that humans here on Earth
+  can observe multiple magnified images of the far-away source. The quasar in this
+  image actually lies further away from Earth than the pair of galaxies. The light
+  from the quasar has been bent around the galaxy pair because of their enormous mass,
+  giving the incredible appearance that the galaxy pair are surrounded by four quasars
+  — whereas in reality, a single quasar lies far beyond them! Links Video of Seeing
+  Quintuple'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2132a/L{1}X{2}Y{3}.png
+name: Seeing Quintuple
+ra_hr: 13.172236286015425
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2132a/thumb.jpg
+zoom_level: 0.20409856950942892
+---
+_uuid: de07e6f5-e9d8-4372-a7b9-59cf49a58f75
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 44.59878530222857
+description: 'This image from the NASA/ESA Hubble Space Telescope features the galaxy
+  LEDA 48062 in the constellation Canes Venatici. LEDA 48062 is the faint, sparse,
+  amorphous galaxy on the right side of this image, and it is accompanied by a more
+  sharply defined neighbour on the left, the large, disc-like lenticular galaxy UGC
+  8603. A smattering of more distant galaxies also litter the background, and a handful
+  of foreground stars are also visible throughout the image. Have you ever wondered
+  why the stars in Hubble images are surrounded by four sharp points? These are called
+  diffraction spikes, and are created when starlight diffracts — or spreads around
+  — the support structures inside reflecting telescopes like Hubble. The four spikes
+  are due to the four thin vanes supporting Hubble’s secondary mirror and are only
+  noticeable for bright objects like stars where a lot of light is concentrated on
+  one spot. Darker, more spread-out objects like the galaxies LEDA 48062 and UGC 8603
+  do not possess visible diffraction spikes. Hubble recently spent some time with
+  our galactic neighbours. LEDA 48062 is only around 30 million light-years from the
+  Milky Way, and was therefore included in the observing campaign Every Known Nearby
+  Galaxy. The aim of this campaign was to observe precisely that: every known galaxy
+  within 10 megaparsecs (around 33 million light-years) of the Milky Way. By getting
+  to know our galactic neighbours, astronomers can determine what types of stars reside
+  in various galaxies and also map out the local structure of the Universe. [Image
+  description: A faint, scattered collection of cool stars in the form of an irregular
+  galaxy lies right of centre. A disc-shaped galaxy viewed nearly edge-on lies to
+  the left, surrounded by a wide glow. Several smaller galaxies in various orientations
+  cluster around the two. The background is black and mostly empty.] Links Video of
+  Calling on a Galactic Neighbour'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2302a/L{1}X{2}Y{3}.png
+name: Calling on a Galactic Neighbour
+ra_hr: 13.610973891818142
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2302a/thumb.jpg
+zoom_level: 0.3785104578905947
+---
+_uuid: 148c8e02-6902-43bb-b6c4-a9ff0c4d2a0b
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 19.20886817746222
+description: 'The jellyfish galaxy JW39 hangs serenely in this image from the NASA/ESA
+  Hubble Space Telescope. This galaxy lies over 900 million light-years away in the
+  constellation Coma Berenices, and is one of several jellyfish galaxies that Hubble
+  has been studying over the past two years. Despite this jellyfish galaxy’s serene
+  appearance, it is adrift in a ferociously hostile environment; a galaxy cluster.
+  Compared to their more isolated counterparts, the galaxies in galaxy clusters are
+  often distorted by the gravitational pull of larger neighbours, which can twist
+  galaxies into a variety of weird and wonderful shapes. If that was not enough, the
+  space between galaxies in a cluster is also pervaded with a searingly hot plasma
+  known as the intracluster medium. While this plasma is extremely tenuous, galaxies
+  moving through it experience it almost like swimmers fighting against a current,
+  and this interaction can strip galaxies of their star-forming gas. This interaction
+  between the intracluster medium and the galaxies is called ram-pressure stripping,
+  and is the process responsible for the trailing tendrils of this jellyfish galaxy.
+  As JW39 has moved through the cluster the pressure of the intracluster medium has
+  stripped away gas and dust into long trailing ribbons of star formation that now
+  stretch away from the disc of the galaxy. Astronomers using Hubble’s Wide Field
+  Camera 3 studied these trailing tendrils in detail, as they are a particularly extreme
+  environment for star formation. Surprisingly, they found that star formation in
+  the ‘tentacles’ of jellyfish galaxies was not noticeably different from star formation
+  in the galaxy disc. [Image Description: A spiral galaxy. It is large in the centre
+  with a lot of detail visible. The core glows brightly and is surrounded by concentric
+  rings of dark and light dust. The spiral arms are thick and puffy with grey dust
+  and glowing blue areas of star formation. They wrap around the galaxy to form a
+  ring. Part of the arm is drawn out into a dark thread above the galaxy, and dust
+  from the arm trails off to the right.] Links First science paper in the Astrophysical
+  Journal Second science paper in the Astrophysical Journal Pan: A jellyfish galaxy
+  adrift'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2321a/L{1}X{2}Y{3}.png
+name: A jellyfish galaxy adrift
+ra_hr: 13.068924512495162
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2321a/thumb.jpg
+zoom_level: 0.24414859981073272
+---
+_uuid: 49fbeabc-1ca8-4e68-b5a0-940bedd110a9
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -53.35578697567335
+description: 'The highly irregular galaxy ESO 174-1, which resembles a lonely, hazy
+  cloud against a backdrop of bright stars, dominates this image from the NASA/ESA
+  Hubble Space Telescope. ESO 174-1 lies around 11 million light-years from Earth
+  and consists of a bright cloud of stars and a faint, meandering tendril of dark
+  gas and dust. This image is part of a collection of Hubble observations that aims
+  to get to know our nearby galactic neighbours. To be more precise, the observations
+  aim to resolve the brightest stars and basic properties of every known galaxy within
+  10 megaparsecs. A parsec is a unit used by astronomers to measure the vast distances
+  to other galaxies — 10 megaparsecs translates to 32 million light-years — and makes
+  astronomical distances easier to handle. For example, the nearest star to the Sun,
+  Proxima Centauri, is about 1.3 parsecs away. In everyday units this is a staggering
+  40 million million kilometres! The programme to capture all of our neighbouring
+  galaxies was designed to use the 2-3% of Hubble time that absolutely no other observing
+  programme can use. Many of the myriad objects that Hubble observes can only be seen
+  at certain times of year, which makes filling out the observatory’s schedule a daunting
+  logistical challenge. Observing programmes such as the one which captured ESO 174-1
+  help Hubble’s operators get the most out of every last minute of observing time.
+  [Image Description: A galaxy, large and occupying most of the view from the centre.
+  The whole galaxy is made of smooth, diffuse light. In the centre it is brighter
+  and bluer, fading to a pale grey halo that is faint and see-through. The light forms
+  an arm on one side that curls around the top. A couple threads of dark dust cross
+  the centre. Many stars shine around the galaxy, on a black background.] Links Pan:
+  Hubble checks in on the neighbours'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2326a/L{1}X{2}Y{3}.png
+name: Hubble checks in on the neighbours
+ra_hr: 13.555609924091492
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2326a/thumb.jpg
+zoom_level: 0.2960028999548912
+---
+_uuid: 23ea865f-af95-43a1-b306-00208f4f1d01
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 43.48401903595147
+description: 'The NASA/ESA Hubble Space Telescope has captured a monster in the making
+  in this observation of the exceptional galaxy cluster eMACS J1353.7+4329, which
+  lies about eight billion light-years from Earth in the constellation Canes Venatici.
+  This disturbed collection of at least two galaxy clusters is in the process of merging
+  together to create a cosmic monster, a single gargantuan cluster acting as a gravitational
+  lens. Gravitational lensing is a dramatic example of Einstein’s general theory of
+  relativity in action. A celestial body such as a galaxy cluster is sufficiently
+  massive to distort spacetime, which causes the path of light around the object to
+  be visibly bent as if by a vast lens. Gravitational lensing can also magnify distant
+  objects, allowing astronomers to observe objects that would otherwise be too faint
+  and too far away to be detected. It can also distort the images of background galaxies,
+  turning them into streaks of light. The first hints of gravitational lensing are
+  already visible in this image as bright arcs which mingle with the throng of galaxies
+  in eMACS J1353.7+4329. The data in this image are drawn from an observing proposal
+  called Monsters in the Making, which used two of Hubble’s instruments to observe
+  five exceptional galaxy clusters at multiple wavelengths. These multi-wavelength
+  observations were made possible by Hubble’s Wide Field Camera 3 and Advanced Camera
+  for Surveys. The astronomers behind these observations hope to lay the groundwork
+  for future studies of vast gravitational lenses with next-generation telescopes
+  such as the NASA/ESA/CSA James Webb Space Telescope. [Image Description: A cluster
+  of elliptical galaxies, visible as a dense crowd of oval shapes, each glowing orange
+  around a bright core. Right of the largest, central galaxy, a background galaxy
+  is stretched into two connected, thin arcs by the cluster’s gravity. Various other
+  galaxies are dotted all around, a few being small spirals. A bright star with four
+  long spikes stands out at the right.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2328a/L{1}X{2}Y{3}.png
+name: Galactic monster mash
+ra_hr: 13.895518259379005
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2328a/thumb.jpg
+zoom_level: 0.35717270158778935
+---
+_uuid: abd1c568-9569-4596-a5da-0d09dc5d1d2c
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -31.640791608919614
+description: 'The focus of this week’s Hubble Picture of the Week is the blue compact
+  dwarf galaxy NGC 5253, located in the constellation Centaurus around 11 million
+  light-years from Earth. This new image combines data taken with Hubble’s Advanced
+  Camera for Surveys (ACS), using its Wide Field Channel, and with the older Wide
+  Field and Planetary Camera 2 (WFPC2). As a bonus for this Picture of the Week, there
+  is also a second new image made using data from the High Resolution Channel (HRC)
+  of ACS, a sub-instrument only operational for a few years that was optimised for
+  detailed studies of environments dense with stars. What has interested astronomers
+  so much about this galaxy that three of Hubble’s instruments were used to study
+  it in depth over ten years? It turns out to lie at the focus of a few areas of research
+  where Hubble’s capabilities are essential. Dwarf galaxies are considered important
+  for understanding the evolution of both stars and galaxies through time, since they
+  resemble ancient, distant galaxies. NGC 5253 is called both a ''starburst galaxy''
+  and a ''blue compact dwarf'': these names mean it is forming clusters of bright,
+  massive stars at an exceptional rate. This Hubble image clearly shows the dense
+  nebula which is being consumed to birth these stars, and which makes NGC 5253 a
+  laboratory in which to investigate stellar composition, star formation and star
+  clusters, all at once. A tremendously high rate of star formation is a recipe for
+  star clusters, but NGC 5253 goes beyond that: in a small region of the core, the
+  star formation is so intense that the galaxy contains no fewer than three ''super
+  star clusters'' (SSCs). SSCs are very bright, populous and massive open clusters
+  which are believed to evolve into globular clusters. Globular clusters themselves
+  offer unique insights into how stars form and evolve, but their origins are poorly
+  understood. Astronomers were therefore eager to make use of the HRC sub-instrument,
+  with its superb resolution, to home in on these small, very dense clusters of stars.
+  [Image Description: An oval-shaped galaxy, made up of many point-like stars. It
+  is softly lit from the centre, brightest and slightly blue at the very centre and
+  fading to darkness at the edges. Surrounding the galaxy’s core are reddish clouds
+  of gas and dust, most around or behind the core, but a few wisps are in front of
+  it and block some light. Some faraway galaxies and two foreground stars can be seen
+  around the galaxy.] Links NGC 5253 High Resolution Channel image of nucleus NGC
+  5253 galaxy collage Pan of NGC 5253'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2426a/L{1}X{2}Y{3}.png
+name: Channelling light from starbursts
+ra_hr: 13.665471141000586
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2426a/thumb.jpg
+zoom_level: 0.36595508010320466
+---
+_uuid: 91973fa4-4b20-4db5-8b11-59e8de07b1fb
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -31.641330989366708
+description: 'This image depicts the blue compact dwarf galaxy NGC 5253, as seen by
+  the High Resolution Channel (HRC) of Hubble’s Advanced Camera for Surveys (ACS).
+  ACS is a third-generation scientific instrument on Hubble, and was installed in
+  2002 during Servicing Mission 3B. It originally had three sub-instruments or ''channels'':
+  the Wide Field Channel (WFC), as its name and the name of ACS both suggest, is used
+  to survey broad fields of distant and faint galaxies including the famous Hubble
+  Ultra Deep Field, while the Solar Blind Channel is optimised for viewing ultraviolet
+  light emitted by planets like Jupiter by blocking out sunlight. Both of these are
+  still operational. HRC is the third channel, and it was designed to take a close
+  and extremely detailed look into the centre of celestial objects like the centres
+  of galaxies, star clusters and star-forming regions. Its high resolution allowed
+  astronomers to distinguish many stars in a small area, allowing them to examine
+  dense regions in depth. NGC 5253, a starburst galaxy filled with extraordinary star
+  clusters and continually forming stars, is a perfect target for ACS with HRC. This
+  image shows the galaxy’s nucleus in detail, where super star clusters lurk amongst
+  the dark dust clouds. A broader view of the galaxy can be seen here. HRC was only
+  operational for about five years, between the installation of ACS and the electronics
+  failures in 2007 that took it offline. While ACS was partially repaired in Hubble’s
+  last servicing mission in 2009, HRC could not be restored. Close-in, high-resolution
+  images of galaxy cores like this one are, therefore, something of a rarity. [Image
+  Description: The bright centre of a galaxy. It is filled with stars, most of which
+  are bright blue points. There are some star clusters which appear as larger shining
+  dots surrounded closely by more stars. Clouds of gas and dust can be seen behind
+  the galaxy core, where they are lit up and appear pink in colour, and in front of
+  it, where they block out some of its light and appear dark in colour.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2426b/L{1}X{2}Y{3}.png
+name: NGC 5253 (ACS/HRC)
+ra_hr: 13.66548631679165
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2426b/thumb.jpg
+zoom_level: 0.06645785228222242
+---
+_uuid: b786ed3d-73b1-4afe-bd6f-a294770b4aa5
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -6.494315763598522
+description: 'This Picture of the Week from the NASA/ESA Hubble Space Telescope depicts
+  the galaxy NGC 4951, a spiral galaxy that’s located 49 million light-years from
+  Earth in the constellation Virgo. The data used to make this image were captured
+  by Hubble as part of a programme to examine how matter and energy travel in nearby
+  galaxies. Galaxies continuously undergo a cycle of star formation whereby the gas
+  in a galaxy forms molecular clouds, which collapse to create new stars, which then
+  disperse the clouds they formed from with powerful radiation or stellar winds in
+  a process called feedback. The remaining gas is left to form new clouds elsewhere.
+  This cycle of moving matter and energy determines how fast a galaxy forms stars
+  and how quickly it burns through its supplies of gas — that is, how it evolves over
+  the course of its life. Understanding this evolution depends on the nebulae, stars
+  and star clusters in the galaxy: when they formed and their past behaviour. Hubble
+  has always excelled at measuring populations of stars, and the task of tracking
+  gas and star formation in galaxies including NGC 4951 is no exception. NGC 4951
+  is also a Seyfert galaxy, a type of galaxy that has a very bright and energetic
+  nucleus called an active galactic nucleus. This image demonstrates well how energetic
+  the galaxy is, and some of the dynamic galactic activity which transports matter
+  and energy throughout it: a shining core surrounded by swirling arms, glowing pink
+  star-forming regions, and thick dust. [Image Description: A spiral galaxy, tilted
+  diagonally. It has thick, cloudy spiral arms wrapping around the core. They are
+  filled with pink patches marking new star formation, young blue stars, and dark
+  wisps of dust that block light. The galaxy glows brightly from its core. It is on
+  a dark background, with a few distant galaxies and unrelated stars around it.] Links
+  Pan of NGC 4951'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2427a/L{1}X{2}Y{3}.png
+name: A maelstrom of matter and energy
+ra_hr: 13.085485476118315
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2427a/thumb.jpg
+zoom_level: 0.39514094138930234
+---
+_uuid: fd8ebb30-7669-48ce-9ed9-1f9580bc9057
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 51.61493831029973
+description: 'The galaxy featured in this week’s Hubble Picture of the Week is the
+  dwarf irregular galaxy NGC 5238, located 14.5 million light-years from Earth in
+  the constellation Canes Venatici. Its unexciting, blob-like appearance, resembling
+  more an oversized star cluster than a galaxy, belies a complicated structure which
+  has been the subject of much research by astronomers. Here, the NASA/ESA Hubble
+  Space Telescope is able to pick out the galaxy’s countless stars, as well as its
+  associated globular clusters — the glowing spots both inside and around the galaxy
+  that are swarmed by yet more stars. NGC 5238 is theorised to have recently — here
+  meaning no more than a billion years ago! — had a close encounter with another galaxy.
+  The evidence for this is the tidal distortions of NGC 5238’s shape, the kind produced
+  by two galaxies pulling on each other as they interact. There’s no nearby galaxy
+  which could have caused this disturbance, so the hypothesis is that the culprit
+  is a smaller satellite galaxy that was devoured by NGC 5238. Traces of the erstwhile
+  galaxy might be found by closely examining the population of stars in NGC 5238,
+  a task for which the Hubble Space Telescope is an astronomer’s best tool. Two tell-tale
+  signs would be groups of stars with properties that look out of place compared to
+  most of the galaxy’s other stars, indicating that they were originally formed in
+  a separate galaxy, or stars that look to have all formed abruptly at around the
+  same time, which would occur during a galactic merger. The data used to make this
+  image will be put to use in testing these predictions. Despite their small size
+  and unremarkable appearance, it’s not unusual for dwarf galaxies like NGC 5238 to
+  drive our understanding of galaxy formation and evolution. One main theory of galaxy
+  evolution is that galaxies formed ‘bottom-up’ in a hierarchical fashion: star clusters
+  and small galaxies were the first to form out of gas and dark matter, and they gradually
+  were assembled by gravity into galaxy clusters and superclusters, explaining the
+  shape of the very largest structures in the Universe today. A dwarf irregular galaxy
+  like NGC 5238 merging with an even smaller companion is just the type of event that
+  might have begun this process of galaxy assembly in the early Universe. So, it turns
+  out that this tiny galaxy may serve as a test of some of the most fundamental predictions
+  in astrophysics! [Image Description: A dwarf irregular galaxy. It appears as a cloud
+  of bluish gas, filled with point-like stars that also spread beyond the edge of
+  the gas. A few glowing red clouds sit near its centre. Many other objects can be
+  seen around it: distant galaxies in the background, four-pointed stars in the foreground,
+  and star clusters that are part of the galaxy - shining spots surrounded by more
+  tiny stars.] Links Pan of NGC 5238'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2429a/L{1}X{2}Y{3}.png
+name: Assembling the largest galaxies
+ra_hr: 13.578357922307852
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2429a/thumb.jpg
+zoom_level: 0.43866922994768
+---
+_uuid: a35cb492-9142-429c-9c92-f91d0b9083ae
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 8.881784742813242
+description: 'The sparkling scene depicted in this week’s Hubble Picture of the Week
+  is of the spiral galaxy NGC 5248, located 42 million light-years from Earth in the
+  constellation Boötes. It is also known as Caldwell 45, having been included in a
+  catalogue of visually interesting celestial objects that were known, but weren’t
+  as commonly observed by amateur astronomers as the more famous Messier objects.
+  NGC 5248 is one of the so-called ‘grand design’ spirals, with prominent spiral arms
+  that reach from near the core out through the disc. It also has a faint bar structure
+  in the centre, between the inner ends of the spiral arms, which is not quite so
+  obvious in this visible-light portrait from Hubble. Features like these which break
+  the rotational symmetry of a galaxy have a huge influence on how matter moves through
+  it, and eventually its evolution through time. They feed gas from a galaxy’s outer
+  reaches to inner star-forming regions, and even to a galaxy’s central black hole
+  where it can kick-start an active galactic nucleus. These flows of gas have shaped
+  NGC 5248 in a big way; it has many bright ‘starburst regions’ of intense star formation
+  spread across its disc, and it is dominated by a population of young stars. The
+  galaxy even has two very active, ring-shaped starburst regions around its nucleus,
+  filled with young clusters of stars. These ‘nuclear rings’ are remarkable enough,
+  but normally a nuclear ring tends to block gas from getting further into the core
+  of a galaxy. NGC 5248 having a second ring inside the first is a marker of just
+  how forceful its flows of matter and energy are! Its relatively nearby, highly visible
+  starburst regions make the galaxy a target for professional and amateur astronomers
+  alike. [Image Description: A close-in, face-on view of a spiral galaxy. It has two
+  large arms which curve outwards from the round, bright central region to nearly
+  the corners of the image. They are lined by bright pink, glowing points where stars
+  are forming, and channels of dark reddish dust that blocks light. These also spread
+  across the galaxy’s oval disc, which is cloudy in form and speckled with stars.
+  A black background is visible behind it.] Links Pan of NGC 5248'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2441a/L{1}X{2}Y{3}.png
+name: Starbursts on grand scale
+ra_hr: 13.625617926807632
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2441a/thumb.jpg
+zoom_level: 0.4668189998322632
+---
+_uuid: 7bc73de5-9645-4696-ad15-54e6abbd4971
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -23.22605043289161
+description: 'This week’s NASA/ESA Hubble Space Telescope Picture of the Week shows
+  a tiny patch of sky in the constellation Hydra. The stars and galaxies depicted
+  here span a mind-bending range of distances. Nearest to us in this image are stars
+  within our own Milky Way galaxy, which are marked by diffraction spikes. The bright
+  star that sits just at the edge of the prominent bluish galaxy is only 3230 light-years
+  away, as measured by ESA''s Gaia space observatory. Behind this star is a galaxy
+  named LEDA 803211. At 622 million light-years distant, this galaxy is close enough
+  that its bright galactic nucleus is clearly visible, as are numerous star clusters
+  scattered around its patchy disc. Many of the more distant galaxies in this frame
+  appear star-like, with no discernible structure, but without the diffraction spikes
+  of a star in our galaxy. Of all the galaxies in this frame, one pair stands out
+  in particular: a smooth golden galaxy encircled by a nearly complete ring in the
+  upper-right corner of the image. This curious configuration is the result of gravitational
+  lensing, in which the light from a distant object is warped and magnified by the
+  gravity of a massive foreground object, like a galaxy or a cluster of galaxies.
+  Einstein predicted the curving of spacetime by matter in his general theory of relativity,
+  and galaxies seemingly stretched into rings like the one in this image are called
+  Einstein rings. The lensed galaxy, whose image we see as the ring, lies incredibly
+  far away from Earth: we are seeing it as it was when the Universe was just 2.5 billion
+  years old. The galaxy acting as the gravitational lens itself is likely much closer.
+  A nearly perfect alignment of the two galaxies is necessary to give us this rare
+  kind of glimpse into galactic life in the early days of the Universe. [Image Description:
+  Many mostly small, bright objects scattered over a dark background in space. In
+  the top half on the right is an elliptical galaxy, a round light larger than the
+  others, with a slightly warped ring of light around it. In the bottom half there
+  is a barred spiral galaxy, big enough that we can see its bluish arms and its core
+  in detail. Other objects include distant galaxies and nearby stars.] Links Pan of
+  LEDA 803211'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2501a/L{1}X{2}Y{3}.png
+name: Ringing in the new year
+ra_hr: 13.948110468576125
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2501a/thumb.jpg
+zoom_level: 0.21864357289147535
+---
+_uuid: 2c5ba313-2409-4ff1-aa61-6085615d3a69
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -23.983254321227275
+description: 'This vibrant spiral galaxy and the subject of today’s NASA/ESA Hubble
+  Space Telescope Picture of the Week is NGC 5042, which resides about 48 million
+  light-years from Earth in the constellation Hydra (the water snake). The galaxy
+  nicely fills the frame of this Hubble image, with a single Milky Way star marked
+  by cross-shaped diffraction spikes attempting to blend in with the bright stars
+  along the galaxy’s edge. Hubble observed NGC 5042 in six wavelength bands from the
+  ultraviolet to the infrared to create this multicoloured portrait. The galaxy’s
+  cream-coloured centre is packed with ancient stars, and the galaxy’s spiral arms
+  are decorated with patches of young blue stars. The elongated yellow-orange objects
+  that are scattered around the image are background galaxies far more distant than
+  NGC 5042. Perhaps NGC 5042’s most striking feature is its collection of brilliant
+  pink gas clouds that are studded throughout its spiral arms. These flashy clouds
+  are called H II (pronounced “H-two”) regions, and they get their distinctive colour
+  from hydrogen atoms that have been ionised by ultraviolet light. If you look closely
+  at this image, you’ll see that many of these reddish clouds are associated with
+  clumps of blue stars, often appearing to form a shell around the stars. H II regions
+  arise in expansive clouds of hydrogen gas, and only hot and massive stars produce
+  enough high-energy light to create an H II region. Because the stars capable of
+  creating H II regions only live for a few million years — just a blink of an eye
+  in galactic terms — this image represents a fleeting snapshot of life in this galaxy.
+  [Image Description: A spiral galaxy. It’s noticeably bright around the central region
+  of its disc, then dims somewhat out to the edge where there are fewer stars. Two
+  spiral arms circle through the disc and emerge beyond its edge, around the galaxy’s
+  sides. Many pink spots of new star formation, as well as dark reddish strands of
+  dust, cover the galaxy. The arms contain some speckled, blue patches containing
+  hot stars.] Links Pan of NGC 5042'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2509a/L{1}X{2}Y{3}.png
+name: A spiral of the water snake
+ra_hr: 13.258595226296816
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2509a/thumb.jpg
+zoom_level: 0.4413616073611294
+---
+_uuid: f0328d49-2e0f-42af-9821-9ec9abb2f810
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 2.4992661299966725
+description: 'This NASA/ESA Hubble Space Telescope Picture of the Week features a
+  sparkling spiral galaxy paired with a prominent star, both in the constellation
+  Virgo. While the galaxy and the star appear to be close to one another, even overlapping,
+  they’re actually a great distance apart. The star, which is marked with four long
+  diffraction spikes, is in our own galaxy. It’s just 7109 light-years away from Earth.
+  The galaxy, which is named NGC 4900, lies about 45 million light-years from Earth.
+  This image combines data from two of Hubble’s instruments: the Advanced Camera for
+  Surveys, which was installed in 2002 and is still in operation today, and the older
+  Wide Field and Planetary Camera 2, which was in use from 1993 to 2009. The data
+  used here were taken more than 20 years apart for two different observing programmes
+  — a real testament to Hubble’s long scientific lifetime! Both programmes aimed to
+  understand the demise of massive stars. In one, researchers studied the sites of
+  past supernovae, aiming to estimate the masses of the stars that exploded and investigate
+  how supernovae interact with their surroundings. NGC 4900 was selected for study
+  because it hosted a supernova named SN 1999br. In the other programme, researchers
+  laid the groundwork for studying future supernovae by collecting images of more
+  than 150 nearby galaxies. After a supernova is detected in one of these galaxies,
+  researchers can examine these images, searching for a star at the location of the
+  supernova. Identifying a supernova progenitor star in pre-explosion images gives
+  valuable information about how, when and why supernovae occur. [Image Description:
+  A spiral galaxy seen face-on. Broken spiral arms made of blue patches of stars and
+  thin strands of dark dust swirl around the galaxy’s centre, forming a broad, circular
+  disc. An extended circular halo surrounds the disc. The centre is a brightly-glowing,
+  stubby bar-shaped area in a pale yellow colour. A bright star in our own galaxy,
+  with long cross-shaped diffraction spikes, is visible atop the distant galaxy.]
+  Links Pan of NGC 4900'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2510a/L{1}X{2}Y{3}.png
+name: A spiral and a star
+ra_hr: 13.010993991916937
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2510a/thumb.jpg
+zoom_level: 0.4022370797507893
+---
+_uuid: 70fa0a7c-5c95-4308-9849-3a4984b7d06f
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -5.55104992192116
+description: 'This NASA/ESA Hubble Space Telescope Picture of the Week features the
+  picturesque spiral galaxy NGC 4941, which lies about 67 million light-years from
+  Earth in the constellation Virgo (The Maiden). Because this galaxy is nearby, cosmically
+  speaking, Hubble’s keen instruments are able to pick out exquisite details such
+  as individual star clusters and filamentary clouds of gas and dust. The data used
+  to construct this image were collected as part of an observing programme that investigates
+  the star formation and stellar feedback cycle in nearby galaxies. As stars form
+  in dense, cold clumps of gas, they begin to influence their surroundings. Stars
+  heat and stir up the gas clouds in which they are born through winds, starlight,
+  and — eventually, for massive stars — by exploding as supernovae. These processes
+  are collectively called stellar feedback, and they impact the rate at which a galaxy
+  can form new stars. As it turns out, stars aren’t the only entities providing feedback
+  in NGC 4941. At the heart of this galaxy lies an active galactic nucleus: a supermassive
+  black hole feasting on gas. As the black hole amasses gas from its surroundings,
+  the gas swirls into a superheated disc that glows brightly at wavelengths across
+  the electromagnetic spectrum. Similar to stars — but on a much, much larger scale
+  — active galactic nuclei shape their surroundings through winds, radiation, and
+  powerful jets, altering not only star formation but also the evolution of the galaxy
+  as a whole. [Image Description: A spiral galaxy seen at a diagonal angle. Its very
+  centre is a bright white glowing orb, surrounded by an inner disc of golden light.
+  This is wrapped in a broad outer disc that glows more dimly, with patchy, broken
+  spiral arms swirling around it, filled with small blue and pink star clusters. Dark
+  reddish threads of dust also spiral through the disc, with some strands reaching
+  into the core.] Links Pan of NGC 4941'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2513a/L{1}X{2}Y{3}.png
+name: A galaxy that gives great feedback
+ra_hr: 13.070293569030564
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2513a/thumb.jpg
+zoom_level: 0.4431857660405072
+---
 _uuid: f0cee538-277e-429f-a413-f1dfd1fad721
 classification: ''
 constellation: BOO

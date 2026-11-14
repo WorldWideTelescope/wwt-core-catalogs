@@ -1656,6 +1656,281 @@ name: Fireworks Galaxy
 ra_hr: 20.58138888888889
 zoom_level: 3.92
 ---
+_uuid: a2a75c9e-d022-4df4-adfb-0cc5325820eb
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 60.1542658040657
+description: The galaxy NGC 6946 is nothing short of spectacular. In the last century
+  alone, NGC 6946 has experienced 10 observed supernovae, earning its nickname as
+  the Fireworks Galaxy. In comparison, our Milky Way averages just 1-2 supernova events
+  per century. This NASA/ESA Hubble Space Telescope image shows the stars, spiral
+  arms, and various stellar environments of NGC 6946 in phenomenal detail. We are
+  able to marvel at NGC 6946 as it is a face-on galaxy, which means that we see the
+  galaxy “facing” us, rather than seeing it from the side (known as edge-on). The
+  Fireworks Galaxy is further classified as an intermediate spiral galaxy and as a
+  starburst galaxy. The former means the structure of NGC 6946 sits between a full
+  spiral and a barred spiral galaxy, with only a slight bar in its centre, and the
+  latter means it has an exceptionally high rate of star formation. The galaxy resides
+  25.2 million light-years away, along the border of the northern constellations of
+  Cepheus and Cygnus (The Swan).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2101a/L{1}X{2}Y{3}.png
+name: A Galaxy to Take Your Breath Away
+ra_hr: 20.58146889195194
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2101a/thumb.jpg
+zoom_level: 1.0074654846615623
+---
+_uuid: b14bbcf6-8d5d-4e0c-a230-ce183e28a2ff
+classification: ''
+constellation: IND
+data_set_type: Sky
+dec_deg: -51.875638365961
+description: This NASA/ESA Hubble Space Telescope Picture of the Week features the
+  galaxy NGC 6984, an elegant spiral galaxy in the constellation Indus roughly 200
+  million light-years away from Earth. The galaxy is a familiar sight for Hubble,
+  having already been captured in 2013. The sweeping spiral arms are threaded through
+  with a delicate tracery of dark lanes of gas and dust, and studded with bright stars
+  and luminous star-forming regions. These new observations were made following an
+  extremely rare astronomical event — a double supernova in NGC 6984. Supernovae are
+  unimaginably violent explosions on a truly vast scale, precipitated by the deaths
+  of massive stars. These events are powerful but rare and fleeting — a single supernova
+  can outshine its host galaxy for a brief time. The discovery of two supernovae at
+  virtually the same time and location (in astronomical terms) prompted speculation
+  from astronomers that the two supernovae may somehow be physically linked. Using
+  optical and ultraviolet observations from Hubble’s Wide Field Camera 3, astronomers
+  sought to get a better look at the site of the two supernovae, hopefully allowing
+  them to discover if the two supernova explosions were indeed linked. Their findings
+  could give astronomers important clues into the lives of binary stars. As well as
+  helping to unravel an astronomical mystery, these new observations added more data
+  to the 2013 observations, and allowed this striking new image to be created. The
+  observations — each of which covers only a narrow range of wavelengths — add new
+  details and a greater range of colours to the image. Links Video of Cosmic Fireworks
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2144a/L{1}X{2}Y{3}.png
+name: Cosmic Fireworks
+ra_hr: 20.965567749756968
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2144a/thumb.jpg
+zoom_level: 0.34847614924354214
+---
+_uuid: d8ef0c9d-2b7e-4511-9553-aaa960d62ece
+classification: ''
+constellation: AQL
+data_set_type: Sky
+dec_deg: -0.1512544904583213
+description: This astronomical portrait from the NASA/ESA Hubble Space Telescope showcases
+  an edge-on view of the majestic spiral galaxy UGC 11537. Hubble’s Wide Field Camera
+  3 has captured the tightly wound spiral arms swirling around the heart of UGC 11537
+  at infrared and visible wavelengths, showing both the bright bands of stars and
+  the dark clouds of dust threading throughout the galaxy. UGC 11537 is 230 million
+  light-years away in the constellation Aquila, and lies close to the plane of the
+  Milky Way. Being so close to the starry band of the Milky Way means that foreground
+  stars from our own galaxy have crept into the image — the two prominent stars in
+  front of UGC 11537 are interlopers from within the Milky Way. These bright foreground
+  stars are surrounded by diffraction spikes — imaging artifacts caused by starlight
+  interacting with Hubble’s inner structure. This image came from a set of observations
+  designed to help astronomers weigh supermassive black holes in distant galaxies.
+  The combination of Hubble’s sharp-eyed observations and data from ground-based telescopes
+  allowed astronomers to make detailed models of the mass of stars in these galaxies,
+  which in turn helps constrain the mass of supermassive black holes. Links Video
+  of A Spectacular Side-On Spiral
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2146a/L{1}X{2}Y{3}.png
+name: A Spectacular Side-On Spiral
+ra_hr: 20.31037678327214
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2146a/thumb.jpg
+zoom_level: 0.19769407368357667
+---
+_uuid: 53d7da18-d6cc-405a-9b85-e13c9aea264f
+classification: ''
+constellation: IND
+data_set_type: Sky
+dec_deg: -52.822390077682755
+description: 'The jellyfish galaxy JO175 appears to hang suspended in this image from
+  the NASA/ESA Hubble Space Telescope. This galaxy lies over 650 million light-years
+  from Earth in the appropriately-named constellation Telescopium, and was captured
+  in crystal-clear detail by Hubble’s Wide Field Camera 3. A handful of more distant
+  galaxies are lurking throughout the scene, and a bright four-pointed star lies to
+  the lower right side. Jellyfish galaxies get their unusual name from the tendrils
+  of star-forming gas and dust that trail behind them, just like the tentacles of
+  a jellyfish. These bright tendrils contain clumps of star formation and give jellyfish
+  galaxies a particularly striking appearance. Unlike their ocean-dwelling namesakes,
+  jellyfish galaxies make their homes in galaxy clusters, and the pressure of the
+  tenuous superheated plasma that permeates these galaxy clusters is what draws out
+  the jellyfish galaxies’ distinctive tendrils. Hubble recently completed a deep dive
+  into jellyfish clusters, specifically the star-forming clumps of gas and dust that
+  stud their tendrils. By studying the origins and fate of the stars in these clumps,
+  astronomers hoped to better understand the processes underpinning star formation
+  elsewhere in the Universe. Interestingly, their research suggests that star formation
+  in the discs of galaxies is similar to star formation in the extreme conditions
+  found in the tendrils of jellyfish galaxies. [Image Description: A spiral galaxy.
+  Its spiral arms are studded with many pink spots, especially around the top of the
+  galaxy. One arm is sticking out below the galaxy. From it and around the bottom
+  of the galaxy, faint gas streams away, while little gas is visible above the galaxy.
+  The galaxy is quite small in the centre of a dark background, where a few smaller
+  galaxies of various shapes and sizes hang.] Links Pan: Ghostly galactic jellyfish'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2318a/L{1}X{2}Y{3}.png
+name: Ghostly galactic jellyfish
+ra_hr: 20.855124813448324
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2318a/thumb.jpg
+zoom_level: 0.22272219965866868
+---
+_uuid: 7339a05b-20b0-4ae1-af13-4f1959daa0ca
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 30.37359345509472
+description: 'In this NASA/ESA Hubble Space Telescope Picture of the Week, Hubble
+  has once again lifted the veil on a famous — and frequently photographed — supernova
+  remnant: the Veil Nebula. This nebula is the remnant of a star roughly 20 times
+  as massive as the Sun that exploded about 10 000 years ago. Situated about 2400
+  light-years away in the constellation Cygnus, this photogenic nebula made an appearance
+  as the Picture of the Week previously in 2021. This view combines images taken in
+  three different filters by Hubble’s Wide Field Camera 3 instrument, highlighting
+  emission from hydrogen, sulphur and oxygen atoms. This image shows just a small
+  fraction of the Veil Nebula; if you could see the entire nebula without the aid
+  of a telescope, it would be as wide as six full Moons placed side by side. Look
+  in the sidebar of this page to see this image superimposed on its location in the
+  sky, and try zooming out to compare the size of the full nebula! Although this image
+  captures the Veil Nebula at just a single point in time, it will help researchers
+  understand how the supernova remnant has evolved over decades. Combining this snapshot
+  with Hubble observations from 1994 will reveal the motion of individual knots and
+  filaments of gas over that span of time, enhancing our understanding of this stunning
+  nebula. [Image Description: A colourful, glowing nebula that reaches beyond the
+  top and bottom of the image. It is made of translucent clouds of gas: wispy and
+  thin with hard edges in some places, and puffy and opaque in others. Blue, red and
+  yellow colours mix together, showing light emitted by different types of atoms in
+  the hot gas. Bright and pointlike stars are scattered across the nebula. The background
+  is black.] Links Pan of Veil Nebula'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2508a/L{1}X{2}Y{3}.png
+name: Lifting the veil
+ra_hr: 20.938459196587438
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2508a/thumb.jpg
+zoom_level: 0.44304209537597666
+---
+_uuid: 1397f7e2-f2de-413a-a2ba-afd9fb28fe74
+classification: ''
+constellation: CYG
+data_set_type: Sky
+dec_deg: 44.65382241713435
+description: 'The swirling, paint-like clouds in the darkness of space in this stunning
+  image seem surreal, like a portal to another world opening up before us. In fact,
+  the subject of this ESA/Hubble Picture of the Week is very real. We are seeing vast
+  clouds of ionised atoms and molecules, thrown into space by a dying star. This is
+  a planetary nebula named Kohoutek 4-55, a member of the Milky Way galaxy situated
+  just 4600 light-years away in the constellation Cygnus (the Swan). Planetary nebulae
+  are the spectacular final display at the end of a giant star’s life. Once a red
+  giant star has exhausted its available fuel and shed its last layers of gas, its
+  compact core will contract further, enabling a final burst of nuclear fusion. The
+  exposed core reaches extremely hot temperatures, radiating very energetic ultraviolet
+  light that energises the enormous clouds of cast-off gas. Molecules in the gas are
+  ionised and glow brightly; here, red and orange indicate nitrogen molecules, green
+  is hydrogen and blue shows oxygen in the nebula. Kohoutek 4-55 has an uncommon,
+  multi-layered form: a bright inner ring is surrounded by a fainter layer of gas,
+  all wrapped in a broad halo of ionised nitrogen. The spectacle is bittersweet, as
+  the brief phase of fusion in the core will end after mere tens of thousands of years,
+  leaving a white dwarf that will never illuminate the clouds around it again. This
+  image itself is also a swan song, the final work of one of Hubble’s instruments:
+  the Wide Field and Planetary Camera 2 (WFPC2). Installed in 1993 to replace the
+  original Wide Field and Planetary Camera, WFPC2 was responsible for some of Hubble’s
+  most enduring images and fascinating discoveries. It in turn was replaced by the
+  Wide Field Camera 3 in 2009, during Hubble’s final servicing mission. The data for
+  this image were taken a mere ten days before the instrument was removed from the
+  telescope, as a fitting send-off for WFPC2 after 16 years’ work. The latest and
+  most advanced processing techniques have been used to bring the data to life one
+  more time, producing this breathtaking new view of Kohoutek 4-55. [Image Description:
+  A planetary nebula, a glowing shell of material thrown off by a star. A small central
+  region of greenish clouds is encircled by a glowing, jagged ring, like a hole torn
+  in fabric. A band of silvery-blue clouds outside this is again encircled by a larger,
+  fainter yellow ring of gas. Puffy, smoky clouds of orange and red gas billow out
+  from there into a large oval nebula, fading into the dark background of space.]
+  Links Pan of Kohoutek 4-55'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2514a/L{1}X{2}Y{3}.png
+name: Swan song for stars and cameras
+ra_hr: 20.752791253404197
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2514a/thumb.jpg
+zoom_level: 0.24011683143542895
+---
+_uuid: 9b3172c3-9520-4f1a-8e7e-a1a154e122f8
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: -12.536510164666781
+description: 'As part of ESA/Hubble’s 35th anniversary celebrations, a new image series
+  has been shared throughout April to revisit stunning Hubble targets that were previously
+  released. New images of NGC 346, the Sombrero Galaxy, and the Eagle Nebula have
+  already been published. Now, ESA/Hubble is revisiting the star cluster Messier 72
+  (M72) with new data and image processing techniques. M72 is a particularly special
+  target because it was the first image ever published in the ESA/Hubble Picture of
+  the Week series, on 22 April 2010. For fifteen years, the ESA/Hubble team has been
+  publishing a new Hubble image every Monday for everyone to enjoy. This has resulted
+  in nearly 800 images being added to the vast Hubble image archive over the years.
+  M72 is a collection of stars, formally known as a globular cluster, located in the
+  constellation Aquarius roughly 50 000 light years from Earth. The intense gravitational
+  attraction between the closely packed stars gives globular clusters their regular,
+  spherical shape. Roughly 150 clusters such as this have been discovered in the Milky
+  Way galaxy. The striking variety in the colour of the stars in this image of M72,
+  particularly compared to the original image, results from adding ultraviolet observations
+  to the previous visible-light data. The colours indicate groups of different types
+  of stars. Blue stars are those in the cluster that were originally more massive,
+  and have now reached hotter temperatures after burning through much of their hydrogen
+  fuel; the bright red objects are lower-mass stars that have now become red giants.
+  Studying these different groups help astronomers to understand how globular clusters,
+  and the galaxies they were born in, initially formed. Pierre Méchain, a French astronomer
+  and colleague of Charles Messier, discovered M72 in 1780. It was the first of five
+  star clusters that Méchain would discover while assisting Messier. It was recorded
+  as the 72nd entry in Messier’s famous collection of astronomical objects, and the
+  object is also one of the most remote clusters in the catalogue. The ESA/Hubble
+  science outreach team invites members of the public as well as all scientists who
+  have had (or will have) approved Hubble observing time to contact us if you feel
+  you have aesthetically appealing yet visually informative image data that could
+  be featured in this series! [Image Description: A cluster of many thousands of bright
+  stars. In the centre most of the stars are blue, while this centre is surrounded
+  by a thick shell of yellower stars, seen in differing sizes according to their position
+  in the spherical star cluster. They spread out beyond the edges of the image, becoming
+  smaller and more sparse only at the corners. A distant spiral galaxy is also visible
+  in the very corner.] Links: Pan of M72'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2516a/L{1}X{2}Y{3}.png
+name: A glittering cluster shines again
+ra_hr: 20.891107467876346
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2516a/thumb.jpg
+zoom_level: 0.5562817923663527
+---
+_uuid: 44076698-101a-47a6-97e5-4bb897f6edcf
+classification: ''
+constellation: CEP
+data_set_type: Sky
+dec_deg: 66.10248600910879
+description: 'The glittering galaxy in this NASA/ESA Hubble Space Telescope Picture
+  of the Week is NGC 6951, which resides about 70 million light-years away in the
+  constellation Cepheus. As this Hubble image shows, NGC 6951 is a spiral galaxy with
+  plenty of intriguing structures. Most eye-catching are its spiral arms, which are
+  dotted with brilliant red nebulae, bright blue stars and filamentary dust clouds.
+  The spiral arms loop around the galactic centre, which has a golden glow that comes
+  from a population of older stars. The centre of the galaxy is also distinctly elongated,
+  revealing the presence of a slowly rotating bar of stars. NGC 6951’s bar may be
+  responsible for another remarkable feature: a white-blue ring that encloses the
+  very heart of the galaxy. This is called a circumnuclear starburst ring — essentially,
+  a circle of enhanced star formation around the nucleus of a galaxy. The bar funnels
+  gas toward the centre of the galaxy, where it collects in a ring about 3800 light-years
+  across. Two dark dust lanes that run parallel to the bar mark the points where gas
+  from the bar enters the ring. The dense gas of a circumnuclear starburst ring is
+  the perfect environment to churn out an impressive number of stars. Using data from
+  Hubble, astronomers have identified more than 80 potential star clusters within
+  NGC 6951’s ring. Many of the stars formed less than 100 million years ago, but the
+  ring itself is longer-lived, potentially having existed for 1–1.5 billion years.
+  Astronomers have imaged NGC 6951 with Hubble for a wide variety of reasons, including
+  mapping the dust in nearby galaxies, studying the centres of disc galaxies and keeping
+  tabs on recent supernovae (of which NGC 6951 has hosted five or six). [Image Description:
+  A spiral galaxy with large, open arms. A bar of yellow light, where old stars are
+  gathered, crosses the middle of the disk. The very centre is a white point surrounded
+  by a small, shining ring of star clusters. Thin lanes of dust swirl around this
+  ring, reaching out to follow the spiral arms; also visible across the arms are red,
+  glowing spots where stars are forming. To the right a star shines large and bright.]
+  Links Pan: NGC 6951'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2540a/L{1}X{2}Y{3}.png
+name: Starbursting centre
+ra_hr: 20.62156912051865
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2540a/thumb.jpg
+zoom_level: 0.5173889704253256
+---
 _uuid: 2c96601e-f880-4af7-a62c-ca7e7648b80b
 classification: ''
 constellation: DEL

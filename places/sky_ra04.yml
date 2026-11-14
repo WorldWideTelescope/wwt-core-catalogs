@@ -1453,6 +1453,588 @@ name: California Nebula
 ra_hr: 4.00055555555556
 zoom_level: 43.2
 ---
+_uuid: b3dc54e8-aaaf-4fc9-8f11-99f785e94fcc
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 26.961330806167382
+description: 'FS Tau is a multi-star system made up of FS Tau A, the bright star-like
+  object near the middle of the image, and FS Tau B (Haro 6-5B), the bright object
+  to the far right that is partially obscured by a dark, vertical lane of dust. The
+  young objects are surrounded by softly illuminated gas and dust of this stellar
+  nursery. The system is only about 2.8 million years old, very young for a star system.
+  Our Sun, by contrast, is about 4.6 billion years old. FS Tau B is a newly forming
+  star, or protostar, and is surrounded by a protoplanetary disc, a pancake-shaped
+  collection of dust and gas leftover from the formation of the star that will eventually
+  coalesce into planets. The thick dust lane, seen nearly edge-on, separates what
+  are thought to be the illuminated surfaces of the disc. FS Tau B is likely in the
+  process of becoming a T Tauri star, a type of young variable star that hasn’t begun
+  nuclear fusion yet but is beginning to evolve into a hydrogen-fueled star similar
+  to our Sun. Protostars shine with the heat energy released as the gas clouds from
+  which they are forming collapse, and from the accretion of material from nearby
+  gas and dust. Variable stars are a class of star whose brightness changes noticeably
+  over time. FS Tau A is itself a T Tauri binary system, consisting of two stars orbiting
+  each other. Protostars are known to eject fast-moving, column-like streams of energised
+  material called jets, and FS Tau B provides a striking example of this phenomenon.
+  The protostar is the source of an unusual asymmetric, double-sided jet, visible
+  here in blue. Its asymmetrical structure may be because mass is being expelled from
+  the object at different rates. FS Tau B is also classified as a Herbig-Haro object.
+  Herbig–Haro objects form when jets of ionised gas ejected by a young star collide
+  with nearby clouds of gas and dust at high speeds, creating bright patches of nebulosity.
+  FS Tau is part of the Taurus-Auriga region, a collection of dark molecular clouds
+  that are home to numerous newly forming and young stars, roughly 450 light-years
+  away in the constellations of Taurus and Auriga. Hubble has previously observed
+  this region, whose star-forming activity makes it a compelling target for astronomers.
+  Hubble made these observations as part of an investigation of edge-on dust discs
+  around young stellar objects. [Image description: A bright point of light shines
+  near center-right with diffraction spikes, surrounded by glowing clouds against
+  black space. A blue jet of material extends roughly throughout the center of the
+  image, partially obscured by the clouds.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2406a/L{1}X{2}Y{3}.png
+name: FS Tau
+ra_hr: 4.367541070220698
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2406a/thumb.jpg
+zoom_level: 0.310633160655362
+---
+_uuid: 2f92e1a7-34fe-4658-a8c8-fcadd29156dc
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -50.29133626059212
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. This oval-shaped galaxy
+  is perhaps most striking for the long, thin beam of light stretching across its
+  centre. This is thought to be the result of a galaxy merger. A less conspicuous
+  feature is the small arc of light just below the galaxy’s core. This is thought
+  to be the secondary galaxy in the merger, or a potential image formed by gravitational
+  lensing, where the mass of the foreground galaxy has bent light from a distant galaxy
+  behind it to create the small arc of light. Read more about this new research here.
+  [Image description: A small image of an elliptical galaxy. It is bright in the centre
+  and a beam of light crosses it on the long axis. The rest of the galaxy is lit by
+  the pale gold glow from the centre. Below the centre sits a small arc of light with
+  a bright spot on it.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603c/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Merging galaxies 1
+ra_hr: 4.726984415509839
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603c/thumb.jpg
+zoom_level: 0.021160820607311052
+---
+_uuid: 7ee84d02-79ba-43b1-b1a2-05357f2ff9f6
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -24.311847336002955
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. A small collection of
+  gravitationally interacting galaxies has been found here. Galaxy mergers are relatively
+  common — they were the most abundant type of anomaly found by the researchers —
+  and are easily identified by the distorted shapes of the galaxies’ discs and the
+  tidal tails stretching out between them, caused by the massive gravitational forces
+  slowly pulling each galaxy apart. Eventually the galaxies we see here will be totally
+  disrupted and finally settle into the shape of a single galaxy, most likely an elliptical
+  galaxy. Read more about this new research here. [Image description: A small image
+  of several galaxies with distorted shapes. The central galaxy is bluish in colour
+  with a bright centre. It is stretched out into a long, curled bar. At one end sits
+  a reddish galaxy which the bar curves around.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603d/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Merging galaxies 2
+ra_hr: 4.14910710608746
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603d/thumb.jpg
+zoom_level: 0.019755964413496453
+---
+_uuid: 112373a2-9330-4083-99dc-069458152a9b
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -11.911684325331665
+description: 'The NASA/ESA Hubble Space Telescope completed its 200,000th orbit around
+  Earth on 19 September 2026, marking another new milestone for an observatory that
+  continues to transform our understanding of the Universe. Hubble has traveled more
+  than 8 billion kilometres around Earth over its 36-year lifetime, exceeding 1.7
+  million total observations. An observation completed on the day of the 200,000th
+  orbit pertains to one of Hubble’s defining scientific legacies: measuring the expansion
+  rate of the universe, or the Hubble Constant. The image takes advantage of the telescope’s
+  ability to return to the same regions of the sky over time to monitor for the reappearance
+  of a supernova, or explosion of a star, called Athena. Massive galaxy cluster MACS
+  J0417, located at the left center of the image, acts as a gravitational lens, bending
+  and magnifying light from objects far behind it. Light from a supernova can reach
+  Earth along multiple paths, causing the same stellar explosion to appear more than
+  once at times separated by months or even years depending on the path it took. Supernova
+  Athena, discovered by the NASA/ESA/CSA James Webb Space Telescope in 2025, is predicted
+  to reappear between now and early March 2027. Measuring the timing of Athena’s reappearances
+  can help researchers map the mass of MACS J0417, which acts as a magnifying, foreground
+  lens for distant objects, and refine our understanding of the expansion rate of
+  the universe. After more than 36 years in space, Hubble still is reaching new heights
+  of scientific productivity and impact. Hubble’s unique ability to observe and analyze
+  light in ultraviolet and visible wavelengths complements other observatories’ capabilities.
+  As a result, demand for Hubble observing time remains high as astronomers request
+  about seven times as much observing time as is available each year. Hubble continues
+  to observe targets across every area of astronomy around the clock. [Image description:
+  A dense galaxy cluster fills the image, with bright galaxies concentrated near the
+  centre and numerous more distant galaxies visible throughout the dark background,
+  including several faint, elongated arcs distorted by gravitational lensing.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2623/L{1}X{2}Y{3}.png
+name: Hubble seeks lensed supernova, marks 200,000 orbits
+ra_hr: 4.2928507934849
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2623/thumb.jpg
+zoom_level: 0.22545649690128605
+---
+_uuid: 4a488cb4-56ac-4ae7-a170-30af97dfa457
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 0.8618660094221129
+description: The subject of this Picture of the Week, a spiral galaxy named NGC 1589,
+  was once the scene of a violent bout of cosmic hunger pangs; as astronomers looked
+  on, a poor, hapless star was torn apart and devoured by the ravenous supermassive
+  black hole at the centre of the galaxy. The astronomers are now using the NASA/ESA
+  Hubble Space Telescope to test this interpretation. Hubble has observed such events
+  before so the scientists are confident that Hubble will be able to provide smoking
+  gun evidence in the form of stellar debris that was ejected during the disruption
+  event.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2010a/L{1}X{2}Y{3}.png
+name: Hunger Pangs
+ra_hr: 4.512483669880069
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2010a/thumb.jpg
+zoom_level: 0.19634799813567844
+---
+_uuid: f996ce20-6529-4a25-ba50-38550e115130
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -8.580639050989138
+description: NGC 1614, captured here by the NASA/ESA Hubble Space Telescope, is an
+  eccentrically-shaped galaxy ablaze with activity. The galaxy resides about 200 million
+  light-years from Earth and is nestled in the southern constellation of Eridanus
+  (The River). NGC 1614 is the result of a past galactic merger which created its
+  peculiar appearance. The cosmic collision also drove a turbulent flow of interstellar
+  gas from the smaller of the two galaxies involved into the nucleus of the larger
+  one, resulting in a burst of star formation which started in the core and slowly
+  spread outwards through the galaxy. Owing to its turbulent past and its current
+  appearance, astronomers classify NGC 1614 as a peculiar galaxy, a starburst galaxy,
+  and a luminous infrared galaxy. Luminous infrared galaxies are among the most luminous
+  objects in the local Universe — and NGC 1614 is, in fact, the second most luminous
+  galaxy within 250 million light-years.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2032a/L{1}X{2}Y{3}.png
+name: Ring of Stellar Wildfire
+ra_hr: 4.566680934969915
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2032a/thumb.jpg
+zoom_level: 0.3732942450238007
+---
+_uuid: 4ba97ed9-9563-4f72-b821-7b3a2c6f4f96
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -68.20520411358797
+description: The open star cluster NGC 1755 resembles a pinch of salt strewn on a
+  jet-black tablecloth in this image from the NASA/ESA Hubble Space Telescope. This
+  collection of stars resides in one the Milky Way’s near neighbours — the Large Magellanic
+  Cloud — and measures 120 light-years from side to side. Despite this impressive
+  breadth, NGC 1755 is a member of the smaller class of star clusters. Star clusters
+  are gravitationally bound collections of stars, and come in two main varieties —
+  smaller open clusters like NGC 1755, which are hosts to younger stars, and gargantuan
+  globular clusters, which can contain millions of older stars. Hubble gazed into
+  the heart of NGC 1755 in order to better understand how different populations of
+  stars can co-exist in a single cluster. A population of stars is a group of stars
+  with similar properties such as age or chemical composition, and these populations
+  provide astronomers with valuable insights into the births, lives, and deaths of
+  stars. Clusters in the Magellanic Clouds are particularly useful natural laboratories
+  thanks to the Clouds’ proximity to the Milky Way. Hubbles’s eagle-eyed vision was
+  a vital asset when observing NGC 1755 — with so many stars packed into a small area
+  of sky, Hubble’s high-resolution Advanced Camera for Surveys and Wide Field Camera
+  3 allowed individual stars in the cluster to be distinguished.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2151a/L{1}X{2}Y{3}.png
+name: A Sprinkling of Stars
+ra_hr: 4.920902175608299
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2151a/thumb.jpg
+zoom_level: 0.3507186597033695
+---
+_uuid: 62c4fd21-1c19-4544-a85b-02f47309338f
+classification: ''
+constellation: PIC
+data_set_type: Sky
+dec_deg: -53.36120814045091
+description: The dwarf galaxy NGC 1705 is featured in this image from the NASA/ESA
+  Hubble Space Telescope. This diminutive galaxy lies in the southern constellation
+  Pictor, and is approximately 17 million light-years from Earth. NGC 1705 is a cosmic
+  oddball — it is small, irregularly shaped, and has recently undergone a spate of
+  star formation known as a starburst. Despite these eccentricities, NGC 1705 and
+  other dwarf irregular galaxies like it can provide valuable insights into the overall
+  evolution of galaxies. Dwarf irregular galaxies tend to contain few elements other
+  than hydrogen or helium, and are considered to be similar to the earliest galaxies
+  that populated the Universe. The data shown in this image come from a series of
+  observations designed to unveil the interplay between stars, star clusters, and
+  ionised gas in nearby star-forming galaxies. By observing a specific wavelength
+  of light known as H-alpha with Hubble’s Wide Field Camera 3, astronomers aimed to
+  discover thousands of emission nebulae — regions created when hot, young stars bathe
+  the clouds of gas surrounding them in ultraviolet light, causing them to glow. This
+  is not the first time that NGC 1705 has been imaged by Hubble — astronomers peered
+  into the heart of the galaxy in 1999 using Hubble’s workhorse camera at the time,
+  the Wide Field Planetary Camera 2. This instrument was replaced with the Wide Field
+  Camera 3 during the fifth and final Space Shuttle mission to Hubble in 2009, and
+  the newer instrument has provided a richer and far more detailed portrait of NGC
+  1705 than the 1999 observation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2205a/L{1}X{2}Y{3}.png
+name: Hubble Revisits a Galactic Oddball
+ra_hr: 4.903875507059918
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2205a/thumb.jpg
+zoom_level: 0.246260651807573
+---
+_uuid: 0df61ecc-80cf-4a9f-9c0a-5294cfc0a769
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -39.18475326749272
+description: 'The galaxy merger Arp-Madore 417-391 steals the spotlight in this image
+  from the NASA/ESA Hubble Space Telescope. The Arp-Madore catalogue is a collection
+  of particularly peculiar galaxies spread throughout the southern sky, and includes
+  a collection of subtly interacting galaxies as well as more spectacular colliding
+  galaxies. Arp-Madore 417-391, which lies around 670 million light-years away in
+  the constellation Eridanus in the southern celestial hemisphere, is one such galactic
+  collision. The two galaxies have been distorted by gravity and twisted into a colossal
+  ring, leaving the cores of the two galaxies nestled side by side. Hubble used its
+  Advanced Camera for Surveys (ACS) to capture this scene — the instrument is optimised
+  to hunt for galaxies and galaxy clusters in the ancient Universe. Hubble’s ACS has
+  been contributing to scientific discovery for 20 years, and throughout its lifetime
+  it has been involved in everything from mapping the distribution of dark matter
+  to studying the evolution of galaxy clusters. This image comes from a selection
+  of Hubble observations designed to create a list of intriguing targets for follow-up
+  observations with the NASA/ESA/CSA James Webb Space Telescope, as well as other
+  ground-based telescopes. Astronomers chose a list of previously unobserved galaxies
+  for Hubble to inspect between other scheduled observations. Over time, this lets
+  astronomers build up a menagerie of interesting galaxies while using Hubble’s limited
+  observing time as fully as possible. [Image description: Two galaxies right of centre
+  form a ring shape. The ring is narrow and blue, and the cores of the two galaxies
+  form a bulge on the ring’s side. A bright, orange star lies above the ring. Two
+  smaller spiral galaxies appear left of centre, as well as a few stars. The background
+  is black and speckled with very small stars and galaxies.] Links Video of Hubble
+  Hunts an Unusual Galaxy'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2247a/L{1}X{2}Y{3}.png
+name: Hubble Hunts an Unusual Galaxy
+ra_hr: 4.32834338901177
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2247a/thumb.jpg
+zoom_level: 0.5129698694876319
+---
+_uuid: b31d5a73-b551-4110-8366-eaec8f6778b4
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -54.937577369640344
+description: 'This vibrant and dynamic-looking image features the spiral galaxy NGC
+  1566, which is sometimes informally referred to as the ‘Spanish Dancer Galaxy’.
+  Like the subject of another recent Hubble Picture of the Week, NGC 1566 is a weakly-barred
+  or intermediate spiral galaxy, meaning that it does not have either a clearly present
+  or a clearly absent bar-shaped structure at its centre. The galaxy owes its nickname
+  to the vivid and dramatic swirling lines of its spiral arms, which could evoke the
+  shapes and colours of a dancer’s moving form. NGC 1566 lies around 60 million light-years
+  from Earth in the constellation Dorado, and is also a member of the Dorado galaxy
+  group. Galaxy groups are assemblages of gravitationally bound galaxies. Groups differ
+  from galaxy clusters in size and mass: galaxy clusters may contain hundreds of galaxies,
+  whereas groups might contain several tens of galaxies. That said, there is not a
+  precise delineation between the definition of a galaxy group and a galaxy cluster.
+  Some astronomers have proposed that the definitions be sharpened up, with one suggestion
+  that galaxy aggregations with less mass than 80 trillion Suns should qualify as
+  galaxy groups. The Dorado group has had a fluctuating membership over the past few
+  decades, with various scientific papers changing its list of constituent galaxies.
+  As an example of why it is so challenging for astronomers to pin down members of
+  groups such as the Dorado group, we can imagine a photograph of an adult human and
+  a large oak tree. We have foreknowledge of the approximate size of the person and
+  the tree, so if we were to see a photo where the person appeared roughly the same
+  size as the tree, then we would be able to guess that, in reality, the person was
+  positioned much closer to the camera than the tree was, giving the false impression
+  that they were the same size. When working out members of a galaxy group, astronomers
+  are not necessarily equipped with the knowledge of the size of the individual galaxies,
+  and so have to work out whether galaxies really are relatively close together in
+  space, or whether some of them are actually much closer or much further away. This
+  has become easier with more sophisticated observation techniques, but still sometimes
+  presents a challenge. [Image Description: A spiral galaxy. The entire galaxy is
+  displayed, centred and face-on to the viewer. It has two spiral arms that each make
+  only a half-turn from start to finish, resembling the shape of a comma. Lanes of
+  dark dust follow the arms into the centre, and split into many fibres that swirl
+  around the glowing galactic core. Bright pink blooms along the arms show areas of
+  new star formation.] Links Pan: The dancer in Dorado'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2344a/L{1}X{2}Y{3}.png
+name: The dancer in Dorado
+ra_hr: 4.333471383470679
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2344a/thumb.jpg
+zoom_level: 0.4669891780380616
+---
+_uuid: 66661f17-67e7-4d9f-a0c5-1579252ea43c
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -83.9976598080434
+description: 'This densely populated group of stars is the globular cluster known
+  as NGC 1841, which is found within the Large Magellanic Cloud (LMC), a satellite
+  galaxy to the Milky Way galaxy that lies about 162 000 light-years away. Satellite
+  galaxies are galaxies that are bound by gravity in orbits around a more massive
+  host galaxy. We typically think of our galaxy’s nearest galactic companion as being
+  the Andromeda Galaxy, but it would be more accurate to say that Andromeda is the
+  nearest galaxy that is not in orbit around the Milky Way galaxy. In fact, our galaxy
+  is orbited by tens of known satellite galaxies that are far closer than Andromeda,
+  the largest and brightest of which is the LMC, which is easily visible to the naked
+  eye from the southern hemisphere (although this is decreasingly the case thanks
+  to light pollution). The LMC is home to many globular clusters. These celestial
+  bodies fall somewhere between open clusters — which are much less dense and tightly
+  bound — and small, compact galaxies. Increasingly sophisticated observations have
+  revealed the stellar populations and other characteristics of globular clusters
+  to be varied and complex, and it is not well understood how these tightly-packed
+  clusters form. However, there are certain consistencies across all globular clusters:
+  they are very stable and so are capable of lasting a long time, and can therefore
+  be very old. This means that globular clusters often contain large numbers of very
+  old stars, which make them something akin to celestial ‘fossils’. Just as fossils
+  provide insight into the early development of life on Earth, globular clusters such
+  as NGC 1841 can provide insights into very early star formation in galaxies. [Image
+  Description: A cluster of stars. Most of the stars are very small and uniform in
+  size, and they are notably bluish and cluster more densely together towards the
+  centre of the image. Some appear larger in the foreground. The stars give way to
+  a dark background at the corners.] Links Pan: Celestial fossils'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2409a/L{1}X{2}Y{3}.png
+name: Celestial fossils
+ra_hr: 4.755758123342323
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2409a/thumb.jpg
+zoom_level: 0.3422683344697545
+---
+_uuid: 240f528e-e9a2-42d1-ab99-db48db610ceb
+classification: ''
+constellation: RET
+data_set_type: Sky
+dec_deg: -62.78631446785438
+description: 'The magnificent galaxy featured in this Hubble Picture of the Week is
+  NGC 1559. It is a barred spiral galaxy located in the constellation Reticulum near
+  the Large Magellanic Cloud, but much more distant at approximately 35 million light-years
+  from Earth. Hubble last visited this object in 2018. The brilliant light captured
+  in this image offers a wealth of information, which thanks to Hubble can be put
+  to use by both scientists and the public. This picture is composed of a whopping
+  ten different images taken by the Hubble Space Telescope, each filtered to collect
+  light from a specific wavelength or range of wavelengths. It spans Hubble’s sensitivity
+  to light, from ultraviolet around 275 nanometres through blue, green and red to
+  near-infrared at 1600 nanometres. This allows information about many different astrophysical
+  processes in the galaxy to be recorded: a notable example is the red 656-nanometre
+  filter used here. Hydrogen atoms which get ionised can emit light at this particular
+  wavelength, called H-alpha emission. New stars forming in a molecular cloud, made
+  mostly of hydrogen gas, emit copious amounts of ultraviolet light which is absorbed
+  by the cloud, but which ionises it and causes it to glow with this H-alpha light.
+  Therefore, filtering to detect only this light provides a reliable means to detect
+  areas of star formation (called H II regions), shown in this image by the bright
+  red and pink colours of the blossoming patches filling NGC 1559’s spiral arms. These
+  ten images come from six different observing programmes with Hubble, running from
+  2009 all the way up to the present year. These programmes were led by teams of astronomers
+  from around the world with a variety of scientific goals, ranging from studying
+  ionised gas and star formation, to following up on a supernova, to tracking variable
+  stars as a contribution to calculating the Hubble constant. The data from all of
+  these observations live on in the Hubble archive, available for anyone to use —
+  not only for new science, but also to create spectacular images like this one! This
+  image of NGC 1559, then, is a reminder of the incredible opportunities that the
+  Hubble Space Telescope has provided and continues to provide. Besides Hubble’s observations,
+  astronomers are using the NASA/ESA/CSA James Webb Space Telescope to research this
+  galaxy in even greater depth. This Webb image from February showcases the galaxy
+  in near- and mid-infrared light. [Image Description: A spiral galaxy, tilted at
+  an angle, with irregularly-shaped arms. It appears large and close-up. The centre
+  glows in a yellowish colour, while the disc around it is a bluer colour, due to
+  light from older and newer stars. Dark reddish threads of dust cover the galaxy,
+  and there are many large, shining pink spots in the disc, where stars are forming.]
+  Links Pan of NGC 1559'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2438a/L{1}X{2}Y{3}.png
+name: The light of knowledge
+ra_hr: 4.293855040784328
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2438a/thumb.jpg
+zoom_level: 0.4804188367263038
+---
+_uuid: 8a3fb3ad-6c31-4c0a-9eb1-5d50d075c7b0
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -59.243403025395935
+description: 'This Hubble Picture of the week features NGC 1672, a barred spiral galaxy
+  located 49 million light-years from Earth in the constellation Dorado. This galaxy
+  is a multi-talented light show, showing off an impressive array of different celestial
+  lights. Like any spiral galaxy, its disc is filled with billions of shining stars
+  that give it a beautiful glow. Along its two large arms, bubbles of hydrogen gas
+  are made to shine a striking red light by the powerful radiation of newly-forming
+  stars within. Near to the centre lie some particularly spectacular stars; newly-formed
+  and extremely hot, they are embedded in a ring of hot gas and are emitting powerful
+  X-rays. And in the very centre sits an even more brilliant source of X-rays, an
+  active galactic nucleus created by the heated accretion disc around NGC 1672’s supermassive
+  black hole; this makes NGC 1672 a Seyfert galaxy. But a highlight of this image
+  is the most fleeting and temporary of these lights: supernova SN 2017GAX, visible
+  in just one of the six Hubble images that make up this composite image. This was
+  a Type I supernova caused by the core-collapse and subsequent explosion of a giant
+  star, going from invisibility to a new light in the sky in just a matter of days.
+  In that image from later that year, the supernova is already fading, and so is only
+  just visible here as a small green dot, just below the crook of the spiral arm on
+  the right side. In fact this was on purpose, as astronomers wanted to look for any
+  companion star that the supernova progenitor may have had — something impossible
+  to spot beside a live supernova! For a closer look at the supernova’s appearance,
+  you can compare the two images with this slider tool. Recently, NGC 1672 was also
+  among a crop of galaxies imaged with the NASA/ESA/CSA James Webb Space Telescope,
+  showing the ring of gas and the structure of dust in its spiral arms. A Hubble image
+  was also released previously in 2007. [Image Description: A spiral galaxy with an
+  oval-shaped disc. Two large arms curve out away from the ends of the disc. The arms
+  are traced by bright pink patches where stars are forming and by dark reddish threads
+  of dust. The core is very bright and star-filled. Some large stars appear in front
+  of the galaxy. Directly under the point where the right arm joins the disc, a fading
+  supernova is visible as a green dot.] Links Slider tool Image B (Collage of galaxy
+  with / without supernova) Image C (NGC 1672 without supernova) 3D files Pan of NGC
+  1672'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2445a/L{1}X{2}Y{3}.png
+name: Galaxy light show
+ra_hr: 4.762299329037544
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2445a/thumb.jpg
+zoom_level: 0.5231926836895707
+---
+_uuid: 48f0c2fb-89d9-4f13-8dd2-04632f6c9a68
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -2.8577885986764535
+description: 'The subject of this NASA/ESA Hubble Space Telescope Picture of the Week
+  is NGC 1637, a spiral galaxy located 38 million light-years from Earth in the constellation
+  Eridanus. This image comes from an observing programme dedicated to studying star
+  formation in nearby galaxies. Stars form in cold, dusty gas clouds that collapse
+  under their own gravity. As young stars grow, they heat their nurseries through
+  starlight, winds, and powerful outflows. Together, these factors play a role in
+  controlling the rate at which future generations of stars form. Evidence of star
+  formation is scattered all around NGC 1637, if you know where to look. The galaxy’s
+  spiral arms are dotted with what appear to be pink clouds, many of which are accompanied
+  by bright blue stars. The pinkish colour comes from hydrogen atoms that have been
+  excited by ultraviolet light from young, massive stars. This contrasts with the
+  warm yellow glow of the galaxy’s centre, which is home to a densely packed collection
+  of older, redder stars. The stars that set their birthplaces aglow are comparatively
+  short-lived, and many of these stars will explode as supernovae just a few million
+  years after they’re born. In 1999, NGC 1637 played host to a supernova, pithily
+  named SN 1999EM, that was lauded as the brightest supernova seen that year. When
+  a massive star expires as a supernova, the explosion outshines its entire home galaxy
+  for a short time. While a supernova marks the end of a star’s life, it can also
+  jump start the formation of new stars by compressing nearby clouds of gas, beginning
+  the stellar lifecycle anew. [Image Description: A spiral galaxy filling the view.
+  Its disc is filled with bright red spots where stars are forming, dark reddish threads
+  of dust that obscure light, and bluish glowing areas where older stars are concentrated.
+  It has a large, glowing yellow oval area at the centre, from which two spiral arms
+  wind through the galaxy’s disc. The bottom side of the disc is rounded while the
+  top side is somewhat squared-off.] Links Pan of NGC 1637'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2449a/L{1}X{2}Y{3}.png
+name: Signs of the stellar lifecycle
+ra_hr: 4.691139048414663
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2449a/thumb.jpg
+zoom_level: 0.45000768985733547
+---
+_uuid: fc11665b-1a15-4bdf-b066-e48c12360cfa
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.904579364821334
+description: 'The subject of this week''s Hubble Picture of the Week is a reflection
+  nebula, identified as GN 04.32.8. Reflection nebulae are clouds of dust in space
+  that don''t emit their own light, as other nebulae do. Instead, the light from nearby
+  stars hits and scatters off their dust, lighting them up. Because of the way the
+  light scatters, many reflection nebulae tend to appear blue, GN 04.32.8 included.
+  GN 04.32.8 is a small part of the stellar nursery known as the Taurus Molecular
+  Cloud. At only roughly 480 light-years from Earth in the constellation Taurus, it''s
+  one of the best locations for studying newly forming stars. This reflection nebula
+  is illuminated by the system of three bright stars in the centre of this image,
+  mainly the variable star V1025 Tauri in the very centre. One of those stars overlaps
+  with part of the nebula: this is another variable star that is named HP Tauri, but
+  is classified as a T Tauri star, for its similarity to yet another variable star
+  elsewhere in the Taurus Molecular Complex. T Tauri stars are very active, chaotic
+  stars at an early stage of their evolution, so it''s no surprise that they appear
+  in a prolific stellar nursery like this one! The three stars are also named HP Tau,
+  HP Tau G2 and HP Tau G3; they’re believed to be gravitationally bound to each other,
+  forming a triple system. Eagle-eyed viewers might notice the small, squashed, orange
+  spot, just left of centre below the clouds of the nebula, that’s crossed by a dark
+  line. This is a newly-formed protostar, hidden in a protoplanetary disc that obstructs
+  some of its light. Because the disc is edge-on to us, it’s an ideal candidate for
+  study. Astronomers are using Hubble here to examine it closely, seeking to learn
+  about the kinds of exoplanets that might be formed in discs like it. [Image Description:
+  A long, smoky, greyish-blue cloud in the centre of the image curves in an arc around
+  three bright stars, each with long cross-shaped diffraction spikes. The cloud is
+  lit more brightly on the inner side facing the stars, and fades into the dark background
+  on the outer side. A few other stars and points of light surround the cloud: one
+  small star below it has a dark band crossing its centre.] Links Pan: GN 04.32.8'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2526a/L{1}X{2}Y{3}.png
+name: The young stars of Taurus
+ra_hr: 4.598547116993175
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2526a/thumb.jpg
+zoom_level: 0.43623072331819146
+---
+_uuid: 3cd94fb6-2912-4621-acf5-e2ad7b28f190
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -67.74571545367446
+description: 'For this ESA/Hubble Picture of the Week, we gaze upon the field of stars
+  that is NGC 1786. This object is a globular cluster in the Large Magellanic Cloud
+  (LMC), a small satellite galaxy of the Milky Way Galaxy that is approximately 160
+  000 light-years away from Earth. NGC 1786 itself is in the constellation Dorado.
+  It was discovered in the year 1835 by John Herschel. The data for this image comes
+  from an observing programme comparing old globular clusters in nearby dwarf galaxies
+  — the LMC, the Small Magellanic Cloud and the Fornax dwarf spheroidal galaxy — to
+  the globular clusters in the Milky Way galaxy. Our galaxy contains over 150 of these
+  old, spherical collections of tightly-bound stars, which have been studied in depth
+  — especially with Hubble Space Telescope images like this one, which show them in
+  previously-unattainable detail. Being very stable and long-lived, they act as galactic
+  time capsules, preserving stars from the earliest stages of a galaxy’s formation.
+  Astronomers once thought that the stars in a globular cluster all formed together
+  at about the same time, but study of the old globular clusters in our galaxy has
+  uncovered multiple populations of stars with different ages. In order to use globular
+  clusters as historical markers, we must understand how they form and where these
+  stars of varying ages come from. This observing programme examined old globular
+  clusters like NGC 1786 in these external galaxies to see if they, too, contain multiple
+  populations of stars. This research can tell us more not only about how the LMC
+  was originally formed, but the Milky Way Galaxy, too. [Image Description: A cluster
+  of stars in space. It’s bright in the centre, where the stars are densely packed
+  together in the cluster’s core, and grows dimmer and more diffuse out to the edges,
+  as the stars give way to the dark background of space. A few orange stars are spread
+  across the cluster, but most are pale, bluish-white points of light. Three large
+  stars with cross-shaped spikes around them lie between us and the cluster.] Links
+  Pan: NGC 1786'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2528a/L{1}X{2}Y{3}.png
+name: Digging up a galactic time capsule
+ra_hr: 4.98547095302026
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2528a/thumb.jpg
+zoom_level: 0.21156922735770156
+---
+_uuid: d93cf01e-b474-4761-901f-d918ce4570c9
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -66.4159475826188
+description: 'This new NASA/ESA Hubble Space Telescope Picture of the Week features
+  a cloudy starscape from an impressive star cluster. This scene is located in the
+  Large Magellanic Cloud, a dwarf galaxy situated about 160 000 light-years away in
+  the constellations Dorado and Mensa. With a mass equal to 10–20% of the mass of
+  the Milky Way, the Large Magellanic Cloud is the largest of the dozens of small
+  galaxies that orbit our galaxy. The Large Magellanic Cloud is home to several massive
+  stellar nurseries where gas clouds, like those strewn across this image, coalesce
+  into new stars. Today’s image depicts a portion of the galaxy’s second-largest star-forming
+  region, which is called N11. (The most massive and prolific star-forming region
+  in the Large Magellanic Cloud, the Tarantula Nebula, is a frequent target for Hubble.)
+  We see bright, young stars lighting up the gas clouds and sculpting clumps of dust
+  with powerful ultraviolet radiation. This image marries observations made roughly
+  20 years apart, a testament to Hubble’s longevity. The first set of observations,
+  which were carried out in 2002–2003, capitalised on the exquisite sensitivity and
+  resolution of the then-newly-installed Advanced Camera for Surveys. Astronomers
+  turned Hubble toward the N11 star cluster to do something that had never been done
+  before at the time: catalogue all the stars in a young cluster with masses between
+  10% of the Sun’s mass and 100 times the Sun’s mass. The second set of observations
+  came from Hubble’s newest camera, the Wide Field Camera 3. These images focused
+  on the dusty clouds that suffuse the cluster, bringing a new perspective on cosmic
+  dust. [Image Description: Stars in a star cluster shine brightly blue, with four-pointed
+  spikes radiating from them. The centre shows a small, crowded group of stars while
+  a larger group lies out of view on the left. The nebula is mostly thick, smoky clouds
+  of gas, lit up in blue tones by the stars. Clumps of dust hover before and around
+  the stars; they are mostly dark, but lit around their edges where the starlight
+  erodes them.] Links Pan: LMC N44C'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2536a/L{1}X{2}Y{3}.png
+name: Cloudy cluster
+ra_hr: 4.949456963485881
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2536a/thumb.jpg
+zoom_level: 0.23122004935788165
+---
 _uuid: 0d068ff8-cb9c-4f05-86d1-9ce8ffbbfeae
 classification: ''
 constellation: TAU

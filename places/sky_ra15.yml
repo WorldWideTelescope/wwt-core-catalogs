@@ -975,3 +975,339 @@ foreground_image_set_url: http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q=
 name: Splinter Galaxy;NGC 5907
 ra_hr: 15.2638888888889
 zoom_level: 5.08
+---
+_uuid: d8547e33-1317-46f7-af12-15886fa1b3e9
+classification: ''
+constellation: APS
+data_set_type: Sky
+dec_deg: -78.19198684076312
+description: This image, taken with the NASA/ESA Hubble Space Telescope, shows a massive
+  galaxy cluster, about 4.6 billion light years away. Along its borders four bright
+  arcs are visible; these are copies of the same distant galaxy, nicknamed the Sunburst
+  Arc. The Sunburst Arc galaxy is almost 11 billion light-years away and the light
+  from it is being lensed into multiple images by gravitational lensing. The Sunburst
+  Arc is among the brightest lensed galaxies known and its image is visible at least
+  12 times within the four arcs. Three arcs are visible in the top right of the image,
+  the fourth arc in the lower left. The last one is partially obscured by a bright
+  foreground star, which is located in the Milky Way.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic1920a/L{1}X{2}Y{3}.png
+name: The Sunburst Arc
+ra_hr: 15.835277336651513
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic1920a/thumb.jpg
+zoom_level: 0.4011395264241334
+---
+_uuid: 3071f8de-e9a5-4a1b-9801-c5b0d6fc91da
+classification: ''
+constellation: LIB
+data_set_type: Sky
+dec_deg: -11.317719047411593
+description: Approximately 85 million light-years from Earth, in the constellation
+  of Libra, is the beautiful galaxy NGC 5861, captured here by the NASA/ESA Hubble
+  Space Telescope. NGC 5861 is an intermediate spiral galaxy. Astronomers classify
+  most galaxies by their morphology. For example, the Milky Way galaxy is a barred
+  spiral galaxy. An intermediate spiral galaxy has a shape lying in between that of
+  a barred spiral galaxy, one that appears to have a central bar-shaped structure,
+  and that of an unbarred spiral galaxy, one without a central bar. Two supernovae,
+  SN1971D and SN2017erp, have been observed in the galaxy. Supernovae are powerful
+  and luminous explosions that can light up the night sky. The brightest supernova
+  ever recorded was possibly SN 1006. It shone 16 times as bright as Venus from April
+  30 to May 1, 1006 AD.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2019a/L{1}X{2}Y{3}.png
+name: Two Supernovae, One Galaxy
+ra_hr: 15.154313189116744
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2019a/thumb.jpg
+zoom_level: 0.4015621507334023
+---
+_uuid: e8d42734-6401-4684-8b04-8216dc9270b1
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 29.346170870217573
+description: 'Seen here in incredible detail, thanks to the NASA/ESA Hubble Space
+  Telescope, is the starburst galaxy formally known as PLCK G045.1+61.1. The galaxy
+  appears as multiple reddish dots near the center of the image and is being gravitationally
+  lensed by a cluster of closer galaxies that are also visible in this image.
+
+  Gravitational lensing occurs when a large distribution of matter, such as a galaxy
+  cluster, sits between Earth and a distant light source. As space is warped by massive
+  objects, the light from the distant object bends as it travels to us. This effect
+  was first predicted by Einstein’s general theory of relativity.
+
+  From 2009 to 2013, the European Space Agency’s Planck space observatory captured
+  multiple all-sky surveys. In the course of these surveys, with complementary observations
+  by the Herschel Space Observatory, Planck discovered some of the brightest gravitationally
+  lensed high-redshift galaxies in the night sky.
+
+  It was during the study of these Planck-Herschel selected sources using Hubble that
+  the optical starlight emitted from this ultra-bright galaxy was found.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2024a/L{1}X{2}Y{3}.png
+name: A Bright Find
+ra_hr: 15.043548956209145
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2024a/thumb.jpg
+zoom_level: 0.33669317578084296
+---
+_uuid: 70f2c0d4-5459-4403-b277-7b56ee239f57
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 56.328020569848526
+description: The galaxy known as NGC 5907 stretches wide across this image. Appearing
+  as an elongated line of stars and dark dust, the galaxy is categorised as a spiral
+  galaxy just like our own Milky Way. In this new image from the NASA/ESA Hubble Space
+  Telescope, we don’t see the beautiful spiral arms because we are viewing it edge-on,
+  like looking at the rim of a plate. It is for this reason that NGC 5907 is also
+  known as the Knife Edge Galaxy. The Knife Edge Galaxy is about 50 million light-years
+  from Earth, lying in the northern constellation of Draco. Although not visible in
+  this image, ghostly streams of stars on large arching loops extend into space, circling
+  around the galaxy; they are believed to be remnants of a small dwarf galaxy, torn
+  apart by the Knife Edge Galaxy and merged with it over four billion years ago.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2025a/L{1}X{2}Y{3}.png
+name: A Galaxy on Edge
+ra_hr: 15.264841693546622
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2025a/thumb.jpg
+zoom_level: 0.300924948214322
+---
+_uuid: acbb11cf-4097-4912-93f2-18c78b581ac1
+classification: ''
+constellation: SER1
+data_set_type: Sky
+dec_deg: 15.196192246126802
+description: 'This Picture of the Week features two interacting galaxies that are
+  so intertwined, they have a collective name — Arp 91. This delicate galactic dance
+  is taking place over 100 million light-years from Earth, and was captured by the
+  NASA/ESA Hubble Space Telescope. The two galaxies comprising Arp 91 do have their
+  own names: the lower galaxy, which in this image looks like a bright spot, is known
+  as NGC 5953; and the ovoid galaxy to the upper right is NGC 5954. In reality, both
+  of these galaxies are spiral galaxies, but their shapes appear very different because
+  they are orientated differently with respect to Earth. Arp 91 provides a particularly
+  vivid example of galactic interaction. NGC 5954 is clearly being tugged towards
+  NGC 5953 — it looks like it is extending one spiral arm downwards. It is the immense
+  gravitational attraction of the two galaxies that is causing them to interact. Such
+  gravitational interactions between galaxies are common, and are an important part
+  of galactic evolution. Most astronomers nowadays believe that collisions between
+  spiral galaxies lead to the formation of another type of galaxy, known as elliptical
+  galaxies. These immensely energetic and massive collisions, however, happen on timescales
+  that dwarf a human lifetime — they take place over hundreds of millions of years.
+  So we should not expect Arp 91 to look any different over the course of our lifetimes!
+  Links Video A Dangerous Dance'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2140a/L{1}X{2}Y{3}.png
+name: A Dangerous Dance
+ra_hr: 15.575878687361351
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2140a/thumb.jpg
+zoom_level: 0.48498102421760214
+---
+_uuid: 467b1c7f-d689-4a31-88c0-e435321e5ed9
+classification: ''
+constellation: SER1
+data_set_type: Sky
+dec_deg: 5.0698851561762455
+description: The lazily winding spiral arms of the galaxy NGC 5921 snake across this
+  image from the NASA/ESA Hubble Space Telescope. This galaxy lies approximately 80
+  million light-years from Earth, and much like our own galaxy, the Milky Way, contains
+  a prominent bar. Roughly half of all spiral galaxies are thought to contain bars,
+  and these bars affect their parent galaxies by fuelling star formation and affecting
+  the motion of stars and interstellar gas. Appropriately, given NGC 5921’s serpentine
+  spiral arms, this galaxy resides in the constellation Serpens in the northern celestial
+  hemisphere. Serpens is the only one of the 88 modern constellations to consist of
+  two unconnected regions — Serpens Caput and Serpens Cauda. These two regions — whose
+  names mean the Serpent’s Head and the Serpent’s Tail, respectively — are separated
+  by Ophiuchus, the Serpent Bearer. The scientific study behind this image was also
+  split into two parts — observations from Hubble’s Wide Field Camera 3 and observations
+  from the ground-based Gemini Observatory. These two observatories joined forces
+  to better understand the relationship between galaxies like NGC 5921 and the supermassive
+  black holes they contain. Hubble’s contribution to the study was to determine the
+  masses of stars in the galaxies and also to take measurements that help calibrate
+  the observations from Gemini. Together, the Hubble and Gemini observations provided
+  astronomers with a census of nearby supermassive black holes in a diverse variety
+  of galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2214a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Serpentine Spiral Galaxy
+ra_hr: 15.365487665921446
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2214a/thumb.jpg
+zoom_level: 0.20730634839572443
+---
+_uuid: 9c15a0d4-439f-4024-af8a-af5f4dec8cf7
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 50.1780021753879
+description: 'A spectacular trio of merging galaxies in the constellation Boötes takes
+  centre stage in this image from the NASA/ESA Hubble Space Telescope. These three
+  galaxies are set on a collision course and will eventually merge into a single larger
+  galaxy, distorting one another’s spiral structure through mutual gravitational interaction
+  in the process. An unrelated foreground galaxy appears to float serenely alongside
+  the collision, and the smudged shapes of much more distant galaxies are visible
+  in the background. This colliding trio — known to astronomers as SDSSCGB 10189 —
+  is a relatively rare combination of three large star-forming galaxies lying within
+  only 50 000 light-years of one another. While that might sound like a safe distance,
+  for galaxies this makes them extremely close neighbours! Our own galactic neighbours
+  are much further away; Andromeda, the nearest large galaxy to the Milky Way, is
+  more than 2.5 million light-years away from Earth. This observation was designed
+  to help astronomers understand the origin of the largest, most massive galaxies
+  in the universe. These galactic behemoths are called Brightest Cluster Galaxies
+  (BCGs) and — as the name suggests — are defined as the brightest galaxies in any
+  given galaxy cluster. Astronomers suspect that BCGs form through the merger of large,
+  gas-rich galaxies like the ones in this image. They turned to Hubble’s Wide Field
+  Camera 3 and Advanced Camera for Surveys to investigate this galactic trio in painstaking
+  detail, hoping to shed light on the formation of the Universe’s most massive galaxies.
+  [Image description: Three galaxies stand together just right of centre. They are
+  close enough that they appear to be merging into one. Their shapes are distorted,
+  with strands of gas and dust running between them. Each is emitting a lot of light.
+  Further to the left is an unconnected, dimmer spiral galaxy. The background is dark,
+  with a few smaller, dim and faint galaxies and a couple of stars.] Links Video of
+  Galactic Crash Course'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2307a/L{1}X{2}Y{3}.png
+name: Galactic Crash Course
+ra_hr: 15.367247357607177
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2307a/thumb.jpg
+zoom_level: 0.2649969952714862
+---
+_uuid: ae5b7ec3-2b69-4b01-8c39-0d9ea2209a25
+classification: ''
+constellation: SER1
+data_set_type: Sky
+dec_deg: 17.8800910571512
+description: 'This image features Arp 72, a very selective galaxy group that only
+  includes two interacting galaxies: NGC 5996 (the large spiral galaxy) and NGC 5994
+  (its smaller companion, in the lower left of the image). Both galaxies lie approximately
+  160 million light-years from Earth, and their cores are separated from each other
+  by a distance of around 67 thousand light-years. Moreover, the distance between
+  the galaxies at their closest points is even smaller, closer to 40 thousand light-years.
+  Whilst this might still sound vast, in galactic separation terms it is really very
+  cosy! For comparison, the distance between the Milky Way and its nearest independent
+  galactic neighbour Andromeda is around 2.5 million light-years. Alternatively, the
+  distance between the Milky Way and its largest and brightest satellite galaxy, the
+  Large Magellanic Cloud (satellite galaxies are galaxies that are bound in orbit
+  around another galaxy), is about 162 thousand light-years. Given this, coupled with
+  the fact that NGC 5996 is roughly comparable in size to the Milky Way, it is not
+  surprising that NGC 5996 and NGC 5994 — apparently separated by only 40 thousand
+  light-years or so — are interacting with one another. In fact, the interaction might
+  be what has caused the spiral shape of NGC 5996 to distort and apparently be drawn
+  in the direction of NGC 5994. It also prompted the formation of the very long and
+  faint tail of stars and gas curving away from NGC 5996, up to the top right of the
+  image. This ‘tidal tail’ is a common phenomenon that appears when galaxies get in
+  close together, as can be seen in several Hubble images. [Image Description: A large
+  spiral galaxy with a smaller neighbouring galaxy. The spiral galaxy is wide and
+  distorted, with colourful dust. Its companion lies close by it at the end of a spiral
+  arm, to the lower left. A long, faint tail of stars reaches up from the right side
+  of the spiral galaxy to the top of the image. Several small, distant galaxies can
+  be seen in the background, as well as one bright star in the foreground.]Links Pan
+  video: Arp 72'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2414a/L{1}X{2}Y{3}.png
+name: Two’s company
+ra_hr: 15.782984031607269
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2414a/thumb.jpg
+zoom_level: 0.440220788291509
+---
+_uuid: be167508-f1fe-473c-b17a-67141db94cce
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 42.11569448673876
+description: 'The celestial object showcased in this week''s Hubble Picture of the
+  Week is the spiral galaxy UGC 9684, which lies around 240 million light-years from
+  Earth in the constellation Boötes. This image shows an impressive example of several
+  classic galactic features, including a clear bar in the galaxy''s centre, and a
+  halo surrounding its disc. The impetus for this Hubble image was a study into the
+  host galaxies of Type-II supernovae. These cataclysmic stellar explosions take place
+  throughout the Universe, and are of great interest to astronomers, so automated
+  surveys scan the night sky and attempt to catch sight of them. The supernova which
+  brought UGC 9684 to Hubble''s attention occurred during 2020. It has faded from
+  view in this image, which was taken in 2023. Remarkably, the 2020 supernova in this
+  galaxy isn''t the only one that''s been seen there — four supernova-like events
+  have been spotted in UGC 9684 since 2006, putting it up there with the most active
+  supernova-producing galaxies. It turns out that UGC 9684 is a quite active star-forming
+  galaxy, calculated as producing one solar mass worth of stars every few years! This
+  level of stellar formation makes UGC 9684 a veritable supernova factory, and a galaxy
+  to watch for astronomers hoping to examine these exceptional events. [Image Description:
+  A spiral galaxy in the centre of a dark background, surrounded by a few distant
+  galaxies and nearby stars. The galaxy is tilted diagonally and partially towards
+  the viewer. Its disc is cloudy and threaded with dust, without clear arms. A bar
+  of light extends across the disc from the glowing core. A faint halo of gas surrounds
+  the disc.] Links Pan video of UGC 9684'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2419a/L{1}X{2}Y{3}.png
+name: A star forming factory
+ra_hr: 15.064021300744336
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2419a/thumb.jpg
+zoom_level: 0.36888050744595346
+---
+_uuid: 18d2afd4-7241-43fe-995c-e67f3964e970
+classification: ''
+constellation: SER1
+data_set_type: Sky
+dec_deg: 21.869210915734122
+description: 'What kind of astronomical object is this? It doesn’t look quite like
+  the kinds of galaxies, nebulae, star clusters or galaxy clusters which Hubble normally
+  brings us images of. In fact, this is a spiral galaxy, named UGC 10043 — we just
+  happen to be seeing it directly from the side! Located roughly 150 million light-years
+  from Earth in the constellation Serpens, UGC 10043 is one of the somewhat rare spiral
+  galaxies that are seen edge-on. From this point of view, we see the galaxy’s disc
+  as a sharp line through space, overlain with a prominent dust lane. This dust is
+  spread across the spiral arms of UGC 10043, but it looks very thick and cloudy when
+  viewed from the side. You can even see the lights of some active star-forming regions
+  in the arms, shining out from behind the dust. Strikingly, we can also see that
+  the centre of the galaxy sports a glowing, almost egg-shaped ‘bulge’, rising far
+  above and below the disc. All spiral galaxies have a bulge like this one as part
+  of their structure, containing stars that orbit the galactic centre on paths above
+  and below the whirling disc; it’s a feature that isn’t normally obvious in pictures
+  of galaxies. The unusually large size of this bulge compared to the galaxy’s disc
+  is possibly thanks to UGC 10043 siphoning material from a nearby dwarf galaxy. This
+  may also be why the disc is warped, bending up at one end and down at the other.
+  Like most of the full-colour Hubble images released by ESA/Hubble, this image is
+  a composite, made up of several individual snapshots taken by Hubble at different
+  times and capturing different wavelengths of light. You can see the exact images
+  used in the sidebar on this page. A notable aspect of this image is that the two
+  sets of Hubble data used were collected 23 years apart, in 2000 and 2023! Hubble’s
+  longevity doesn’t just afford us the ability to produce new and better images of
+  old targets; it also provides a long-term archive of data which only becomes more
+  and more useful to astronomers. [Image Description: A spiral galaxy seen directly
+  from the side, such that its disc looks like a narrow diagonal band across the image.
+  A band of dark dust covers the disc in the centre most of the way out to the ends,
+  and the disc glows around that. In the centre a whitish circle of light bulges out
+  above and below the disc. The tips of the disc are a bit bent. The background is
+  black and mostly empty.] Links Pan of UGC 10043'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2447a/L{1}X{2}Y{3}.png
+name: Spiral from the side
+ra_hr: 15.8114482478531
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2447a/thumb.jpg
+zoom_level: 0.35374745914227207
+---
+_uuid: 6906924e-7ea2-4fa4-98cb-14ec8b13186d
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -29.392972956386
+description: 'Stars of all ages are on display in today’s NASA/ESA Hubble Space Telescope
+  Picture of the Week. This sparkling spiral galaxy is called NGC 6000 and it is located
+  102 million light-years away in the constellation Scorpius. This galaxy has a glowing
+  yellow centre and glittering blue outskirts. The colours reflect differences in
+  the average ages, masses and temperatures of the galaxy’s stars. In the heart of
+  the galaxy, the stars tend to be older and smaller. Less massive stars are cooler
+  than more massive stars, and somewhat counterintuitively, cooler stars are redder,
+  while hotter stars are bluer. Farther out along NGC 6000’s spiral arms, brilliant
+  star clusters host young, massive stars that appear distinctly blue. Hubble collected
+  the data for this image while surveying the sites of recent supernova explosions
+  in nearby galaxies. NGC 6000 has hosted two recent supernovae: SN 2007ch in 2007
+  and SN 2010as in 2010. Using Hubble’s sensitive detectors, researchers are able
+  to discern the faint glow of supernovae years after the initial explosion. These
+  observations help to constrain the masses of supernova progenitor stars and can
+  indicate if they had any stellar companions. By zooming in to the right side of
+  the galaxy’s disc in this image, you may see something else yellow and blue: a set
+  of four thin lines. These are an asteroid in our Solar System, which was drifting
+  across Hubble’s field of view as it gazed at NGC 6000. The four streaks are due
+  to different exposures that were recorded one after another with slight pauses in
+  between. These were combined to create this final image. The colours appear this
+  way because each exposure used a filter to collect only very specific wavelengths
+  of light, in this case around red and blue. Having these separate exposures is important
+  to study and compare stars by their colours — but it also makes asteroid interlopers
+  very obvious! [Image Description: An oval-shaped spiral galaxy, of which only the
+  centre and lower half is in frame. Its centre is mainly golden in colour with a
+  white glowing core, while its thick spiral arms are mostly blue, particularly at
+  the outskirts; the colours merge in between. Dark lanes of dust swirl through the
+  centre, blocking some of its light. Stars and distant galaxies can be seen around
+  the edges on a black background.] Links Pan: NGC 6000'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2539a/L{1}X{2}Y{3}.png
+name: Yellow and blue, old and new
+ra_hr: 15.830717231355171
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2539a/thumb.jpg
+zoom_level: 0.21561908692705736

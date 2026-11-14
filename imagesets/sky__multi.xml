@@ -8176,6 +8176,68 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
   </ImageSet>
   <ImageSet
     BandPass="Multi"
+    BaseDegreesPerTile="0.034159297067582826"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.16452672859524"
+    CenterY="-27.785167183574845"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Galaxy field of MXDFz4.4 (Hubble and Webb clean image)"
+    OffsetX="4.169836067820169e-06"
+    OffsetY="4.169836067820169e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.07999999999999276"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="https://data1.wwtassets.org/feeds/hst/heic2609b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="Visible,IR"
+    Xcorepipe_ids="hst|heic2609b"
+    Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
+  >
+    <Credits>NASA, ESA, STScI, I. Goovaerts, M. Rafelski, A. Koekemoer (STScI). Image Processing: A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2609b/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2609b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
+    BaseDegreesPerTile="0.019338342400000003"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="356.198764807"
+    CenterY="-42.7111532694"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="A Weakened Black Hole Allows Its Galaxy to Awaken"
+    OffsetX="0.011584345437956162"
+    OffsetY="0.009107431290834132"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.77365954466"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="https://data1.wwtassets.org/feeds/hst/opo1944a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="XRay,Visible,Radio"
+    Xcorepipe_ids="hst|opo1944a"
+    Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
+  >
+    <Credits>NASA, ESA, and NRAO</Credits>
+    <CreditsUrl>https://esahubble.org/images/opo1944a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/opo1944a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
     BaseDegreesPerTile="0.017096586927669386"
     BaseTileLevel="0"
     BottomsUp="False"

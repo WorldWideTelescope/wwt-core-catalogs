@@ -3050,6 +3050,577 @@ name: Pleiades
 ra_hr: 3.783333333333333
 zoom_level: 23.459999999999997
 ---
+_uuid: 5de77c2d-ecaa-4530-9ee4-1201ecd46353
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -26.946341499617642
+description: This image shows a recent observation made by the NASA/ESA Hubble Space
+  Telescope of GRB 190114C.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic1921e/L{1}X{2}Y{3}.png
+name: Hubble Observation of the host galaxy of GRB 190114C
+ra_hr: 3.6336663548609396
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic1921e/thumb.jpg
+zoom_level: 0.014173795730446487
+---
+_uuid: 74e5e5c3-41a1-4b5b-ab76-0815e051f0b3
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 35.592451950008275
+description: Galaxy UGC 2885 may be the largest one in the local universe. It is 2.5
+  times wider than our Milky Way and contains 10 times as many stars. This galaxy
+  is 232 million light-years away, located in the northern constellation of Perseus.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2002a/L{1}X{2}Y{3}.png
+name: UGC 2885
+ra_hr: 3.883855324470488
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2002a/thumb.jpg
+zoom_level: 0.632752474872
+---
+_uuid: dbfbfa40-fe7c-4acb-a34d-281187d8d17b
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 31.37386738775294
+description: 'Astronomers are celebrating the NASA/ESA Hubble Space Telescope’s 33rd
+  launch anniversary with an ethereal photo of a nearby star-forming region, NGC 1333.
+  The nebula is in the Perseus molecular cloud, and is located approximately 960 light-years
+  away. Hubble’s colourful view, showcasing its unique capability to obtain images
+  in light from ultraviolet to near-infrared, unveils an effervescent cauldron of
+  glowing gases and pitch-black dust stirred up and blown around by several hundred
+  newly forming stars embedded within the dark cloud. Even then, Hubble just scratches
+  the surface; most of the star-birthing firestorm is hidden behind clouds of fine
+  dust — essentially soot — that are thicker toward the bottom of the image. The black
+  areas of the image are not empty space, but are filled with obscuring dust. To capture
+  this image, Hubble peered through a veil of dust on the edge of a giant cloud of
+  cold molecular hydrogen — the raw material for fabricating new stars and planets
+  under the relentless pull of gravity. The image underscores the fact that star formation
+  is a messy process in a rambunctious Universe. Ferocious stellar winds, likely from
+  the bright blue star at the top of the image, are blowing through a curtain of dust.
+  The fine dust scatters the starlight at blue wavelengths. Farther down, another
+  bright super-hot star shines through filaments of obscuring dust, looking like the
+  Sun shining through scattered clouds. A diagonal string of fainter accompanying
+  stars looks reddish because the dust is filtering their starlight, allowing more
+  of the red light to get through. The bottom of the picture presents a keyhole peek
+  deep into the dark nebula. Hubble captures the reddish glow of ionised hydrogen.
+  It looks like the finale of a fireworks display, with several overlapping events.
+  This is caused by pencil-thin jets shooting out from newly forming stars outside
+  the frame of view. These stars are surrounded by circumstellar discs, which may
+  eventually produce planetary systems, and powerful magnetic fields that direct two
+  parallel beams of hot gas deep into space, like a double lightsaber from science
+  fiction films. They sculpt patterns on the hydrogen cocoon, like laser lightshow
+  tracings. The jets are a star’s birth announcement. This view offers an example
+  of the time when our own Sun and planets formed inside such a dusty molecular cloud,
+  4.6 billion years ago. Our Sun didn’t form in isolation but was instead embedded
+  inside a mosh pit of frantic stellar birth, perhaps even more energetic and massive
+  than NGC 1333. [Image description: A vertical image with colors ranging from blue
+  at the top to golden in the middle and red at the bottom. At the top, a bright blue
+  star is illuminating surrounding clouds of gas. At the center of the image, a brighter
+  yellow star illuminates surrounding gas. The bottom of the image is noticeably darker
+  than the rest, with the exception of a dramatic splash of red.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2304a/L{1}X{2}Y{3}.png
+name: Hubble celebrates its 33rd anniversary with NGC 1333
+ra_hr: 3.4860400866868435
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2304a/thumb.jpg
+zoom_level: 1.276433953996782
+---
+_uuid: 0b570341-a2fc-491a-a660-d48c452eb2f3
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.34910300555181
+description: 'The low-surface-brightness galaxy CDG-2, shown in this image from the
+  NASA/ESA Hubble Space Telescope, is dominated by dark matter and contains only a
+  sparse scattering of stars. This galaxy is nearly invisible, but by using advanced
+  statistical techniques, scientists identified it by searching for tight groupings
+  of stars called globular clusters at the centre of this image. The Hubble observations
+  include those from programme 15235 (W. Harris). [Image description: A field of space
+  with a dozen white foreground stars and a number of small, yellow background galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2605a/L{1}X{2}Y{3}.png
+name: Galaxy field of low-surface-brightness galaxy CDG-2
+ra_hr: 3.2868411226029215
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2605a/thumb.jpg
+zoom_level: 0.37694474003957235
+---
+_uuid: 2e20db13-817a-4c66-9f16-c6ec6b92b1db
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -27.785163019564944
+description: 'This galaxy field contains the oddball galaxy MXDFz4.4 that existed
+  only 1.4 billion years after the Big Bang, when the Universe was still a “swirl”
+  of opaque and clear gas as the Era of Reionisation was ending. Detailed visible-light
+  images from the NASA/ESA Hubble Space Telescope revealed that several bursts of
+  younger stars cleared the space in and around the galaxy. The team sifted through
+  extensive Hubble observations that produced deep exposures of the field where this
+  galaxy is located. The colour assignments in the image emphasise the specific wavelengths
+  of light Hubble observed where ionising photons from MXDFz4.4 were detected, which
+  transformed the gas around them from opaque to clear. Researchers have long sought
+  evidence to explain how the Universe transitioned from foggy to transparent — and
+  Hubble has provided the first example this close to the era of reionisation of how
+  that might have happened within an individual galaxy. [Image description: Thousands
+  of galaxies appear across the black background of space. The galaxies range in size,
+  from big blobs and larger face-on spirals to short lines and tiny dots. The galaxies
+  appear in a variety of colours, including orange, white, pink, and blue.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2609b/L{1}X{2}Y{3}.png
+name: Galaxy field of MXDFz4.4 (Hubble and Webb clean image)
+ra_hr: 3.544301467250075
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2609b/thumb.jpg
+zoom_level: 0.2722068985073006
+---
+_uuid: 9a583858-815d-4d93-a8f2-0aa28d66f609
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 31.329279919807213
+description: Within a galaxy hosting around 300 billion stars, here the NASA/ESA Hubble
+  Space Telescope has captured a mere handful or two — just about enough to form a
+  single football team. These stellar “teammates” play under the banner of NGC 1333,
+  the cloud of gas and dust which formed them and that they continue to call home.
+  NGC 1333 is located about 1000 light-years away in the constellation of Perseus
+  (The Hero). The cool gas and dust concentrated in this region is generating new
+  stars whose light is then reflecting off the surrounding material, lighting it up
+  and making this object’s lingering presence known to us. NGC 1333 is accordingly
+  classified as a reflection nebula. This image shows just a single region of NGC
+  1333. Hubble has imaged NGC 1333 more widely before, revealing that the smattering
+  of stars seen here has ample company. Seen in a broader context, this team of stars
+  is but one gathering amongst many in NGC 1333’s celestial Champions League.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1944a/L{1}X{2}Y{3}.png
+name: Champions League
+ra_hr: 3.4888661171969635
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1944a/thumb.jpg
+zoom_level: 0.5599333492957651
+---
+_uuid: 8e5608b0-8e71-4bb0-81ad-dec0fcdfc4ee
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -83.83066784284442
+description: This image from the NASA/ESA Hubble Space Telescope shows IC 2051, a
+  galaxy in the southern constellation of Mensa (The Table Mountain), lying about
+  85 million light-years away. It is a spiral galaxy, as evidenced by its characteristic
+  whirling, pinwheeling arms, and it has a bar of stars slicing through its centre.
+  This galaxy was observed for a Hubble study on galactic bulges, the bright round
+  central region of spiral galaxies. Spiral galaxies like IC 2051 are shaped a bit
+  like flying saucers when seen from the side; they comprise a thin, flat disc, with
+  a bulky bulge of stars in the centre that extends above and below the disc. These
+  bulges are thought to play a key role in how galaxies evolve, and to influence the
+  growth of the supermassive black holes lurking at the centres of most spirals. While
+  more observations are needed in this area, studies suggest that some, or even most,
+  galactic bulges may be complex composite structures rather than simple ones, with
+  a mix of spherical, disc-like, or boxy components, potentially leading to a wide
+  array of bulge morphologies in the Universe. This image comprises data from Hubble’s
+  Wide Field Camera 3 at visible and infrared wavelengths.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1950a/L{1}X{2}Y{3}.png
+name: Discs and Bulges
+ra_hr: 3.866909669719608
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1950a/thumb.jpg
+zoom_level: 0.1149139790213271
+---
+_uuid: b5012bf0-f068-44a1-8d11-a3750bfc5909
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -36.1415723337917
+description: At around 60 million light-years from Earth, the Great Barred Spiral
+  Galaxy NGC 1365 is captured beautifully in this image by the NASA/ESA Hubble Space
+  Telescope. Located in the constellation of Fornax (The Furnace), the blue and fiery
+  orange swirls show us where stars have just formed and the dusty sites of future
+  stellar nurseries. At the outer edge of the image, enormous star-forming regions
+  within NGC 1365 can be seen. The bright, light-blue regions indicate the presence
+  of hundreds of baby stars that formed from coalescing gas and dust within the galaxy's
+  outer arms. This Hubble image was captured as part of a joint survey with the Atacama
+  Large Millimeter/submillimeter Array (ALMA) in Chile. The survey will help scientists
+  understand how the diversity of galaxy environments observed in the nearby Universe,
+  including NGC 1365 and previous ESA/Hubble Pictures of the Week such as NGC 2835
+  and NGC 2775, influence the formation of stars and star clusters. Expected to image
+  over 100 000 gas clouds and star-forming regions beyond our Milky Way, the PHANGS
+  survey is expected to uncover and clarify many of the links between cold gas clouds,
+  star formation and the overall shape and morphology of galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2040a/L{1}X{2}Y{3}.png
+name: Survey of the Stars
+ra_hr: 3.560369425980949
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2040a/thumb.jpg
+zoom_level: 0.4277876474994129
+---
+_uuid: fba85e5c-4673-4eb1-8c21-5dabb78edf5c
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 41.63292967346205
+description: 'Two things capture your attention in this spectacular Picture of the
+  Week, which was taken using Hubble’s Wide Field Camera 3 (WFC3): the two enormous
+  galaxies that flank the left and right sides of the image. The galaxy on the left
+  is a lenticular galaxy, which rejoices in the name of 2MASX J03193743+4137580. The
+  side-on spiral galaxy on the right is more simply named UGC 2665. Both galaxies
+  lie approximately 350 million light-years from Earth, and they both form part of
+  the enormous Perseus galaxy cluster. Perseus is an important figure in Greek mythology,
+  renowned for slaying Medusa the Gorgon — who is herself famous for the unhappy reason
+  that she was cursed to have living snakes for hair. Given Perseus’s impressive credentials,
+  it seems appropriate that the eponymous galaxy cluster is one of the biggest objects
+  in the known Universe, consisting of thousands of galaxies, only a few of which
+  are visible in this image. The wonderful detail in the image is thanks to the WFC3’s
+  powerful resolution and high sensitivity. The WFC3 is sensitive to both visible
+  and infrared light, so those are the wavelengths that are captured in this image.
+  The Perseus supercluster looks very different at other wavelengths. Whilst in this
+  image the spaces between the galaxies appear dark and peaceful, when the X-ray emission
+  is observed the Perseus cluster appears to be burning with bright intense light.
+  Links Video of One of the Greats'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2127a/L{1}X{2}Y{3}.png
+name: One of the Greats
+ra_hr: 3.325342484495208
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2127a/thumb.jpg
+zoom_level: 0.4299577412730681
+---
+_uuid: bebf366b-3647-4e38-bf41-92da0b636450
+classification: ''
+constellation: HOR
+data_set_type: Sky
+dec_deg: -51.90414511808806
+description: The spiral galaxy IC 1954 takes centre stage in this image from the NASA/ESA
+  Hubble Space Telescope. The galaxy, which lies approximately 45 million light-years
+  from Earth in the constellation Horologium (The Clock), boasts a bright central
+  bar and lazily winding spiral arms threaded with dark clouds of dust. This portrait
+  of IC 1954 was captured with Hubble’s Wide Field Camera 3, and is one of a set of
+  observations designed to take advantage of some telescope teamwork. Hubble observed
+  groups of young stars in nearby galaxies at ultraviolet and optical wavelengths
+  while the Atacama Large Millimeter/submillimeter Array — a ground-based radio telescope
+  — gathered data on star-forming discs and clouds of cold gas. Combining the two
+  sets of observations allowed astronomers to join the dots and understand the connections
+  between young stars and the clouds of cold gas which give rise to them. These observations
+  also lay the groundwork for future observations with the upcoming NASA/ESA/CSA James
+  Webb Space Telescope, which will peer into nearby galaxies and observe the earliest
+  phases of star formation. Links Video of Portrait of a Swirling Galaxy
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2131a/L{1}X{2}Y{3}.png
+name: Portrait of a Swirling Galaxy
+ra_hr: 3.5254332351305613
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2131a/thumb.jpg
+zoom_level: 0.436850295013095
+---
+_uuid: 5c0802e9-5241-499b-a21e-486b435da335
+classification: ''
+constellation: CAM
+data_set_type: Sky
+dec_deg: 72.93168836146957
+description: 'The somewhat amorphous spiral galaxy UGC 2890 appears side-on in this
+  image from the NASA/ESA Hubble Space Telescope, with bright foreground stars studding
+  the image. This galaxy lies around 30 million light-years away in the constellation
+  Camelopardalis. In 2009 astronomers spotted a catastrophically powerful supernova
+  explosion in UGC 2890. While the supernova itself has long since faded from view,
+  Hubble recently took a break from its regular observing schedule to inspect the
+  aftermath of this explosive event. A Type II supernova is a spectacularly energetic
+  explosion that marks the violent death of a massive star. As it runs out of the
+  elements necessary to fuel nuclear fusion, the core of a massive star flickers out
+  and stops producing energy. With nothing to support the crushing force of gravity,
+  the core of the star shrinks and then suddenly implodes, leaving the star’s outer
+  layers to collapse inwards and rebound out into space as a supernova explosion.
+  This observation is one of many Hubble investigations of Type II supernovae. Astronomers
+  turned to Hubble’s Advanced Camera for Surveys to explore the surroundings of Type
+  II supernovae in the hope of discovering the ages and masses of stars in the neighbourhood.
+  This will reveal insights into the types of stars that eventually create Type II
+  supernovae, as well as revealing any stellar survivors of colossal supernova explosions.
+  [Image description: A spiral galaxy is seen edge-on and tilted at an angle. The
+  body of the galaxy is blue and obscured by threads of dark red dust, and it is surrounded
+  by a pale glow. Three stars with prominent cross-shaped diffraction spikes are very
+  bright in the foreground. The background is dark and sparsely-covered in small stars.]
+  Links Pan: Aftermath of a cosmic explosion'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2314a/L{1}X{2}Y{3}.png
+name: Aftermath of a cosmic explosion
+ra_hr: 3.9348769046519863
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2314a/thumb.jpg
+zoom_level: 0.48631325514399226
+---
+_uuid: 7538912e-c438-45fc-81f8-eab85bf933be
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -40.0039659683976
+description: 'The galaxy ESO 300-16 looms over this image from the NASA/ESA Hubble
+  Space Telescope. This galaxy, which lies 28.7 million light-years from Earth in
+  the constellation Eridanus, is a ghostly assemblage of stars which resembles a sparkling
+  cloud. A rogue’s gallery of distant galaxies and foreground stars complete this
+  astronomical portrait, which was captured by the Advanced Camera for Surveys. This
+  observation is one of a series which aims to get to know our galactic neighbours;
+  around three quarters of the known galaxies suspected to lie within 10 megaparsecs
+  of Earth have been observed by Hubble in enough detail to resolve their brightest
+  stars and establish the distances to these galaxies. A team of astronomers proposed
+  using small gaps in Hubble’s observing schedule to acquaint ourselves with the remaining
+  quarter of the nearby galaxies. The megaparsec — meaning one million parsecs — is
+  a unit used by astronomers to chart the mind-bogglingly large distances involved
+  in astronomy. The motion of Earth around the Sun means that stars appear to slightly
+  shift against very distant stars over the course of a year. This small shift is
+  referred to as parallax and is measured in angular units: degrees, minutes, and
+  seconds. One parsec is equivalent to saying a parallax of one-arcsecond, and is
+  equivalent to 3.26 light-years or 30.9 trillion kilometres. The closest exoplanet
+  to the Sun is Proxima Centauri b, which lies 1.3 parsecs away. [Image Description:
+  An irregular galaxy that resembles the shape of a cloud. It is made of many tiny
+  stars all clumped together, surrounded in a diffuse light. In the central, brightest
+  part there is a bubble of blue gas. The galaxy is surrounded by mostly very small
+  and faint objects, though there are bright stars above and to the left of it, and
+  a string of galaxies nearby.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2334a/L{1}X{2}Y{3}.png
+name: A sparkling galactic neighbour
+ra_hr: 3.169152936060416
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2334a/thumb.jpg
+zoom_level: 0.34099013973492265
+---
+_uuid: 7b13042f-8a57-40bf-9690-e346b78463b2
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -24.500861865018333
+description: 'This luminous tangle of stars and dust is the barred spiral galaxy NGC
+  1385, that lies about 30 million light-years from Earth. The same galaxy was the
+  subject of another Hubble Picture of the Week, but the two images are notably different.
+  This more recent image has far more pinkish-red and umber shades, whereas the former
+  image was dominated by cool blues. This chromatic variation is not just a creative
+  choice, but also a technical one, made in order to represent the different number
+  and type of filters used to collect the data that were used to make the respective
+  images. It is understandable to be a bit confused as to how the same galaxy, imaged
+  twice by the same telescope, could be represented so differently in two different
+  images. The reason is that — like all powerful telescopes used by professional astronomers
+  for scientific research — Hubble is equipped with a range of filters. These highly
+  specialised components have little similarity to filters used on social media: those
+  software-powered filters are added after the image has been taken, and cause information
+  to be lost from the image as certain colours are exaggerated or reduced for aesthetic
+  effect. In contrast, telescope filters are pieces of physical hardware that only
+  allow very specific wavelengths of light to enter the telescope as the data are
+  being collected. This does cause light to be lost, but means that astronomers can
+  probe extremely specific parts of the electromagnetic spectrum. This is very useful
+  for a number of reasons; for example, physical processes within certain elements
+  emit light at very specific wavelengths, and filters can be optimised to these wavelengths.
+  Take a look at this week''s image and the earlier image of NGC 1385. What are the
+  differences? Can you see the extra detail (due to extra filters being used) in this
+  week’s image? [Image Description: A spiral galaxy. It has several arms that are
+  mixed together and an overall oval shape. The centre of the galaxy glows brightly.
+  There are bright pink patches and filaments of dark red dust spread across the centre.]
+  Links Pan of Same galaxy, different filters'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2346a/L{1}X{2}Y{3}.png
+name: Same galaxy, different filters
+ra_hr: 3.624559445104532
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2346a/thumb.jpg
+zoom_level: 0.44106533252335156
+---
+_uuid: a6f5081d-26f3-42e0-a22f-80cfaa7d6092
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -29.927113067238704
+description: 'This Hubble Picture of the Week features a massive cluster of brightly
+  glowing galaxies, first identified as Abell 3192. Like all galaxy clusters, this
+  one is suffused with hot gas that emits powerful X-rays, and it is enveloped in
+  a halo of invisible dark matter. All this unseen material — not to mention the many
+  galaxies visible in this image — comprises such a huge amount of mass that the galaxy
+  cluster noticeably curves spacetime around it, making it into a gravitational lens.
+  Smaller galaxies behind the cluster appear distorted into long, warped arcs around
+  the cluster’s edges. The galaxy cluster is located in the constellation Eridanus,
+  but the question of its distance from Earth is a more complicated one. Abell 3192
+  was originally documented in the 1989 update of the Abell catalogue, a catalogue
+  of galaxy clusters that was first published in 1958. At that time, Abell 3192 was
+  thought to comprise a single cluster of galaxies, concentrated at a single distance.
+  However, further research revealed something surprising: the cluster’s mass seemed
+  to be densest at two distinct points rather than one. It was subsequently shown
+  that the original Abell cluster actually comprised two independent galaxy clusters
+  — a foreground group around 2.3 billion light-years from Earth, and a further group
+  at the greater distance of about 5.4 billion light-years from our planet. The more
+  distant galaxy cluster, included in the Massive Cluster Survey as MCS J0358.8-2955,
+  is central in this image. The two galaxy groups are thought to have masses equivalent
+  to around 30 trillion and 120 trillion times the mass of the Sun, respectively.
+  Both of the two largest galaxies at the centre of this image are part of MCS J0358.8-2955;
+  the smaller galaxies you see here, however, are a mixture of the two groups within
+  Abell 3192. [Image Description: A cluster of galaxies, concentrated around what
+  appear to be two large elliptical galaxies. The rest of the black background is
+  covered in smaller galaxies of all shapes and sizes. In the top left and bottom
+  right, beside the two large galaxies, some galaxies appear notably distorted into
+  curves by gravity.] Links Science paper by V. Hamilton-Morris et al. Pan: One cluster
+  or two?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2348a/L{1}X{2}Y{3}.png
+name: One cluster or two?
+ra_hr: 3.9812358608132277
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2348a/thumb.jpg
+zoom_level: 0.47656312813068036
+---
+_uuid: dec9efd7-2979-469f-8b1c-9cab1d4b7f72
+classification: ''
+constellation: HOR
+data_set_type: Sky
+dec_deg: -50.31864588236337
+description: 'This Hubble Picture of the Week features a richness of spiral galaxies:
+  the large, prominent spiral galaxy on the right side of the image is NGC 1356; the
+  two apparently smaller spiral galaxies flanking it are LEDA 467699 (above it) and
+  LEDA 95415 (very close at its left) respectively; and finally, IC 1947 sits along
+  the left side of the image. ThIs image is a really interesting example of how challenging
+  it can be to tell whether two galaxies are actually close together, or just seem
+  to be from our perspective here on Earth. A quick glance at this image would likely
+  lead you to think that NGC 1356, LEDA 467699 and LEDA 95415 were all close companions,
+  whilst IC 1947 was more remote. However, we have to remember that two-dimensional
+  images such as this one only give an indication of angular separation: that is,
+  how objects are spread across the sphere of the night sky. What they cannot represent
+  is the distance objects are from Earth. For instance, whilst NGC 1356 and LEDA 95415
+  appear to be so close that they must surely be interacting, the former is about
+  550 million light-years from Earth and the latter is roughly 840 million light-years
+  away, so there is nearly a whopping 300 million light-year separation between them.
+  That also means that LEDA 95415 is likely nowhere near as much smaller than NGC
+  1356 as it appears to be. On the other hand, whilst NGC 1356 and IC 1947 seem to
+  be separated by a relative gulf in this image, IC 1947 is only about 500 million
+  light-years from Earth. The angular distance apparent between them in this image
+  only works out to less than four hundred thousand light-years, so they are actually
+  much much closer neighbours in three-dimensional space than NGC 1356 and LEDA 95415!
+  [Image Description: A collection of galaxies. On the left side a large spiral galaxy
+  with swirling, twisted arms is flanked by a smaller, but still detailed, spiral
+  behind its arm on the left, and a smaller spiral above it. On the right side is
+  a fourth, round spiral galaxy seen face-on. Between them lies a single bright star.
+  Several stars and distant galaxies dot the background.] Links Pan: It’s all relative'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2352a/L{1}X{2}Y{3}.png
+name: It’s all relative
+ra_hr: 3.510275101073133
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2352a/thumb.jpg
+zoom_level: 0.5257220901746673
+---
+_uuid: b27b0061-2468-45d8-a59b-aabf42e99e34
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -19.306551481644398
+description: 'This Hubble Picture of the Week features the galaxy LEDA 857074, located
+  in the constellation Eridanus. LEDA 857074 is a barred spiral galaxy, with partially
+  broken spiral arms. It also has a particularly bright spot right in its bar: this
+  is a supernova snapped by Hubble, named SN 2022ADQZ, and quite relevant to this
+  Picture of the Week. The NASA/ESA Hubble Space Telescope has observed a vast range
+  of celestial objects, from galaxies, to nebulae, to star clusters, to planets in
+  the Solar System and beyond. Observing programmes usually seek to gather data so
+  that astronomers can answer a specific question. Naturally, this means most scheduled
+  observations target an object that astronomers have already researched. Some are
+  famous, like the Crab Nebula or the globular cluster Omega Centauri; others might
+  not be so well known to the public, but still be featured in hundreds of scientific
+  papers, such as the Spider Galaxy or NGC 4753. Not so with this galaxy: LEDA 857074
+  is named in fewer than five papers, one of which is the Lyon-Meudon Extragalactic
+  Database itself. Virtually no data have been recorded about it, other than its position:
+  since its discovery, it simply hasn’t been studied. So how did it attract the gaze
+  of the legendary Hubble? The supernova is the answer — SN 2022ADQZ was detected
+  by an automated survey in late 2022, and led to Hubble being pointed at its host
+  galaxy, LEDA 857074, in early 2023. Astronomers have catalogued millions of galaxies,
+  so while today tens of thousands of supernovae are detected annually, the chance
+  that one is spotted in any particular galaxy is slim. We also do not know how actively
+  LEDA 857074 is forming stars, and therefore how often it might host a supernova.
+  This galaxy is therefore an unlikely and lucky target of Hubble, thanks to this
+  supernova shining a spotlight on it! It now joins the ranks of many more famous
+  celestial objects, with its own Hubble image. [Image Description: A close-in view
+  of a barred spiral galaxy. The bright, glowing bar crosses the centre of the galaxy,
+  with blurred spiral arms curving away from its ends and continuing out of view.
+  It’s surrounded by bright points of light that indicate stars and galaxies. The
+  galaxy also hosts a bright supernova in its central bar.] Links Pan of LEDA 857074'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2432a/L{1}X{2}Y{3}.png
+name: A supernova spotlight
+ra_hr: 3.7639762046517067
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2432a/thumb.jpg
+zoom_level: 0.1688724379271041
+---
+_uuid: 9752abe8-8482-4754-8ef7-2f3c106173cb
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 42.803990512735794
+description: 'The subject of this week’s circular Hubble Picture of the Week is situated
+  in the Perseus Cluster, also known as Abell 426, 320 million light-years from Earth.
+  It’s a barred spiral galaxy known as MCG+07-07-072, seen here among a number of
+  photobombing stars that are much closer to Earth than it is. MCG+07-07-072 has quite
+  an unusual shape, for a spiral galaxy, with thin arms emerging from the ends of
+  its barred core to draw a near-circle around its disc. It is classified, using a
+  common extension of the basic Hubble scheme, as an SBc(r) galaxy: the c denotes
+  that its two spiral arms are loosely wound, each only performing a half-turn around
+  the galaxy, and the (r) is for the ring-like structure they create. Rings in galaxies
+  come in quite a few forms, from merely uncommon, to rare and astrophysically important!
+  Lenticular galaxies are a type that sit between elliptical and spiral galaxies.
+  They feature a large disc, unlike an elliptical galaxy, but lack any spiral arms.
+  Lenticular means lens-shaped, and these galaxies often feature ring-like shapes
+  in their discs. Meanwhile, the classification of “ring galaxy” is reserved for peculiar
+  galaxies with a round ring of gas and star formation, much like spiral arms look,
+  but completely disconnected from the galactic nucleus - or even without any visible
+  nucleus! They’re thought to be formed in galactic collisions. Finally, there are
+  the famous gravitational lenses, where the ring is in fact a distorted image of
+  a distant, background galaxy, formed by the ‘lens’ galaxy bending light around it.
+  Ring-shaped images, called Einstein rings, only form when the lensing and imaged
+  galaxies are perfectly aligned. [Image Description: A galaxy. It is almost circular.
+  It has a glowing bar stretching across its core; from the ends of the bar, thin
+  spiral arms wrap around the galaxy to form a closed disc. The arms are fuzzy from
+  the dust and stars they contain. The galaxy is on a black, mostly-empty background.
+  A few foreground stars with cross-shaped diffraction spikes can be seen, as well
+  as some distant galaxies in the background.] Links Pan of MCG+07-07-072'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2433a/L{1}X{2}Y{3}.png
+name: Rings and things
+ra_hr: 3.344812434033492
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2433a/thumb.jpg
+zoom_level: 0.24095431139428863
+---
+_uuid: 068c29d7-56e8-41a0-966c-ea86df4b0eca
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -15.398000549495228
+description: 'Rich with detail, the spiral galaxy NGC 1309 shines in this NASA/ESA
+  Hubble Space Telescope Picture of the Week. NGC 1309 is situated about 100 million
+  light-years away in the constellation Eridanus. This stunning Hubble image encompasses
+  NGC 1309’s bluish stars, dark brown gas clouds and pearly white centre, as well
+  as hundreds of distant background galaxies. Nearly every smudge, streak and blob
+  of light in this image is an individual galaxy. The only exception to the extragalactic
+  ensemble is a star, which can be identified near the top of the frame by its diffraction
+  spikes. It is positively neighbourly, just a few thousand light-years away in the
+  Milky Way galaxy. Hubble has turned its attention toward NGC 1309 several times;
+  previous Hubble images of this galaxy were released in 2006 and 2014. Much of NGC
+  1309’s scientific interest derives from two supernovae, SN 2002fk in 2002 and SN
+  2012Z in 2012. SN 2002fk was a perfect example of a Type Ia supernova, which happens
+  when the core of a dead star (a white dwarf) explodes. SN 2012Z, on the other hand,
+  was a bit of a renegade. It was classified as a Type Iax supernova: while its spectrum
+  resembled that of a Type Ia supernova, the explosion wasn’t as bright as expected.
+  Hubble observations showed that in this case, the supernova did not destroy the
+  white dwarf completely, leaving behind a ‘zombie star’ that shone even brighter
+  than it did before the explosion. Hubble observations of NGC 1309 taken across several
+  years also made this the first time the white dwarf progenitor of a supernova has
+  been identified in images taken before the explosion. [Image Description: A top-down
+  view of a spiral galaxy, showing its brightly shining centre, its broad spiral arms
+  and the faint halo around its disc, as well as distant galaxies and stars on a dark
+  background. Large blue clouds of gas speckled with small stars and strands of dark
+  dust swirl around the galaxy’s disc. A couple of the background galaxies are large
+  enough that their own swirling spiral arms can be seen.] Links Pan: NGC 1309'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2530a/L{1}X{2}Y{3}.png
+name: A supernova-rich spiral
+ra_hr: 3.368427540682131
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2530a/thumb.jpg
+zoom_level: 0.520625561795985
+---
+_uuid: 3841b10c-08aa-4f71-ae54-4e2cf4e3afb5
+classification: ''
+constellation: HYI
+data_set_type: Sky
+dec_deg: -67.6342508479242
+description: 'Though interesting to look at, NGC 1511 is one galaxy you might not
+  want for a neighbour. Seen in this ESA/Hubble Picture of the Week, NGC 1511 is a
+  peculiar spiral galaxy located roughly 50 million light-years away in the constellation
+  Hydrus. Like many galaxies, NGC 1511 doesn’t travel through space alone. Instead,
+  it does so with a pair of small galactic companions called NGC 1511A and NGC 1511B,
+  both of which lie outside the frame of this Hubble image. NGC 1511B is situated
+  closest to NGC 1511, and the two galaxies have apparently clashed in the past; a
+  narrow strand of hydrogen gas connects them, and NGC 1511B has been stretched and
+  distorted by the encounter. Researchers have even found evidence that NGC 1511 once
+  had another small companion galaxy that it has disrupted entirely! These disruptions
+  have an impact on NGC 1511, too. The galaxy is experiencing a burst of star formation,
+  and its disc features strange loops and plumes that could point to past interactions
+  with its neighbouring galaxies. Researchers will use Hubble’s keen observations
+  of NGC 1511 to study star clusters embedded within its dusty gas, seeking to understand
+  how matter is cycled from interstellar clouds to stars and back to clouds once again.
+  [Image Description: A spiral galaxy, tilted away so that it is seen mostly from
+  the edge. The disc of the galaxy glows blue from its centre, due to younger stars
+  in the spiral arms. There are large and small patches of gas, glowing in red and
+  pink colours, where new stars are forming. Webs of dark dust are spread over the
+  disc. The glow of the disc fades into a dark background, with a couple of stars.]
+  Links Pan: NGC 1511'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2545a/L{1}X{2}Y{3}.png
+name: A disruptive neighbour
+ra_hr: 3.993403380617977
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2545a/thumb.jpg
+zoom_level: 0.40669172235348205
+---
 _uuid: 276a9a1c-b68a-4501-b649-3cfb09607654
 classification: ''
 constellation: FOR

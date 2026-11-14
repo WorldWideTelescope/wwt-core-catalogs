@@ -1359,6 +1359,256 @@ name: Rosette Nebula
 ra_hr: 6.533055555555555
 zoom_level: 32.0
 ---
+_uuid: dfcf8a6e-a80d-4bbc-9457-319c1127fe9e
+classification: ''
+constellation: MON
+data_set_type: Sky
+dec_deg: 4.997845215418282
+description: 'This is a Hubble Space Telescope photo of a small portion of the Rosette
+  Nebula, a huge star-forming region spanning 100 light-years across and located 5,200
+  light-years away. Hubble zooms into a small portion of the nebula that is only 4
+  light-years across (the approximate distance between our Sun and the neighbouring
+  Alpha Centauri star system.) Dark clouds of hydrogen gas laced with dust are silhouetted
+  across the image. The clouds are being eroded and shaped by the seething radiation
+  from the cluster of larger stars in the center of the nebula (NGC 2440). An embedded
+  star seen at the tip of a dark cloud in the upper right portion of the image is
+  launching jets of plasma that are crashing into the cold cloud around it. The resulting
+  shock wave is causing a red glow. The colours come from the presence of hydrogen,
+  oxygen, and nitrogen. [Image description: A tiny portion of the Rosette Nebula.
+  Very dark gray material shaped like a V extends from just below top left all the
+  way down to the lower right corner and back up toward the top right. It looks like
+  thick smoke that has billowed out irregularly, thicker along the line from top left
+  to bottom right, and looser on the piece that goes toward the top right. Behind
+  the dark gray on the left side, from the bottom left to top center, there is dust
+  that looks like arced claw marks that appears in light orange and yellow. The background
+  at top left is hazier and some blues are covered in semi-transparent orange wisps,
+  which makes sections take on green hues. In the bottom right, the background is
+  bluer. There are a few bright red and purple stars scattered along the right half,
+  most toward the bottom. The largest star is at right-center, just at the edge. It
+  is red and has four diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2505f/L{1}X{2}Y{3}.png
+name: Rosette Nebula
+ra_hr: 6.511652611953924
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2505f/thumb.jpg
+zoom_level: 0.45058269453485494
+---
+_uuid: 5383dd3b-cf16-4b7b-9397-bddbea19b5b5
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -26.75462098086136
+description: What looks like two glowing eyes and a crooked carved smile in this new
+  NASA/ESA Hubble Space Telescope snapshot is the early stages of a collision between
+  two galaxies. Residing in the constellation Canis Major, the entire view is 109,000
+  light-years across, approximately the diameter of our Milky Way. The overall pumpkin-ish
+  color corresponds to the glow of aging red stars in two galaxies, cataloged as NGC
+  2292 and NGC 2293, which only have a hint of spiral structure. The ghostly arm making
+  the “smile” may be just the beginning of the process of rebuilding a spiral galaxy,
+  say researchers. The arm embraces both galaxies. It most likely formed when interstellar
+  gas was compressed as the two galaxies began to merge. The higher density precipitates
+  new star formation. Link NASA Press Release
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2032a/L{1}X{2}Y{3}.png
+name: Hubble Finds Halloween Pumpkin Pair
+ra_hr: 6.794618623979024
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2032a/thumb.jpg
+zoom_level: 0.5018305666827069
+---
+_uuid: 6036ebc8-1503-4a77-988c-54f19b0dd17d
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 60.85091150103241
+description: 'At first glance, the subject of this NASA/ESA Hubble Space Telescope
+  image looks to be a simple spiral galaxy, with two pinwheeling arms emerging from
+  a central bar of stars and material that cuts through the galactic centre. In fact,
+  there are rings within these spiral arms, too: spirals within a spiral. This kind
+  of morphology is known as a multiring structure. As this description suggests, this
+  galaxy, named NGC 2273, hosts an inner ring and two outer “pseudorings” — having
+  so many distinct rings is rare, and makes NGC 2273 unusual. Rings are created when
+  a galaxy’s spiral arms appear to loop around to nearly close upon one another, combined
+  with a trick of cosmic perspective. NGC 2273’s two pseudorings are formed by two
+  swirling sets of spiral arms coming together, and the inner ring by two arcing structures
+  nearer to the galactic centre, which seem to connect in a similar way. These rings
+  are not the only unique feature of this galaxy. NGC 2273 is also a Seyfert galaxy,
+  a galaxy with an extremely luminous core. In fact, the centre of a galaxy such as
+  this is powered by a supermassive black hole, and can glow brightly enough to outshine
+  an entire galaxy like the Milky Way.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2014a/L{1}X{2}Y{3}.png
+name: Rings Upon Rings
+ra_hr: 6.835559854010792
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2014a/thumb.jpg
+zoom_level: 0.3423080470789256
+---
+_uuid: 3dc9a821-0530-4388-ad99-f9d761a5503d
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -75.43346164740977
+description: Looking its best ever is the star cluster NGC 2203, here imaged by the
+  NASA/ESA Hubble Space Telescope. Aside from its dazzling good looks, this cluster
+  of stars contains lots of astronomical treats that have helped astronomers puzzle
+  together the lifetimes of stars. A main sequence star, like our Sun, is the term
+  applied to a star during the longest period of its life, when it burns fuel steadily.
+  Our Sun’s fuel will run out in approximately 6 billion years, and it will then move
+  on to the next stage of its life when it will turn into a red giant. Astronomers
+  studying NGC 2203, which contains stars that are roughly twice as massive as our
+  Sun, found that their rotation might be a factor as to why some of the stars stay
+  longer than usual in this main-sequence phase of their life. This is the best resolution
+  obtained of the star cluster to date.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2030a/L{1}X{2}Y{3}.png
+name: Stellar Sweet Shop
+ra_hr: 6.077506767696675
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2030a/thumb.jpg
+zoom_level: 0.45316349186817695
+---
+_uuid: 2792b669-37d5-4b9a-98bd-3d8bb0c00751
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -34.103755209634365
+description: The blue and orange stars of the faint galaxy named NGC 2188 sparkle
+  in this image taken with the NASA/ESA Hubble Space Telescope. Although NGC 2188
+  appears at first glance to consist solely of a narrow band of stars, it is classified
+  by astronomers as a barred-spiral galaxy. It appears this way from our viewpoint
+  on Earth as the centre and spiral arms of the galaxy are tilted away from us, with
+  only the very narrow outer edge of the galaxy’s disc visible to us. Astronomers
+  liken this occurrence to turning a dinner plate in your hands so you see only its
+  outer edge. The true shape of the galaxy was identified by studying the distribution
+  of the stars in the inner central bulge and outer disc and by observing the stars’
+  colours. NGC 2188 is estimated to be just half the size of our Milky Way, at 50
+  000 light-years across, and it is situated in the constellation of Columba (The
+  Dove). Named in the late 1500s after Noah’s dove in biblical stories, the small
+  constellation consists of many faint yet beautiful stars and astronomical objects.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2035a/L{1}X{2}Y{3}.png
+name: A Tilted Wonder
+ra_hr: 6.169612889728937
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2035a/thumb.jpg
+zoom_level: 0.58078668758181
+---
+_uuid: 03df1a40-83f3-494b-865f-a414a72a5dc1
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -27.23668344732177
+description: The magnificent central bar of NGC 2217 (also known as AM 0619-271) shines
+  bright in the constellation of Canis Major (The Greater Dog), in this new image
+  taken by the NASA/ESA Hubble Space Telescope. Roughly 65 million light-years from
+  Earth, this barred spiral galaxy is a similar size to our Milky Way at 100 thousand
+  light-years across. Many stars are concentrated in its central region forming the
+  luminous bar, surrounded by a set of tightly wound spiral arms. The central bar
+  in these types of galaxies plays an important role in their evolution, helping to
+  funnel gas from the disc into the middle of the galaxy. The transported gas and
+  dust are then either formed into new stars or fed to the supermassive black hole
+  at the galaxy's centre. Weighing from a few hundred to over a billion times the
+  mass of our Sun, supermassive black holes are present in almost all large galaxies.
+  This image was colourised with data from the Panoramic Survey Telescope and Rapid
+  Response System (Pan-STARRS).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2052a/L{1}X{2}Y{3}.png
+name: A Bright Bar of Light
+ra_hr: 6.361264576108385
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2052a/thumb.jpg
+zoom_level: 0.5684044985247728
+---
+_uuid: 0c551a3a-df4a-4b4e-804a-7aab388728e8
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 21.64214003806726
+description: Nestled amongst the vast clouds of star-forming regions like this one
+  lie potential clues about the formation of our own Solar System. This week’s NASA/ESA
+  Hubble Space Telescope Picture of the Week features AFGL 5180, a beautiful stellar
+  nursery located in the constellation of Gemini (The Twins). At the centre of the
+  image, a massive star is forming and blasting cavities through the clouds with a
+  pair of powerful jets, extending to the top right and bottom left of the image.
+  Light from this star is mostly escaping and reaching us by illuminating these cavities,
+  like a lighthouse piercing through the storm clouds. Stars are born in dusty environments
+  and although this dust makes for spectacular images, it can prevent astronomers
+  from seeing stars embedded in it. Hubble’s Wide Field Camera 3 (WFC3) instrument
+  is designed to capture detailed images in both visible and infrared light, meaning
+  that the young stars hidden in vast star-forming regions like AFGL 5180 can be seen
+  much more clearly.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2110a/L{1}X{2}Y{3}.png
+name: Through the Clouds
+ra_hr: 6.148327103734972
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2110a/thumb.jpg
+zoom_level: 0.3326674581649276
+---
+_uuid: a300b9c2-a5f2-4a5c-8442-85cc959e5f77
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.12202716437244
+description: 'This striking image shows the densely packed globular cluster known
+  as NGC 2210, which is situated in the Large Magellanic Cloud (LMC). The LMC lies
+  about 157 000 light-years from Earth, and is a so-called satellite galaxy of the
+  Milky Way, meaning that the two galaxies are gravitationally bound. Globular clusters
+  are very stable, tightly bound clusters of thousands or even millions of stars.
+  Their stability means that they can last a long time, and therefore globular clusters
+  are often studied in order to investigate potentially very old stellar populations.
+  In fact, 2017 research that made use of some of the data that were also used to
+  build this image revealed that a sample of LMC globular clusters were incredibly
+  close in age to some of the oldest stellar clusters found in the Milky Way’s halo.
+  They found that NGC 2210 specifically probably clocks in at around 11.6 billion
+  years of age. Even though this is only a couple of billion years younger than the
+  Universe itself, it made NGC 2210 by far the youngest globular cluster in their
+  sample. All other LMC globular clusters studied in the same work were found to be
+  even older, with four of them over 13 billion years old. This is interesting, because
+  it tells astronomers that the oldest globular clusters in the LMC formed contemporaneously
+  with the oldest clusters in the Milky Way, even though the two galaxies formed independently.
+  As well as being a source of interesting research, this old-but-relatively-young
+  cluster is also extremely beautiful, with its highly concentrated population of
+  stars. The night sky would look very different from the perspective of an inhabitant
+  of a planet orbiting one of the stars in a globular cluster’s centre: the sky would
+  appear to be stuffed full of stars, in a stellar environment that is thousands of
+  times more crowded than our own. Links Science paper in the Monthly Notices of the
+  Royal Astronomical Society Pan video: Cluster in the cloud [Image Description: A
+  dense cluster of stars. It is brightest and most crowded in the centre, where the
+  stars are mostly a cool white colour. Moving out towards the edges the stars become
+  more spread out and reddish until a noticeable ‘edge’ to the cluster is reached.
+  Beyond that edge there are still many stars, more disorganised and seen on a black
+  background. Some stars appear to be in front of the cluster.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2349a/L{1}X{2}Y{3}.png
+name: Cluster in the cloud
+ra_hr: 6.19208818997906
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2349a/thumb.jpg
+zoom_level: 0.3737341809870761
+---
+_uuid: 2c72c6f3-75c9-4d80-9cc9-1c8ad3ecc86c
+classification: ''
+constellation: CAM
+data_set_type: Sky
+dec_deg: 63.67543176216951
+description: 'Looking past its long spiral arms filled with stars and the dark threads
+  of dust crossing it, your eye might be caught by the shining point at the centre
+  of UGC 3478, the spiral galaxy starring in this Hubble Picture of the Week. This
+  point is the galaxy’s nucleus, and indeed there is something special about it: it
+  is a growing giant black hole which astronomers call an active galactic nucleus,
+  or AGN. UGC 3478, located in the constellation Camelopardalis, is what is known
+  as a Seyfert galaxy. This is a type of galaxy with an AGN at its core. Like all
+  such ‘active galaxies’, the brightness that you see here hides a supermassive black
+  hole at the centre of the galaxy. A disc of gas spirals into this black hole, and
+  as the material crashes together and heats up it emits very strong radiation. The
+  spectrum of this radiation includes hard X-ray emission, which clearly mark it out
+  from the stars in the galaxy. Despite the strong brightness of the compact central
+  region, we can still clearly see the disc of the galaxy around it, which is a defining
+  factor of a Seyfert galaxy. Many active galaxies are known to astronomers at vast
+  distances from Earth, thanks to the great brightness of their nuclei highlighting
+  them next to other, dimmer galaxies. At 128 million light-years from Earth, UGC
+  3478 is positively neighbourly to us. The data used to make this image come from
+  a Hubble survey of nearby powerful AGNs identified by their output of relatively
+  high-energy X-rays, like this one, which it is hoped can help astronomers to understand
+  how the galaxies interact with the supermassive black holes at their hearts. [Image
+  Description: A spiral galaxy, with two glowing spiral arms. They are filled with
+  thin lines of dark dust, and surrounded by a faint cloud. One arm stretches further
+  from the galaxy than the other. The point at the centre of the spiral is particularly
+  bright. It is on a black background, mostly empty, except for some distant galaxies
+  and a few bright stars in the foreground.] Links Pan of UGC 3478'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2435a/L{1}X{2}Y{3}.png
+name: Hiding a bright secret
+ra_hr: 6.546757493899023
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2435a/thumb.jpg
+zoom_level: 0.262494042164916
+---
 _uuid: a3ab6b78-670f-44e5-9130-2e77519fa078
 classification: ''
 constellation: CAR

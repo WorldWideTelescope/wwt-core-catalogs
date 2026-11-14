@@ -1442,6 +1442,316 @@ name: Thor's Helmet
 ra_hr: 7.3086111111111105
 zoom_level: 3.746666666666667
 ---
+_uuid: 4cd42b66-ccdb-4e31-bf18-173be2ba790d
+classification: ''
+constellation: CEP
+data_set_type: Sky
+dec_deg: 85.75831136763578
+description: This spectacular image from the NASA/ESA Hubble Space Telescope shows
+  the trailing arms of NGC 2276, a spiral galaxy 120 million light-years away in the
+  constellation of Cepheus. At first glance, the delicate tracery of bright spiral
+  arms and dark dust lanes resembles countless other spiral galaxies. A closer look
+  reveals a strangely lopsided galaxy shaped by gravitational interaction and intense
+  star formation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2106a/L{1}X{2}Y{3}.png
+name: Hubble Captures NGC 2276
+ra_hr: 7.459339005749978
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2106a/thumb.jpg
+zoom_level: 0.4586385521443462
+---
+_uuid: 5396bd74-d295-4fbe-8107-5cd153ab2fe3
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 39.02327060712802
+description: A spectacular head-on collision between two galaxies has been captured
+  by the NASA/ESA Hubble Space Telescope, which has the unusual triangular-shaped
+  star-birthing frenzy. The interacting galaxy duo is collectively called Arp 143.
+  The pair contains the distorted, star-forming spiral galaxy NGC 2445, at right,
+  along with its less flashy companion, NGC 2444, at left. This frenzied action takes
+  place against the tapestry of distant galaxies. Some of them can be seen through
+  the interacting pair.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2201a/L{1}X{2}Y{3}.png
+name: Hubble’s Observation of Arp 143
+ra_hr: 7.781847251650893
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2201a/thumb.jpg
+zoom_level: 0.374385946033858
+---
+_uuid: 7f3d8876-f3d2-46b9-85ae-d8a936b25d23
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 22.920017966666215
+description: 'This image from the NASA/ESA Hubble Space Telescope shows a pair of
+  quasars (known as J0749+2255) that existed when the Universe was just 3 billion
+  years old. They are embedded inside a pair of colliding galaxies. The quasars are
+  separated by less than the size of a single galaxy. Quasars are powered by voracious,
+  supermassive black holes blasting out ferocious fountains of energy as they engorge
+  themselves on gas, dust, and anything else within their gravitational grasp. The
+  black holes will eventually merge. This discovery required the combined power of
+  the NASA/ESA Hubble Space Telescope and the W.M. Keck Observatories in Hawaii. Multi-wavelength
+  observations from the International Gemini Observatory in Hawaii, NSF''s Karl G.
+  Jansky Very Large Array in New Mexico, and NASA''s Chandra X-ray Observatory also
+  contributed to understanding the dynamic duo. And, ESA''s Gaia space observatory
+  helped identify this double quasar in the first place. Hubble shows, unequivocally,
+  that this is indeed a genuine pair of supermassive black holes, rather than two
+  images of the same quasar created by a foreground gravitational lens. And, Hubble
+  shows a tidal feature from the merging of two galaxies, where gravity distorts the
+  shape of the galaxies forming two tails of stars. However, Hubble''s sharp resolution
+  alone isn''t good enough to go looking for these dual light beacons. Researchers
+  enlisted Gaia, which launched in 2013, to pinpoint potential double-quasar candidates.
+  Gaia measures the positions, distances, and motions of nearby celestial objects
+  very precisely. But in a novel technique, it can be used to explore the distant
+  universe. Gaia''s huge database can be used to search for quasars that mimic the
+  apparent motion of nearby stars. The quasars appear as single objects in the Gaia
+  data because they are so close together. However, Gaia can pick up a subtle, unexpected
+  "jiggle" that mimics an apparent change in position of some of the quasars it observes.
+  In reality, the quasars aren''t moving through space in any measurable way. Instead,
+  their jiggle could be evidence of random fluctuations of light as each member of
+  the quasar pair varies in brightness on timescales of days to months, depending
+  on their black hole''s feeding schedule. This alternating brightness between the
+  quasar pair is similar to seeing a railroad crossing signal from a distance. As
+  the lights on both sides of the stationary signal alternately flash, the sign gives
+  the illusion of "jiggling." Because Hubble peers into the distant past, this double
+  quasar no longer exists. Over the intervening 10 billion years, their host galaxies
+  have likely settled into a giant elliptical galaxy, like the ones seen in the local
+  universe today. And, the quasars have merged to become a gargantuan, supermassive
+  black hole at its centre. The nearby giant elliptical galaxy, M87, has a monstrous
+  black hole weighing 6.5 billion times the mass of our Sun. Perhaps this black hole
+  was grown from one or more galaxy mergers over the past billions of years. These
+  results are featured in the paper published on 5 April 2023 in the journal Nature.
+  [Image description: A close-up image of a dual quasar system is shown. They appear
+  as two large, white blurry circles in the centre of the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2302a/L{1}X{2}Y{3}.png
+name: Hubble unexpectedly finds double quasar in distant Universe
+ra_hr: 7.823044537313215
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2302a/thumb.jpg
+zoom_level: 0.009162406649936864
+---
+_uuid: 1563e003-8715-4385-afe8-421da0090306
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 27.070059768717318
+description: 'Quasar J0742+2704 (center) became the subject of astronomers’ interest
+  after it was discovered to have a newborn jet blasting from the disk around its
+  supermassive black hole in 2020, using the Karl G. Jansky Very Large Array (VLA)
+  radio observatory. This led to follow-up with other observatories in an effort to
+  determine the properties of the galaxy and what may have triggered the jet. While
+  the jet itself cannot be seen in this NASA/ESA Hubble Space Telescope infrared-light
+  image, the spiral shape of J0742+2704 is clear, with faint but detectable arms branching
+  above and below the galaxy center. This was a big surprise to the research team,
+  as quasars hosting jets are typically elliptical-shaped, and it is suspected that
+  messy mergers with other galaxies are what funnel gas toward the black hole and
+  fuel jets. These mergers would also disrupt any spiral formation a galaxy may have
+  had before mixing its contents with another galaxy. Though its intact spiral shape
+  means it has not experienced a major merger, Hubble does show evidence that its
+  lower arm has been disrupted, possibly by the tidal forces of interaction with another
+  galaxy. This could mean that jets can be triggered by a far less involved, dramatic
+  interaction of galaxies than a full merger. The large galaxy to the lower right
+  of the quasar appears to be a ring galaxy, another sign of interaction. Ring galaxies
+  form after a small galaxy passes through the center of a larger galaxy, reconfiguring
+  its gas and dust. The brightest parts of this image — foreground stars and the bright
+  center of the quasar — show the characteristic “starry” spikes produced by Hubble
+  (and other telescopes’) interior structure. They are not actual aspects of the cosmic
+  objects [Image description: Field of yellow galaxies of various sizes and distances
+  on a black background. Two larger galaxies are prominent. Centered is a galaxy with
+  a bright core and faint spiral arms coming off its top and bottom. To the lower
+  right of the spiral is a ring galaxy with an apparent gap between its bright core
+  and the ring oval of dust and gas surrounding it.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2504/L{1}X{2}Y{3}.png
+name: Quasar J0742+2704
+ra_hr: 7.7134531740483885
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2504/thumb.jpg
+zoom_level: 0.17062107291473566
+---
+_uuid: b65c3d7a-0fb5-4731-82fb-ad850e28e32d
+classification: ''
+constellation: VOL
+data_set_type: Sky
+dec_deg: -69.50773449024027
+description: This image from the NASA/ESA Hubble Space Telescope features the spectacular
+  galaxy NGC 2442. This galaxy was host to a supernova explosion, known as SN2015F,
+  that was created by a white dwarf star. The white dwarf was part of a binary star
+  system and syphoned mass from its companion, eventually becoming too greedy and
+  taking on more than it could handle. This unbalanced the star and triggered runaway
+  nuclear fusion that eventually led to an intensely violent supernova explosion.
+  SN2015F was spotted in March 2015 in the galaxy named NGC 2442, nicknamed the Meathook
+  Galaxy owing to its extremely asymmetrical and irregular shape. The supernova shone
+  brightly for quite some time and was easily visible from Earth through even a small
+  telescope until later that summer.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2033a/L{1}X{2}Y{3}.png
+name: Cosmic Fireworks
+ra_hr: 7.604966826594759
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2033a/thumb.jpg
+zoom_level: 0.4565529966730875
+---
+_uuid: b6bc8ad2-9455-4b3f-be0c-183b4a9943aa
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 58.50795419108877
+description: A bright foreground star isn’t enough to distract from the grandeur of
+  the galaxy UGC 3855, captured here by the NASA/ESA Hubble Space Telescope. While
+  this foreground star is incredibly bright to Hubble’s eye, it does not outshine
+  the details of the background galaxy. Many young blue stars are sprinkled throughout
+  the circular patterns of UGC 3855’s arms, contrasted and complemented by dark lanes
+  of dust also following the spiral structure. A glancing look at UGC 3855 may only
+  leave you with an impression of the galaxy, but spare a moment longer and the intricacies
+  of the galaxy begin to emerge. Located in the constellation of Lynx , UGC 3855 is
+  a cosmic beauty to behold.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2105a/L{1}X{2}Y{3}.png
+name: The Modest Galaxy
+ra_hr: 7.470712200878159
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2105a/thumb.jpg
+zoom_level: 0.21530003333866535
+---
+_uuid: 93f6a5cb-76bf-471e-abb2-1d4bf85906d4
+classification: ''
+constellation: CAM
+data_set_type: Sky
+dec_deg: 80.17598622103003
+description: NGC 2336 is the quintessential galaxy — big, beautiful and blue — and
+  it is captured here by the NASA/ESA Hubble Space Telescope. The barred spiral galaxy
+  stretches an immense 200 000 light-years across and is located approximately 100
+  million light years away in the northern constellation of Camelopardalis (The Giraffe).
+  Its spiral arms are glittered with young stars, visible in their bright blue light.
+  In contrast, the redder central part of the galaxy is dominated by older stars.
+  NGC 2336 was discovered in 1876 by German astronomer Wilhelm Tempel, using a 28-centimetre
+  telescope. This Hubble image is so much better than the view Tempel would have had
+  — Hubble’s main mirror is 2.4 metres across, nearly ten times the size of the telescope
+  Tempel used. In 1987, NGC 2336 experienced a Type-Ia supernova, the only observed
+  supernova in the galaxy since its discovery 111 years earlier.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2109a/L{1}X{2}Y{3}.png
+name: Big, Beautiful and Blue
+ra_hr: 7.4510004205886515
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2109a/thumb.jpg
+zoom_level: 0.43267783140362404
+---
+_uuid: 98ac1bf2-d66b-4f52-8ffb-55ea88e2d9c4
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -16.97762796198853
+description: 'A visually striking collection of interstellar gas and dust is the focus
+  of this week''s Hubble Picture of the Week. Named RCW 7, the nebula is located just
+  over 5300 light-years from Earth in the constellation Puppis. Nebulae are areas
+  of space that are rich in the raw material needed to form new stars. Under the influence
+  of gravity, parts of these molecular clouds collapse until they coalesce into protostars,
+  surrounded by spinning discs of leftover gas and dust. In the case of RCW 7, the
+  protostars forming here are particularly massive, giving off strongly ionising radiation
+  and fierce stellar winds that have transformed it into what is known as a H II region.
+  H II regions are filled with hydrogen ions — where H I refers to a normal hydrogen
+  atom, H II is hydrogen that has lost its electron. The ultraviolet radiation from
+  the massive protostars excites the hydrogen, causing it to emit light and giving
+  this nebula its soft pinkish glow. Here Hubble is studying a particular massive
+  protostellar binary named IRAS 07299-1651, still in its glowing cocoon of gas in
+  the curling clouds towards the top of the nebula. To expose this star and its siblings,
+  this image was captured using the Wide Field Camera 3 in near-infrared light. The
+  massive protostars here are brightest in ultraviolet light, but they emit plenty
+  of infrared light which can pass through much of the gas and dust around them and
+  be seen by Hubble. Many of the other, larger-looking stars in this image are not
+  part of the nebula, but sit between it and our Solar System. The creation of an
+  H II region marks the beginning of the end for a molecular cloud. Over only a few
+  million years, the radiation and winds from the massive stars gradually disperse
+  the gas — even more so as the most massive stars come to the end of their lives
+  in supernova explosions. Only a fraction of the gas will be incorporated into new
+  stars in this nebula, with the rest being spread throughout the galaxy to eventually
+  form new molecular clouds. [Image Description: Clouds of gas and dust with many
+  stars. The clouds form a flat blue background towards the bottom, and become more
+  thick and smoky towards the top. They are lit on one side by stars in the nebula.
+  A thick arc of gas and dust reaches around from the top, where it is brightly lit
+  by many stars in and around it, to the bottom where it is dark and obscuring. Other
+  large stars lie between the clouds and the viewer.] Links Science paper in Nature
+  Astronomy Pan of RCW 7'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2425a/L{1}X{2}Y{3}.png
+name: A transformation in progress
+ra_hr: 7.535434985341918
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2425a/thumb.jpg
+zoom_level: 0.3714689731740418
+---
+_uuid: 31eee2ba-abf3-4ae4-962e-1eeeb4c31c27
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 14.839317088398492
+description: 'This NASA/ESA Hubble Space Telescope Picture of the Week features the
+  galaxy LEDA 22057, which is located about 650 million light-years away in the constellation
+  Gemini. Like the subject of last week’s Picture of the Week, LEDA 22057 is the site
+  of a supernova explosion. This particular supernova, named SN 2024PI, was discovered
+  by an automated survey in January 2024. The survey covers the entire northern half
+  of the night sky every two days and has catalogued more than 10 000 supernovae.
+  The supernova is visible in this image: located just down and to the right of the
+  galactic nucleus, the pale blue dot of SN 2024PI stands out against the galaxy’s
+  ghostly spiral arms. This image was taken about a month and a half after the supernova
+  was discovered, so the supernova is seen here many times fainter than its maximum
+  brilliance. SN 2024PI is classified as a Type Ia supernova. This type of supernova
+  requires a remarkable object called a white dwarf, the crystallised core of a star
+  with a mass less than about eight times the mass of the Sun. When a star of this
+  size uses up the supply of hydrogen in its core, it balloons into a red giant, becoming
+  cool, puffy and luminous. Over time, pulsations and stellar winds cause the star
+  to shed its outer layers, leaving behind a white dwarf and a colourful planetary
+  nebula. White dwarfs can have surface temperatures higher than 100 000 degrees and
+  are extremely dense, packing roughly the mass of the Sun into a sphere the size
+  of Earth. While nearly all of the stars in the Milky Way will one day evolve into
+  white dwarfs — this is the fate that awaits the Sun some five billion years in the
+  future — not all of them will explode as Type Ia supernovae. For that to happen,
+  the white dwarf must be a member of a binary star system. When a white dwarf syphons
+  material from a stellar partner, the white dwarf can become too massive to support
+  itself. The resulting burst of runaway nuclear fusion destroys the white dwarf in
+  a supernova explosion that can be seen many galaxies away. [Image Description: A
+  spiral galaxy with two thin, slowly-curving arms, one fainter than the other, coming
+  off the tips of a bright, oval-shaped core region. The disc of the galaxy is also
+  oval-shaped and filled with fuzzy dust under the arms. It has some bright spots
+  where stars are concentrated, especially along the arms. The core has a white glow
+  in the centre and thick bands of gas around it. A supernova is visible as a pale
+  blue dot near the core.] Links Pan of LEDA 22057'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2453a/L{1}X{2}Y{3}.png
+name: Pale blue (supernova) dot
+ra_hr: 7.878534916900133
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2453a/thumb.jpg
+zoom_level: 0.1761499901928414
+---
+_uuid: a83f810b-2a50-4869-bfdd-c135fb0649d8
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 21.072301787734563
+description: 'The subject of this NASA/ESA Hubble Space Telescope Picture of the Week
+  is a supernova-hosting galaxy located about 600 million light-years away in the
+  constellation Gemini. This picture was taken roughly two months after a supernova
+  named SN 2022aajn was discovered in this galaxy. The supernova is visible as a blue
+  dot at the centre of the image, brightening the hazy body of the galaxy. Other than
+  the announcement of its discovery in November 2022, SN 2022aajn has never been the
+  subject of published research. Why, then, would Hubble observe this supernova? SN
+  2022aajn is what’s known as a Type Ia supernova, which results from the explosion
+  of the core of a dead star. Supernovae of this type help astronomers measure the
+  distance to faraway galaxies. This is possible because Type Ia supernovae are thought
+  to be of the same intrinsic luminosity — no matter how bright they seem from Earth,
+  they put out the same amount of light as other Type Ia supernovae. Thus, by comparing
+  the observed brightness to the expected brightness, researchers can calculate the
+  distance to the supernova and its host galaxy. This seemingly simple measurement
+  method is complicated by cosmic dust. The farther away a supernova is, the fainter
+  and redder it will appear — but intergalactic dust can make a supernova appear fainter
+  and redder as well. To understand this complication, researchers will use Hubble
+  to survey a total of 100 Type Ia supernovae in seven wavelength bands from the ultraviolet
+  to the near-infrared. This image combines data taken at four infrared wavelengths.
+  Infrared light passes through dust more easily than visible or ultraviolet light.
+  By comparing the brightness of the sampled supernovae across different wavelengths,
+  researchers can disentangle the effects of dust and distance, helping to improve
+  measurements of galaxies billions of light-years away and even the expansion of
+  our Universe. [Image Description: In the exact centre a supernova is seen as a small
+  but bright blue dot. It lies atop the outer disc of a hazy-looking galaxy, which
+  has a somewhat warped shape. Around this are a number of much more minor galaxies
+  visible as glowing discs, and some points of light that are stars near to us, on
+  a black background. X-shaped spikes around each star are optical artefacts from
+  the telescope.] Links Pan of SN 2022aajn'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2504a/L{1}X{2}Y{3}.png
+name: One in a hundred
+ra_hr: 7.137656609636013
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2504a/thumb.jpg
+zoom_level: 0.18380857609500123
+---
 _uuid: e8c376bb-6770-485e-88ef-d21cc675faf0
 classification: ''
 constellation: VOL

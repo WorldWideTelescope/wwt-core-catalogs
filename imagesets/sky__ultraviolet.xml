@@ -517,4 +517,32 @@ TOAST-formatted mosaics were obtained using facilities of NASA's SkyView Virtual
     <CreditsUrl>http://galex.stsci.edu/GR2/</CreditsUrl>
     <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=galexboth</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    BandPass="Ultraviolet"
+    BaseDegreesPerTile="0.01292893994174464"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="161.265244106"
+    CenterY="-59.6839099636"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Cosmic Fireworks in Ultraviolet"
+    OffsetX="6.31295895593e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="https://data1.wwtassets.org/feeds/hst/heic1912a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="hst|heic1912a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, N. Smith (University of Arizona, Tucson), and J. Morse (BoldlyGo Institute, New York)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic1912a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic1912a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

@@ -3080,6 +3080,498 @@ name: NGC 246
 ra_hr: 0.7841666666666667
 zoom_level: 4.0
 ---
+_uuid: cb010cf0-8499-47a9-9a29-f391602df5bc
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 7.0802352114866745
+description: 'High-resolution imagery from the NASA/ESA Hubble Space Telescope has
+  allowed researchers to hone in on more of the Bullseye galaxy’s rings — and helped
+  confirm which galaxy dove through its core. LEDA 1313424, aptly nicknamed the Bullseye,
+  is two and a half times the size of our Milky Way and has nine rings — six more
+  than any other known galaxy. Hubble has confirmed eight rings, and data from the
+  W. M. Keck Observatory in Hawaii confirmed a ninth. Hubble and Keck also confirmed
+  which galaxy dove through the Bullseye, creating these rings: the blue dwarf galaxy
+  that sits to its immediate center-left. This relatively tiny interloper traveled
+  like a dart through the core of the Bullseye about 50 million years ago, leaving
+  rings in its wake like ripples in a pond. A thin trail of gas now links the pair,
+  though they are currently separated by 130,000 light-years. The team’s paper was
+  published on 4 February 2025 in The Astrophysical Journal Letters.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2506/L{1}X{2}Y{3}.png
+name: Galaxy LEDA 1313424
+ra_hr: 0.16094135715867133
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2506/thumb.jpg
+zoom_level: 0.5110759933220663
+---
+_uuid: 9a34efd0-e6be-4e66-ba9a-6e2d82b332c6
+classification: ''
+constellation: AND
+data_set_type: Sky
+dec_deg: 41.696224591614374
+description: Many of the best-loved galaxies in the cosmos are remarkably large, close,
+  massive, bright, or beautiful, often with an unusual or intriguing structure or
+  history. However, it takes all kinds to make a Universe — as demonstrated by this
+  Hubble Picture of the Week of Messier 110. Messier 110 may not look like much, but
+  it is a fascinating near neighbour of our home galaxy, and an unusual example of
+  its type. It is a member of the Local Group, a gathering of galaxies comprising
+  the Milky Way and a number of the galaxies closest to it. Specifically, Messier
+  110 is one of the many satellite galaxies encircling the Andromeda Galaxy, the nearest
+  major galaxy to our own, and is classified as a dwarf elliptical galaxy, meaning
+  that it has a smooth and almost featureless structure. Elliptical galaxies lack
+  arms and notable pockets of star formation — both characteristic features of spiral
+  galaxies. Dwarf ellipticals are quite common in groups and clusters of galaxies,
+  and are often satellites of larger galaxies. Because they lack stellar nurseries
+  and contain mostly old stars, elliptical galaxies are often considered ‘dead’ when
+  compared to their spiral relatives. However, astronomers have spotted signs of a
+  population of young, blue stars at the centre of Messier 110 — hinting that it may
+  not be so dead after all.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1937a/L{1}X{2}Y{3}.png
+name: Not So Dead After All
+ra_hr: 0.6734434925988269
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1937a/thumb.jpg
+zoom_level: 0.30055026258019324
+---
+_uuid: 1a7c44e2-1473-44ab-81f6-9cd7775054c4
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -12.105149196570707
+description: Appearing within the boundless darkness of space, the NASA/ESA Hubble
+  Space Telescope’s snapshot of NGC 34 looks more like an otherworldly, bioluminescent
+  creature from the deep oceans than a galaxy. Lying in the constellation Cetus (The
+  Sea Monster), the galaxy’s outer region appears almost translucent, pinpricked with
+  stars and strange wispy tendrils. The main cause for this galaxy’s odd appearance
+  lies in its past. If we were able to reverse time by a few million years, we would
+  see two beautiful spiral galaxies on a direct collision course. When these galaxies
+  collided into one another, their intricate patterns and spiral arms were permanently
+  disturbed. This image shows the galaxy's bright centre, a result of this merging
+  event that has created a burst of new star formation and lit up the surrounding
+  gas. As the galaxies continue to intertwine and become one, NGC 34’s shape will
+  become more like that of an peculiar galaxy, devoid of any distinct shape. In the
+  vastness of space, collisions between galaxies are quite rare events, but they can
+  be numerous in mega-clusters containing hundreds or even thousands of galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2043a/L{1}X{2}Y{3}.png
+name: Beauty From Chaos
+ra_hr: 0.1855064536765218
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2043a/thumb.jpg
+zoom_level: 0.4304126307948841
+---
+_uuid: edb11d43-7c0f-4bd5-ae2d-742b8047e456
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -20.621681316398494
+description: 'This extraordinary image from the NASA/ESA Hubble Space Telescope of
+  the galaxy cluster Abell 2813 (also known as ACO 2813) has an almost delicate beauty,
+  which also illustrates the remarkable physics at work within it. The image spectacularly
+  demonstrates the concept of gravitational lensing. In amongst the tiny dots, spirals
+  and ovals that are the galaxies that belong to the cluster, there are several distinct
+  crescent shapes. These curved arcs of light are strong examples of a phenomenon
+  known as gravitational lensing. The image was compiled using observations taken
+  with the Hubble Space Telescope’s Advanced Camera for Surveys (ACS) and Wide Field
+  Camera 3 (WFC3). Gravitational lensing occurs when an object’s mass causes light
+  to bend. The curved crescents and s-shapes of light in this image are not curved
+  galaxies, but are light from galaxies that actually lie beyond Abell 2813. The galaxy
+  cluster has so much mass that it acts as a gravitational lens, causing light from
+  more distant galaxies to bend around it. These distortions can appear as many different
+  shapes, such as long lines or arcs. This very visual evidence that mass causes light
+  to bend has been famously used as a proof of one of the most famous scientific theories:
+  Einstein’s theory of general relativity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2115a/L{1}X{2}Y{3}.png
+name: Light Bends from the Beyond
+ra_hr: 0.7234743007652488
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2115a/thumb.jpg
+zoom_level: 0.35682846502705223
+---
+_uuid: cc05eabf-0b0b-44c3-89b3-10d55a04fa3f
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.46621740420147
+description: This Picture of the Week depicts the open star cluster NGC 330, which
+  lies around 180,000 light-years away inside the Small Magellanic Cloud. The cluster
+  — which is in the constellation Tucana (The Toucan) — contains a multitude of stars,
+  many of which are scattered across this striking image. The most stunning object
+  in this image is actually the very small star cluster in the lower left corner of
+  the image, surrounded by a nebula of ionised hydrogen (red) and dust (blue). Named
+  GALFOR 1, the cluster was discovered in 2018 in Hubble's archival data, which was
+  used to create this latest image from Hubble. To better understand this star cluster,
+  specifically whether the nebula surrounding the cluster also contains a bow shock,
+  scientists will need high resolution infrared imagery from the upcoming NASA/ESA/CSA
+  James Webb Space Telescope. This image also contains clues about the inner workings
+  of Hubble itself. The criss-cross patterns surrounding the stars in this image —
+  known as diffraction spikes — were created when starlight interacted with the four
+  thin vanes supporting Hubble’s secondary mirror. As star clusters form from a single
+  primordial cloud of gas and dust, all the stars they contain are roughly the same
+  age. This makes them useful natural laboratories for astronomers to learn how stars
+  form and evolve. This image uses observations from Hubble’s Wide Field Camera 3,
+  and incorporates data from two very different astronomical investigations. The first
+  aimed to understand why stars in star clusters appear to evolve differently from
+  stars elsewhere, a peculiarity first observed by the Hubble Space Telescope. The
+  second aimed to determine how large stars can be before they become doomed to end
+  their lives in cataclysmic supernova explosions. Links Video of A Scattering of
+  Stars
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2126a/L{1}X{2}Y{3}.png
+name: A Scattering of Stars
+ra_hr: 0.938813944034025
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2126a/thumb.jpg
+zoom_level: 0.413496431082609
+---
+_uuid: 7a09177a-03c0-40f2-8eab-62db7b1d735c
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 2.7143527057444023
+description: 'This star- and galaxy-studded image was captured by Hubble’s Wide Field
+  Camera 3 (WFC3), using data that were collected for scientific purposes. The object
+  of interest was a galaxy that is visible in the bottom right corner of the image,
+  named SGAS 0033+02. What makes this particular galaxy interesting is a little unusual
+  — it appears not just once in this image, but three times. The thrice-visible galaxy
+  is a little difficult to spot: it appears once as a curved arc and twice more as
+  small round dots around the star. SGAS 0033+02’s multiple appearances in the same
+  image are not the result of an error, but instead are due to a remarkable phenomenon
+  known as gravitational lensing. Gravitational lensing occurs when the light from
+  a very distant galaxy — such as SGAS 0033+02 — is curved (or ‘lensed’) by the gravity
+  of a massive celestial object that lies in the foreground, between the distant galaxy
+  and the Earth. SGAS 0033+02 was discovered by its namesake, the Sloan Giant Arcs
+  Survey (SGAS), which aimed to identify highly magnified galaxies that were gravitationally
+  lensed by foreground galaxy clusters. SGAS 0033+02 is of special interest because
+  of its highly unusual proximity in the sky to a very bright star. The star is useful,
+  because it can be used to calibrate and correct observations of the lensed SGAS
+  0033+02. Links Video of One Galaxy, Three Times'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2147a/L{1}X{2}Y{3}.png
+name: One Galaxy, Three Times
+ra_hr: 0.5611001243618048
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2147a/thumb.jpg
+zoom_level: 0.3475504652191372
+---
+_uuid: f8f158b6-8fce-4366-82ec-d8f021d46510
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 12.88419990861573
+description: 'This image from the NASA/ESA Hubble Space Telescope captures the spiral
+  galaxy NGC 105, which lies roughly 215 million light-years away in the constellation
+  Pisces. While it looks like NGC 105 is plunging edge-on into a collision with a
+  neighbouring galaxy, this is just the result of the chance alignment of the two
+  objects in the night sky. NGC 105’s elongated neighbour is actually far more distant
+  and remains relatively unknown to astronomers. These misleading conjunctions occur
+  frequently in astronomy — for example, the stars in constellations are at vastly
+  different distances from Earth, and only appear to form patterns thanks to the chance
+  alignment of their component stars. The Wide Field Camera 3 observations in this
+  image are from a vast collection of Hubble measurements examining nearby galaxies
+  which contain two fascinating astronomical phenomena — Cepheid variables and cataclysmic
+  supernova explosions. Whilst these two phenomena may appear to be unrelated — one
+  is a peculiar class of pulsating stars and the other is the explosion caused by
+  the catastrophic final throes of a massive star’s life — they are both used by astronomers
+  for a very particular purpose: measuring the vast distances to astronomical objects.
+  Both Cepheids and supernovae have very predictable luminosities, meaning that astronomers
+  can tell precisely how bright they are. By measuring how bright they appear when
+  observed from Earth, these “standard candles” can provide reliable distance measurements.
+  NGC 105 contains both supernovae and Cepheid variables, giving astronomers a valuable
+  opportunity to calibrate the two distance measurement techniques against one another.
+  Astronomers recently carefully analysed the distances to a sample of galaxies including
+  NGC 105 to measure how fast the Universe is expanding — a value known as the Hubble
+  constant. Their results don’t agree with the predictions of the most widely-accepted
+  cosmological model, and their analysis shows that there is only a 1-in-a-million
+  chance that this discrepancy was caused by measurement errors. This discrepancy
+  between galaxy measurements and cosmological predictions has been a long-standing
+  source of consternation for astronomers, and these recent findings provide persuasive
+  new evidence that something is either wrong or lacking in our standard model of
+  cosmology.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2201a/L{1}X{2}Y{3}.png
+name: Galactic Conjunction
+ra_hr: 0.42115275099556265
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2201a/thumb.jpg
+zoom_level: 0.2295788133704214
+---
+_uuid: 212a5e9c-903b-4f40-9fd3-14702f9c3675
+classification: ''
+constellation: AND
+data_set_type: Sky
+dec_deg: 23.991913148224363
+description: It is now widely accepted amongst astronomers that an important aspect
+  of how galaxies evolve is the way they interact with one another. Galaxies can merge,
+  collide, or brush past one another — each of which has a significant impact on their
+  shapes and structures. As common as these interactions are thought to be in the
+  Universe, it is rare to capture an image of two galaxies interacting in such a visibly
+  dynamic way. This image, from the NASA/ESA Hubble Space Telescope, feels incredibly
+  three-dimensional for a piece of deep-space imagery. The subject of this image is
+  named Arp 282, an interacting galaxy pair that is composed of the Seyfert galaxy
+  NGC 169 (bottom) and the galaxy IC 1559 (top). If you’re interested in learning
+  more about Seyfert galaxies, you can read about the Seyfert galaxy NGC 5728 here.
+  Interestingly, both of the galaxies comprising Arp 282 have monumentally energetic
+  cores, known as active galactic nuclei (AGN), although it is difficult to tell that
+  from this image. This is actually rather fortunate, because if the full emission
+  of two AGNs was visible in this image, then it would probably obscure the beautifully
+  detailed tidal interactions occurring between NGC 169 and IC 1559. Tidal forces
+  occur when an object’s gravity causes another object to distort or stretch. The
+  direction of the tidal forces will be away from the lower-mass object and towards
+  the higher mass object. When two galaxies interact, gas, dust and even entire solar
+  systems will be drawn away from one galaxy towards the other by these tidal forces.
+  This process can actually be seen in action in this image — delicate streams of
+  matter have formed, visibly linking the two galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2206a/L{1}X{2}Y{3}.png
+name: A Cosmic Draw
+ra_hr: 0.6149520883673546
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2206a/thumb.jpg
+zoom_level: 0.47071043804785634
+---
+_uuid: 7f728755-dcf6-4e64-a811-4da730ac9055
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -23.955717027933535
+description: 'Right in the middle of this image, nestled amongst a smattering of distant
+  stars and even more distant galaxies, lies the newly discovered dwarf galaxy known
+  as Donatiello II. If you cannot quite distinguish the clump of faint stars that
+  is all we can see of Donatiello II in this image, then you are in good company.
+  Donatiello II is one of three newly discovered galaxies that were so difficult to
+  spot that they were all missed by an algorithm designed to search astronomical data
+  for potential galaxy candidates. Even the best algorithms have their limitations
+  when it comes to distinguishing very faint galaxies from individual stars and background
+  noise. In these most challenging identification cases, discovery has to be done
+  the old-fashioned way — by a dedicated human trawling through the data themselves.
+  The data that enabled these discoveries was collected by the Dark Energy Survey
+  (DES), an intense observation effort that spanned six years, and was carried out
+  using the Dark Energy Camera (DECam), which is mounted on the Víctor M. Blanco 4-metre
+  Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF’s NOIRLab.
+  As is the case for most major telescopes that receive public funding, the DES data
+  were made available to the public. That is when the experienced amateur astronomer
+  Giuseppe Donatiello stepped in. He laboriously processed and analysed chunks of
+  the DES data, and made his discovery — three very faint galaxies, now named Donatiello
+  II, III and IV respectively. All three are satellites of the well known Sculptor
+  galaxy (otherwise known as NGC 253), meaning that they are all bound gravitationally
+  to their much more massive companion. This image comes from an observing programme
+  from the NASA/ESA Hubble Space Telescope. Based on their own independent search,
+  a team led by Burçin Mutlu-Pakdil used Hubble to obtain long-exposure images of
+  several faint galaxies, including Donatiello II. With the Hubble images, they were
+  able to confirm their target galaxies’ association with NGC 253 — thereby providing
+  both an independent confirmation of Donatiello’s discovery, and this new Picture
+  of the Week. [Image description: A black, mostly empty field with a variety of stars
+  and galaxies spread across it. Most are very small. A couple of galaxies and stars
+  are larger with visible details. In the centre is a relatively small, irregularly-shaped
+  galaxy; it is formed of many very small stars and a few slightly larger, bright
+  stars, all surrounded by a very faint glow that marks the borders of the galaxy.]
+  Links Hubble paper in the Astrophysical Journal Video of Can You Spot It?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2306a/L{1}X{2}Y{3}.png
+name: Can You Spot It?
+ra_hr: 0.7853317838826807
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2306a/thumb.jpg
+zoom_level: 0.2737807130265333
+---
+_uuid: 26cd3f48-0669-4e1d-b620-3c8b822e3065
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -20.441622410683507
+description: 'A massive galaxy cluster in the constellation Cetus dominates the centre
+  of this image from the NASA/ESA Hubble Space Telescope. This image is populated
+  with a serene collection of elliptical and spiral galaxies, but galaxies surrounding
+  the central cluster — which is named SPT-CL J0019-2026 — appear stretched into bright
+  arcs, as if distorted by a gargantuan magnifying glass. This cosmic contortion is
+  called gravitational lensing, and it occurs when a massive object like a galaxy
+  cluster has a sufficiently powerful gravitational field to distort and magnify the
+  light from background objects. Gravitational lenses magnify light from objects that
+  would usually be too distant and faint to observe, and so these lenses can extend
+  Hubble’s view even deeper into the Universe. This observation is part of an ongoing
+  project to fill short gaps in Hubble’s observing schedule by systematically exploring
+  the most massive galaxy clusters in the distant Universe, in the hopes of identifying
+  promising targets for further study with both Hubble and the NASA/ESA/CSA James
+  Webb Space Telescope. This particular galaxy cluster lies at a vast distance of
+  4.6 billion light years from Earth. Each year, the Space Telescope Science Institute
+  is inundated with observing proposals for Hubble, in which astronomers suggest targets
+  for observation. Even after selecting only the very best proposals, scheduling observations
+  of all of Hubble’s targets for a year is a formidable task. There is sometimes a
+  small fraction of observing time left unused in Hubble’s schedule, so in its ‘spare
+  time’ the telescope has a collection of objects to explore — including the lensing
+  galaxy cluster shown in this image. [Image description: A cluster of large galaxies,
+  surrounded by various stars and smaller galaxies on a dark background. The central
+  cluster is mostly made of bright elliptical galaxies that are surrounded by a warm
+  glow. Nearby the cluster is the stretched, distorted arc of a galaxy, gravitationally
+  lensed by the cluster.] Links Video of Cosmic Contortions'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2308a/L{1}X{2}Y{3}.png
+name: Cosmic Contortions
+ra_hr: 0.3191630502091184
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2308a/thumb.jpg
+zoom_level: 0.4715640055043825
+---
+_uuid: 2554f719-69e2-436b-910f-816d236715a4
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -9.265672271046459
+description: 'A jellyfish galaxy with trailing tentacles of stars hangs in inky blackness
+  in this image from the NASA/ESA Hubble Space Telescope. As Jellyfish galaxies move
+  through intergalactic space they are slowly stripped of gas, which trails behind
+  the galaxy in tendrils illuminated by clumps of star formation. These blue tendrils
+  are visible drifting below the core of this galaxy, and give it its jellyfish-like
+  appearance. This particular jellyfish galaxy — known as JO201 — lies in the constellation
+  Cetus, which is named after a sea monster from ancient Greek mythology. This sea-monster-themed
+  constellation adds to the nautical theme of this image. The tendrils of jellyfish
+  galaxies extend beyond the bright disc of the galaxy core. This particular observation
+  comes from an investigation into the sizes, masses and ages of the clumps of star
+  formation in the tendrils of jellyfish galaxies. Astronomers hope that this will
+  provide a breakthrough in understanding the connection between ram-pressure stripping
+  — the process that creates the tendrils of jellyfish galaxies — and star formation.
+  This galactic seascape was captured by Wide Field Camera 3 (WFC3), a versatile instrument
+  that captures images at ultraviolet and visible wavelengths. WFC3 is the source
+  of some of Hubble’s most spectacular images, from a view of Jupiter and Europa to
+  a revisit to the Pillars of Creation. [Image description: A spiral galaxy lies just
+  off-centre. It has large, faint, reddish spiral arms and a bright, reddish core.
+  These lie over two brighter blue spiral arms. These are patchy, with blotches of
+  star formation. Long trails of these bright blotches trail down from the lower spiral
+  arm, resembling tendrils. The background is black, lightly scattered with small
+  galaxies and stars, and a larger elliptical galaxy in one corner.] Links First science
+  paper in the Astrophysical Journal Second science paper in the Astrophysical Journal
+  Zoom: Galactic Seascape'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2309a/L{1}X{2}Y{3}.png
+name: Galactic Seascape
+ra_hr: 0.6919180992638295
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2309a/thumb.jpg
+zoom_level: 0.30611622283578593
+---
+_uuid: f1cae7f9-55bf-4b16-b778-75b0eac9a010
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -7.34189009934798
+description: 'The spiral galaxy NGC 298 basks in this image from the NASA/ESA Hubble
+  Space Telescope. NGC 298 lies around 89 million light-years away in the constellation
+  Cetus, and appears isolated in this image — only a handful of distant galaxies and
+  foreground stars accompany the lonely galaxy. While NGC 298 seems peaceful, in 1986
+  it was host to one of astronomy''s most extreme events: a catastrophic stellar explosion
+  known as a Type II supernova. Hubble’s Advanced Camera for Surveys captured NGC
+  298 as part of an investigation into the origins of Type II supernovae. All Type
+  II supernovae are produced by the collapse and subsequent explosion of young, massive
+  stars, but they can produce a spectacular diversity of brightnesses and spectral
+  features. Astronomers suspect that the diversity of this cosmic firework show might
+  be due to gas and dust being stripped from the stars that will eventually produce
+  Type II supernovae. Observing the region surrounding supernova explosions can reveal
+  traces of the progenitor star’s history preserved in this lost mass, as well as
+  revealing any companion stars that survived the supernova. Hubble used the brief
+  periods between scheduled observations to explore the aftermath of a number of Type
+  II supernovae, hoping to piece together the relationship between Type II supernovae
+  and the stellar systems which give rise to them. [Image description: A spiral galaxy.
+  It is tilted diagonally, and slightly towards the viewer, making its core and disc
+  separately visible. Its disc is speckled by small stars, has threads of dark reddish
+  dust and bubbles of bright, glowing gas. The core shines brightly in a warmer colour.
+  Several tiny stars and small galaxies are included in the black background.] Links
+  Pan: Hubble explores explosive aftermath in NGC 298'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2322a/L{1}X{2}Y{3}.png
+name: Hubble explores explosive aftermath in NGC 298
+ra_hr: 0.917387911909294
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2322a/thumb.jpg
+zoom_level: 0.4055939790015713
+---
+_uuid: 5d4d6825-280c-4d16-a5ea-9d88911bd85b
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -7.575395706198804
+description: 'The subject of this NASA/ESA Hubble Space Telescope Picture of the Week
+  is the spiral galaxy NGC 337, located about 60 million light-years away in the constellation
+  Cetus (The Whale). This image combines observations made at two wavelengths, highlighting
+  the galaxy’s golden centre and blue outskirts. The golden central glow comes from
+  older stars, while the sparkling blue edges get their colour from young stars. If
+  Hubble had observed NGC 337 about a decade ago, the telescope would have spotted
+  something remarkable among the hot blue stars along the galaxy’s edge: a brilliant
+  supernova. The supernova, named SN 2014cx, is remarkable for having been discovered
+  nearly simultaneously in two vastly different ways: by a prolific supernova hunter,
+  Koichi Itagaki, and by the All Sky Automated Survey for SuperNovae (ASAS-SN). ASAS-SN
+  is a worldwide network of robotic telescopes that scans the sky for sudden events
+  like supernovae. Researchers have determined that SN 2014cx was a Type IIP supernova.
+  The “Type II” classification means that the exploding star was a supergiant at least
+  eight times as massive as the Sun. The “P” stands for plateau, meaning that after
+  the light from the supernova began to fade, the level reached a plateau, remaining
+  at the same brightness for several weeks or months before fading further. This type
+  of supernova occurs when a massive star can no longer produce enough energy in its
+  core to stave off the crushing pressure of gravity. SN 2014cx’s progenitor star
+  is estimated to have been ten times more massive than the Sun and hundreds of times
+  as wide. Though it has long since dimmed from its initial brilliance, researchers
+  are still keeping tabs on this exploded star, not least through the Hubble observing
+  programme which produced this image. [Image Description: A barred spiral galaxy
+  on a dark background. The galaxy’s central region is a pale colour due to older
+  stars, contains some pale reddish threads of dust, and is brighter along a broad
+  horizontal bar through the very centre. Off the bar come several stubby spiral arms,
+  merging into the outer region of the disc. It is a cool blue colour and contains
+  some bright sparkling blue spots, both indicating young hot stars.] Links Pan of
+  NGC 337'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2452a/L{1}X{2}Y{3}.png
+name: A supernova checkup
+ra_hr: 0.9970053891239131
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2452a/thumb.jpg
+zoom_level: 0.5644672507307404
+---
+_uuid: 3b280c0b-0c74-4cb8-9912-3e5d96811d56
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.17392820216064
+description: 'Say hello to one of the Milky Way’s neighbours! Today’s NASA/ESA Hubble
+  Space Telescope Picture of the Week features a scene from one of the closest galaxies
+  to the Milky Way, the Small Magellanic Cloud (SMC). The SMC is a dwarf galaxy located
+  about 200 000 light-years away. Most of the galaxy resides in the constellation
+  Tucana, but a small section crosses over into the neighbouring constellation Hydrus.
+  Thanks to its proximity, the SMC is one of only a few galaxies that can be seen
+  from Earth without the help of a telescope or binoculars. For viewers in the southern
+  hemisphere and some latitudes in the northern hemisphere, the SMC resembles a piece
+  of the Milky Way that has broken off, though in reality it’s much farther away than
+  any part of our own galaxy. With its 2.4-metre ‘eye’ and sensitive instruments,
+  Hubble’s view of the SMC is far more detailed and vivid than what humans can see.
+  Researchers used Hubble’s Wide Field Camera 3 instrument to observe this scene through
+  four different filters. Each filter admits different wavelengths of light, creating
+  a multicoloured view of dust clouds drifting across a field of stars. Hubble’s view,
+  however, is much more zoomed-in than our eyes, the better for it to observe very
+  distant objects. This image captures a small region of the SMC near the centre of
+  NGC 346, a star cluster that is home to dozens of massive young stars. [Image Description:
+  An area of space that is filled with stars. Most of the stars are small, distant
+  dots in orange colours; closer stars shine with a bright glow and four thin spikes
+  around them. These closer stars appear in both bluish and reddish colours. Clouds
+  from a nebula cover the left half of the scene, giving it a blue-greenish cast.
+  More pieces of cloud drift over the black background of space on the right.] Links
+  Pan of NGC 346'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2511a/L{1}X{2}Y{3}.png
+name: Colourful clouds of a nearby neighbour
+ra_hr: 0.9954624775797019
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2511a/thumb.jpg
+zoom_level: 0.4577660637590686
+---
+_uuid: a156b206-a3f7-4dc2-8855-444037ef610b
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -23.16808676237109
+description: 'This NASA/ESA Hubble Space Telescope Picture of the Week zooms in on
+  the feathery spiral arms of the galaxy NGC 45, which lies just 22 million light-years
+  away in the constellation Cetus (The Whale). The data used to create this portrait
+  were drawn from two complementary observing programmes. The first took a broad view
+  of 50 nearby galaxies, leveraging Hubble’s ability to observe light from the ultraviolet
+  to the near-infrared in order to study star formation in these galaxies. The second
+  programme examined many of the same nearby galaxies as the first, narrowing in on
+  a particular wavelength of red light called H-alpha. Star-forming nebulae are powerful
+  producers of H-alpha light, and several of these regions can be identified across
+  NGC 45 by their bright pink-red colour. These observing programmes aimed to study
+  star formation in galaxies of different sizes, structures, and degrees of isolation
+  — and NGC 45 makes for a particularly interesting target. Though it may appear to
+  be a regular spiral galaxy, NGC 45 is actually a remarkable type called a low surface
+  brightness galaxy. Low surface brightness galaxies are fainter than the night sky
+  itself, making them incredibly difficult to detect. They appear unexpectedly faint
+  because they have relatively few stars for the amount of gas and dark matter they
+  carry. In the decades since the first low surface brightness galaxy was serendipitously
+  discovered in 1986, researchers have learned that 30–60% of all galaxies may fall
+  into this category. Studying these hard-to-detect galaxies is key to understanding
+  how galaxies form and evolve, and Hubble’s sensitive instruments are equal to the
+  task. [Image Description: This Hubble image features a close-up view of the outer
+  arms of the spiral galaxy NGC 45. These spiral arms are filled with tiny blue dots
+  - stars - and glowing pink clouds - star-forming nebulae. This is shown against
+  a dark background.] Links Pan: NGC 45'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2532a/L{1}X{2}Y{3}.png
+name: Low brightness, high interest
+ra_hr: 0.2334529660718714
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2532a/thumb.jpg
+zoom_level: 0.44353150131543645
+---
 _uuid: f1d18669-b5e2-408c-800b-6e4175312b64
 classification: ''
 constellation: CET

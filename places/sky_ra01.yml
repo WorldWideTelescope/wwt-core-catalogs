@@ -2077,6 +2077,489 @@ name: Messier 103;M103
 ra_hr: 1.55805555555556
 zoom_level: 12.2066666666667
 ---
+_uuid: 015825ed-5a0e-4d22-b08c-89daab51ba42
+classification: ''
+constellation: PER
+data_set_type: Sky
+dec_deg: 51.57524681257613
+description: 'In celebration of the 34th anniversary of the launch of the legendary
+  NASA/ESA Hubble Space Telescope, astronomers took a snapshot of the Little Dumbbell
+  Nebula (also known as Messier 76, M76, or NGC 650/651) located 3400 light-years
+  away in the northern circumpolar constellation Perseus. The photogenic nebula is
+  a favourite target of amateur astronomers. M76 is classified as a planetary nebula.
+  This is a misnomer because it is unrelated to planets. But its round shape suggested
+  it was a planet to astronomers who first viewed it through low-power telescopes.
+  In reality, a planetary nebula is an expanding shell of glowing gases that were
+  ejected from a dying red giant star. The star eventually collapses to an ultra-dense,
+  hot white dwarf. M76 is composed of a ring, seen edge-on as the central bar structure,
+  and two lobes on either opening of the ring. Before the star burned out, it ejected
+  the ring of gas and dust. The ring was probably sculpted by the effects of the star
+  that once had a binary companion star. This sloughed-off material created a thick
+  disc of dust and gas along the plane of the companion’s orbit. The hypothetical
+  companion star isn’t seen in the Hubble image, and so it could have been later swallowed
+  by the central star. The disc would be forensic evidence for that stellar cannibalism.
+  The primary star is collapsing to form a white dwarf. It is one of the hottest stellar
+  remnants known at a scorching 120 000 degrees Celsius, 24 times our Sun’s surface
+  temperature. The sizzling white dwarf can be seen as a pinpoint in the centre of
+  the nebula. A star visible in projection beneath it is not part of the nebula. Pinched
+  off by the disc, two lobes of hot gas are escaping from the top and bottom of the
+  ‘belt’ along the star’s rotation axis that is perpendicular to the disc. They are
+  being propelled by the hurricane-like outflow of material from the dying star, tearing
+  across space at two million miles per hour. That’s fast enough to travel from Earth
+  to the Moon in a little over seven minutes! This torrential ‘stellar wind’ is ploughing
+  into cooler, slower-moving gas that was ejected at an earlier stage in the star’s
+  life, when it was a red giant. Ferocious ultraviolet radiation from the super-hot
+  star is causing the gases to glow. The red colour is from nitrogen, and blue is
+  from oxygen. The entire nebula is a flash in the pan by cosmological timekeeping.
+  It will vanish in about 15 000 years. [Image description: A Hubble image of the
+  Little Dumbbell Nebula. The name comes from its shape, which is a two-lobed structure
+  of colourful, mottled glowing gases that resemble a balloon that has been pinched
+  around a middle waist. Like an inflating balloon, the lobes are expanding into space
+  from a dying star seen as a white dot in the centre. Blistering ultraviolet radiation
+  from the super-hot star is causing the gases to glow. The red colour is from nitrogen,
+  and blue is from oxygen.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2408a/L{1}X{2}Y{3}.png
+name: Little Dumbbell Nebula (M76)
+ra_hr: 1.705484558862279
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2408a/thumb.jpg
+zoom_level: 0.5369430243899421
+---
+_uuid: 5a355d85-4cc6-4b28-9637-af99f9a1ad65
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: 1.0637393901552898
+description: This image, taken with the NASA/ESA Hubble Space Telescope, focuses on
+  an object named UGC 695, which is located 30 million light-years away within the
+  constellation Cetus (The Sea Monster), also known as The Whale. UGC 695 is a low-surface-brightness
+  (LSB) galaxy. These galaxies are so faint that their brightness is less than the
+  background brightness of Earth’s atmosphere, which makes them tricky to observe.
+  This low brightness is the result of the relatively small number of stars within
+  them — most of the baryonic matter in these galaxies exists in the form of huge
+  clouds of gas and dust. The stars are also distributed over a relatively large area.
+  LSB galaxies, like dwarf galaxies, have a high fraction of dark matter relative
+  to the number of stars they contain. Astronomers still debate about how LSB galaxies
+  formed in the first place.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1936a/L{1}X{2}Y{3}.png
+name: Dark Matter in the Belly of the Whale
+ra_hr: 1.1295694358691513
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1936a/thumb.jpg
+zoom_level: 0.22464616751195998
+---
+_uuid: b93d7cde-2e61-44ef-b4d5-a1938f7e4c21
+classification: ''
+constellation: ARI
+data_set_type: Sky
+dec_deg: 19.00671331640037
+description: 'The Universe is simply so vast that it can be difficult to maintain
+  a sense of scale. Many galaxies we see through telescopes such as the NASA/ESA Hubble
+  Space Telescope, the source of this beautiful Picture of the Week, look relatively
+  similar: spiralling arms, a glowing centre, and a mixture of bright specks of star
+  formation and dark ripples of cosmic dust weaving throughout. This galaxy, a spiral
+  galaxy named NGC 772, is no exception. It actually has much in common with our home
+  galaxy, the Milky Way. Each boasts a few satellite galaxies, small galaxies that
+  closely orbit and are gravitationally bound to their parent galaxies. One of NGC
+  772’s spiral arms has been distorted and disrupted by one of these satellites (NGC
+  770 — not visible in the image here), leaving it elongated and asymmetrical. However,
+  the two are also different in a few key ways. For one, NGC 772 is both a peculiar
+  and an unbarred spiral galaxy; respectively, this means that it is somewhat odd
+  in size, shape, or composition, and that it lacks a central feature known as a bar,
+  which we see in many galaxies throughout the cosmos — including the Milky Way. These
+  bars are built of gas and stars, and are thought to funnel and transport material
+  through the galactic core, possibly fueling and igniting various processes such
+  as star formation.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1945a/L{1}X{2}Y{3}.png
+name: A Rival to the Milky Way
+ra_hr: 1.9885699726371888
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1945a/thumb.jpg
+zoom_level: 0.21254755505426776
+---
+_uuid: 906d2805-181f-4a99-8383-586d12cf31ad
+classification: ''
+constellation: ARI
+data_set_type: Sky
+dec_deg: 21.755188272627073
+description: This image of an archetypal spiral galaxy was captured by the NASA/ESA
+  Hubble Space Telescope. The subject of this image is known as NGC 691, and it can
+  be found some 120 million light-years from Earth. This galaxy was one of thousands
+  of objects discovered by astronomer William Herschel during his prolific decades-long
+  career spent hunting for, characterising, and cataloguing a wide array of the galaxies
+  and nebulae visible throughout the night sky — almost 200 years before Hubble was
+  even launched. The intricate detail visible in this Picture of the Week would likely
+  be extraordinary to Herschel. Hubble was able to capture an impressive level of
+  structure within NGC 691’s layers of stars and spiralling arms — all courtesy of
+  the telescope’s high-resolution Wide Field Camera 3.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2008a/L{1}X{2}Y{3}.png
+name: Centuries Before Hubble
+ra_hr: 1.844708828498907
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2008a/thumb.jpg
+zoom_level: 0.44135381513810096
+---
+_uuid: b99d10ec-a917-4baf-aeca-1a720aa41c6e
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -29.423005004881407
+description: First discovered in 1798 by German-English astronomer William Hershel,
+  NGC 613 is a galaxy which lies in the southern constellation of Sculptor 67 million
+  light-years away. Featured here in a new image from the NASA/ESA Hubble Space Telescope,
+  NGC 613 is a lovely example of a barred spiral galaxy. It is easily distinguishable
+  as such because of its well defined central bar and long arms, which spiral loosely
+  around its nucleus. As revealed by surveys, about two thirds of spiral galaxies,
+  including our own Milky Way galaxy, contain a bar. Recent studies have shown that
+  bars are more common in galaxies now than they were in the past, which gives us
+  important clues about galaxy formation and evolution.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2102a/L{1}X{2}Y{3}.png
+name: Sculpted in Sculptor
+ra_hr: 1.5716832768713709
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2102a/thumb.jpg
+zoom_level: 0.573363424329496
+---
+_uuid: e36ca72f-2e5e-487a-9d51-2f86ff60d380
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -17.506763246552925
+description: A cataclysmic cosmic collision takes centre stage in this Picture of
+  the Week. The image features the interacting galaxy pair IC 1623, which lies around
+  275 million light-years away in the constellation Cetus (The Whale). The two galaxies
+  are in the final stages of merging, and astronomers expect a powerful inflow of
+  gas to ignite a frenzied burst of star formation in the resulting compact starburst
+  galaxy. This interacting pair of galaxies is a familiar sight; Hubble captured IC
+  1623 in 2008 using two filters at optical and infrared wavelengths using the Advanced
+  Camera for Surveys. This new image incorporates new data from Wide Field Camera
+  3, and combines observations taken in eight filters spanning infrared to ultraviolet
+  wavelengths to reveal the finer details of IC 1623. Future observations of the galaxy
+  pair with the NASA/ESA/CASA James Webb Space Telescope will shed more light on the
+  processes powering extreme star formation in environments such as IC 1623. Links
+  Video of Clash of the Titans
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2125a/L{1}X{2}Y{3}.png
+name: Clash of the Titans
+ra_hr: 1.1297771957168747
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2125a/thumb.jpg
+zoom_level: 0.3836477086541442
+---
+_uuid: c1c3f1bb-9cf3-4938-8d4b-1a6ddeb61146
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -21.925652810925023
+description: 'The centre of this image from the NASA/ESA Hubble Space Telescope is
+  framed by the tell-tale arcs that result from strong gravitational lensing, a striking
+  astronomical phenomenon which can warp, magnify, or even duplicate the appearance
+  of distant galaxies. Gravitational lensing occurs when light from a distant galaxy
+  is subtly distorted by the gravitational pull of an intervening astronomical object.
+  In this case, the relatively nearby galaxy cluster MACSJ0138.0-2155 has lensed a
+  significantly more distant quiescent galaxy — a slumbering giant known as MRG-M0138
+  which has run out of the gas required to form new stars and is located 10 billion
+  light years away. Astronomers can use gravitational lensing as a natural magnifying
+  glass, allowing them to inspect objects like distant quiescent galaxies which would
+  usually be too difficult for even Hubble to resolve. This image was made using observations
+  from eight different infrared filters spread across two of Hubble’s most advanced
+  astronomical instruments: the Advanced Camera for Surveys and the Wide Field Camera
+  3. These instruments were installed by astronauts during the final two servicing
+  missions to Hubble, and provide astronomers with superbly detailed observations
+  across a large area of sky and a wide range of wavelengths. Links Video of Cosmic
+  Lens Flare'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2129a/L{1}X{2}Y{3}.png
+name: Cosmic Lens Flare
+ra_hr: 1.6344271725220847
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2129a/thumb.jpg
+zoom_level: 0.32447317405322595
+---
+_uuid: 50e62bbc-f189-4277-8776-ce28959e0a75
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 15.777775396262218
+description: The arms of the spiral galaxy M74 are studded with rosy pink regions
+  of fresh star formation in this image from the NASA/ESA Hubble Space Telescope.
+  M74 — also known as the Phantom Galaxy — lies around 32 million light-years away
+  from Earth in the constellation Pisces, and is a familiar sight for Hubble.The beautiful
+  reddish blooms that spread throughout M74 are huge clouds of hydrogen gas which
+  are made to glow by the ultraviolet radiation from hot, young stars embedded within
+  them. These regions — which astronomers refer to as H II regions — mark the location
+  of recent star formation and are an important target for both space- and ground-based
+  telescopes. Hubble’s Advanced Camera for Surveys, which collected the data in this
+  image, even has a filter designed to pick out only this specific red wavelength
+  of light! The data in this image come from a set of observations exploring the evolution
+  of local spiral galaxies such as M74, which aim to gain insights into the history
+  of star formation in these spirals. To do this astronomers examined star clusters
+  to date the different parts of spiral galaxies, enabling them to understand how
+  the galaxies assembled over time. They also explored the distribution of dust in
+  spiral galaxies; this dust is visible in this image as the dark threads winding
+  along the spiral arms of M74. Aside from their quest to understand the history of
+  spiral galaxies, astronomers also observed M74 to complement observations from other
+  telescopes. Combining observations of the same object from different telescopes
+  across the electromagnetic spectrum gives astronomers far more insight than observations
+  from a single telescope would. Hubble’s observations also paved the way for future
+  instruments; M74 was one of the first targets of the powerful new NASA/ESA/CSA James
+  Webb Space Telescope. Links Pan of the Phantom Galaxy Hubble and Webb Showcase M74
+  Pan of Combined optical/mid-infrared image of M74 (Hubble and Webb) Image B Image
+  C
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2235a/L{1}X{2}Y{3}.png
+name: Hubble Gazes into M74
+ra_hr: 1.6111724937453813
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2235a/thumb.jpg
+zoom_level: 0.5224841963546059
+---
+_uuid: e216048e-d2b4-44ef-b8f1-36a1727f495d
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.82437677508756
+description: 'A small portion of the Small Magellanic Cloud (SMC) is pictured in this
+  image from the NASA/ESA Hubble Space Telescope. The SMC is a dwarf galaxy and one
+  of the Milky Way’s nearest neighbours, lying only about 200 000 light-years from
+  Earth. It makes a pair with the Large Magellanic Cloud, and both objects can be
+  seen from the southern hemisphere, as well as from some northern latitudes. The
+  Small Magellanic Cloud contains hundreds of millions of stars, but this image focuses
+  on just a small fraction of them. These stars comprise the open cluster NGC 376,
+  which has a total mass only about 3400 times that of the Sun. Open clusters, as
+  the name suggests, are loosely bound and sparsely populated. This distinguishes
+  open clusters from globular clusters, which are often so thronged with stars that
+  they have a continuous blur of starlight at their centres. In the case of NGC 376,
+  individual stars can be picked out clearly even in the most densely populated parts
+  of this image. The data in this image come from two different astronomical investigations
+  which relied on two of Hubble’s instruments: the Wide Field Camera 3 (WFC3) and
+  the Advanced Camera for Surveys (ACS). The first investigation used the ACS to explore
+  a handful of star clusters in the Small Magellanic Cloud and help astronomers explore
+  topics including the abundance of low- and high-mass stars in different environments.
+  The second investigation used both the WFC3 and ACS, and aimed to answer fundamental
+  questions about the lives of stars and help astronomers understand precisely where,
+  when, why and how stars form. [Image description: A large number of bright stars,
+  each with a cross-shape extending from its centre. In the centre there is a dense
+  collection of foreground stars. Five are orange and the rest are blue. The black
+  background is filled with small stars — most of them, however, larger than a single
+  point.] Links Video of Head in the Clouds'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2249a/L{1}X{2}Y{3}.png
+name: Head in the Clouds
+ra_hr: 1.0648968004329857
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2249a/thumb.jpg
+zoom_level: 0.2610060214544232
+---
+_uuid: 1571941c-2fb1-4d1f-ba83-0b665707f8c7
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 3.571197215136882
+description: 'The barred spiral galaxy UGC 678 takes centre stage in this image from
+  the NASA/ESA Hubble Space Telescope. The spectacular galaxy lies around 260 million
+  light-years from Earth in the constellation Pisces and is almost face on, allowing
+  its lazily winding spiral arms to stretch across this image. In the foreground,
+  a smaller edge-on galaxy seems to bisect the upper portion of UGC 678. Just like
+  humans, stars have a natural lifecycle; they are born, grow up, and eventually grow
+  old and die. Studying this stellar life cycle — usually referred to as stellar evolution
+  — is an important topic for astronomers. The ends of star lives can be marked by
+  truly spectacular events, including titanic supernova explosions, the creation of
+  unimaginably dense neutron stars, and even the birth of black holes. UGC 678 was
+  recently found to be host to one of these events; in 2020 a robotic telescope scanning
+  the night sky in search of dangerous asteroids discovered evidence of an enormous
+  supernova explosion in the galaxy. Two separate Hubble observations turned to UGC
+  678 to scour the galaxy in search of the aftermath of its supernova explosion. One
+  team of astronomers used Hubble’s Advanced Camera for Surveys, and the other the
+  Wide Field Camera 3, but both aimed to explore UGC 678 in the hope of unearthing
+  clues to the identity of the star that produced the 2020 supernova. [Image Description:
+  A large spiral galaxy. It has many narrow arms that are tightly-twisted in the centre,
+  but at the ends they point out in different directions. The galaxy’s core glows
+  brightly, while its disc is mostly faint, but with bright blue spots throughout
+  the arms. A few smaller spiral galaxies at varying angles are visible in front,
+  and it is surrounded by other tiny stars and galaxies, on a black background.] Links
+  Pan: Hubble spotlights a swirling spiral'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2316a/L{1}X{2}Y{3}.png
+name: Hubble spotlights a swirling spiral
+ra_hr: 1.1038991631055073
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2316a/thumb.jpg
+zoom_level: 0.3865031754402523
+---
+_uuid: 651fd607-aebb-486d-806e-332ca62abbbb
+classification: ''
+constellation: PHE
+data_set_type: Sky
+dec_deg: -43.59276106110004
+description: 'This image shows a densely packed field of stars, laid on top of a background
+  of dust, gas, and light from more distant celestial objects. The stars take up so
+  much of the field of view in this image that it is a little tricky to discern that
+  you are in fact looking at most of a galaxy, known as ESO 245-5. This galaxy is
+  a relatively close neighbour of the Milky Way, lying at the fairly modest distance
+  of 15 million light-years from Earth in the constellation Phoenix. Another reason
+  that it is perhaps a little tricky to spot that ESO 245-5 is a galaxy is its apparent
+  lack of structure. We frequently enjoy Hubble’s spectacular images of spiral galaxies,
+  which are so interesting to look at in part because of their seemingly extraordinarily
+  ordered arms of stars, gas and dust. ESO 245-5, in contrast, is classified as an
+  IB(s)m type galaxy under the system of galaxy classification known as the De Vaucouleurs
+  system. The IB(s)m designation specifically means that the galaxy is irregular (I),
+  barred (B), has a slight spiral structure ((s)), and is of the Magellanic type (m).
+  Irregular in this context is quite intuitive: the galaxy does not appear to have
+  a regular, ordered structure. In fact, essentially the entire view here is covered
+  by the stars of this galaxy. The second term means that the galaxy has a barred
+  shape at its centre: this is the dense stretch of stars that crosses through the
+  centre of this image. The third term says that there are hints of a spiral structure,
+  but nothing clear or definitive (hence the ‘s’ is bracketed). Finally, the last
+  term indicates ESO 245-5’s similarity to the Magellanic clouds, the two dwarf galaxies
+  that are close neighbours of the Milky Way. [Image Description: An irregular galaxy:
+  a cloud of tiny, point-like stars on a dark background. The cloud is densest along
+  a broad, curved band across the centre of the image, coloured a faint blue with
+  glowing purplish patches, and the stars grow more dense out to the edges but don’t
+  fully vanish. A few distant background galaxies appear among the stars as glowing
+  spots.] Links Pan: The forest for the trees, the galaxy for the stars'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2406a/L{1}X{2}Y{3}.png
+name: The forest for the trees, the galaxy for the stars
+ra_hr: 1.751237244968842
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2406a/thumb.jpg
+zoom_level: 0.4317369744564728
+---
+_uuid: 88918dbe-9264-405f-84e2-0d12eedca6d4
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -31.51435388585941
+description: 'A supernova and its host galaxy are the subject of today’s NASA/ESA
+  Hubble Space Telescope Picture of the Week. The galaxy in question is LEDA 132905,
+  which is situated in the constellation Sculptor. Even at over 400 million light-years
+  away, LEDA 132905’s spiral structure is faintly visible, as are patches of bright
+  blue stars. The bright white dot directly in the centre of the image, between the
+  bright centre of the galaxy and its faint left edge, is a supernova named SN 2022abvt.
+  SN 2022abvt was discovered in late 2022, and Hubble observed the explosion about
+  two months later. This image was constructed from data collected to study Type Ia
+  supernovae, which occur when the exposed core of a dead star ignites in a sudden,
+  destructive burst of nuclear fusion. Researchers are interested in this type of
+  supernova because they can be used to measure precise distances to other galaxies.
+  The Universe is a big place, and supernova explosions are fleeting. How is it possible
+  to be in the right place at the right time to catch a supernova when it happens?
+  Today, most supernovae are discovered by robotic telescopes that continuously scan
+  the night sky. But some are still found the old-fashioned way, by careful observers
+  who take repeated images of the sky and search for changes. SN 2022abvt was spotted
+  by the Asteroid Terrestrial-impact Last Alert System, or ATLAS. As the name suggests,
+  ATLAS was designed to track down the faint, fast-moving signals from asteroids close
+  to Earth. In addition to searching out asteroids, ATLAS also keeps tabs on objects
+  that brighten or fade suddenly, like supernovae, variable stars and galactic centres
+  powered by hungry black holes. [Image Description: In the exact centre a supernova
+  is seen as a small but bright pinkish dot. It lies atop a spiral galaxy, close to
+  the glowing centre and next to some bright patches of blue stars in the galaxy.
+  A small number of more minor galaxies are visible around the comparatively large
+  spiral as small glowing discs, while further distant galaxies are seen as mere orangish
+  spots and smudges, all on a black background.] Links Pan of LEDA 132905'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2505a/L{1}X{2}Y{3}.png
+name: Supernova spotting
+ra_hr: 1.5120781927440625
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2505a/thumb.jpg
+zoom_level: 0.17773398124386622
+---
+_uuid: 2dbb00ba-1e1a-467e-a532-d255f9f03fd4
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -52.76423557527302
+description: 'A galaxy ablaze with young stars is the subject of today’s NASA/ESA
+  Hubble Space Telescope Picture of the Week. This galaxy is called NGC 685 and is
+  situated about 64 million light-years away in the constellation Eridanus (The River).
+  NGC 685 is classified as a barred spiral because its feathery spiral arms sprout
+  from the ends of a bar of stars at the galaxy’s centre. The Milky Way is also a
+  barred spiral, but our galaxy is a little less than twice the size of NGC 685. Astronomers
+  used Hubble to study NGC 685 for two observing programmes, both of which focus on
+  star formation. It’s no surprise that NGC 685 was chosen for these programmes: numerous
+  patches of young blue stars highlight the galaxy’s spiral arms. Many of these star
+  clusters are cocooned in pink gas clouds, which are called H II (pronounced ‘H-two’)
+  regions. An H II region is a gas cloud that glows for a short time when particularly
+  hot and massive stars are born. An especially eye-catching H II region peeks out
+  at the bottom edge of the image. Despite the dozens of star-forming regions evident
+  in this image, NGC 685 converts an amount of gas equivalent to less than half the
+  mass of the Sun into stars each year. The Hubble data collected for the two observing
+  programmes will allow astronomers to catalogue 50 000 H II regions and 100 000 star
+  clusters in nearby galaxies. By combining Hubble’s sensitive visible and ultraviolet
+  observations with infrared data from the NASA/ESA/CSA James Webb Space Telescope
+  and radio data from the Atacama Large Millimeter/submillimeter Array, researchers
+  will peer into the depths of dusty stellar nurseries and illuminate the stars forming
+  there. [Image Description: A spiral galaxy seen directly on. It glows strongly at
+  its centre and has a short horizontal bar. Two spiral arms extend from this bar,
+  but they are broad and irregularly-shaped. They are filled with tiny blue dots -
+  stars - and glowing pink clouds - star-forming nebulae. The arms break apart into
+  many strands at the edge of the disc. Beyond this is a dark background.] Links Pan:
+  NGC 685'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2522a/L{1}X{2}Y{3}.png
+name: Starry spectacle
+ra_hr: 1.7952832409046828
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2522a/thumb.jpg
+zoom_level: 0.46787615305198504
+---
+_uuid: 27cb5739-8265-47b6-8f2f-1f7a8b9887d0
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -13.611887437971665
+description: 'A massive, spacetime-warping cluster of galaxies is the setting of today’s
+  NASA/ESA Hubble Space Telescope Picture of the Week. The galaxy cluster in question
+  is Abell 209, which is located 2.8 billion light-years away in the constellation
+  Cetus (The Whale). This Hubble image of Abell 209 shows more than a hundred galaxies,
+  but there’s more to this cluster than even Hubble’s discerning eye can see. Abell
+  209’s galaxies are separated by millions of light-years, and the seemingly empty
+  space between the galaxies is actually filled with hot, diffuse gas that can be
+  spotted only at X-ray wavelengths. An even more elusive occupant of this galaxy
+  cluster is dark matter: a form of matter that does not interact with light. The
+  Universe is understood to be comprised of 5% normal matter, 25% dark matter, and
+  70% dark energy. Hubble observations like the ones used to create this image can
+  help astronomers answer fundamental questions about our Universe, including mysteries
+  surrounding dark matter and dark energy. These investigations leverage the immense
+  mass of a galaxy cluster, which can bend the fabric of spacetime itself and create
+  warped and magnified images of background galaxies and stars in a process called
+  gravitational lensing. While this image lacks the dramatic rings that gravitational
+  lensing can sometimes create, Abell 209 still shows subtle signs of lensing at work,
+  in the form of streaky, slightly curved galaxies within the cluster’s golden glow.
+  By measuring the distortion of these galaxies, astronomers can map the distribution
+  of mass within the cluster, illuminating the underlying cloud of dark matter. This
+  information, which Hubble’s fine resolution and sensitive instruments help to provide,
+  is critical for testing theories of how our Universe has evolved. [Image Description:
+  A cluster of distant, mainly elliptical galaxies. They appear as brightly shining
+  points radiating golden light that each take the shape of a smooth, featureless
+  oval. They crowd around one that is extremely large and bright. A few spiral galaxies
+  of comparable size appear too, bluer in colour and with unique shapes. Of the other,
+  more small and distant galaxies covering the scene, a few are warped into long lines.]
+  Links Pan: Abell 209'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2527a/L{1}X{2}Y{3}.png
+name: Portrait of a galaxy cluster
+ra_hr: 1.531549859128778
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2527a/thumb.jpg
+zoom_level: 0.28442532383792846
+---
+_uuid: 137b6e7d-d22a-424f-9c53-03264104664e
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -12.38367380684713
+description: 'These galaxies look to be close companions — a small, bright spiral
+  galaxy flitting around the edge of a much larger spiral with a dark and disturbed
+  countenance. But looks can be deceiving — how close are they really? The celestial
+  pair featured in this week’s Hubble Picture of the Week is known by the name Arp
+  4, and lies in the constellation Cetus (the Whale). The designation Arp 4 comes
+  from the Atlas of Peculiar Galaxies, compiled in the 1960s by astronomer Halton
+  Arp. “Unusual galaxies” were selected and photographed to provide examples of weird
+  and non-standard shapes, the better to study how galaxies evolve into these forms.
+  Throughout its mission the Hubble Space Telescope has revolutionised the study of
+  galaxies and shown us some fantastically unusual examples from Arp’s atlas. In that
+  catalogue, the first few galaxies like Arp 4 are “low surface brightness” galaxies,
+  a type of galaxy that is unexpectedly faint and hard to detect. The large galaxy
+  here — also catalogued as MCG-02-05-050 — fits this description well, with its fragmentary
+  arms and dim disc. Its smaller companion, MCG-02-05-050a, is a much more bright
+  and active spiral. The trick is that these galaxies are not actually very close.
+  The large blue galaxy MCG-02-05-050 is located 65 million light-years from Earth;
+  its brighter smaller companion MCG-02-05-050a, at 675 million light-years away,
+  is over ten times the distance! Owing to this, MCG-02-05-050a is likely the larger
+  galaxy of the two, and MCG-02-05-050 comparatively small. Their pairing in this
+  image is simply an unlikely visual coincidence. Despite this lack of a physical
+  relation between them, our point of view on Earth allows us to enjoy the sight of
+  Arp 4 as an odd couple in the sky. [Image Description: This image shows two galaxies
+  side by side. The galaxy on the top left is smaller in size, and appears as a bright
+  glowing spiral with clearly-defined arms. A larger blue galaxy dominates the full
+  right field of the image. This galaxy is more irregularly shaped, with a glowing
+  central bar, and varying regions of concentrated hues of blue. The background is
+  black with various stars and galaxies in the distance.] Links Pan: Arp 4'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2551a/L{1}X{2}Y{3}.png
+name: Long-distance relationship
+ra_hr: 1.8077031083339745
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2551a/thumb.jpg
+zoom_level: 0.4710270614395825
+---
 _uuid: 4eab6882-db6d-4fa4-ae63-0e59f2abff22
 classification: ''
 constellation: CET

@@ -2238,6 +2238,180 @@ name: Massive Young Stars Trigger Stellar Birth;RCW 108
 ra_hr: 16.6663888888889
 zoom_level: 4.5
 ---
+_uuid: 5caa6566-3360-4dee-8585-9e07299b7b02
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 58.94583762546869
+description: Some galaxies are closer friends than others. While many live their own
+  separate, solitary lives, others stray a little too close to a near neighbour and
+  take their relationship to the next level. The two galaxies featured in this Picture
+  of the Week, named NGC 6285 (left) and NGC 6286 (right), have done just that! Together,
+  the duo is named Arp 293 and they are interacting, their mutual gravitational attraction
+  pulling wisps of gas and streams of dust from them, distorting their shapes, and
+  gently smudging and blurring their appearances on the sky — to Earth-based observers,
+  at least. The NASA/ESA Hubble Space Telescope has viewed a number of interacting
+  pairs. These can have distinctive, beautiful, and downright odd shapes, ranging
+  from sheet music to a spaceship entering a sci-fi-esque wormhole, a bouquet of celestial
+  blooms, and a penguin fiercely guarding its precious egg. Arp 293 is located in
+  the constellation of Draco (The Dragon), and lies over 250 million light-years from
+  Earth.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1947a/L{1}X{2}Y{3}.png
+name: A Close Relationship
+ra_hr: 16.97422744796094
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1947a/thumb.jpg
+zoom_level: 0.3100258756872283
+---
+_uuid: eafbf8e1-fe16-40dc-970f-7a85c0476d50
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 43.96149821852638
+description: 'This luminescent image features multiple galaxies, perhaps most noticeably
+  LEDA 58109, the lone galaxy in the upper right. LEDA 58109 is flanked by two further
+  galactic objects to its lower left — an active galactic nucleus (AGN) called SDSS
+  J162558.14+435746.4 that partially obscures the galaxy SDSS J162557.25+435743.5,
+  which appears to poke out to the right behind the AGN. Galaxy classification is
+  sometimes presented as something of a dichotomy: spiral and elliptical. However,
+  the diversity of galaxies in this image alone highlights the complex web of galaxy
+  classifications that exist, including galaxies that house extremely luminous AGNs
+  at their cores, and galaxies whose shapes defy the classification of either spiral
+  or elliptical. The sample of galaxies here also illustrates the wide variety of
+  names that galaxies have: some relatively short, like LEDA 58109, and some very
+  long and challenging to remember, such as the two galaxies to the left. This is
+  due to the variety of cataloguing systems that chart the celestial objects in the
+  night sky. No one catalogue is exhaustive, and they cover overlapping regions of
+  the sky, so that many galaxies belong to several different catalogues. For example,
+  the galaxy on the right is LEDA 58109 in the LEDA galaxy database, but is also known
+  as MCG+07-34-030 in the MCG galaxy catalogue, and SDSS J162551.50+435747.5 in the
+  SDSS galaxy catalogue — the same catalogue that also lists the two galaxies to the
+  left. Links Video of Follow the LEDA'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2230a/L{1}X{2}Y{3}.png
+name: Follow the LEDA
+ra_hr: 16.431741731437715
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2230a/thumb.jpg
+zoom_level: 0.40580654815521267
+---
+_uuid: cfdd23e3-3187-401e-ab4b-1e13cf95692f
+classification: ''
+constellation: ARA
+data_set_type: Sky
+dec_deg: -46.143909284233814
+description: 'The protostellar object OH 339.88-1.26, which lies 8 900 light-years
+  from Earth in the constellation Ara, lurks in this dust-filled image from the NASA/ESA
+  Hubble Space Telescope. Winding lanes of dark dust thread through this image, which
+  is also studded with bright stars crowned with criss-crossing diffraction spikes.
+  The dark vertical streak at the centre of this image hides OH 339.88-1.26, which
+  is an astrophysical maser. A maser — which is an acronym for “microwave amplification
+  by stimulated emission of radiation” — is essentially a laser that produces coherent
+  light at microwave wavelengths. Such objects can occur naturally in astrophysical
+  situations, in environments ranging from the north pole of Jupiter to star-forming
+  regions such as the one pictured here. This image comes from a set of Hubble observations
+  that peer into the hearts of regions where massive stars are born to constrain the
+  nature of massive protostars and test theories of their formation. Astronomers turned
+  to Hubble’s Wide Field Camera 3 to explore the massive protostar G339.88-1.26, which
+  is estimated to be about 20 times the mass of the Sun and is lurking in the dusty
+  clouds in the center of the image. The Hubble observations were supported by other
+  state-of-the-art observatories including ALMA, the Atacama Large Millimeter/submillimeter
+  Array. ALMA is composed of 66 moveable high-precision antennas which can be arranged
+  over distances of up to 16 kilometres on a plateau perched high in the Chilean Andes.
+  Further data were contributed by the Stratospheric Observatory For Infrared Astronomy
+  (SOFIA), which is a telescope that — until recently — operated out of a converted
+  747 aircraft. [Image Description: The field is filled with hundreds of bright stars.
+  They are primarily blue in colour, with scattered smaller stars visible in yellow/orange.
+  The background is dominated by cloudy grey dust, with permeating regions of dark
+  black and orange.] Links Pan: Stellar cradle'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2335a/L{1}X{2}Y{3}.png
+name: Stellar cradle
+ra_hr: 16.867774704979986
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2335a/thumb.jpg
+zoom_level: 0.349978660464591
+---
+_uuid: 2cf84e17-baec-478d-8dfe-f9a24b50d2e3
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 17.7492271578706
+description: 'This Hubble Picture of the Week features Arp 122, a peculiar galaxy
+  that in fact comprises two galaxies — NGC 6040, the tilted, warped spiral galaxy
+  and LEDA 59642, the round, face-on spiral — that are in the midst of a collision.
+  This dramatic cosmic encounter is located at the very safe distance of roughly 570
+  million light-years from Earth. Peeking in at the corner is the elliptical galaxy
+  NGC 6041, a central member of the galaxy cluster that Arp 122 resides in, but otherwise
+  not participating in this monster merger. Galactic collisions and mergers are monumentally
+  energetic and dramatic events, but they take place on a very slow timescale. For
+  example, the Milky Way is on track to collide with its nearest galactic neighbour,
+  the Andromeda Galaxy (M31), but these two galaxies have a good four billion years
+  to go before they actually meet. The process of colliding and merging will not be
+  a quick one either: it might take hundreds of millions of years to unfold. These
+  collisions take so long because of the truly massive distances involved. Galaxies
+  are composed of stars and their solar systems, dust and gas. In galactic collisions,
+  therefore, these constituent components may experience enormous changes in the gravitational
+  forces acting on them. In time, this completely changes the structure of the two
+  (or more) colliding galaxies, and sometimes ultimately results in a single, merged
+  galaxy. That may well be what results from the collision pictured in this image.
+  Galaxies that result from mergers are thought to have a regular or elliptical structure,
+  as the merging process disrupts more complex structures (such as those observed
+  in spiral galaxies). It would be fascinating to know what Arp 122 will look like
+  once this collision is complete . . . but that will not happen for a long, long
+  time. [Image Description: Two spiral galaxies are merging together at the right
+  side of the image. One is seen face-on and is circular in shape. The other seems
+  to lie in front of the first one. This galaxy is seen as a disc tilted away from
+  the viewer and it is partially warped. In the lower-left corner, cut off by the
+  frame, a large elliptical galaxy appears as light radiating from a point. Various
+  small galaxies cover the background.] Links Pan: When one plus one (eventually)
+  equals one'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2402a/L{1}X{2}Y{3}.png
+name: When one plus one (eventually) equals one
+ra_hr: 16.075184477980063
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2402a/thumb.jpg
+zoom_level: 0.5272872228644399
+---
+_uuid: b122709e-bc4b-4785-b9a5-b6af6e1b378c
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -40.062586176678835
+description: 'If the Hubble Picture of the Week from two weeks ago was somewhat dim
+  and subtle in appearance, then this week’s image is a veritable riot of colour and
+  activity! It features a relatively close-by star-forming region known as IRAS 16562-3959
+  that lies within the Milky Way in the constellation Scorpius, about 5900 light-years
+  from Earth. This image was compiled using observations from Hubble’s Wide Field
+  Camera 3 (WFC 3). The detailed nuances of colour are possible because of the four
+  separate filters that were used to collect the data. Filters are thin slivers of
+  highly specialised material that only allow very specific wavelengths of light through.
+  They can be slid in front of the part of the telescope that is sensitive to light,
+  letting astronomers control which wavelengths of light the telescope collects with
+  each observation. This is useful not only for specific scientific research, but
+  also for the creation of images like this one. Raw telescope observations are always
+  monochrome, regardless of which filter was used. However, specially trained artists
+  and image specialists can select colours that match the wavelength range covered
+  by individual filters. Or, in the case where a direct match is not possible — such
+  as for the data used in this image, which are all in the infrared regime, which
+  human eyes are not sensitive to — the artist can select a colour that sensibly represents
+  what is taking place. For example, they might assign bluer colours to shorter wavelengths
+  and redder colours to longer wavelengths, as is the case in the visible light range.
+  Then, data from multiple filters can be combined to build up a multi-colour image,
+  that both looks beautiful and has scientific meaning. At the centre of the image,
+  IRAS 16562-3959 is thought to host a massive star — about 30 times the mass of our
+  Sun — that is still in the process of forming. At the near-infrared wavelengths
+  to which Hubble is sensitive, the central region appears dark because there is so
+  much obscuring dust in the way. However near-infrared light leaks out mainly on
+  two sides — upper left and lower right — where a powerful jet from the massive protostar
+  has cleared away the dust. Multi-wavelength images including this incredible Hubble
+  scene will help us gain a better understanding of how the most massive, brightest
+  stars in our galaxy are born. [Image Description: A nebula with stars. The centre
+  of the image from top-left to bottom-right glows brightly with light from where
+  new stars are being formed, and is partially covered by dark dust. Coloured layers
+  of gas and dust billow out across the rest of the image. The nebula is speckled
+  with foreground stars with large diffraction spikes.] Links Pan: Colouring what
+  human eyes can’t see'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2407a/L{1}X{2}Y{3}.png
+name: Colouring what human eyes can’t see
+ra_hr: 16.994680083490447
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2407a/thumb.jpg
+zoom_level: 0.37876686123608094
+---
 _uuid: 34142258-3c86-4a67-b1b0-779c2b7e68d9
 classification: ''
 constellation: OPH

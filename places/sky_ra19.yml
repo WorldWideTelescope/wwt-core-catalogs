@@ -2111,6 +2111,122 @@ name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
 ---
+_uuid: 5524d2a3-f952-4844-bcba-e74e690f55a1
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.74435578632233
+description: This is a NASA/ESA Hubble Space Telescope image of the symbiotic star
+  Mira HM Sge. Located 3,400 light-years away in the constellation Sagitta, it consists
+  of a red giant and a white dwarf companion. The stars are too close together to
+  be resolved by Hubble. Material bleeds off the red giant and falls onto the dwarf,
+  making it extremely bright. This system first flared up as a nova in 1975. The red
+  nebulosity is evidence of the stellar wind. The nebula is about one-quarter light-year
+  across. Astronomers have used new data from Hubble and the retired NASA SOFIA observatory
+  (Stratospheric Observatory for Infrared Astronomy) as well as archival data from
+  other missions to revisit the binary star system. Between April and September 1975,
+  the binary system HM Sagittae (HM Sge) grew 250 times brighter. Even more unusual,
+  it did not rapidly fade away as novae commonly do, but has maintained its luminosity
+  for decades. Recently, observations show that the system has gotten hotter, but
+  paradoxically faded a little. The 2021 ultraviolet data from Hubble showed a strong
+  emission line of highly ionised magnesium that was not present in earlier published
+  spectra from 1990. Its presence shows that the estimated temperature of the white
+  dwarf and accretion disk increased from less than 220,000 degrees Celsius in 1989
+  to greater than 250,000 degrees Celsius now. The highly ionised magnesium line is
+  one of many seen in the UV spectrum, which analysed together will reveal the energetics
+  of the system, and how it has changed in the last three decades. With data from
+  NASA's flying telescope SOFIA, which retired in 2022, the team was able to detect
+  the water, gas, and dust flowing in and around the system. Infrared spectral data
+  shows that the giant star, which produces copious amounts of dust, returned to its
+  normal behaviour within only a couple years of the explosion, but also that it has
+  dimmed in recent years, which is another puzzle to be explained. With SOFIA astronomers
+  were able to see water moving at around 28 kilometres per second, which they suspect
+  is the speed of the sizzling accretion disk around the white dwarf. The bridge of
+  gas connecting the giant star to the white dwarf must presently span about 3.2 billion
+  kilometres.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2418b/L{1}X{2}Y{3}.png
+name: Symbiotic star Mira HM Sge
+ra_hr: 19.699189573143958
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2418b/thumb.jpg
+zoom_level: 0.07710902407986814
+---
+_uuid: 926032e6-99e2-429f-a40b-97d74c8713b8
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 42.461447462615844
+description: 'This luminous Picture of the Week shows Z 229-15 — imaged here in beautiful
+  detail by the NASA/ESA Hubble Space Telescope — a celestial object that lies about
+  390 million light-years from Earth in the constellation Lyra. Z 229-15 is one of
+  those interesting celestial objects that, should you choose to research it, you
+  will find defined as several different things: sometimes as an active galactic nucleus
+  (an AGN); sometimes as a quasar; and sometimes as a Seyfert galaxy. Which of these
+  is Z 229-15 really? The answer is that it is all of these things all at once, because
+  these three definitions have significant overlap. AGNs and quasars are both described
+  in detail in the Hubble Word Bank, but in essence an AGN is a small region at the
+  heart of certain galaxies (called active galaxies) that is far brighter than just
+  the galaxy’s stars would be. The extra luminosity is due to the presence of a supermassive
+  black hole at the galaxy’s core. Material sucked into a black hole actually doesn’t
+  fall directly into it, but instead is drawn into a swirling disc, from where it
+  is inexorably tugged towards the black hole. This disc of matter gets so hot that
+  it releases a large amount of energy across the electromagnetic spectrum, and that’s
+  what makes AGNs appear so bright. Quasars are a particular type of AGN; they are
+  typically both extremely bright and extremely distant from Earth — several hundred
+  million light-years is considered nearby for a quasar, making Z 229-15 positively
+  local. Often an AGN is so bright that the rest of the galaxy cannot be seen, but
+  Seyfert galaxies are active galaxies that host very bright AGNs (quasars) while
+  the rest of the galaxy is still observable. So Z 229-15 is a Seyfert galaxy that
+  contains a quasar, and that, by definition, hosts an AGN. Classification in astronomy
+  can be a challenge! [Image Description: A spiral galaxy. It has two almost-straight
+  arms coming from the left and right of the core that meet a starry ring around the
+  galaxy’s edge. The ring is bluish in colour, and the core is golden and shining.
+  A faint halo of light also surrounds the galaxy. There is one bright star with many
+  diffraction spikes, and a few small stars all around on a black background.] Links
+  Pan: Everything, in one place, all at once'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2313a/L{1}X{2}Y{3}.png
+name: Everything, in one place, all at once
+ra_hr: 19.090518831316956
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2313a/thumb.jpg
+zoom_level: 0.17183703549184648
+---
+_uuid: eef365da-8e07-4a09-a61e-7462cbef424d
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.845170658063836
+description: 'The light that the NASA/ESA Hubble Space Telescope collected to create
+  this Picture of the Week reached the telescope after a journey of 250 million years.
+  Its source was the spiral galaxy UGC 11397, which resides in the constellation Lyra
+  (The Lyre). At first glance, UGC 11397 appears to be an average spiral galaxy: it
+  sports two graceful spiral arms that are illuminated by stars and defined by dark,
+  clumpy clouds of dust. What sets UGC 11397 apart from a typical spiral lies at its
+  centre, where a supermassive black hole containing 174 million times the mass of
+  the Sun is growing. As a black hole ensnares gas, dust, and even entire stars from
+  its vicinity, this doomed matter heats up and puts on a fantastic cosmic light show.
+  Material trapped by the black hole emits light from gamma rays to radio waves and
+  can brighten and fade without warning. But in some galaxies, including UGC 11397,
+  thick clouds of dust hide much of this energetic activity from view in optical light.
+  Despite this, UGC 11397''s actively growing black hole was revealed through its
+  bright X-ray emission — high-energy light that can pierce the surrounding dust.
+  This led astronomers to classify it as a Type 2 Seyfert galaxy, a category used
+  for active galaxies whose central regions are hidden from view in visible light
+  by a doughnut-shaped cloud of dust and gas. Using Hubble, researchers will study
+  hundreds of galaxies that, like UGC 11397, harbour a supermassive black hole that
+  is gaining mass. The Hubble observations will help researchers weigh nearby supermassive
+  black holes, understand how black holes grew early in the Universe’s history, and
+  even study how stars form in the extreme environment found at the very centre of
+  a galaxy. [Image Description: A spiral galaxy, seen at an angle that gives it an
+  oval shape. It has two spiral arms that curl out from the centre. They start narrow
+  but broaden out as they wrap around the galaxy before merging into a faint halo.
+  The galaxy’s disc is golden in the centre with a bright core, and pale blue outside
+  that. A swirl of dark dust strands and speckled blue star-forming regions follow
+  the arms through the disc.] Links Pan: UGC 11397'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2525a/L{1}X{2}Y{3}.png
+name: Centre of activity
+ra_hr: 19.063526546382594
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2525a/thumb.jpg
+zoom_level: 0.2047083516964764
+---
 _uuid: 0131df94-dc3f-4e5c-ad3e-9c8ede77916c
 classification: ''
 constellation: SGR
