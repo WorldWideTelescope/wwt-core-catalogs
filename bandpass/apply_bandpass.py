@@ -45,16 +45,20 @@ def main():
             missing.append(row["url"])
             continue
         new = Bandpass(choice)
-        comps = row["components"] if new == Bandpass.MULTI else ""
-        old_comps = getattr(img.xmeta, "bands", "")
-        if img.band_pass == new and old_comps == comps.replace("+", ","):
+        comps = row["components"].replace("+", ",") if new == Bandpass.MULTI else ""
+        # WTMLs are emitted with this single band instead of "Multi" (the
+        # Windows client may not accept Multi); see cattool `_emit_one`.
+        dominant = row["dominant"] if new == Bandpass.MULTI else ""
+        if (img.band_pass == new and getattr(img.xmeta, "bands", "") == comps
+                and getattr(img.xmeta, "dominant_band", "") == dominant):
             continue
         changed[(img.band_pass.value, new.value)] += 1
         img.band_pass = new
-        if comps:
-            img.xmeta.bands = comps.replace("+", ",")
-        elif hasattr(img.xmeta, "bands"):
-            delattr(img.xmeta, "bands")
+        for attr, value in (("bands", comps), ("dominant_band", dominant)):
+            if value:
+                setattr(img.xmeta, attr, value)
+            elif hasattr(img.xmeta, attr):
+                delattr(img.xmeta, attr)
 
     for (a, b), n in sorted(changed.items(), key=lambda kv: -kv[1]):
         print(f"{n:5d}  {a} -> {b}")

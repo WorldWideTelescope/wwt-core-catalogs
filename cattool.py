@@ -1160,9 +1160,46 @@ def _emit_one(path: Path, is_preview: bool, idb: ImagesetDatabase, pdb: PlaceDat
     rel = "_rel" if is_preview else ""
     extension = "xml" if root_info.get("_is_xml", False) else "wtml"
 
-    with open(f"{catname}{rel}.{extension}", "wt", encoding="utf-8") as stream:
-        prettify(f.to_xml(), stream)
-        print(f"wrote `{catname}{rel}.{extension}`")
+    # WTMLs are read by every client, including ones that don't know
+    # BandPass="Multi": write a multi-band imageset's headline band
+    # (Xdominant_band) instead, keeping Xbands. The database keeps Multi, and
+    # the web search data (emit-searchdata) uses it.
+    swapped = []
+    for imgset in _folder_imagesets(f):
+        if imgset.band_pass == Bandpass.MULTI:
+            dominant = getattr(imgset.xmeta, "dominant_band", None)
+            swapped.append(imgset)
+            imgset.band_pass = Bandpass(dominant) if dominant else Bandpass.VISIBLE
+
+    try:
+        with open(f"{catname}{rel}.{extension}", "wt", encoding="utf-8") as stream:
+            prettify(f.to_xml(), stream)
+            print(f"wrote `{catname}{rel}.{extension}`")
+    finally:
+        for imgset in swapped:
+            imgset.band_pass = Bandpass.MULTI
+
+
+def _folder_imagesets(folder: Folder):
+    """Every distinct ImageSet in a folder tree, including those inside Places."""
+    seen = set()
+    stack = [folder]
+    while stack:
+        item = stack.pop()
+        if isinstance(item, Folder):
+            stack.extend(item.children)
+            continue
+        if isinstance(item, ImageSet):
+            candidates = [item]
+        else:
+            candidates = [
+                getattr(item, a, None)
+                for a in ("image_set", "foreground_image_set", "background_image_set")
+            ]
+        for imgset in candidates:
+            if imgset is not None and id(imgset) not in seen:
+                seen.add(id(imgset))
+                yield imgset
 
 
 def do_emit(settings):

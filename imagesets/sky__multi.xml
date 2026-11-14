@@ -31,6 +31,7 @@
     Xbands="XRay,Visible,IR,Radio"
     Xcorepipe_ids="nrao|nrao_gallery_nrao17df04b"
     Xcxstatus="in:667eff685235d46484f0904d"
+    Xdominant_band="Radio"
   >
     <Credits>G. Dubner (IAFE, CONICET-University of Buenos Aires) et al.; NRAO/AUI/NSF; A. Loll et al.; T. Temim et al.; F. Seward et al.; Chandra/CXC; Spitzer/JPL-Caltech; XMM-Newton/ESA; and Hubble/STScI</Credits>
     <CreditsUrl>https://public.nrao.edu/?post_type=release=6457</CreditsUrl>
@@ -62,6 +63,7 @@
     Xastropix_ids="eso|eso0005b"
     Xbands="XRay,Visible"
     Xcxstatus="in:654b8bb95dff7c3291e3a558"
+    Xdominant_band="XRay"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0005b/</CreditsUrl>
@@ -92,6 +94,7 @@
     Xastropix_ids="eso|eso0030a"
     Xbands="Visible,IR"
     Xcxstatus="in:654b8bc55dff7c3291e3a568"
+    Xdominant_band="IR"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0030a/</CreditsUrl>
@@ -122,6 +125,7 @@
     Xastropix_ids="eso|eso0322b"
     Xbands="IR,Radio"
     Xcxstatus="in:65d8c475affb32cbf1d96a4d"
+    Xdominant_band="IR"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0322b/</CreditsUrl>
@@ -152,6 +156,7 @@
     Xastropix_ids="eso|eso0832a"
     Xbands="XRay,Visible"
     Xcxstatus="queue:eso"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Columbia/F.Bauer et al); Visible light (NASA/STScI/UMD/A.Wilson et al.)</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0832a/</CreditsUrl>
@@ -182,6 +187,7 @@
     Xastropix_ids="eso|eso0840a"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/APEX/DSS2/ SuperCosmos/ Deharveng(LAM)/ Zavagno(LAM)</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0840a/</CreditsUrl>
@@ -212,6 +218,7 @@
     Xastropix_ids="eso|eso0841a"
     Xbands="IR,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>ESO/APEX/2MASS/A. Eckart et al.</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0841a/</CreditsUrl>
@@ -242,6 +249,7 @@
     Xastropix_ids="eso|eso0903a"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="XRay"
   >
     <Credits>ESO/WFI (Optical); MPIfR/ESO/APEX/A.Weiss et al. (Submillimetre); NASA/CXC/CfA/R.Kraft et al. (X-ray)</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0903a/</CreditsUrl>
@@ -272,6 +280,7 @@
     Xastropix_ids="eso|eso0929a"
     Xbands="Ultraviolet,Visible,IR"
     Xcxstatus="queue:eso"
+    Xdominant_band="Ultraviolet"
   >
     <Credits>ESO</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso0929a/</CreditsUrl>
@@ -301,6 +310,7 @@
     WidthFactor="2"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO). Visible light image: the NASA/ESA Hubble Space Telescope</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso1137a/</CreditsUrl>
@@ -331,6 +341,7 @@
     Xastropix_ids="eso|eso2014c"
     Xbands="IR,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>ESO/Exeter/Kraus et al., ALMA (ESO/NAOJ/NRAO)</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2014c/</CreditsUrl>
@@ -361,6 +372,7 @@
     Xastropix_ids="eso|eso2110g"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/PHANGS</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2110g/</CreditsUrl>
@@ -391,6 +403,7 @@
     Xastropix_ids="eso|eso2110h"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/PHANGS</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2110h/</CreditsUrl>
@@ -421,6 +434,7 @@
     Xastropix_ids="eso|eso2110i"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/PHANGS</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2110i/</CreditsUrl>
@@ -451,6 +465,7 @@
     Xastropix_ids="eso|eso2110j"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/PHANGS</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2110j/</CreditsUrl>
@@ -481,6 +496,7 @@
     Xastropix_ids="eso|eso2110k"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/PHANGS</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso2110k/</CreditsUrl>
@@ -511,6 +527,7 @@
     Xastropix_ids="eso|potw1236a"
     Xbands="XRay,Visible,IR"
     Xcxstatus="queue:eso"
+    Xdominant_band="XRay"
   >
     <Credits>Optical: ESO, X-ray: NASA/CXC/U.Mich./S.Oey, IR: NASA/JPL </Credits>
     <CreditsUrl>https://www.eso.org/public/images/potw1236a/</CreditsUrl>
@@ -541,6 +558,7 @@
     Xastropix_ids="eso|potw1645a"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO)/M. Kaufman &amp;amp; the NASA/ESA Hubble Space Telescope</Credits>
     <CreditsUrl>https://www.eso.org/public/images/potw1645a/</CreditsUrl>
@@ -571,6 +589,7 @@
     Xastropix_ids="eso|potw1708a"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO)/T. Kitayama (Toho University, Japan)/ESA/Hubble &amp;amp; NASA</Credits>
     <CreditsUrl>https://www.eso.org/public/images/potw1708a/</CreditsUrl>
@@ -601,6 +620,7 @@
     Xastropix_ids="eso|potw1709a"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="XRay"
   >
     <Credits>ALMA: ESO/NAOJ/NRAO/A. Angelich Hubble: NASA, ESA, R. Kirshner (Harvard-Smithsonian Center for Astrophysics and Gordon and Betty Moore Foundation) and P. Challis (Harvard-Smithsonian Center for Astrophysics) Chandra: NASA/CXC/Penn State/K. Frank et al.</Credits>
     <CreditsUrl>https://www.eso.org/public/images/potw1709a/</CreditsUrl>
@@ -631,6 +651,7 @@
     Xastropix_ids="eso|potw1710b"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO)/H. Kim et al., ESA/NASA &amp;amp; R. Sahai</Credits>
     <CreditsUrl>https://www.eso.org/public/images/potw1710b/</CreditsUrl>
@@ -662,6 +683,7 @@
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|sci23001a"
     Xcxstatus="in:66761329be1b4f0dfebe7a45"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, and M. Zamani (ESA/Webb); Science: F. Sun (Steward Observatory), Z. Smith (Open University), and the Ice Age ERS Team.</Credits>
     <CreditsUrl>https://esahubble.org/images/sci23001a/</CreditsUrl>
@@ -692,6 +714,7 @@
     Xastropix_ids="noirlab|gemini0703a"
     Xbands="Visible,IR"
     Xcxstatus="in:6427624c975014bc743f160a"
+    Xdominant_band="IR"
   >
     <Credits>International Gemini Observatory</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/gemini0703a/</CreditsUrl>
@@ -722,6 +745,7 @@
     Xastropix_ids="noirlab|iotw2115a"
     Xbands="Visible,IR"
     Xcxstatus="in:64276262975014bc743f1638"
+    Xdominant_band="IR"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA/SMARTS ConsortiumImage processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/iotw2115a/</CreditsUrl>
@@ -752,6 +776,7 @@
     Xastropix_ids="noirlab|noao-03315"
     Xbands="Visible,IR"
     Xcxstatus="in:64276287975014bc743f1686"
+    Xdominant_band="IR"
   >
     <Credits>K.M. Merrill, NOIRLab/NSF/AURA</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noao-03315/</CreditsUrl>
@@ -782,6 +807,7 @@
     Xastropix_ids="noirlab|noao1308a"
     Xbands="Visible,IR"
     Xcxstatus="in:642762f6975014bc743f1772"
+    Xdominant_band="IR"
   >
     <Credits>S. Willis (CfA+ISU); ESA/Herschel; NASA/JPL-Caltech/ Spitzer; CTIO/NOAO/AURA/NSF.</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noao1308a/</CreditsUrl>
@@ -812,6 +838,7 @@
     Xastropix_ids="noirlab|noaoann16001a"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:642762fe975014bc743f1784"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ of Missouri/M.Brodwin et al; Optical: NASA/STScI; Infrared: JPL/CalTech</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noaoann16001a/</CreditsUrl>
@@ -842,6 +869,7 @@
     Xastropix_ids="noirlab|noaoann16019a"
     Xbands="Visible,Radio"
     Xcxstatus="in:642762ff975014bc743f1785"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (ESO/NAOJ/NRAO); NASA/ESA Hubble</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noaoann16019a/</CreditsUrl>
@@ -872,6 +900,7 @@
     Xastropix_ids="noirlab|noirlab2002b"
     Xbands="Visible,IR,Radio"
     Xcxstatus="in:64276301975014bc743f178a"
+    Xdominant_band="IR"
   >
     <Credits>Gemini Observatory/NSF’s National Optical-Infrared Astronomy Research Laboratory/AURA</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noirlab2002b/</CreditsUrl>
@@ -902,6 +931,7 @@
     Xastropix_ids="noirlab|noirlab2010a"
     Xbands="Visible,Radio"
     Xcxstatus="in:64276302975014bc743f178c"
+    Xdominant_band="Radio"
   >
     <Credits>CTIO/NOIRLab/NSF/AURA Acknowledgments: P. Massey (Lowell Obs.), G. Jacoby, K. Olsen, C. Smith (NOAO/AURA/NSF) &amp;amp; T.A. Rector (NRAO/AUI/NSF). Image processing: Travis Rector (University of Alaska Anchorage), Mahdi Zamani &amp;amp; Davide de Martin</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/noirlab2010a/</CreditsUrl>
@@ -933,6 +963,7 @@
     Xbands="XRay,Visible,Radio"
     Xcorepipe_ids="nrao|nrao_gallery_nrao17cb01"
     Xcxstatus="in:6682c5e7a0402c750ca6cebb"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO); H.Russell, et al.; NASA/ESA Hubble; NASA/CXC/MIT/M.McDonald et al.; B. Saxton (NRAO/AUI/NSF)</Credits>
     <CreditsUrl>http://astropix.ipac.caltech.edu/image/nrao/Gallery_nrao17cb01</CreditsUrl>
@@ -965,6 +996,7 @@
     Xbands="IR,Radio"
     Xcorepipe_ids="nrao|nrao_gallery_nrao17cb07"
     Xcxstatus="in:6682c5d1a0402c750ca6ce84"
+    Xdominant_band="Radio"
   >
     <Credits>(NRAO/AUI/NSF)</Credits>
     <CreditsUrl>https://public.nrao.edu/?post_type=release=5893</CreditsUrl>
@@ -997,6 +1029,7 @@
     Xbands="IR,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery007"
     Xcxstatus="in:6682c5d4a0402c750ca6ce8a"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (NRAO/ESO/NAOJ); A. Leroy; STScI/NASA, ST-ECF/ESA, CADC/NRC/CSA</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/alma-sees-super-stellar-nurseries-at-heart-of-sculptor-galaxy/</CreditsUrl>
@@ -1029,6 +1062,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery010"
     Xcxstatus="in:6682c5e3a0402c750ca6ceb0"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton from data provided by J. Ulvestad, S. Neff  S. Teng; NRAO/AUI/NSF and NASA/ESA HST</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/arp-299-2/</CreditsUrl>
@@ -1061,6 +1095,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery017"
     Xcxstatus="in:6682c5d6a0402c750ca6ce8e"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF) with data provided by J. HIbbard</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/arms-wide-open/</CreditsUrl>
@@ -1093,6 +1128,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery018"
     Xcxstatus="in:6682c5d7a0402c750ca6ce90"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton, (NRAO/AUI/NSF) from data provided by J. Hibbard</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/multiwavelength-whirpool/</CreditsUrl>
@@ -1127,6 +1163,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery030"
     Xcxstatus="in:6682c5dda0402c750ca6cea2"
+    Xdominant_band="Radio"
   >
     <Credits>Bill Saxton (NRAO/AUI/NSF); HST (NASA/ESA)</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/m82-as-seen-by-the-gbt/</CreditsUrl>
@@ -1159,6 +1196,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery032"
     Xcxstatus="in:6682c5dea0402c750ca6cea4"
+    Xdominant_band="Radio"
   >
     <Credits>D.J. Pisano (WVU); B. Saxton (NRAO/AUI/NSF); Palomar Observatory – Space Telescope Science Institute 2nd Digital Sky Survey (Caltech); Westerbork Synthesis Radio Telescope</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/a-river-of-hydrogen/</CreditsUrl>
@@ -1193,6 +1231,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery058"
     Xcxstatus="in:6682c5dca0402c750ca6ce9f"
+    Xdominant_band="Radio"
   >
     <Credits>NASA, ESA, S. Baum and C. O'Dea (RIT), R. Perley and W. Cotton (NRAO/AUI/NSF), and the Hubble Heritage Team (STScI/AURA)</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/hercules-a/</CreditsUrl>
@@ -1225,6 +1264,7 @@
     Xbands="XRay,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery059"
     Xcxstatus="in:6682c5e0a0402c750ca6ceaa"
+    Xdominant_band="Radio"
   >
     <Credits>X-ray: NASA/CXC/UCLA/Z.Li et al; Radio: NRAO/VLA</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/the-supermassive-black-hole-at-the-center-of-the-milky-way/</CreditsUrl>
@@ -1255,6 +1295,7 @@
     Xbands="XRay,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery060"
     Xcxstatus="in:6682c5e1a0402c750ca6ceac"
+    Xdominant_band="Radio"
   >
     <Credits>X-ray: NASA/CXC/UCLA/Z.Li et al; Radio: NRAO/VLA</Credits>
     <CreditsUrl>https://public.nrao.edu/gallery/the-supermassive-black-hole-at-the-center-of-the-milky-way-2/</CreditsUrl>
@@ -1287,6 +1328,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery075"
     Xcxstatus="in:6682c5d3a0402c750ca6ce88"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (NRAO/ESO/NAOJ), K. Onishi; NASA/ESA Hubble Space Telescope, E. Sturdivant; B. Saxton (NRAO/AUI/NSF)</Credits>
     <CreditsUrl>https://public.nrao.edu/news/alma-weigh-black-hole/</CreditsUrl>
@@ -1319,6 +1361,7 @@
     Xbands="Visible,Radio"
     Xcorepipe_ids="nrao|nrao_nrao_gallery_nrao18cb12d"
     Xcxstatus="in:667edd5300cff6f79273594e"
+    Xdominant_band="Radio"
   >
     <Credits>NRAO/AUI/NSF, B. Saxton: ALMA (ESO/NAOJ/NRAO); NASA/Hubble</Credits>
     <CreditsUrl>https://public.nrao.edu/news/2019-alma-phangs/</CreditsUrl>
@@ -1349,6 +1392,7 @@
     Xbands="XRay,Visible,IR"
     Xcorepipe_ids="hst|ngc602"
     Xcxstatus="in:655407b15dff7c3291e3b2a9"
+    Xdominant_band="XRay"
   >
     <Credits>Credit:X-ray: NASA/CXC/Univ.Potsdam/L.Oskinova et al; Optical: ESA, NASA/STScI; Infrared: NASA/JPL-Caltech</Credits>
     <CreditsUrl>https://esahubble.org/images/ngc602/</CreditsUrl>
@@ -1377,6 +1421,7 @@
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:647a7aded4a2d5e2c5f3e71e"
+    Xdominant_band="IR"
   >
     <Credits>Dust and magnetic fields: NASA/SOFIA; Star field image: NASA/Hubble Space Telescope</Credits>
     <CreditsUrl>https://www.nasa.gov/feature/magnetic-field-may-be-keeping-milky-way-s-black-hole-quiet</CreditsUrl>
@@ -1404,6 +1449,7 @@
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:647a7adfd4a2d5e2c5f3e720"
+    Xdominant_band="IR"
   >
     <Credits>NASA, the SOFIA science team, A. Borlaff; NASA, ESA, S. Beckwith (STScI) and the Hubble Heritage Team (STScI/AURA)</Credits>
     <CreditsUrl>https://www.nasa.gov/feature/magnetic-chaos-hidden-within-the-whirlpool-galaxy</CreditsUrl>
@@ -1431,6 +1477,7 @@
     WidthFactor="2"
     Xbands="Visible,IR,Radio"
     Xcxstatus="in:647a7ae0d4a2d5e2c5f3e722"
+    Xdominant_band="IR"
   >
     <Credits>NASA/SOFIA; NASA/JPL-Caltech/Roma Tre Univ.</Credits>
     <CreditsUrl>https://www.nasa.gov/feature/how-to-shape-a-spiral-galaxy</CreditsUrl>
@@ -1458,6 +1505,7 @@
     WidthFactor="2"
     Xbands="Visible,Radio"
     Xcxstatus="in:649bab3e1e6961df10c1945b"
+    Xdominant_band="Radio"
   >
     <Credits>R. Timmerman; LOFAR and Hubble Space Telescope</Credits>
     <CreditsUrl>https://www.astron.nl/most-detailed-ever-images-of-galaxies-revealed-using-lofar/</CreditsUrl>
@@ -1485,6 +1533,7 @@
     WidthFactor="2"
     Xbands="Visible,IR,Radio"
     Xcxstatus="in:642761e5975014bc743f159c"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST Team. Acknowledgement: J. Schmidt</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2208a/</CreditsUrl>
@@ -1515,6 +1564,7 @@
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:642761e5975014bc743f159d"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST Team; ESA/Hubble &amp; NASA, R. Chandar. Acknowledgement: J. Schmidt</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2208b/</CreditsUrl>
@@ -1544,6 +1594,7 @@
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:642761e1975014bc743f1593"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, L. Armus, A. Evans; the Hubble Heritage Team (STScI/AURA)-ESA/Hubble Collaboration</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2211b/</CreditsUrl>
@@ -1573,6 +1624,7 @@
     Xastropix_ids="ensci|euclid20231107c,ensci|euclid20231107c2"
     Xbands="Visible,IR"
     Xcxstatus="in:654ab5b95dff7c3291e3a358"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselm</Credits>
     <CreditsUrl>https://www.esa.int/ESA_Multimedia/Images/2023/11/Euclid_s_view_of_the_Horsehead_Nebula</CreditsUrl>
@@ -1610,6 +1662,7 @@
     Xastropix_ids="ensci|euclid20231107a,ensci|euclid20231107a2"
     Xbands="Visible,IR"
     Xcxstatus="in:654c63105dff7c3291e3a74a"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
     <CreditsUrl>https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_first_images_the_dazzling_edge_of_darkness</CreditsUrl>
@@ -1647,6 +1700,7 @@
     Xastropix_ids="ensci|euclid20231107d,ensci|euclid20231107d2"
     Xbands="Visible,IR"
     Xcxstatus="in:6551b7295dff7c3291e3af07"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
     <CreditsUrl>https://www.esa.int/Science_Exploration/Space_Science/Euclid/Euclid_s_view_of_globular_cluster_NGC_6397</CreditsUrl>
@@ -1686,6 +1740,7 @@ The challenge is that it is typically difficult to observe an entire globular cl
     Xastropix_ids="ensci|euclid20231107b,ensci|euclid20231107b2"
     Xbands="Visible,IR"
     Xcxstatus="in:654c63125dff7c3291e3a74c"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
     <CreditsUrl>https://www.esa.int/ESA_Multimedia/Images/2023/11/Euclid_s_view_of_irregular_galaxy_NGC_6822</CreditsUrl>
@@ -1719,6 +1774,7 @@ The challenge is that it is typically difficult to observe an entire globular cl
     Xastropix_ids="ensci|euclid20231107e,ensci|euclid20231107e2"
     Xbands="Visible,IR"
     Xcxstatus="in:654b8bcf5dff7c3291e3a572"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
     <CreditsUrl>https://www.esa.int/ESA_Multimedia/Images/2023/11/Euclid_s_view_of_the_Perseus_cluster_of_galaxies</CreditsUrl>
@@ -1756,6 +1812,7 @@ The challenge is that it is typically difficult to observe an entire globular cl
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:65f7d649affb32cbf1d99662"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, STScI, J. Diego (Instituto de Física de Cantabria, Spain), J. D’Silva (U. Western Australia), A. Koekemoer (STScI), J. Summers &amp; R. Windhorst (ASU), and H. Yan (U. Missouri)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2327a/</CreditsUrl>
@@ -1785,6 +1842,7 @@ The challenge is that it is typically difficult to observe an entire globular cl
     Xastropix_ids="ensci|euclid20240523c"
     Xbands="Visible,IR"
     Xcxstatus="in:664f517d78020dc3dc898a38"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Euclid/Euclid Consortium/NASA, image processing by J.-C. Cuillandre (CEA Paris-Saclay), G. Anselmi</Credits>
     <CreditsUrl>https://www.esa.int/ESA_Multimedia/Images/2024/05/Euclid_s_new_image_of_star-forming_region_Messier_78</CreditsUrl>
@@ -1829,6 +1887,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible"
     Xcxstatus="in:65394895b493728d11b82eb3"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/UIUC/Y. Chu &amp; R. Gruendl et al. Optical: SDSU/MLO/Y. Chu et al..</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/coronet/more.html#img1</CreditsUrl>
@@ -1859,6 +1918,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="chandra|145"
     Xbands="XRay,Visible"
     Xcxstatus="in:65394896b493728d11b82eb5"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/UIUC/Y.Chu et al., Optical: NASA/HST</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2001/1220/more.html#img2</CreditsUrl>
@@ -1887,6 +1947,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2005-12x"
     Xbands="Visible,Radio"
     Xcxstatus="in:64276319975014bc743f17bb"
+    Xdominant_band="Radio"
   >
     <Credits>Photo Credit: T.A.Rector (University of Alaska Anchorage, NRAO/AUI/NSF and NOAO/AURA/NSF) and B.A.Wolpa (NOAO/AURA/NSF)</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2005/news-2005-12.html</CreditsUrl>
@@ -1914,6 +1975,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:657c642717aa40fc703f3af9"
+    Xdominant_band="XRay"
   >
     <Credits>Credit: NASA, ESA, CXC, and JPL-Caltech</Credits>
     <CreditsUrl>http://hubblesite.org/newscenter/archive/releases/2006/14/image/f/</CreditsUrl>
@@ -1943,6 +2005,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74782a15b29de42b30685"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/L. Jenkins (GSFC), Sloan Digital Sky Survey</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-10a-dwarf-galaxies-in-the-coma-cluster</CreditsUrl>
@@ -1972,6 +2035,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible"
     Xcxstatus="in:65394899b493728d11b82ebb"
+    Xdominant_band="XRay"
   >
     <Credits>Chandra: NASA/CXC/Middlebury College/F.Winkler et al; ROSAT: NASA/GSFC/S.Snowden et al.; Optical: NOAO/AURA/NSF/Middlebury College/F.Winkler et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/puppis/more.html#img3a</CreditsUrl>
@@ -2001,6 +2065,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:6539489bb493728d11b82ebf"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/RIT/J.Kastner et al, Optical/IR: NASA/STScI/Univ. Washington/B.Balick</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/pne/</CreditsUrl>
@@ -2029,6 +2094,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2005-12b"
     Xbands="Visible,IR"
     Xcxstatus="in:661fef70befbe21fbdf49bb5"
+    Xdominant_band="IR"
   >
     <Credits>Credit: NASA, ESA, and The Hubble Heritage Team (STScI/AURA)</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2005/news-2005-12.html</CreditsUrl>
@@ -2058,6 +2124,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74307a15b29de42b3051b"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/K. Rines (Harvard-Smithsonian CfA), WIYN Consortium</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-13b1-fearsome-foursome-a-huge-galactic-merger</CreditsUrl>
@@ -2086,6 +2153,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2008-16am"
     Xbands="Visible,IR"
     Xcxstatus="in:660708d3dc7be96c90c53481"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and K. Noll (STScI)</Credits>
     <CreditsUrl>https://hubblesite.org/contents/news-releases/2008/news-2008-16.html</CreditsUrl>
@@ -2114,6 +2182,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2005-37b"
     Xbands="XRay,Visible"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>Credit: NASA, ESA, CXC, JPL-Caltech, J. Hester and A. Loll (Arizona State Univ.), R. Gehrz (Univ. Minn.), and STScI</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2005/news-2005-37.html</CreditsUrl>
@@ -2143,6 +2212,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6539489eb493728d11b82ec5"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/M. Karovska et al.); Radio 21-cm image (NRAO/AUI/NSF/J.Van Gorkom/Schminovich et al.), Radio continuum image (NRAO/AUI/NSF/J. Condon et al.); Optical (Digitized Sky Survey U.K. Schmidt Image/STScI)</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2002/0157/more.html#img2</CreditsUrl>
@@ -2171,6 +2241,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2003-04a"
     Xbands="Visible,Radio"
     Xcxstatus="queue:hubble"
+    Xdominant_band="Radio"
   >
     <Credits>Credit: NASA, NRAO/AUI/NSF and W. Keel (University of Alabama, Tuscaloosa)</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2003/news-2003-04.html</CreditsUrl>
@@ -2199,6 +2270,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2005-15f"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>Credit: X-ray: NASA/CXC/Rutgers/J.Warren et al.; Optical: NASA/STScI/U. Ill/Y.Chu; Radio: ATCA/U. Ill/J.Dickel et al.</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2005/news-2005-15.html</CreditsUrl>
@@ -2227,6 +2299,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2002-24a"
     Xbands="XRay,Visible"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>Credits for X-ray Image:  NASA/CXC/ASU/J. Hester et al. Credits for Optical Image: NASA/HST/ASU/J. Hester et al.</Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2002/news-2002-24.html</CreditsUrl>
@@ -2255,6 +2328,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2006-39a,stsci|2009-18d"
     Xbands="XRay,Visible"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>Credit: X-ray: NASA/CXC/M.Markevitch et al. Optical: NASA/STScI; Magellan/U.Arizona/D.Clowe et al. Lensing Map: NASA/STScI; ESO WFI; Magellan/U.Arizona/D.Clowe et al. </Credits>
     <CreditsUrl>http://hubblesite.org/contents/news-releases/2006/news-2006-39.html</CreditsUrl>
@@ -2284,6 +2358,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="Ultraviolet,Visible,IR"
     Xcxstatus="in:64b74308a15b29de42b3051d"
+    Xdominant_band="IR"
   >
     <Credits>Spitzer data: NASA/JPL/Caltech/S. Willner (Harvard-Smithsonian CfA);Hubble data: NASA, ESA, and A. Zezas (Harvard-Smithsonian CfA); GALEX data: NASA, JPL-Caltech, GALEX Team, J. Huchra et al. (Harvard-Smithsonian CfA)</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig07-009-multiwavelength-m81</CreditsUrl>
@@ -2312,6 +2387,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="stsci|2008-16bk"
     Xbands="Visible,IR"
     Xcxstatus="in:6607082edc7be96c90c53457"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, the Hubble Heritage (STScI/AURA)-ESA/Hubble Collaboration, and A. Evans (University of Virginia, Charlottesville/NRAO/Stony Brook University)</Credits>
     <CreditsUrl>https://hubblesite.org/contents/news-releases/2008/news-2008-16.html</CreditsUrl>
@@ -2341,6 +2417,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     WidthFactor="2"
     Xbands="XRay,Visible,IR,Radio"
     Xcxstatus="in:64b74783a15b29de42b30687"
+    Xdominant_band="IR"
   >
     <Credits>X-ray: NASA/CXC/Univ. of Maryland/A.S. Wilson et al.; Optical: Pal.Obs. DSS; IR: NASA/JPL-Caltech; VLA: NRAO/AUI/NSF</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-06a-anomalous-arms-spiral-galaxy-m106</CreditsUrl>
@@ -2369,6 +2446,7 @@ Messier 78 lies 1300 light-years away in the constellation of Orion.
     Xastropix_ids="chandra|102"
     Xbands="XRay,Visible"
     Xcxstatus="in:653abcb3dba86d239b27cf2b"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/C. Jones, W.; This composite X-ray (blue)/optical (orange) image of M86 shows gas being swept
 out of the galaxy to form a long tail more than ...</Credits>
@@ -2398,6 +2476,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|103"
     Xbands="XRay,Visible"
     Xcxstatus="in:65424f9ba5946236dee82f37"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/UIUC/Y. Chu &amp;  R. Gr; This composite X-ray (blue)/optical (red and green) image reveals dramatic details of a portion of the Crescent Nebula. About 40...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc6888/</CreditsUrl>
@@ -2426,6 +2505,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|107"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:65424f9ca5946236dee82f39"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Rutgers/J.Warren; Chandra's image (blue) of N63A has been combined with optical (green) and radio (red) images to make this composite image. The X...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2003/n63a/</CreditsUrl>
@@ -2454,6 +2534,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|142"
     Xbands="XRay,IR"
     Xcxstatus="in:654e41465dff7c3291e3a98f"
+    Xdominant_band="XRay"
   >
     <Credits>NASA/CXC/CfA/S.Wolk et al.; This Chandra image covers a region about 5 light years across and shows many young stars with hot upper atmospheres. In addition...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2002/rcw38/</CreditsUrl>
@@ -2482,6 +2563,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|161"
     Xbands="XRay,Visible"
     Xcxstatus="in:654e41515dff7c3291e3a9a7"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/SAO/CXC, Optical: ES; The Chandra image of NGC 253 shows a plume of 5 million degree gas in the central region of the galaxy extending above and below...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2001/0012/</CreditsUrl>
@@ -2510,6 +2592,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|184"
     Xbands="XRay,Radio"
     Xcxstatus="in:65707d282cd220bb5b6d7db7"
+    Xdominant_band="XRay"
   >
     <Credits>NASA/NCSSM/C.Olbert et al.; Using this Chandra image, along with radio data from the Very Large Array, three high school students found evidence for a neutr...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2000/1083/</CreditsUrl>
@@ -2538,6 +2621,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|209"
     Xbands="XRay,Visible"
     Xcxstatus="in:657b1ef060c68ea9c726b4bd"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO, Optical: NA; The Chandra X-ray image (blue) shows gas that has been heated to millions of degrees Celsius by a shock wave moving into matter ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2000/0015multi/</CreditsUrl>
@@ -2566,6 +2650,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|246"
     Xbands="XRay,Visible"
     Xcxstatus="in:6596ca6e293f0a5746370295"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/SAO/CXC/M.Sun et al.; This image is a composite (X-ray, blue and optical, red &amp; green) of the galaxy UGC 6697. The X-rays reveal a sharp edge on the l...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2005/u6697/</CreditsUrl>
@@ -2594,6 +2679,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|294"
     Xbands="XRay,Visible"
     Xcxstatus="in:6596ca76293f0a57463702a8"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/RIT/J.Kastner &amp; ; This composite X-ray (blue)/optical (red) image of NGC 40 shows hot gas around a dying, Sun-like star. Planetary nebulas get the...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2005/n40/</CreditsUrl>
@@ -2622,6 +2708,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|295"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:65a699fe293f0a5746371336"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO; Optical: NASA/STScI; Infrared: NASA/JPL-Caltech/Steward/O.Krause et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2005/casa/</CreditsUrl>
@@ -2650,6 +2737,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|304"
     Xbands="XRay,Visible"
     Xcxstatus="in:65a69a01293f0a574637133c"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray:  NASA/SAO/CXC;  Optical: ; This is a composite Chandra (X-ray/blue) and Hubble (optical/pink &amp; purple) of N132D. The beautiful glowing horseshoe-shaped clo...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2005/n132d/</CreditsUrl>
@@ -2678,6 +2766,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|309"
     Xbands="XRay,Visible"
     Xcxstatus="in:65a69a03293f0a5746371340"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U.Illinois/R.Wil; This is a composite X-ray (red and green)/optical (blue) image of two hot gas shells produced by supernova explosions. Although ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2005/d316/</CreditsUrl>
@@ -2706,6 +2795,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|314"
     Xbands="XRay,Ultraviolet,Visible,IR"
     Xcxstatus="in:65a69a06293f0a5746371346"
+    Xdominant_band="XRay"
   >
     <Credits>Composite: NASA/JPL/Caltech/P.Ap; This image combines data from four different wavelengths of light: infrared (red), visible (green), ultraviolet (blue), and X-ra...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/cartwheel/</CreditsUrl>
@@ -2734,6 +2824,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|315"
     Xbands="XRay,Visible"
     Xcxstatus="in:65a69a07293f0a5746371348"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U. Copenhagen/K.; Chandra's observation of the hot halo (blue) surrounding the optical disk (white) of NGC 5746 should help astronomers better und...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/n5746/</CreditsUrl>
@@ -2762,6 +2853,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|317"
     Xbands="XRay,Visible"
     Xcxstatus="in:65d8c466affb32cbf1d96a2f"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U. Mass/Q.D.Wang; This X-ray/optical composite image shows multimillion degree gas (blue/X-ray) rising above the disk of stars and cooler gas (gra...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/n2841/</CreditsUrl>
@@ -2790,6 +2882,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|319"
     Xbands="XRay,Radio"
     Xcxstatus="in:65d8c467affb32cbf1d96a31"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/AIfA/D.Hudson &amp;; This composite X-ray/radio image of Abell 400 shows radio jets (pink), immersed in a vast cloud of multimillion degree X-ray emi...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/a400/</CreditsUrl>
@@ -2818,6 +2911,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|321"
     Xbands="XRay,Radio"
     Xcxstatus="in:65d8c46aaffb32cbf1d96a35"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/KIPAC/S.Allen et; This composite image shows a vast cloud of hot gas (X-ray/red), surrounding high-energy bubbles (radio/blue) on either side of t...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/bhcen/</CreditsUrl>
@@ -2845,6 +2939,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:65d8c46baffb32cbf1d96a37"
+    Xdominant_band="XRay"
   >
     <Credits>Chandra X-ray: NASA/CXC/B.Gaensl;  This wide-field composite image was made with X-ray (blue/ROSAT &amp; Chandra), radio (green/Very Large Array), and optical (red/Di...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/ic443/</CreditsUrl>
@@ -2873,6 +2968,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|336"
     Xbands="XRay,Visible"
     Xcxstatus="in:65dccfebaffb32cbf1d96f90"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ. Waterloo/B; This composite image contains three views of the galaxy cluster MS 0735.6+7421. The optical view from the Hubble Space Telescope...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/ms0735/</CreditsUrl>
@@ -2901,6 +2997,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|338"
     Xbands="XRay,IR"
     Xcxstatus="in:65dccfecaffb32cbf1d96f94"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Caltech/S.Kulkar; In Chandra's X-ray data, N49 shows million-degree gas in its center (blue), while Spitzer reveals much cooler, infrared-emitting...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2006/n49/</CreditsUrl>
@@ -2929,6 +3026,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|349"
     Xbands="XRay,Radio"
     Xcxstatus="in:65e5f0e2affb32cbf1d97cee"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ. of Bristol; X-ray data from NASA's Chandra X-ray Observatory and radio observations from the NSF's Very Large Array show that a role reversa...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/3c442a/</CreditsUrl>
@@ -2956,6 +3054,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,IR"
     Xcxstatus="in:65e5f0e4affb32cbf1d97cf2"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/UMass/Q.D.Wang et al; This Great Observatories view of the famous Sombrero galaxy was made using Chandra, Hubble, and Spitzer. The main figure shows t...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/sombrero/</CreditsUrl>
@@ -2983,6 +3082,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,Visible"
     Xcxstatus="in:65e5f0e5affb32cbf1d97cf4"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/MPE/W.Pietsch et; In this image, Andromeda's central region is seen in a combination of Chandra's X-ray data (blue) and optical light. Hot, X-ray ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/m31/</CreditsUrl>
@@ -3010,6 +3110,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,IR"
     Xcxstatus="in:65e5f0e6affb32cbf1d97cf6"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/SAO/CXC; Infrared:  ; This composite image from NASA's Chandra X-ray Observatory and Spitzer Space Telescope shows the supernova remnant known as N132...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/n132d/</CreditsUrl>
@@ -3037,6 +3138,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,IR"
     Xcxstatus="in:66070805dc7be96c90c53401"
+    Xdominant_band="XRay"
   >
     <Credits>Infrared: NASA/JPL-Caltech; X-ra; The center of this composite image shows four large galaxies that are colliding and will ultimately merge.  This collision is oc...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/cl0958/</CreditsUrl>
@@ -3065,6 +3167,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|368"
     Xbands="XRay,Visible"
     Xcxstatus="in:66070806dc7be96c90c53403"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/UVic./A.Mahdavi et al. Optical/Lensing: CFHT/UVic./A.Mahdavi et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/a520/</CreditsUrl>
@@ -3093,6 +3196,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|371"
     Xbands="XRay,Visible,HydrogenAlpha"
     Xcxstatus="in:66070809dc7be96c90c53409"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/MSU/M.Sun et al; H-alpha/Optical: SOAR (MSU/NOAO/UNC/CNPq-Brazil)/M.Sun et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/a3627/</CreditsUrl>
@@ -3121,6 +3225,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|378"
     Xbands="XRay,Visible"
     Xcxstatus="in:6607080bdc7be96c90c5340d"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/S.Wolk et al; A composite image of X-ray (purple) and optical data of NGC
 281 (red and yellow) reveals a region with very young stars and some...</Credits>
@@ -3150,6 +3255,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|381"
     Xbands="XRay,Ultraviolet,Visible,Radio"
     Xcxstatus="in:6607080ddc7be96c90c53411"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/D.Evans et al.; Optical/UV: NASA/STScI; Radio: NSF/VLA/CfA/D.Evans et al., STFC/JBO/MERLIN</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2007/3c321/</CreditsUrl>
@@ -3178,6 +3284,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|399"
     Xbands="XRay,Visible"
     Xcxstatus="in:661fef57befbe21fbdf49b7f"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO; Optical: NA; A composite image of data from NASA’s Chandra X-ray Observatory (blue) and Hubble Space Telescope (red and purple) of NGC 6543 s...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/catseye/</CreditsUrl>
@@ -3206,6 +3313,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|406"
     Xbands="XRay,Radio"
     Xcxstatus="in:661fef5bbefbe21fbdf49b89"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/INAF/G.Brunetti ; A composite image of X-ray data from Chandra (colored blue) and radio emission from the Giant Meterwave Radio Telescope (orange)...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/a521/</CreditsUrl>
@@ -3234,6 +3342,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|407"
     Xbands="XRay,Visible"
     Xcxstatus="in:661fef5cbefbe21fbdf49b8b"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/M.Markevitch; This view of the Bullet Cluster is a combination of X-rays from Chandra (red) and optical data from the Hubble and Magellan tele...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/bullet/</CreditsUrl>
@@ -3262,6 +3371,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|409"
     Xbands="XRay,Radio"
     Xcxstatus="in:661fef5dbefbe21fbdf49b8d"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/MPE/A.Finoguenov; This is a composite image of M84 with X-ray data from Chandra (blue) and radio emission from the Very Large Array (red) overlaid...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/m84/</CreditsUrl>
@@ -3290,6 +3400,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|418"
     Xbands="XRay,IR"
     Xcxstatus="in:669e730a87f75eb1c69af28b"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO, Infrared: N; This composite image of the Tycho supernova remnant combines X-ray and infrared observations obtained with NASA's Chandra and Sp...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/tycho/</CreditsUrl>
@@ -3318,6 +3429,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|421"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:669e731187f75eb1c69af28d"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Harvard/J.Neilse; The inset of this graphic shows Chandra's X-ray image of GRS 1915+105 in context of a crowded field seen in optical and infrared...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/g1915/</CreditsUrl>
@@ -3346,6 +3458,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|425"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:669e731b87f75eb1c69af28f"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/CfA/F.Massaro, e; This composite image of X-ray (red), radio (dark blue), and optical (light blue) data shows activity from the central black hole...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/3c305/</CreditsUrl>
@@ -3374,6 +3487,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|427"
     Xbands="XRay,IR"
     Xcxstatus="in:669e73b3629f9bfc2a8e202a"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Penn State/S.Par; A new composite image from NASA's Chandra X-ray Observatory (purple) and Spitzer Space Telescope (red and green) shows a superno...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/snr0104/</CreditsUrl>
@@ -3402,6 +3516,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|430"
     Xbands="XRay,Visible"
     Xcxstatus="in:669e73b4629f9bfc2a8e202c"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/CfA/E.O'Sullivan; This composite image of X-rays from Chandra (colored light blue) and optical data from the Canada-France-Hawaii Telescope (yello...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/stephq/</CreditsUrl>
@@ -3430,6 +3545,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|431"
     Xbands="XRay,Visible"
     Xcxstatus="in:669e73b5629f9bfc2a8e202e"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/MIT/D.Dewey et a; This composite image of X-rays from Chandra and optical data from Hubble shows new details of the aftermath of a massive star th...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/e0102/</CreditsUrl>
@@ -3458,6 +3574,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|432"
     Xbands="XRay,IR"
     Xcxstatus="in:669e73b6629f9bfc2a8e2030"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/PSU/K. Getman et; This composite image of X-rays from Chandra (violet) and infrared data from Spitzer (red, green, and blue) reveals a beautiful s...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/cepb/</CreditsUrl>
@@ -3486,6 +3603,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|434"
     Xbands="XRay,Radio"
     Xcxstatus="in:669e73b7629f9bfc2a8e2032"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U.Waterloo/C.Kir; This composite image of the Hydra A galaxy cluster shows 10-million-degree gas observed by Chandra (blue) and jets of radio emis...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/hydra/</CreditsUrl>
@@ -3514,6 +3632,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|441"
     Xbands="XRay,IR"
     Xcxstatus="in:669e73bb629f9bfc2a8e203a"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/M.Machacek;; This composite image of a collision between two galaxies, NGC 6872 and IC 4970, contains X-rays from Chandra (purple), infrared ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2009/ngc6872/</CreditsUrl>
@@ -3542,6 +3661,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|443"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d7fe7a6e8921822329f1"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/UA/J. Irwin et a; X-rays from Chandra and optical spectra from the Magellan telescopes provide evidence that a star was destroyed a black hole in ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/ngc1399/</CreditsUrl>
@@ -3570,6 +3690,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|445"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d82c7a6e8921822329f5"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/UVa/M. Sun, et a; This composite image of X-rays (blue) and optical and hydrogen light (yellow and red) shows two spectacular tails stretching beh...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/eso137/</CreditsUrl>
@@ -3598,6 +3719,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|447"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d858c416890104fc047e"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/MPA/M.Gilfanov &amp;; This composite image of M31 (a.k.a. the Andromeda galaxy) contains X-rays from Chandra (gold), optical emission (light blue), an...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/type1a/</CreditsUrl>
@@ -3626,6 +3748,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|448"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:66b0d859c416890104fc0480"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/MIT/C.Canizares,; This composite image (X-rays from Chandra in red, optical data in green, and radio emission in blue) shows NGC 1068, one of the ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/ngc1068/</CreditsUrl>
@@ -3654,6 +3777,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|449"
     Xbands="XRay,IR"
     Xcxstatus="in:66b0d85ac416890104fc0482"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray:  NASA/CXC/SAO/T.Temim et; A composite image from Chandra (blue) and Spitzer (green and red-yellow) data shows the dusty remains of a collapsed star.  The ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/g541/</CreditsUrl>
@@ -3682,6 +3806,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|450"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d85bc416890104fc0484"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/SAO/A. Vikhlinin; This composite image of the galaxy cluster Abell 3376 combines Chandra and ROSAT X-ray data (gold), an optical image from the Di...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/a3376/</CreditsUrl>
@@ -3710,6 +3835,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|454"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d85dc416890104fc0488"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/SAO/Li et al.),; The large image here shows an optical view, with the Digitized Sky Survey, of the Andromeda Galaxy, otherwise known as M31. The ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/m31/</CreditsUrl>
@@ -3738,6 +3864,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|455"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d85ec416890104fc048a"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/M.Karovska e; The inset box in this graphic contains a composite image of X-ray data from Chandra (red), optical data from the Hubble Space Te...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/chcyg/</CreditsUrl>
@@ -3766,6 +3893,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|457"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d860c416890104fc048e"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Univ of Strasbou; Combined data from Chandra (red, green, and blue) as well as optical light (light blue) and hydrogen emission (gold) reveals a m...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/ngc7793/</CreditsUrl>
@@ -3794,6 +3922,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|458"
     Xbands="XRay,Radio"
     Xcxstatus="in:66b0d861c416890104fc0490"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/UMD/Hodges-Kluck; The close-up view in the inset shows a composite image of the galaxy 4C +00.58 in X-rays from Chandra (gold) and radio waves fro...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/4c0058/</CreditsUrl>
@@ -3822,6 +3951,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|459"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d862c416890104fc0492"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/J.DePasquale; This composite image of the Antennae galaxies contains X-rays from Chandra (blue), optical data from Hubble (gold and brown), an...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/antennae/</CreditsUrl>
@@ -3850,6 +3980,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|462"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d864c416890104fc0498"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/SAO/J. Wang et a; This X-ray and optical image shows the Rosette star formation region, located about 5,000 light years from Earth. The Chandra X-...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/rosette/</CreditsUrl>
@@ -3878,6 +4009,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|463"
     Xbands="XRay,Visible"
     Xcxstatus="queue:chandra"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/RIT/J.Kastner et al), Optical (UCO/Lick/STScI/M.Perrin et al); Illustration: NASA/CXC/M.Weiss</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/bppsc/</CreditsUrl>
@@ -3906,6 +4038,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|466"
     Xbands="XRay,Visible"
     Xcxstatus="in:66b0d866c416890104fc049c"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/A.Siemiginowska et al, Optical: AURA/Gemini Obs.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/3c186/</CreditsUrl>
@@ -3934,6 +4067,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|467"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:66b0d867c416890104fc049e"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/D.Patnaude et al, Optical: ESO/VLT, Infrared: NASA/JPL/Caltech</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/sn1979c/</CreditsUrl>
@@ -3962,6 +4096,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|470"
     Xbands="XRay,Visible"
     Xcxstatus="queue:chandra"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Northwestern Univ/D.Haggard et al, Optical: SDSS</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2010/2gal/</CreditsUrl>
@@ -3989,6 +4124,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     WidthFactor="1"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0dc01d08292018533b7"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Harvard/J.Neilsen et al); Optical (Palomar DSS2)</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/g1915/</CreditsUrl>
@@ -4017,6 +4153,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|473"
     Xbands="XRay,Radio"
     Xcxstatus="in:66c4a0dd01d08292018533b9"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/Virginia/A.Reine; Combined observations from Chandra (purple), the Very Large Array (yellow) along with Hubble (red, green, and blue) have provide...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/he210/</CreditsUrl>
@@ -4045,6 +4182,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|474"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0de01d08292018533bb"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/MIT/S.Rappaport et al, Optical: NASA/STScI</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/arp147/</CreditsUrl>
@@ -4073,6 +4211,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|476"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0df01d08292018533bd"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/UNAM/Ioffe/D.Page,P.Shternin et al; Optical: NASA/STScI; Illustration: NASA/CXC/M.Weiss</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/casa/</CreditsUrl>
@@ -4101,6 +4240,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|477"
     Xbands="XRay,Visible,IR,Radio"
     Xcxstatus="in:66c4a0e001d08292018533bf"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/J.Wang et al.; Optical: Isaac Newton Group of Telescopes, La Palma/Jacobus Kapteyn Telescope, Radio: NSF/NRAO/VLA</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/n4151/</CreditsUrl>
@@ -4129,6 +4269,7 @@ out of the galaxy to form a long tail more than ...</Credits>
     Xastropix_ids="chandra|480"
     Xbands="XRay,IR"
     Xcxstatus="in:66c4a0e301d08292018533c5"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/U. of Sydney/G.Ander; Data from Chandra and Spitzer of a region near the Galactic
 plane have been combined to track down some of the Milky Way's
@@ -4159,6 +4300,7 @@ h...</Credits>
     Xastropix_ids="chandra|484"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:66c4a0e601d08292018533cb"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U.Hawaii/E.Treis; This composite image combines the deepest X-ray image ever taken with optical and infrared data from Hubble.  Astronomers obtain...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/cdfs/</CreditsUrl>
@@ -4187,6 +4329,7 @@ h...</Credits>
     Xastropix_ids="chandra|487"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0e901d08292018533d1"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ. of Alabama; This composite image contains X-rays from Chandra (blue) and optical data from the VLT (gold) of the galaxy NGC 3115.  Using the...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/n3115/</CreditsUrl>
@@ -4215,6 +4358,7 @@ h...</Credits>
     Xastropix_ids="chandra|488"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0ea01d08292018533d3"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray NASA/CXC/IfA/D.Sanders et ; This composite image of VV 340 contains X-ray data from Chandra (purple)
 and optical data from Hubble (red, green, blue). The tw...</Credits>
@@ -4244,6 +4388,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|491"
     Xbands="XRay,IR"
     Xcxstatus="in:66c4a0ec01d08292018533d7"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/S.Wolk; IR: ; This composite image of NGC 281 contains X-ray data from Chandra (purple) with infrared observations from Spitzer (red, green, b...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/ngc281/</CreditsUrl>
@@ -4272,6 +4417,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|492"
     Xbands="XRay,IR"
     Xcxstatus="in:66c4a0ed01d08292018533d9"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U. Texas at Arlington/S.Park et al, ROSAT; Infrared: 2MASS/UMass/IPAC-Caltech/NASA/NSF</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/g299/</CreditsUrl>
@@ -4300,6 +4446,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|497"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0ef01d08292018533df"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/BU/E.Blanton; Optical: ESO/VLT</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/a2052/</CreditsUrl>
@@ -4328,6 +4475,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|498"
     Xbands="XRay,Visible"
     Xcxstatus="in:66c4a0f001d08292018533e1"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray &amp; Optical: NASA/CXC/Univ.P; In this composite image, X-rays from Chandra and XMM-Newton (blue) have been combined with optical data from the Cerro Tololo In...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2011/sxp1062/</CreditsUrl>
@@ -4356,6 +4504,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|503"
     Xbands="XRay,Visible"
     Xcxstatus="in:66cc83edb5c14220b3db1fbc"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, CFHT, CXO, M.J. Jee (; This composite image shows the distribution of dark matter, galaxies, and hot gas in the core of the merging galaxy cluster Abel...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/a520/</CreditsUrl>
@@ -4384,6 +4533,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|507"
     Xbands="XRay,IR"
     Xcxstatus="in:66cc83f1b5c14220b3db1fc4"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/PSU/L.Townsley e; This composite of 30 Doradus, aka the Tarantula Nebula, contains data from Chandra (blue), Hubble (green), and Spitzer (red).  L...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/30dor/</CreditsUrl>
@@ -4412,6 +4562,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|511"
     Xbands="XRay,Visible"
     Xcxstatus="in:66cc83f2b5c14220b3db1fc6"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Royal Military C; This composite image shows the galaxy UGC 5189A in X-ray data from Chandra (purple) and optical data from Hubble (red, green and...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/sn2010/</CreditsUrl>
@@ -4440,6 +4591,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|515"
     Xbands="XRay,Radio"
     Xcxstatus="in:66cc83f5b5c14220b3db1fcc"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/UC Berkeley/J.To; Using Chandra, XMM-Newton, and the Parkes radio telescope, researchers have found evidence for what may be the fastest moving pu...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/igrj11014/</CreditsUrl>
@@ -4468,6 +4620,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|525"
     Xbands="XRay,IR"
     Xcxstatus="in:66cc83fcb5c14220b3db1fd8"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO/J.Drake et a; This composite image of the star cluster Cygnus OB2 contains X-rays from Chandra (blue), infrared data from Spitzer (red), and o...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/cygob2/</CreditsUrl>
@@ -4496,6 +4649,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|529"
     Xbands="XRay,IR"
     Xcxstatus="in:66cc83ffb5c14220b3db1fe0"
+    Xdominant_band="XRay"
   >
     <Credits>NASA/CXC/Ohio State Univ./C.Grie; This multiwavelength image of the galaxy NGC 3627 contains X-rays from Chandra (blue), infrared data from Spitzer (red), and opt...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2012/ngc3627/</CreditsUrl>
@@ -4524,6 +4678,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|559"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f44176955f03d76f65976c"
+    Xdominant_band="XRay"
   >
     <Credits>redit: X-ray: NASA/CXC/Univ. of Alabama/W.P.Maksym et al &amp; NASA/CXC/GSFC/UMD/D.Donato, et al; Optical: CFHT.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/a1795/more.html#img1a</CreditsUrl>
@@ -4552,6 +4707,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|563"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f44179955f03d76f659774"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ of Michigan; Multiple images of a distant quasar known as RX J1131-1231 are visible in this combined view from Chandra (pink) and Hubble (red...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/rxj1131/</CreditsUrl>
@@ -4579,6 +4735,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f4417e955f03d76f659780"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Wesleyan Univ./R.Kilgard, et al; Optical: NASA/STScI</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/m51/</CreditsUrl>
@@ -4607,6 +4764,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|570a"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f4417f955f03d76f659782"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Wesleyan Univ./R; This image contains nearly a million seconds worth of Chandra observing time (purple) along with optical data from the Hubble Sp...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/m51/</CreditsUrl>
@@ -4635,6 +4793,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|572"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f44181955f03d76f659786"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Caltech/P.Ogle e; NGC 4258 is a spiral galaxy well known to astronomers for having two so-called anomalous arms that glow in X-ray, optical, and r...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/m106/</CreditsUrl>
@@ -4663,6 +4822,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|581d"
     Xbands="XRay,Visible"
     Xcxstatus="in:66f44187955f03d76f659794"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO, Optical: NA; With the passing of Chandra's 15th anniversary, the Chandra Data Archive, which houses all of the mission's data, continues to g...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/archives/</CreditsUrl>
@@ -4691,6 +4851,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|586"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:66f4418e955f03d76f6597a4"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/INAF/P.Tozzi, et al; Optical: NAOJ/Subaru and ESO/VLT; Infrared: ESA/Herschel</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2014/xdcp004/</CreditsUrl>
@@ -4719,6 +4880,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|587a"
     Xbands="XRay,Ultraviolet"
     Xcxstatus="in:671f972ddb8c1fae7da83aa3"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO; UV: NASA/JP; This montage features images of five different objects, ranging from a distant galaxy to a relatively close supernova remnant.  ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/iyl/</CreditsUrl>
@@ -4747,6 +4909,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|587d"
     Xbands="XRay,Visible"
     Xcxstatus="in:671f972fdb8c1fae7da83aa7"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO; Optical: NA; This montage features images of five different objects, ranging from a distant galaxy to a relatively close supernova remnant.  ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/iyl/</CreditsUrl>
@@ -4775,6 +4938,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|587e"
     Xbands="XRay,Ultraviolet,Visible,IR"
     Xcxstatus="in:671f9730db8c1fae7da83aa9"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/SAO; UV: NASA/JPL-Caltech; Optical: NASA/STScI; IR: NASA/JPL-Caltech</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/iyl/</CreditsUrl>
@@ -4803,6 +4967,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|589"
     Xbands="XRay,IR"
     Xcxstatus="in:671f9732db8c1fae7da83aad"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/U.Texas/S.Post et al, Infrared: 2MASS/UMass/IPAC-Caltech/NASA/NSF</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/g299/</CreditsUrl>
@@ -4831,6 +4996,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|593e"
     Xbands="XRay,Visible"
     Xcxstatus="in:671f9739db8c1fae7da83abd"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Ecole Polytechnique Federale de Lausanne, Switzerland/D.Harvey &amp; NASA/CXC/Durham Univ/R.Massey; Optical &amp; Lensing Map: NASA, ESA, D. Harvey (Ecole Polytechnique Federale de Lausanne, Switzerland) and R. Massey (Durham University, UK)</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/dark/</CreditsUrl>
@@ -4859,6 +5025,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|594"
     Xbands="XRay,Visible"
     Xcxstatus="in:671f973bdb8c1fae7da83ac1"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/IASF Palermo/M.Del Santo et al; Optical: NASA/STScI</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/ngc6388/</CreditsUrl>
@@ -4887,6 +5054,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|607"
     Xbands="XRay,Radio"
     Xcxstatus="in:671f9743db8c1fae7da83acd"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ of Hamburg/; Astronomers have found evidence for a "radio phoenix" in the collision of two galaxy clusters, where vast clouds of high-energy ...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/a1033/</CreditsUrl>
@@ -4915,6 +5083,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|609"
     Xbands="XRay,Ultraviolet,Visible"
     Xcxstatus="in:671f9744db8c1fae7da83acf"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/MIT/M.McDonald e; New observations of the galaxy cluster SPT-CLJ2344-4243 at X-ray, ultraviolet, and optical wavelengths are helping astronomers b...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/phoenix/</CreditsUrl>
@@ -4943,6 +5112,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|614"
     Xbands="XRay,Visible"
     Xcxstatus="in:671f974bdb8c1fae7da83adf"
+    Xdominant_band="XRay"
   >
     <Credits>Wide Field Optical: Focal Pointe; The Jellyfish Nebula is the remnant of a supernova that occurred over 10,000 years ago in our galaxy. New Chandra observations s...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2015/ic443/</CreditsUrl>
@@ -4971,6 +5141,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|627"
     Xbands="XRay,Radio"
     Xcxstatus="in:672d1e1f0d1c7ef132a39071"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/GSFC/B.Williams ; By combining observations from over 15 years with the Chandra X-ray Observatory and 30 years with the Very Large Array, scientis...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2016/tycho/</CreditsUrl>
@@ -4999,6 +5170,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|630"
     Xbands="XRay,Radio"
     Xcxstatus="in:672d1e200d1c7ef132a39073"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Univ. of Alberta; By combining data from Chandra and several other telescopes, astronomers have identified the true nature of an unusual source in...</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2016/vla/</CreditsUrl>
@@ -5027,6 +5199,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|66"
     Xbands="XRay,Radio"
     Xcxstatus="in:6745e460ed25b6eaa0b17884"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Bristol U./M. Hardcastle et al.; Radio: NRAO/AUI/NSF/Bristol U./M. Hardcastle</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2003/cenajet/</CreditsUrl>
@@ -5055,6 +5228,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|74"
     Xbands="XRay,Visible"
     Xcxstatus="in:6745e462ed25b6eaa0b17888"
+    Xdominant_band="XRay"
   >
     <Credits> X-ray: NASA/CXC/ESO/P.Rosati et al.; Optical: ESO/VLT/P.Rosati et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2004/rdcs1252/</CreditsUrl>
@@ -5083,6 +5257,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="chandra|92"
     Xbands="XRay,Visible"
     Xcxstatus="in:6745e468ed25b6eaa0b17896"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/MIT/UCSB/P.Ogle et al.; Optical: NASA/STScI/A.Capetti et al.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2003/ngc1068/</CreditsUrl>
@@ -5111,6 +5286,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1205a"
     Xbands="Visible,IR"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>ESO/VISTA/J. Emerson. Acknowledgment: Cambridge Astronomical Survey Unit; ESO's Visible and Infrared Survey Telescope for Astronomy (VISTA) has captured this unusual view of the Helix Nebula (NGC 7293),...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1205a/</CreditsUrl>
@@ -5139,6 +5315,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1219a"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/APEX (MPIfR/ESO/OSO)/T. Stanke et al./Igor Chekalin/Digitized Sky Survey 2; This image of the region surrounding the reflection nebula Messier 78, just to the north of Orion’s belt, shows clouds of cosmic...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1219a/</CreditsUrl>
@@ -5167,6 +5344,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1344b"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO)/NASA/ESA/I.; This image from the NASA/ESA Hubble Space Telescope shows the distant active galaxy PKG 1830-211. It shows up as an unremarkable...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1344b/</CreditsUrl>
@@ -5195,6 +5373,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1423d"
     Xbands="Visible,IR,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF); K. Sta; This image of the binary system HK Tauri combines visible light and infrared data from the NASA/ESA Hubble Space Telescope with ...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1423d/</CreditsUrl>
@@ -5223,6 +5402,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1522d"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>The NASA/ESA Hubble Space Telesc; ALMA’s Long Baseline Campaign has produced a spectacularly detailed image of a distant galaxy being gravitationally lensed, reve...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1522d/</CreditsUrl>
@@ -5251,6 +5431,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1530b"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/R. Maiolino; This view is a combination of images from ALMA and the Very Large Telescope. The central object is a very distant galaxy, labell...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1530b/</CreditsUrl>
@@ -5279,6 +5460,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1620c"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA (ESO/NAOJ/NRAO), NAOJ; Light from ionised oxygen detected by ALMA is shown in green. Light from ionised hydrogen detected by the Subaru Telescope and u...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/eso1620c/</CreditsUrl>
@@ -5307,6 +5489,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1633e"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>B. Saxton (NRAO/AUI/NSF); ALMA (; A trove of galaxies, rich in carbon monoxide (indicating star-forming potential) were imaged by ALMA (orange) in the Hubble Ultr...</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso1633e/</CreditsUrl>
@@ -5335,6 +5518,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1733h"
     Xbands="Visible,IR"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>ESO/S. Smartt &amp; T.-W. Chen; Image obtained by ESO's Gamma-ray Burst Optical/Near-infrared Detector (GROND) attached to the MPG/ESO 2.2-metre telescope at La...</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso1733h/</CreditsUrl>
@@ -5363,6 +5547,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="eso|eso1836b"
     Xbands="Visible,Radio"
     Xcxstatus="queue:eso"
+    Xdominant_band="Radio"
   >
     <Credits>ESO/Digitized Sky Survey 2. Ackn; Observations by ALMA and data from the MUSE spectrograph on ESO’s VLT have revealed a colossal fountain of molecular gas powered...</Credits>
     <CreditsUrl>https://www.eso.org/public/images/eso1836b/</CreditsUrl>
@@ -5390,6 +5575,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="Visible,IR"
     Xcxstatus="queue:eso"
+    Xdominant_band="IR"
   >
     <Credits>ESO/IDA/Danish 1.5 m/R.Gendler, J.-E. Ovaldsen, and A. Hornstrup; The Orion Nebula is arguably the finest of all nebulae within the Milky Way visible from the Northern Hemisphere. With a gaseous...</Credits>
     <CreditsUrl>http://www.eso.org/public/images/trapeziumdk15b/</CreditsUrl>
@@ -5419,6 +5605,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic0513b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, B. Mobasher ( Space T; This image demonstrates how data from two space observatories, the Spitzer and Hubble Space Telescopes, are used to identify one...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0513b/</CreditsUrl>
@@ -5448,6 +5635,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic0513c"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, B. Mobasher ( Space T; This image demonstrates how data from two space observatories, the Spitzer and Hubble Space Telescopes, are used to identify one...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0513c/</CreditsUrl>
@@ -5477,6 +5665,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic0513d"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, B. Mobasher ( Space T; This image demonstrates how data from two space observatories, the Spitzer and Hubble Space Telescopes, are used to identify one...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0513d/</CreditsUrl>
@@ -5506,6 +5695,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic0513e"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, B. Mobasher ( Space T; This image demonstrates how data from two space observatories, the Spitzer and Hubble Space Telescopes, are used to identify one...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0513e/</CreditsUrl>
@@ -5535,6 +5725,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Ultraviolet,Visible,IR"
     Xcorepipe_ids="hst|heic0710b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="Ultraviolet"
   >
     <Credits>NASA, ESA and A. Zezas (Harvard-; This image combines data from the Hubble Space Telescope, the Spitzer Space Telescope and the Galaxy Evolution Explorer (GALEX) ...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0710b/</CreditsUrl>
@@ -5564,6 +5755,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic0805g"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA; ESA; L. Bradley (Johns Hop; The distant galaxy, dubbed A1689-zD1, appears as a whitish blob in the Spitzer IRAC close-up view. The galaxy is brimming with s...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0805g/</CreditsUrl>
@@ -5593,6 +5785,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible,Radio"
     Xcorepipe_ids="hst|heic0815j"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>Photo Credit: NASA, ESA, and Z. ; This image is a composite of visible (or optical), radio, and X-ray  data of the giant elliptical galaxy, M87. M87 lies at a dis...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0815j/</CreditsUrl>
@@ -5622,6 +5815,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible"
     Xcorepipe_ids="hst|heic0818a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, CXC, M. Bradac (Unive; This astounding view of galaxy cluster MACSJ0025 demonstrates how ordinary matter and mysterious dark matter interact. The blue ...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic0818a/</CreditsUrl>
@@ -5651,6 +5845,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic1011a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA and Jesús Maíz Apell; This broad vista of young stars and gas clouds in our neighbouring galaxy, the Large Magellanic Cloud, was captured by the NASA/...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1011a/</CreditsUrl>
@@ -5680,6 +5875,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible"
     Xcorepipe_ids="hst|heic1111a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, ESO, CXC, and D. Coe ; This image combines visible light exposures of galaxy cluster Abell 2744 taken by the NASA/ESA Hubble Space Telescope and the Eu...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1111a/</CreditsUrl>
@@ -5709,6 +5905,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Ultraviolet,Visible,IR"
     Xcorepipe_ids="hst|heic1402b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="Ultraviolet"
   >
     <Credits>NASA, ESA, E. Sabbi (STScI); This new Hubble image shows a cosmic creepy-crawly known as the Tarantula Nebula in visible, infrared and ultraviolet light. Thi...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1402b/</CreditsUrl>
@@ -5738,6 +5935,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|heic1519a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA/STScI/ESA/JPL-Caltech/McGil; This image, using data from Spitzer and the Hubble Space Telescope, shows the galaxy cluster SpARCS1049....</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1519a/</CreditsUrl>
@@ -5767,6 +5965,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,Radio"
     Xcorepipe_ids="hst|heic1704c"
     Xcxstatus="queue:hubble"
+    Xdominant_band="Radio"
   >
     <Credits>ALMA: ESO/NAOJ/NRAO/A. Angelich ; Astronomers combined observations from three different observatoriesto produce this multiwavelength image of the remnants of SN ...</Credits>
     <CreditsUrl>https://esahubble.org/images/heic1704c/</CreditsUrl>
@@ -5796,6 +5995,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|opo0829b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, K. Sheth (Spitzer Sci; Barred spiral galaxy 3127341 is located 2.1 billion light-years away from Earth. The galaxy is part of a landmark study of more ...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0829b/</CreditsUrl>
@@ -5825,6 +6025,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|opo0829d"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, K. Sheth (Spitzer Sci; Barred spiral galaxy 1161898 is located 5.3 billion light-years away from Earth.  The galaxy is part of a landmark study of more...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0829d/</CreditsUrl>
@@ -5854,6 +6055,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|opo0829e"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, K. Sheth (Spitzer Sci; Barred spiral galaxy 2607238 is located 6.4 billion light-years away from Earth. The galaxy is part of a landmark study of more ...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0829e/</CreditsUrl>
@@ -5883,6 +6085,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible,IR"
     Xcorepipe_ids="hst|opo0907c"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, CXC, SSC and STScI; The red colour is Spitzer's view in infared light. Most of this  light comes the galaxy's delicate dust lanes. Such dense dust  ...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0907c/</CreditsUrl>
@@ -5912,6 +6115,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible,IR"
     Xcorepipe_ids="hst|opo0928b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, SSC, CXC and STScI; In celebration of the International Year of Astronomy 2009, the NASA/ESA Hubble Space Telescope and its companion Great Observat...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0928b/</CreditsUrl>
@@ -5941,6 +6145,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|opo0928e"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, Q.D. Wang (Univ. of M; Although best known for its visible-light images, the Hubble Space Telescope also observes over a limited range of infrared ligh...</Credits>
     <CreditsUrl>https://esahubble.org/images/opo0928e/</CreditsUrl>
@@ -5970,6 +6175,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|potw1125a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Hubble &amp; NASA; In this NASA/ESA Hubble Space Telescope image of NGC 7479 — created from observations at visible and near-infrared wavelengths —...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1125a/</CreditsUrl>
@@ -5999,6 +6205,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible,Radio"
     Xcorepipe_ids="hst|potw1611a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>NASA, ESA, CXC, NRAO/AUI/NSF, ST;   In October of 2013 Hubble kicked off the Frontier Fields programme, a three-year series of observations aiming to produce the ...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1611a/</CreditsUrl>
@@ -6028,6 +6235,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Visible,Radio"
     Xcorepipe_ids="hst|potw1612a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>  NASA, ESA, CXC, NRAO/AUI/NSF, ; At first glance, this cosmic kaleidoscope of purple, blue and pink offers a strikingly beautiful — and serene — snapshot of the ...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1612a/</CreditsUrl>
@@ -6057,6 +6265,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,Radio"
     Xcorepipe_ids="hst|potw1720b"
     Xcxstatus="queue:hubble"
+    Xdominant_band="Radio"
   >
     <Credits>NRAO/AUI/NSF; The Karl G. Jansky Very Large Array (VLA) observed the Crab Nebula, a supernova remnant located 6500 light-years from Earth, at ...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1720b/</CreditsUrl>
@@ -6086,6 +6295,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|potw1720c"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>JPL/Caltech; NASA’s Spitzer Space Telescope observed the Crab Nebula, a supernova remnant located 6500 light-years from Earth, in the infrare...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1720c/</CreditsUrl>
@@ -6115,6 +6325,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="XRay,Ultraviolet"
     Xcorepipe_ids="hst|potw1720e"
     Xcxstatus="queue:hubble"
+    Xdominant_band="XRay"
   >
     <Credits>ESA; ESA’s XMM-Newton telescope observed the Crab Nebula, a supernova remnant located 6500 light-years from Earth, in the ultraviolet...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1720e/</CreditsUrl>
@@ -6144,6 +6355,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xbands="Visible,IR"
     Xcorepipe_ids="hst|potw1919a"
     Xcxstatus="queue:hubble"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Hubble &amp; NASA, B. Lehmer et ; NGC 3384, visible in this image, has many of the features characteristic of so-called elliptical galaxies. Such galaxies glow di...</Credits>
     <CreditsUrl>https://esahubble.org/images/potw1919a/</CreditsUrl>
@@ -6172,6 +6384,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig06-005"
     Xbands="Ultraviolet,IR"
     Xcxstatus="in:64b744b9a15b29de42b30615"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/P. N. Appleton ; This multi-wavelength composite image shows the Cartwheel galaxy as seen by the Galaxy Evolution Explorer's Far Ultraviolet dete...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-005-cartwheel-galaxy-makes-waves</CreditsUrl>
@@ -6200,6 +6413,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig06-010"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:64b74309a15b29de42b30521"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/STScI/CXC/UofA/; NASA's Spitzer, Hubble, and Chandra space observatories teamed up to create this multi-wavelength view of the M82 galaxy. The li...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-010-m82-great-observatories-present-rainbow-of-a-galaxy</CreditsUrl>
@@ -6228,6 +6442,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig06-028"
     Xbands="XRay,IR"
     Xcxstatus="in:64b741fda15b29de42b304bb"
+    Xdominant_band="IR"
   >
     <Credits>X-Ray: NASA/CXC/J.Hester (ASU); ; According to the folklore of the Celts and other ancient cultures, Halloween marked the midpoint between the autumnal equinox an...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig06-028-nasas-great-observatory-view-of-the-crab-nebula</CreditsUrl>
@@ -6256,6 +6471,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig07-017"
     Xbands="XRay,IR"
     Xcxstatus="in:64bb0fe9d87c275bcc5875c7"
+    Xdominant_band="IR"
   >
     <Credits>NASA/CXC/J. Forbrich (CfA), NASA; While perhaps not quite as well known as its star-formation cousin Orion, the Corona Australis region (containing, at its heart,...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig07-017-the-coronet-cluster-in-x-ray-and-infrared</CreditsUrl>
@@ -6284,6 +6500,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-005"
     Xbands="Visible,IR"
     Xcxstatus="in:64b733e7a15b29de42b3047c"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/Subaru/C. Papov; A surprisingly large collections of galaxies (red dots) stands out at a remarkably large distance in this composite image combin...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-005-galactic-metropolis</CreditsUrl>
@@ -6312,6 +6529,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-010a"
     Xbands="Visible,IR"
     Xcxstatus="in:64b7432aa15b29de42b30565"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/; This visible-light view of the sky highlights the bright M17 nebula, as well as the glowing hot gas filling the "bubble" to its ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-010a-visible-light-view-of-the-m17-nebula</CreditsUrl>
@@ -6340,6 +6558,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-017"
     Xbands="XRay,IR"
     Xcxstatus="in:64b749c2a15b29de42b30694"
+    Xdominant_band="IR"
   >
     <Credits>NASA/CXC/SAO/JPL-Caltech/STScI; A new image of two tangled galaxies has been released by NASA's Great Observatories. The Antennae galaxies, located about 62 mil...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-017-takes-two-antenna-galaxies-to-tangle</CreditsUrl>
@@ -6368,6 +6587,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-023a"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744aba15b29de42b305f7"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/H. Inami (SSC/C; AA brilliant burst of star formation is revealed in this image combining observations from NASA's Spitzer and Hubble Space Teles...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-023a-shrouded-starburst-in-the-galaxy-merger-ii-zw-096</CreditsUrl>
@@ -6396,6 +6616,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-023b"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744aca15b29de42b305f9"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/H. Inami (SSC/C; The merging galaxies known collectively as II Zw 096 are shown in this image from NASA's Hubble Space Telescope. This rendering ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-023b-hubble-view-of-galaxy-merger-ii-zw-096</CreditsUrl>
@@ -6424,6 +6645,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig10-025"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74012a15b29de42b3048e"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/J. Turner (UCLA; Maffei 2 is the poster child for an infrared galaxy that is almost invisible to optical telescopes. Foreground dust clouds in th...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig10-025-maffei-2-the-hidden-galaxy</CreditsUrl>
@@ -6452,6 +6674,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig12-004"
     Xbands="XRay,IR"
     Xcxstatus="in:64b74207a15b29de42b304cb"
+    Xdominant_band="IR"
   >
     <Credits>X-ray: NASA/CXC/PSU/L.Townsley e; This composite of 30 Doradus, aka the Tarantula Nebula, contains data from Chandra (blue), Hubble (green), and Spitzer (red).  L...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig12-004-a-new-view-of-the-tarantula-nebula</CreditsUrl>
@@ -6480,6 +6703,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig12-005"
     Xbands="XRay,Ultraviolet,Visible,IR"
     Xcxstatus="in:64b7431ba15b29de42b30549"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CXC, JPL, Caltech and; This image of the Pinwheel Galaxy, or M101, combines data in the infrared, visible, ultraviolet and x-rays from four of NASAs sp...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig12-005-a-pinwheel-galaxy-rainbow</CreditsUrl>
@@ -6508,6 +6732,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig12-006b"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74300a15b29de42b3050d"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech; This ball of glowing gas is known as the Eskimo Nebula, or NGC 2392. It is found in the constellation Gemini and is about 3,000 ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig12-006b-ngc-2392</CreditsUrl>
@@ -6536,6 +6761,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig12-009"
     Xbands="XRay,IR"
     Xcxstatus="in:64b74207a15b29de42b304cd"
+    Xdominant_band="IR"
   >
     <Credits>X-ray: NASA/CXC/U.Mich./S.Oey, I; The star cluster NGC 1929 contains massive stars that produce intense radiation, expel matter at high speeds, and race through t...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig12-009-a-surprisingly-bright-superbubble</CreditsUrl>
@@ -6564,6 +6790,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig12-012"
     Xbands="XRay,IR"
     Xcxstatus="in:64b744ada15b29de42b305fb"
+    Xdominant_band="IR"
   >
     <Credits>X-ray: NASA/CXC/SAO/J.Drake et a; The Milky Way and other galaxies in the universe harbor many young star clusters and associations that each contain hundreds to ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig12-012-probing-a-nearby-stellar-cradle</CreditsUrl>
@@ -6592,6 +6819,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig13-016"
     Xbands="IR,Radio"
     Xcxstatus="in:64b74305a15b29de42b30517"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/ALMA; Combined observations from NASA's Spitzer Space Telescope and the newly completed Atacama Large Millimeter/submillimeter Array (...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig13-016-bubbly-newborn-star</CreditsUrl>
@@ -6620,6 +6848,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig14-020"
     Xbands="XRay,IR"
     Xcxstatus="in:64b749c6a15b29de42b3069c"
+    Xdominant_band="IR"
   >
     <Credits>NASA/CXC/JPL-Caltech/STScI/NSF/N; A galaxy about 23 million light-years away is the site of impressive, ongoing, fireworks. Rather than paper, powder, and fire, t...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig14-020-galactic-pyrotechnics-on-display</CreditsUrl>
@@ -6648,6 +6877,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig14-022"
     Xbands="XRay,IR"
     Xcxstatus="in:64b74306a15b29de42b30519"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/JPL-Caltech/GSFC/IAFE; The destructive results of a mighty supernova explosion reveal themselves in a delicate blend of infrared and X-ray light, as se...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig14-022-supernova-seen-in-two-lights</CreditsUrl>
@@ -6676,6 +6906,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig14-029a"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74492a15b29de42b305c1"
+    Xdominant_band="IR"
   >
     <Credits>NASA/CFHT/NRAO/JPL-Caltech/Duc/C; A new feature in the evolution of galaxies has been captured in this image of galactic interactions. The two galaxies seen here ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig14-029a-a-flood-of-gas</CreditsUrl>
@@ -6704,6 +6935,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|sig15-013"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744caa15b29de42b30639"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/Gemini/CARMA; The galaxy cluster called MOO J1142+1527 can be seen here as it existed when light left it 8.5 billion years ago. The red galaxi...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/sig15-013-a-giant-gathering-of-galaxies</CreditsUrl>
@@ -6732,6 +6964,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2003-06a2"
     Xbands="Visible,IR"
     Xcxstatus="in:656d5501f86417282376492f"
+    Xdominant_band="IR"
   >
     <Credits>Canada-France-Hawaii Telescope /; This image shows a visible light view of the Elephant's Trunk Nebula, an elongated dark globule within the emission nebula IC 13...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06a2-dark-globule-in-ic-1396</CreditsUrl>
@@ -6760,6 +6993,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2003-06b2"
     Xbands="Visible,IR"
     Xcxstatus="in:656d5503f864172823764933"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/W. Reach (SSC/C; This NASA Spitzer Space Telescope image reveals a glowing stellar nursery within a dark globule that is opaque in visible light....</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06b2-spitzer-mips-24-micron-image-of-a-dark-globule-in-ic-1396</CreditsUrl>
@@ -6788,6 +7022,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2003-06d2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74311a15b29de42b30531"
+    Xdominant_band="IR"
   >
     <Credits>N.A. Sharp (NOAO/AURA/NSF) ; This image shows a visible-light view of the nearby galaxy Messier 81 (M81).  Located in the northern constellation of Ursa Majo...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06d2-visible-light-view-of-messier-81</CreditsUrl>
@@ -6816,6 +7051,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2003-06f2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74315a15b29de42b3053b"
+    Xdominant_band="IR"
   >
     <Credits>Digitized Sky Survey; Visible light view of a dark cloud (known as a 'Bok globule') which is illuminated by the nearby Gum Nebula. Located at a distan...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2003-06f2-bok-globule-containing-hh-46-47</CreditsUrl>
@@ -6844,6 +7080,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2004-04a2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b742eca15b29de42b304e1"
+    Xdominant_band="IR"
   >
     <Credits>NOAO; This image shows a visible-light view of the emission nebula, Henize 206, which lies within the Large Magellanic Cloud (LMC). Th...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-04a2-visible-light-image-of-henize-206</CreditsUrl>
@@ -6872,6 +7109,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2004-06a1"
     Xbands="IR,Radio"
     Xcxstatus="in:64b744aea15b29de42b305fd"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/A. Marston (EST; Hidden behind a shroud of dust in the constellation Cygnus is an exceptionally bright source of radio emission called DR21. Visi...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-06a1-spitzer-irac-view-of-star-formation-in-the-dr21-region</CreditsUrl>
@@ -6900,6 +7138,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2004-14a3"
     Xbands="Visible,IR"
     Xcxstatus="in:64b749c8a15b29de42b306a2"
+    Xdominant_band="IR"
   >
     <Credits>M. Rushing/NOAO; This visible-light view of The Antennae Galaxies, a pair of interacting galaxies in the constellation Corvus, shows the dust clo...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-14a3-visible-light-view-of-the-antennae-galaxies</CreditsUrl>
@@ -6928,6 +7167,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2004-15a1"
     Xbands="XRay,IR"
     Xcxstatus="in:64bb0fe5d87c275bcc5875bf"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/R. Sankrit and W. Blair; NASA's three Great Observatories -- the Hubble Space Telescope, the Spitzer Space Telescope, and the Chandra X-ray Observatory -...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-15a1-composite-view-of-keplers-supernova-remnant-sn-1604</CreditsUrl>
@@ -6955,6 +7195,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74474a15b29de42b3057f"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/H. Kobulnicky (; This image mosaic shows the same patch of sky in various wavelengths of light. While the visible-light image (left) shows a dark...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-16b-galactic-fossil-found-behind-curtain-of-dust</CreditsUrl>
@@ -6983,6 +7224,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2004-19a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b7449fa15b29de42b305db"
+    Xdominant_band="IR"
   >
     <Credits>DSS; This visible light view of the spiral galaxy M51 comes from the Kitt Peak National Observatory 2.1m telescope, and measures 9.9 ...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2004-19a1-visible-light-view-of-the-spiral-galaxy-m51-whirlpool-galaxy</CreditsUrl>
@@ -7011,6 +7253,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2005-14c1"
     Xbands="XRay,Visible,IR"
     Xcxstatus="in:656d5506f86417282376493b"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/O. Krause (Stew; This stunning multi-mission picture shows off the many sides of the supernova remnant Cassiopeia A. It is made up of images take...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2005-14c1-hubble-spitzer-and-chandra-image-of-cassiopeia-a</CreditsUrl>
@@ -7039,6 +7282,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2006-01b1"
     Xbands="Visible,IR"
     Xcxstatus="in:656d5508f86417282376493f"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/ESA/J. Hora (Ha; Six hundred and fifty light-years away in the constellation Aquarius, a dead star about the size of Earth, is refusing to fade a...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-01b1-spitzer-and-hubble-view-of-the-helix-nebula</CreditsUrl>
@@ -7067,6 +7311,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2006-09a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74316a15b29de42b3053d"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/C. Engelbracht ; This image shows an infrared view from NASA's Spitzer Space Telescope of the galaxy Messier 82. A visible-light picture of the "...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-09a1-spitzer-unveils-a-cosmic-cigar-messier-82</CreditsUrl>
@@ -7095,6 +7340,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2006-11b1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b742fea15b29de42b30509"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA/JPL-Caltech/STScI/D. E; These shape-shifting galaxies have taken on the form of a giant mask. The icy blue eyes are actually the cores of two merging ga...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-11b1-spitzer-and-hubble-view-of-ngc-2207-and-ic-2163</CreditsUrl>
@@ -7123,6 +7369,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2006-21a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b742f3a15b29de42b304f1"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/T. Megeath (Uni; NASA's Spitzer and Hubble Space Telescopes have teamed up to expose the chaos that baby stars are creating 1,500 light-years awa...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2006-21a1-orion-nebula</CreditsUrl>
@@ -7151,6 +7398,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2007-10a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744a0a15b29de42b305df"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/L. Jenkins (GSF; This mosaic of the central region of the Coma cluster combines infrared and visible-light images to reveal thousands of faint ob...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2007-10a1-dwarf-galaxies-in-the-coma-cluster</CreditsUrl>
@@ -7179,6 +7427,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2008-17a1"
     Xbands="XRay,IR"
     Xcxstatus="in:64b744c3a15b29de42b3062b"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/XMM/NTT/MPIA; This painterly portrait of a star-forming cloud, called NGC 346, is a combination of multiwavelength light from NASA's Spitzer S...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2008-17a1-stellar-work-of-art</CreditsUrl>
@@ -7206,6 +7455,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="XRay,IR"
     Xcxstatus="in:64bb0fedd87c275bcc5875d1"
+    Xdominant_band="IR"
   >
     <Credits>NASA/CXC/JPL-Caltech/Harvard-Smi; A composite image from NASA's Chandra (blue) and Spitzer (green and  red-yellow) space telescopes shows the dusty remains of a c...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2010-04a-dusty-dead-star</CreditsUrl>
@@ -7234,6 +7484,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2011-03a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744b5a15b29de42b3060b"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/L. Rebull (SSC/; This swirling landscape of stars is known as the North America nebula. In visible light, the region resembles North America, but...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2011-03a1-an-extended-stellar-family</CreditsUrl>
@@ -7262,6 +7513,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2011-03a2"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744b6a15b29de42b3060d"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/L. Rebull (SSC/; This swirling landscape of stars is known as the North America nebula. In visible light, the region resembles North America, but...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2011-03a2-the-case-of-the-disappearing-continent</CreditsUrl>
@@ -7290,6 +7542,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2011-03a3"
     Xbands="Visible,IR"
     Xcxstatus="in:64b741f0a15b29de42b3049f"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/L. Rebull (SSC/; This new view of the North America nebula combines both visible and infrared light observations, taken by the Digitized Sky Surv...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2011-03a3-north-america-nebula-in-different-lights</CreditsUrl>
@@ -7318,6 +7571,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2012-12a1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744cba15b29de42b3063d"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/STScI/W. Zheng (JHU), a; With the combined power of NASA's Spitzer and Hubble space telescopes, as well as a cosmic magnification effect, astronomers hav...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2012-12a1-galaxy-cluster-and-gravitational-lens-macs-j1149-2223</CreditsUrl>
@@ -7345,6 +7599,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b744cca15b29de42b3063f"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/STScI/W. Zheng (JHU), a; With the combined power of NASA's Spitzer and Hubble space telescopes, as well as a cosmic magnification effect, astronomers hav...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2012-12a3-the-distant-galaxy-macs-1149-jd</CreditsUrl>
@@ -7372,6 +7627,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     WidthFactor="1"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74495a15b29de42b305c7"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/STScI/JPL-Caltech/McGil; A massive cluster of galaxies, called SpARCS1049+56, can be seen in this multi-wavelength view from NASA's Hubble and Spitzer sp...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2015-03a-what-feeds-the-beast-in-a-galaxy-cluster-annotated</CreditsUrl>
@@ -7400,6 +7656,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2015-03b"
     Xbands="Visible,IR"
     Xcxstatus="in:64b74496a15b29de42b305c9"
+    Xdominant_band="IR"
   >
     <Credits>NASA/ESA/STScI/JPL-Caltech/McGil; A massive cluster of galaxies, called SpARCS1049+56, can be seen in this multi-wavelength view from NASA's Hubble and Spitzer sp...</Credits>
     <CreditsUrl>https://www.spitzer.caltech.edu/image/ssc2015-03b-what-feeds-the-beast-in-a-galaxy-cluster</CreditsUrl>
@@ -7428,6 +7685,7 @@ and optical data from Hubble (red, green, blue). The tw...</Credits>
     Xastropix_ids="spitzer|ssc2018-16a"
     Xbands="XRay,IR,Radio"
     Xcxstatus="in:64bb0feed87c275bcc5875d3"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/CXC/ESA/NRAO/J.; This image of supernova remnant G54.1+0.3 includes radio, infrared and X-ray light.
 
@@ -7458,6 +7716,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2010-041b"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45de1e6961df10c19585"
+    Xdominant_band="IR"
   >
     <Credits>Caltech/Palomar; This visible-light image is from the Digitized Sky Survey, based at the Space Telescope Science Institute in Baltimore, Md. The ...</Credits>
     <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
@@ -7486,6 +7745,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2011-003"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45ca1e6961df10c19555"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The blue star near the center of this image is Zeta Ophiuchi. When seen in visible light it appears as a relatively dim red star...</Credits>
     <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
@@ -7514,6 +7774,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2011-014"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45ce1e6961df10c1955f"
+    Xdominant_band="IR"
   >
     <Credits>Spitzer Science Center; In the Perseus spiral arm of the Milky Way Galaxy, opposite the galactic center, lies the nebula SH 2-235. As seen in visible li...</Credits>
     <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
@@ -7542,6 +7803,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2011-020f"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45c11e6961df10c19540"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/UCLA; This fuzzy-looking galaxy is a flocculent, or patchy, spiral. It is largely veiled by gas and dust at visible-light wavelengths,...</Credits>
     <CreditsUrl>http://wise.astro.ucla.edu</CreditsUrl>
@@ -7570,6 +7832,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2011-029"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45d21e6961df10c1956a"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/UCLA
 ; In visible light, the star-forming cloud catalogued as NGC 281 in the constellation of Cassiopeia appears to be chomping through...</Credits>
@@ -7599,6 +7862,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="wise|WISE2012-004"
     Xbands="Visible,IR"
     Xcxstatus="in:649e45cc1e6961df10c1955b"
+    Xdominant_band="IR"
   >
     <Credits>NASA/JPL-Caltech/UCLA; The Flame Nebula sits on the eastern hip of Orion the Hunter, a constellation most easily visible in the northern hemisphere dur...</Credits>
     <CreditsUrl>http://wise.ssl.berkeley.edu/gallery_FlameNebula2.html</CreditsUrl>
@@ -7629,6 +7893,7 @@ The saturated yellow point at the center ...</Credits>
     Xastropix_ids="chandra|395"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6745e46ced25b6eaa0b1789e"
+    Xdominant_band="XRay"
   >
     <Credits>Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT; Optical: NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
 This composite shows a classic example of a mixed-morphology supernova remnant known as W28. The background stars and fine structure are seen in optical light (grey and white) by CTIO. The radio (orange) data are from the VLA, while the wide-field X-rays (blue) come from the ROSAT satellite. The white-bordered region of the center from Chandra (low-energy X-rays are red, the medium are green, and the high range is blue) shows the shape and extent of the high-energy emission in that region. By studying W28 and others like it, astronomers hope to better understand the complexities involved when a star explodes in a crowded neighborhood.</Credits>
@@ -7659,6 +7924,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,IR,Radio"
     Xcxstatus="in:6745e46fed25b6eaa0b178a4"
+    Xdominant_band="XRay"
   >
     <Credits>2MASS/UMass/IPAC-Caltech/NASA/NSF/CfA/E.Bressert. This panoramic image from the Two Micron All Sky Survey (2MASS), covering about 3 degrees by about 2 degrees, shows the central region of the Milky Way galaxy. The Galactic center is the bright red spot in the upper right side of the image. The Chandra and VLA composite image of G1.9+0.3 is shown in the lower left. The plane of the galaxy runs from the Galactic center to approximately the lower left corner of the image.</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/g19/more.html#img6b</CreditsUrl>
@@ -7688,6 +7954,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6745e470ed25b6eaa0b178a8"
+    Xdominant_band="XRay"
   >
     <Credits>Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT; Optical: NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
 </Credits>
@@ -7716,6 +7983,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6745e471ed25b6eaa0b178aa"
+    Xdominant_band="XRay"
   >
     <Credits>Chandra X-ray: NASA/CXC/HSC/J. Keohane et al.; ROSAT X-ray: NASA/ROSAT; Optical: NOAO/CTIO/P.F. Winkler et al.; Radio: NSF/NRAO/VLA/G. Dubner et al.
 </Credits>
@@ -7747,6 +8015,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     Xastropix_ids="chandra|400"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6745e472ed25b6eaa0b178ac"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/W. Forman et al.; Radio: NRAO/AUI/NSF/W. Cotton; Optical: NASA/ESA/Hubble Heritage Team (STScI/AURA), and R. Gendler. This image is a composite of visible (or optical), radio, and X-ray data of the giant elliptical galaxy, M87. M87 lies at a distance of 60 million light years and is the largest galaxy in the Virgo cluster of galaxies</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/m87/</CreditsUrl>
@@ -7776,6 +8045,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,Radio"
     Xcxstatus="in:6745e473ed25b6eaa0b178ae"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio (NSF/NRAO/VLA/Cambridge/D.Green et al.) This composite image of the supernova remnant G1.9+0.3 combines the Chandra X-ray Observatory image taken in 2007 (orange) with the Very Large Array radio image taken in 1985 (blue) and 2008 (yellow). The difference in size between the images gives clear evidence for expansion, allowing the age of the remnant and the time since the original supernova explosion (about 140 years) to be estimated. </Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2008/g19/more.html#img8</CreditsUrl>
@@ -7805,6 +8075,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,Visible,IR,Radio"
     Xcxstatus="in:6745e477ed25b6eaa0b178b8"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/CfA/R.Kraft et al; Radio: NSF/VLA/Univ.Hertfordshire/M.Hardcastle; Optical: ESO/VLT/ISAAC/M.Rejkuba et al. These multiwavelength images show the galaxy Centaurus A. Pictured: the radio image from the Very Large Array, the optical image from the ESO's Wide-Field Imager (WFI) camera at the ESO/MPG 2.2-m telescope on La Silla, Chile, and a combined X-ray, optical and radio version.
 </Credits>
@@ -7835,6 +8106,7 @@ This composite shows a classic example of a mixed-morphology supernova remnant k
     WidthFactor="2"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6745e479ed25b6eaa0b178ba"
+    Xdominant_band="XRay"
   >
     <Credits> X-ray (NASA/CXC/NCSU/S.Reynolds et al.); Radio (NSF/NRAO/VLA/Cambridge/D.Green et al.)
 A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra X-ray Observatory and the Very Large Array shows the remains of the supernova remnant G1.9+0.3. By comparing the images that were obtained over 20 years apart, scientists can determine how quickly it is expanding and therefore when its progenitor exploded. G1.9+0.3 was created about 140 years ago, making it the most recent supernova in the Milky Way. It was not detected in optical light because it is near the center of the Galaxy and obscured by gas and dust</Credits>
@@ -7864,6 +8136,7 @@ A composite image of X-ray (orange) and radio (blue) data from NASA’s Chandra 
     Xastropix_ids="chandra|401"
     Xbands="XRay,Visible,Radio"
     Xcxstatus="in:6559a4ed8a2fdcee25a05723"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/IoA/A.Fabian et al.; Radio: NRAO/VLA/G. Taylor; Optical: NASA/ESA/Hubble Heritage (STScI/AURA) &amp; Univ. of Cambridge/IoA/A. Fabian
 The active galaxy NGC 1275 lies at the center of the cluster of galaxies known as the Perseus Cluster. By combining multi-wavelength images into a single composite, the dynamics of the galaxy are more easily visible. In this composite image, X-rays from Chandra are shown in violet and reveal the presence of a black hole at the center of NGC 1275. Optical data from Hubble is depicted in red, green, and blue, and radio emission in pink traces the jets generated from the central black hole.</Credits>
@@ -7894,6 +8167,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="XRay,Ultraviolet,Visible,IR"
     Xcxstatus="in:6559a4ee8a2fdcee25a05725"
+    Xdominant_band="XRay"
   >
     <Credits>X-ray: NASA/CXC/Wisconsin/D.Pooley &amp; CfA/A.Zezas; Optical: NASA/ESA/CfA/A.Zezas; UV: NASA/JPL-Caltech/CfA/J.Huchra et al.; IR: NASA/JPL-Caltech/CfA. This composite NASA image of the spiral galaxy M81, located about 12 million light years away, includes X-ray data from the Chandra X-ray Observatory (blue), optical data from the Hubble Space Telescope (green), infrared data from the Spitzer Space Telescope (pink) and ultraviolet data from GALEX (purple). At the center of M81 is a supermassive black hole that is about 70 million times more massive than the Sun.
 </Credits>
@@ -7924,6 +8198,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, Rogier Windhorst (ASU), William Keel (University of Alabama), Stuart Wyithe (University of Melbourne), JWST PEARLS Team, Alyssa Pagan (STScI)</Credits>
     <CreditsUrl>https://esawebb.org/images/VV191a/</CreditsUrl>
@@ -7952,6 +8227,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST and PHANGS-HST Teams</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2209a/</CreditsUrl>
@@ -7980,6 +8256,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST and PHANGS-HST Teams</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2209b/</CreditsUrl>
@@ -8008,6 +8285,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, J. Lee and the PHANGS-JWST and PHANGS-HST Teams</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2209c/</CreditsUrl>
@@ -8037,6 +8315,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Ultraviolet,Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, A. Leroy</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2411a/</CreditsUrl>
@@ -8065,6 +8344,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR,Radio"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, A. Leroy</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2412a/</CreditsUrl>
@@ -8093,6 +8373,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="XRay,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2504a/</CreditsUrl>
@@ -8121,6 +8402,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="XRay,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, G. Gozaliasl, A. Koekemoer, M. Franco, and the COSMOS-Web team</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2504b/</CreditsUrl>
@@ -8149,6 +8431,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, M. Villenave et al.</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2508a/</CreditsUrl>
@@ -8178,6 +8461,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="IR,Radio"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, M. Villenave et al.</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2508b/</CreditsUrl>
@@ -8207,6 +8491,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR,Radio"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, ESA/Hubble, ALMA (ESO/NAOJ/NRAO), M. Villenave</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2603b/</CreditsUrl>
@@ -8236,6 +8521,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, ESA/Hubble, G. Duchêne</Credits>
     <CreditsUrl>https://esawebb.org/images/potm2603c/</CreditsUrl>
@@ -8264,6 +8550,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, STScI</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2426a/</CreditsUrl>
@@ -8293,6 +8580,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="IR,Radio"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, M. Matsuura, ALMA (ESO/NAOJ/NRAO), N. Hirano, M. Zamani (ESA/Webb)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2517b/</CreditsUrl>
@@ -8321,6 +8609,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>ESA/Webb, NASA &amp; CSA, K. Noll, J. Kastner, M. Zamani (ESA/Webb)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2517d/</CreditsUrl>
@@ -8349,6 +8638,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, STScI, G. Zullo (University of Bologna), F. R. Ferraro (University of Bologna). Image Processing: A. Pagan (STScI)</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2611a/</CreditsUrl>
@@ -8378,6 +8668,7 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     WidthFactor="2"
     Xbands="Visible,IR"
     Xcxstatus="queue:jwst"
+    Xdominant_band="IR"
   >
     <Credits>NASA, ESA, CSA, A. Smercina (STScI), T. Williams (University of Manchester). Image processing: A. Pagan (STScI).</Credits>
     <CreditsUrl>https://esawebb.org/images/weic2612a/</CreditsUrl>
