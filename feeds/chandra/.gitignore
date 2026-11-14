@@ -1,0 +1,12 @@
+# working state (large / regenerable); the tracked parts are the config, wcs/ sidecars and _assessment/
+_hold_nowcs/
+cache_failed/
+on-hold/
+_merge/
+_localstore/
+_*.log
+_*.out
+_ids*.txt
+_fetch_retry*.txt
+_mh_ids.txt
+_*_ids.txt

@@ -42,3 +42,12 @@ def _load_djangoplicity_image_source_class():
 
 
 IMAGE_SOURCE_CLASS_LOADERS["djangoplicity"] = _load_djangoplicity_image_source_class
+
+
+def _load_chandra_image_source_class():
+    from .chandra import ChandraImageSource
+
+    return ChandraImageSource
+
+
+IMAGE_SOURCE_CLASS_LOADERS["chandra"] = _load_chandra_image_source_class
