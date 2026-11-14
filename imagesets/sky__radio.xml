@@ -2809,4 +2809,64 @@
     <CreditsUrl>https://www.eso.org/public/images/galactic_center_hi/</CreditsUrl>
     <ThumbnailUrl>http://wwtfiles.blob.core.windows.net/vamp/thumb-ESO-galactic_center_hi.jpg</ThumbnailUrl>
   </ImageSet>
+  <ImageSet
+    BandPass="Radio"
+    BaseDegreesPerTile="0.382147705141248"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="201.3654175"
+    CenterY="-43.0188942"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Centaurus A in Radio"
+    OffsetX="4.664888978775e-05"
+    OffsetY="4.664888978775e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="https://data1.wwtassets.org/feeds/nrao/nrao20-cena-radio/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="nrao|nrao20-cena-radio"
+    Xcxstatus="skip"
+  >
+    <Credits>NRAO/AUI/NSF/Univ.Hertfordshire/M.Hardcastle</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/centaurus-a-in-radio/</CreditsUrl>
+    <Description>An active galaxy at a distance of 10 million light years from Earth, imaged by the Very Large Array at 4.9 GHz.</Description>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/nrao/nrao20-cena-radio/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Radio"
+    BaseDegreesPerTile="4.276399288319938"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="148.888221"
+    CenterY="69.065295"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="M81 Group in Radio"
+    OffsetX="0.004875105744667251"
+    OffsetY="-0.008120808162825297"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.036462379730000105"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/{1}/{3}/{3}_{2}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="nrao|nrao20-m81-hi"
+    Xcxstatus="skip"
+  >
+    <Credits>Chynoweth et al., NRAO/AUI/NSF</Credits>
+    <CreditsUrl>https://public.nrao.edu/gallery/m81-in-radio/</CreditsUrl>
+    <Description>Hydrogen gas in the M81 Group of galaxies, 11.8 million light-years from Earth. Hydrogen detected by the Green Bank Telescope is colored red, including five newly discovered clouds; hydrogen detected earlier by the Very Large Array is green. The galaxies are interacting gravitationally with each other, as shown clearly by the gas streaming among them. The newly-discovered gas clouds, each containing from 14 to 57 million times the mass of our Sun, are likely remnants of earlier interactions among the galaxies.</Description>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
 </Folder>

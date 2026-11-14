@@ -2539,3 +2539,17 @@ name: Wolf-Rayet Apep (MIRI Image)
 ra_hr: 16.014016711779075
 thumbnail: https://data1.wwtassets.org/feeds/jwst/wolf-rayet-apep/thumb.jpg
 zoom_level: 0.1987192047475505
+---
+_uuid: a6bf0aaf-35f1-467d-90b9-eaab3b9f2a51
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.287632653289412
+description: VLA image of Fast Radio Burst FRB 190520 (red), combined with optical
+  image, when the FRB is bursting.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/nrao/nrao21df05b/{1}/{3}/{3}_{2}.png
+name: FRB 20190520B and its host galaxy
+ra_hr: 16.034286371948873
+thumbnail: https://data1.wwtassets.org/feeds/nrao/nrao21df05b/thumb.jpg
+zoom_level: 0.0910022464818149

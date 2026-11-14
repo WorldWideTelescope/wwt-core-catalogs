@@ -3036,3 +3036,22 @@ name: M82 (Webb NIRCam image)
 ra_hr: 9.931948842466463
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612e/thumb.jpg
 zoom_level: 1.049876132071117
+---
+_uuid: eda99bef-2631-4171-aa8a-d910ee0b1c2d
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 69.0571705503038
+description: Hydrogen gas in the M81 Group of galaxies, 11.8 million light-years from
+  Earth. Hydrogen detected by the Green Bank Telescope is colored red, including five
+  newly discovered clouds; hydrogen detected earlier by the Very Large Array is green.
+  The galaxies are interacting gravitationally with each other, as shown clearly by
+  the gas streaming among them. The newly-discovered gas clouds, each containing from
+  14 to 57 million times the mass of our Sun, are likely remnants of earlier interactions
+  among the galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/{1}/{3}/{3}_{2}.png
+name: M81 Group in Radio
+ra_hr: 9.92497309126867
+thumbnail: https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/thumb.jpg
+zoom_level: 30.669801145919557
