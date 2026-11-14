@@ -3356,43 +3356,6 @@ ra_hr: 10.229737934031025
 thumbnail: https://data1.wwtassets.org/feeds/hst/potw2315a/thumb.jpg
 zoom_level: 0.21408476929226622
 ---
-_uuid: 20c32173-f925-43f5-80bd-b39e42926622
-classification: ''
-constellation: LEO
-data_set_type: Sky
-dec_deg: 17.15408234460629
-description: 'The irregular galaxy Arp 263 lurks in the background of this image from
-  the NASA/ESA Hubble Space Telescope, but the view is dominated by a stellar photobomber;
-  the bright star BD+17 2217. Arp 263 — also known as NGC 3239 — is a patchy, irregular
-  galaxy studded with regions of recent star formation, and astronomers believe that
-  its ragged appearance is due to its having formed from the merger of two galaxies.
-  It lies around 25 million light-years away in the constellation Leo. Two different
-  Hubble investigations into Arp 263, using two of Hubble’s third-generation instruments,
-  contributed data to this image. The first investigation was part of an effort to
-  observe the sites of recent supernovae, such as the supernova SN 2012A that was
-  detected just over a decade ago in Arp 263. Astronomers used Hubble’s powerful Wide
-  Field Camera 3 to search for lingering remnants of the colossal stellar explosion.
-  The second investigation is part of a campaign using Hubble’s Advanced Camera for
-  Surveys to image all the previously unobserved peculiar galaxies in the Arp catalogue,
-  including Arp 263, in order to find promising subjects for further study using the
-  NASA/ESA/CSA James Webb Space Telescope. The interloping foreground star, BD+17
-  2217, is adorned with two sets of criss-crossing diffraction spikes. The interaction
-  of light with Hubble’s internal structure means that concentrated bright objects
-  such as stars are surrounded by four prominent spikes. Since this image of BD+17
-  2217 was created using two sets of Hubble data, the spikes from both images surround
-  this stellar photobomber. The spikes are at different angles because Hubble was
-  at different orientations when it collected the two datasets. [Image Description:
-  An irregular galaxy that appears like a triangle-shaped patch of tiny stars. It
-  is densest in the centre and along one edge, growing faint out to the opposite corner.
-  Several bright pink patches mark areas of star formation, and the galaxy’s brightest
-  stars are around these. A large, bright star, with two sets of long spikes, stands
-  between the viewer and the galaxy.] Links Pan: Starstruck image of Arp 263'
-foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2329a/L{1}X{2}Y{3}.png
-name: Starstruck image of Arp 263
-ra_hr: 10.418500010476484
-thumbnail: https://data1.wwtassets.org/feeds/hst/potw2329a/thumb.jpg
-zoom_level: 0.4577545483640114
----
 _uuid: 3d27130d-1c49-439f-b53d-f544aa9b4405
 classification: ''
 constellation: SEX

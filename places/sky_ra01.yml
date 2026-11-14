@@ -2077,6 +2077,22 @@ name: Messier 103;M103
 ra_hr: 1.55805555555556
 zoom_level: 12.2066666666667
 ---
+_uuid: 816cf301-1e63-438e-b791-099d82983321
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -8.457863837430502
+description: 'With this observation, the NASA/ESA Hubble Space Telescope has established
+  an extraordinary new benchmark: detecting the light of a star that existed within
+  the first billion years after the Universe’s birth in the Big Bang (at a redshift
+  of 6.2) — the most distant individual star ever seen. This sets up a major target
+  for the NASA/ESA/CSA James Webb Space Telescope in its first year.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2203a/L{1}X{2}Y{3}.png
+name: Hubble Finds the Most Distant Star Ever Seen
+ra_hr: 1.6235676144032856
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2203a/thumb.jpg
+zoom_level: 0.405370095444
+---
 _uuid: 015825ed-5a0e-4d22-b08c-89daab51ba42
 classification: ''
 constellation: PER

@@ -6741,6 +6741,30 @@ ra_hr: 5.561752819108473
 thumbnail: https://data1.wwtassets.org/feeds/hst/heic2004a/thumb.jpg
 zoom_level: 0.3952292572467685
 ---
+_uuid: b1e9d831-5dea-4b05-a121-43d7dd6a492c
+classification: ''
+constellation: TAU
+data_set_type: Sky
+dec_deg: 22.01523935224177
+description: The NASA/ESA Hubble Space Telescope has captured the intricate detail
+  of the Crab Nebula with its Wide Field Camera 3. The colours in the image trace
+  Hubble’s detection of oxygen and sulfur gases in the nebula at varying densities
+  and energies. The blue areas are the hottest and lowest density. While there is
+  not a lot of green in the image, showing dense neutral oxygen, there is quite a
+  lot of yellow, which appears where green and the red of energized sulfur are near
+  to each other and similarly bright. The white haze in the central region is synchrotron
+  radiation, which is produced by interaction between the magnetic field of the central
+  pulsar and the Crab’s nebulous material. This emission heats the surrounding filaments,
+  causing them to glow. Synchrotron radiation is also powering the nebula’s ongoing
+  expansion, distinguishing the Crab from other well-known young supernova remnants.
+  The Crab Nebula is the closest supernova remnant of this kind to Earth, making it
+  invaluable to astronomers using Hubble to study its evolution in unparalleled detail.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2607a/L{1}X{2}Y{3}.png
+name: Crab Nebula (2024 Hubble image)
+ra_hr: 5.575706724020218
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2607a/thumb.jpg
+zoom_level: 1.0877895665839876
+---
 _uuid: 887e0b73-fca1-4ecd-a2aa-8d3104d74274
 classification: ''
 constellation: ORI
@@ -7417,43 +7441,6 @@ name: An ancient witness
 ra_hr: 5.502787358681059
 thumbnail: https://data1.wwtassets.org/feeds/hst/potw2424a/thumb.jpg
 zoom_level: 0.3300431007501903
----
-_uuid: 1db0a489-9b53-4ca9-830e-c0366d19e5b1
-classification: ''
-constellation: COL
-data_set_type: Sky
-dec_deg: -34.25040686207765
-description: 'Featured in this new NASA/ESA Hubble Space Telescope Picture of the
-  Week is the spiral galaxy NGC 2090, located in the constellation Columba. This galaxy
-  is notable as a part of the group of galaxies studied in Hubble’s Extragalactic
-  Distance Scale Key Project, which aimed to determine a new state-of-the-art value
-  for the Hubble constant, one of the then-new telescope’s primary science goals.
-  The contribution of NGC 2090 was in calibrating the Tully-Fisher (TF) distance method,
-  by observing Cepheid variable stars in the galaxy. The Cepheid-based measurement
-  from that study in 1998 put NGC 2090 as 37 million light-years away; the newest
-  measurement from 2020, using the TF method, has NGC 2090 slightly farther away,
-  at 40 million light-years. Before and since that project, NGC 2090 has been well
-  studied as a very prominent nearby example of star formation. It has been described
-  as a flocculent spiral, meaning a spiral galaxy with a patchy, dusty disc and arms
-  that are flaky or not visible at all. This Hubble image shows well why NGC 2090
-  earned that description, but its spiral arms do appear among the dust as winding
-  lanes of light. NGC 2090 is a galaxy still full of activity, with clusters of star
-  formation at various stages of evolution spread across the disc. Examining star
-  formation and the movement of matter in galaxies was the motivation for these Hubble
-  observations, taken in October of this year. Likewise Hubble’s partner in space
-  astronomy, the NASA/ESA/CSA James Webb Space Telescope, has also spied on this galaxy
-  to add infrared data to this overall picture of galaxy evolution. [Image Description:
-  A spiral galaxy with a wide, oval-shaped disc. It has a shining spot at the centre
-  which is surrounded by a whirl of dark threads and patches of dust, all atop a luminous
-  disc. Some brighter lanes curving through the disc indicate the galaxy’s spiral
-  arms. The glow of the disc fades smoothly into a dark background where faint, extended
-  patches of stars can be seen, as well as some foreground stars.] Links Pan of NGC
-  2090'
-foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2448a/L{1}X{2}Y{3}.png
-name: Viewing a flaky disc
-ra_hr: 5.7838083527744715
-thumbnail: https://data1.wwtassets.org/feeds/hst/potw2448a/thumb.jpg
-zoom_level: 0.44164629733172056
 ---
 _uuid: a81f1a24-d1de-4f08-bb11-03628380de05
 classification: ''

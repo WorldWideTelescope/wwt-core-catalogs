@@ -74707,6 +74707,35 @@ Gemini Observatory</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
+    BaseDegreesPerTile="0.06843973632"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="24.3546585378"
+    CenterY="-8.45600656009"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Hubble Finds the Most Distant Star Ever Seen"
+    OffsetX="0.0006069749835171457"
+    OffsetY="-0.0020927678936897708"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="15.154631510380003"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="https://data1.wwtassets.org/feeds/hst/heic2203a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="hst|heic2203a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, B. Welch (JHU), D. Coe (STScI), A. Pagan (STScI)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2203a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2203a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
     BaseDegreesPerTile="0.06830770760677662"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -74902,6 +74931,35 @@ Gemini Observatory</Credits>
     <Credits>NASA, ESA, K. Stapelfeldt (NASA JPL), G. Kober (NASA/Catholic University of America)</Credits>
     <CreditsUrl>https://esahubble.org/images/heic2406a/</CreditsUrl>
     <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2406a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.05690182653184961"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="340.54595008501934"
+    CenterY="19.998292366661506"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Asteroid photobombs Hubble snapshot of Galaxy UGC 12158"
+    OffsetX="6.946023746563673e-06"
+    OffsetY="6.946023746563673e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="150.35999999999996"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="https://data1.wwtassets.org/feeds/hst/heic2407a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="hst|heic2407a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, P. G. Martín (Autonomous University of Madrid), J. DePasquale (STScI).Acknowledgment: A. Filippenko (University of California, Berkeley)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2407a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2407a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -75444,6 +75502,35 @@ Gemini Observatory</Credits>
     <Credits>NASA, ESA, D. Li (Utoronto), Image Processing: J. DePasquale (STScI)</Credits>
     <CreditsUrl>https://esahubble.org/images/heic2605a/</CreditsUrl>
     <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2605a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Visible"
+    BaseDegreesPerTile="0.11304921408090807"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="83.635615730036"
+    CenterY="22.015225537845847"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Crab Nebula (2024 Hubble image)"
+    OffsetX="1.3799952890735848e-05"
+    OffsetY="1.3799952890735848e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.06000000000000252"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="https://data1.wwtassets.org/feeds/hst/heic2607a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="hst|heic2607a"
+    Xcxstatus="queue:hubble"
+  >
+    <Credits>NASA, ESA, STScI, W. Blair (JHU). Image Processing: J. DePasquale (STScI)</Credits>
+    <CreditsUrl>https://esahubble.org/images/heic2607a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/heic2607a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
@@ -80517,34 +80604,6 @@ Gemini Observatory</Credits>
   </ImageSet>
   <ImageSet
     BandPass="Visible"
-    BaseDegreesPerTile="0.09021833899189177"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="156.27750491526058"
-    CenterY="17.15407602221154"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Starstruck image of Arp 263"
-    OffsetX="1.1012980833971164e-05"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="9.279999999999964"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="5"
-    Url="https://data1.wwtassets.org/feeds/hst/potw2329a/L{1}X{2}Y{3}.png"
-    WidthFactor="2"
-    Xcorepipe_ids="hst|potw2329a"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble &amp; NASA, J. Dalcanton, A. Filippenko</Credits>
-    <CreditsUrl>https://esahubble.org/images/potw2329a/</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/potw2329a/thumb.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
     BaseDegreesPerTile="0.045528426723046786"
     BaseTileLevel="0"
     BottomsUp="False"
@@ -82308,34 +82367,6 @@ Gemini Observatory</Credits>
     <Credits>ESA/Hubble &amp; NASA, R. Windhorst, W. Keel</Credits>
     <CreditsUrl>https://esahubble.org/images/potw2447a/</CreditsUrl>
     <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/potw2447a/thumb.jpg</ThumbnailUrl>
-  </ImageSet>
-  <ImageSet
-    BandPass="Visible"
-    BaseDegreesPerTile="0.04509313436010848"
-    BaseTileLevel="0"
-    BottomsUp="False"
-    CenterX="86.75713470125197"
-    CenterY="-34.25040653880838"
-    DataSetType="Sky"
-    ElevationModel="False"
-    FileType=".png"
-    Generic="False"
-    Name="Viewing a flaky disc"
-    OffsetX="5.504533002942929e-06"
-    Projection="Tan"
-    QuadTreeMap=""
-    Rotation="-47.37999999999989"
-    Sparse="True"
-    StockSet="False"
-    TileLevels="4"
-    Url="https://data1.wwtassets.org/feeds/hst/potw2448a/L{1}X{2}Y{3}.png"
-    WidthFactor="2"
-    Xcorepipe_ids="hst|potw2448a"
-    Xcxstatus="queue:hubble"
-  >
-    <Credits>ESA/Hubble &amp; NASA, D. Thilker</Credits>
-    <CreditsUrl>https://esahubble.org/images/potw2448a/</CreditsUrl>
-    <ThumbnailUrl>https://data1.wwtassets.org/feeds/hst/potw2448a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Visible"

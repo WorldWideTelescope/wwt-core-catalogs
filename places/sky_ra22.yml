@@ -1618,6 +1618,35 @@ name: Helix Nebula
 ra_hr: 22.494444444444447
 zoom_level: 3.893333333333333
 ---
+_uuid: af2f0bf1-5b34-40e1-96f0-18cea4fa3dba
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 19.998289764672993
+description: 'This NASA/ESA Hubble Space Telescope image of the barred spiral galaxy
+  UGC 12158 looks like someone took a white marking pen to it. In reality it is a
+  combination of time exposures of a foreground asteroid moving through Hubble’s field
+  of view, photobombing the observation of the galaxy. Several exposures of the galaxy
+  were taken, which is evidenced by the dashed pattern. The asteroid appears as a
+  curved trail as a result of parallax: Hubble is not stationary, but orbiting Earth,
+  and this gives the illusion that the faint asteroid is swimming along a curved trajectory.
+  The uncharted asteroid is inside the asteroid belt in our Solar System, and hence
+  is 10 trillion times closer to Hubble than the background galaxy. Rather than being
+  a nuisance, this type of data is useful to astronomers for doing a census of the
+  asteroid population in our Solar System. [Image description: This is a Hubble Space
+  Telescope image of the barred spiral galaxy UGC 12158. The majestic galaxy has a
+  pinwheel shape made up of bright blue stars wound around a yellow-white hub of central
+  stars. The hub has a slash of stars across it, called a bar. The galaxy is tilted
+  face-on to our view from Earth. A slightly S-shaped white line across the top is
+  the Hubble image of an asteroid streaking across Hubble’s view. It looks dashed
+  because the image is a combination of several exposures of the asteroid flying by
+  like a race car.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2407a/L{1}X{2}Y{3}.png
+name: Asteroid photobombs Hubble snapshot of Galaxy UGC 12158
+ra_hr: 22.70306401100687
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2407a/thumb.jpg
+zoom_level: 0.2666773004970698
+---
 _uuid: 10e54a4a-69d8-42b9-90a5-192ada08f8be
 classification: ''
 constellation: PSA
