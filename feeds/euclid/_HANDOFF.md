@@ -68,11 +68,12 @@ no `&amp;amp;`. Nothing else in the DB changed.
 The working files (cache_done originals, processed tiles) are git-ignored and live in this worktree:
 move `feeds/euclid/` contents to the main checkout before removing the worktree.
 
+### Decided (user, 2026-11-14)
+- Keep the Oct 2024 zoom crops (20241015b–f) and the Cat's Eye. Rubin's "full field of view only" rule
+  doesn't apply to Euclid: its full fields are downsampled previews (EDFN 1.2"/px vs Cat's Eye 0.1"/px;
+  mosaic 10"/px vs crops down to 0.05"/px), so the crops carry detail nothing else has.
+
 ### Open decisions for the user
-- Oct 2024 zoom crops (20241015b–f) and Cat's Eye are crops of larger releases. Rubin's rule was
-  "full field of view only", but here the full fields are downsampled (EDFN 1.2"/px vs Cat's Eye 0.1"/px;
-  mosaic 10"/px vs crops down to 0.05"/px), so by the pixel-density rule they're kept. Drop any by
-  deleting its Place from euclid.wtml before ingest.
 - Folder thumbnail is the existing Horsehead thumb.jpg. ESA's spacecraft photos are "ESA Standard
   Licence" (not CC); AstroPix only has artwork.
 - No Explore-root entry yet (exploreroot6.yml / explorerootweb.yml).
