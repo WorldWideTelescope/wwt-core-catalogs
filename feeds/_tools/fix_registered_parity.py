@@ -46,15 +46,30 @@ def first_place(path):
 
 def tile(feed, template, ids):
     for uid in ids:
+        try:
+            _tile_one(feed, template, uid)
+        except Exception as e:
+            print(uid, "FAILED:", e, flush=True)
+
+
+def _tile_one(feed, template, uid):
+    if True:
         old = os.path.join(feed, "processed", uid, "index.wtml")
+        if os.path.isdir(os.path.join(feed, "_flipped", uid)):
+            print(uid, "already re-tiled; skipped")
+            return
         if not os.path.exists(old):
             print(uid, "no processed/index.wtml; skipped")
-            continue
+            return
         hdr = fits.getheader(os.path.join(feed, "wcs", uid + ".fits"))
         img = ImageLoader().load_path(os.path.join(feed, template.format(id=uid)))
+        try:
+            img.aspil().info.pop("xmp", None)  # tuple-typed XMP crashes Pillow's JPEG thumbnail
+        except Exception:
+            pass
         if (hdr["IMAGEW"], hdr["IMAGEH"]) != (img.width, img.height):
             print(uid, "sidecar size mismatch; skipped")
-            continue
+            return
         img._wcs = sidecar_image_wcs(hdr)
         flipped = img.get_parity_sign() > 0
         img.ensure_negative_parity()
