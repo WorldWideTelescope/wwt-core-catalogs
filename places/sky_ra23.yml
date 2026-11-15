@@ -1709,6 +1709,59 @@ ra_hr: 23.390964117203364
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-casa/thumb.jpg
 zoom_level: 1.054940676168267
 ---
+_uuid: 6f811911-aa2e-4532-8f6e-34f1fb03be2e
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -12.292460750518204
+description: The galaxy NGC 7727 was born from the merger of two galaxies that started
+  around a billion years ago. The cosmic dance of the two galaxies has resulted in
+  the spectacular wispy shape of NGC 7727. At the heart of the galaxy, two supermassive
+  black holes are spiralling closer to each other, expected to merge within 250 million
+  years, the blink of an eye in astronomical time. This image of NGC 7727 was captured
+  by the FOcal Reducer and low dispersion Spectrograph 2 (FORS2) instrument at ESO’s
+  Very Large Telescope (VLT).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2211a/L{1}X{2}Y{3}.png
+name: NGC 7727’s spectacular galactic dance as seen by the VLT
+ra_hr: 23.665058001154712
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2211a/thumb.jpg
+zoom_level: 1.2231138884405424
+---
+_uuid: 05e42f24-c43d-4b0d-a030-da66b8a158ec
+classification: ''
+constellation: GRU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -42.3705924126699
+description: Lurking about 70 million light years away from Earth in the constellation
+  Grus, you will find the galaxy NGC 7582 — a spiral galaxy harbouring a supermassive
+  black hole at its core. These images were captured as part of a study using the
+  MUSE instrument on ESO’s Very Large Telescope (VLT) to uncover the effect of an
+  active black hole on the formation of stars in the galaxy. The galaxy contains an
+  active galactic nucleus (AGN) — an extremely energetic central engine powered by
+  the supermassive black hole gobbling up material in its immediate surroundings.
+  Matter heats up in this process, launching huge amounts of energy and powerful winds
+  into the surrounding area. But what effect does this have on the galaxy at large?
+  To find out, a recent study, led by Stéphanie Juneau from NSF's NOIRLab in the USA,
+  looked at the distribution of different ionised elements in the galaxy. This image
+  shows oxygen, nitrogen and hydrogen in blue, green and red respectively. The red
+  glowing areas are regions of high star formation activity, whereas the dominant
+  blue regions show the cone-shaped material flowing out of the AGN. Compare it with
+  this image, which covers the same area, shows a more classical view of this galaxy,
+  with dust lanes obscuring blue and orange starlight. MUSE also allowed the team
+  to map the motion of the stars and gas. They discovered that NGC 7582 may have a
+  structure surrounding its central supermassive black hole that shields the rest
+  of the galaxy from the harsh outflow of energy coming from the AGN, diverting it
+  away from it in the form of an extremely powerful wind. Alternative versions of
+  this image Side-by-side comparison Interactive comparison Video alternating between
+  both images Individual stellar image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2206c/L{1}X{2}Y{3}.png
+name: A black hole caught blowing a gust
+ra_hr: 23.30658357358173
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2206c/thumb.jpg
+zoom_level: 0.173061235678167
+---
 _uuid: 160a9b44-c3f9-4ab7-a611-37d379bbb15e
 classification: ''
 constellation: SCL

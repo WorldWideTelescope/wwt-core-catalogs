@@ -3177,6 +3177,92 @@ ra_hr: 0.8864127343803115
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-snr1181/thumb.jpg
 zoom_level: 1.052211259051628
 ---
+_uuid: 9b293a80-eb1c-4655-b0cb-2965f681d92e
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -71.82477003453782
+description: The Small Magellanic Cloud and globular cluster 47 Tucanae.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/brammer_5598/L{1}X{2}Y{3}.png
+name: SMC and 47 Tuc
+ra_hr: 0.8055994710910993
+thumbnail: https://data1.wwtassets.org/feeds/eso/brammer_5598/thumb.jpg
+zoom_level: 45.878397690115584
+---
+_uuid: d9c6996b-e2f5-441f-8012-0bcb5df88c8f
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.71628178840805
+description: 'Around 500 million light-years away in the constellation Sculptor lies
+  a rather peculiar looking galaxy, known as the Cartwheel galaxy. It was once a normal
+  spiral galaxy that underwent a head-on interaction with a smaller companion galaxy
+  several million years ago, giving it its signature cartwheel appearance. But there
+  are other curious things about this object. Something interesting is taking place
+  in the lower left corner of this image, captured in December 2021 with ESO’s New
+  Technology Telescope (NTT): a supernova. Compare it with this image, taken in August
+  2014 by the Multi Unit Spectroscopic Explorer (MUSE) mounted on ESO’s Very Large
+  Telescope (VLT), shows the galaxy before this supernova took place. This event,
+  called SN2021afdx, is a type II supernova, which occurs when a massive star reaches
+  the end of its evolution. Supernovae can cause a star to shine brighter than its
+  entire host galaxy and can be visible to observers for months, or even years — a
+  blink of an eye on astronomical timescales. Supernovae are one of the reasons astronomers
+  say we are all made of stardust: they sprinkle the surrounding space with heavy
+  elements forged by the progenitor star, which may end up being part of later generations
+  of stars, the planets around them and life that may exist in those planets. Detecting
+  and studying these unpredictable events requires international collaboration. The
+  first time SN2021afdx was spotted was in November 2021 by the ATLAS survey, and
+  it was then followed up by ePESSTO+, the Public ESO Spectroscopic Survey for Transient
+  Objects. ePESSTO+ is designed to study objects that are only in the night sky for
+  very short periods of time, such as this supernova. It does this by using the EFOSC2
+  and SOFI instruments on the NTT, located at ESO''s La Silla Observatory in Chile.
+  EFOSC2 not only took this beautiful image, but also spectra that allowed the PESSTO
+  team to identify this event as a type II supernova. Links Comparison video alternating
+  between the MUSE and NTT images. Side-by-side comparison Individual MUSE image'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2210b/L{1}X{2}Y{3}.png
+name: Something new in the sky
+ra_hr: 0.6278600068865862
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2210b/thumb.jpg
+zoom_level: 0.4933511827381855
+---
+_uuid: 4b5f93e0-aed3-4e8b-8a9f-07010a9bcb96
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.71469204090947
+description: 'Around 500 million light-years away in the constellation Sculptor lies
+  a rather peculiar looking galaxy, known as the Cartwheel galaxy. It was once a normal
+  spiral galaxy that underwent a head-on interaction with a smaller companion galaxy
+  several million years ago, giving it its signature cartwheel appearance. This image
+  was taken in August 2014 by the Multi Unit Spectroscopic Explorer (MUSE) mounted
+  on ESO’s Very Large Telescope (VLT). Compare it with this image, captured in December
+  2021 with ESO’s New Technology Telescope (NTT), where you can see a supernova in
+  the lower left corner. This event, called SN2021afdx, is a type II supernova, which
+  occurs when a massive star reaches the end of its evolution. Supernovae can cause
+  a star to shine brighter than its entire host galaxy and can be visible to observers
+  for months, or even years — a blink of an eye on astronomical timescales. Supernovae
+  are one of the reasons astronomers say we are all made of stardust: they sprinkle
+  the surrounding space with heavy elements forged by the progenitor star, which may
+  end up being part of later generations of stars, the planets around them and life
+  that may exist in those planets. Detecting and studying these unpredictable events
+  requires international collaboration. The first time SN2021afdx was spotted was
+  in November 2021 by the ATLAS survey, and it was then followed up by ePESSTO+, the
+  Public ESO Spectroscopic Survey for Transient Objects. ePESSTO+ is designed to study
+  objects that are only in the night sky for very short periods of time, such as this
+  supernova. It does this by using the EFOSC2 and SOFI instruments on the NTT, located
+  at ESO''s La Silla Observatory in Chile. EFOSC2 not only took a beautiful image,
+  but also spectra that allowed the PESSTO team to identify this event as a type II
+  supernova. Links Comparison video alternating between the MUSE and NTT images. Side-by-side
+  comparison Individual NTT image'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2210c/L{1}X{2}Y{3}.png
+name: The Cartwheel galaxy seen by MUSE
+ra_hr: 0.6278645541860146
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2210c/thumb.jpg
+zoom_level: 0.24983709939036197
+---
 _uuid: 307bcb5e-2e7d-4afc-8be9-2396715460d9
 classification: ''
 constellation: PHE

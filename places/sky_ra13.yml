@@ -3980,6 +3980,19 @@ ra_hr: 13.616749374932823
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-m83/thumb.jpg
 zoom_level: 1.6340424292978382
 ---
+_uuid: 1074f776-912d-4f38-b454-5a6a07ec3f5a
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -61.34728762693514
+description: Alpha Centauri and the Southern Cross from Paranal.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/colosimo-130704-010/L{1}X{2}Y{3}.png
+name: Alpha Centauri and the Southern Cross
+ra_hr: 13.209881591728509
+thumbnail: https://data1.wwtassets.org/feeds/eso/colosimo-130704-010/thumb.jpg
+zoom_level: 190.02338834349308
+---
 _uuid: 399475aa-b5e3-4327-9a88-83f9a8fca1b3
 classification: ''
 constellation: CEN

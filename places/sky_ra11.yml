@@ -2378,6 +2378,121 @@ ra_hr: 11.038189852964585
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-lighthouse/thumb.jpg
 zoom_level: 3.138247728052824
 ---
+_uuid: fe6c706d-3e52-4cd2-8e9c-fe4f8b36f8c6
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.68694239500773
+description: This image shows the HH 909 A object in the Chamaeleon constellation.
+  New stars are born in the colourful clouds of gas and dust seen here. The infrared
+  observations underlying this image reveal new details in the star-forming regions
+  that are usually obscured by the clouds of dust. The image was produced with data
+  collected by the VIRCAM instrument, which is attached to the VISTA telescope at
+  ESO’s Paranal Observatory in Chile. The observations were done as part of the VISIONS
+  survey, which will allow astronomers to better understand how stars form in these
+  dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307d/L{1}X{2}Y{3}.png
+name: An infrared view of the HH 909 A object in Chamaeleon
+ra_hr: 11.138902814135927
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307d/thumb.jpg
+zoom_level: 2.2233052061865273
+---
+_uuid: 7f59e3fa-9458-4228-aa15-3429264d6e1c
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.38696799241603
+description: This image shows the IRAS 11051-7706 object in the Chamaeleon constellation.
+  New stars are born in the colourful clouds of gas and dust seen here. The infrared
+  observations underlying the image reveal new details in the star-forming regions
+  that are usually obscured by the clouds of dust. The image was produced with data
+  collected by the VIRCAM instrument, which is attached to the VISTA telescope at
+  ESO’s Paranal Observatory in Chile. The observations were done as part of the VISIONS
+  survey, which will allow astronomers to better understand how stars form in these
+  dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307e/L{1}X{2}Y{3}.png
+name: An infrared view of the IRAS 11051-7706 object in Chamaeleon
+ra_hr: 11.113787021037716
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307e/thumb.jpg
+zoom_level: 1.339872409941569
+---
+_uuid: 2f99c960-9b52-41c3-a8e3-825dd5faf2ef
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -76.4423888
+description: This infrared image, taken with ESO’s Visible and Infrared Telescope
+  for Astronomy (VISTA) shows the position in the sky of the rogue planet Cha 1107-7626.
+  The planet is a dot located exactly at the centre of the frame.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2516b/L{1}X{2}Y{3}.png
+name: Location in the sky of the rogue planet Cha 1107-7626 (infrared)
+ra_hr: 11.1188
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2516b/thumb.jpg
+zoom_level: 9.044253989365181
+---
+_uuid: 91232a65-9d14-43bb-9761-1298c021ee9e
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.98128805964327
+description: This image of the nearby galaxy NGC 3627, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 3627 is a spiral galaxy located approximately 31 million light-years from
+  Earth in the constellation Leo. The images were taken as part of the Physics at
+  High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 3627 galaxy as seen with ALMA
+ra_hr: 11.337585254345397
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-alma-cc/thumb.jpg
+zoom_level: 0.45158003833572247
+---
+_uuid: edacd103-168f-47e2-bf4e-159af50249da
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.981328188542399
+description: This image of the nearby galaxy NGC 3627, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 3627 is a spiral galaxy located
+  approximately 31 million light-years from Earth in the constellation Leo. The images
+  were taken as part of the Physics at High Angular resolution in Nearby GalaxieS
+  (PHANGS) project, which is making high-resolution observations of nearby galaxies
+  with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-cc/L{1}X{2}Y{3}.png
+name: The NGC 3627 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 11.337588381138731
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-cc/thumb.jpg
+zoom_level: 0.3395468048318643
+---
+_uuid: 92441531-732e-4382-b55c-beefb625e45d
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.981384663884413
+description: This image of the nearby galaxy NGC 3627 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 3627 is a spiral galaxy located approximately
+  31 million light-years from Earth in the constellation Leo. The images were taken
+  as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project,
+  which is making high-resolution observations of nearby galaxies with telescopes
+  operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 3627 mapped with MUSE on ESO’s VLT
+ra_hr: 11.337588226659078
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-ha/thumb.jpg
+zoom_level: 0.339167748358937
+---
 _uuid: e14672cb-a792-416a-bc75-6218c2afecaf
 classification: ''
 constellation: MUS

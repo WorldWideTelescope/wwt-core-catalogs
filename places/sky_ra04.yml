@@ -1453,6 +1453,45 @@ name: California Nebula
 ra_hr: 4.00055555555556
 zoom_level: 43.2
 ---
+_uuid: 457e76b1-e851-4078-9c32-2cfe0f633e39
+classification: ''
+constellation: LEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -14.80625895364078
+description: This image of R Leporis, a star in the final stages of its evolution,
+  is the highest resolution image ever achieved with ALMA. It has an angular resolution
+  of 5 milli-arcseconds, equivalent to seeing a 10-metre-long bus on the Moon. It
+  was achieved using the ALMA Band 10 (high-frequency) receivers and an array configuration
+  with a maximum baseline length of 16 km, as well as a novel calibration technique.
+  Submillimeter-wave emission from the stellar surface is shown in orange and hydrogen
+  cyanide maser emissions at 891 GHz are shown in blue. The observations show that
+  the star is surrounded by a ring-like structure of gas and that gas from the star
+  is escaping to the surrounding space.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ann23019a/L{1}X{2}Y{3}.png
+name: R Leporis as imaged by ALMA
+ra_hr: 4.9934343362553095
+thumbnail: https://data1.wwtassets.org/feeds/eso/ann23019a/thumb.jpg
+zoom_level: 0.00014488962497519328
+---
+_uuid: 45c9501b-5a0a-4e6f-8d1f-7901917e8503
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 18.233610579266994
+description: Astronomers have found water vapour in a disc around a young star exactly
+  where planets may be forming. In this image, the new observations from the Atacama
+  Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner, show the
+  water vapour in shades of blue. Near the centre of the disc, where the young star
+  lives, the environment is hotter and the gas brighter. The red-hued rings are previous
+  ALMA observations showing the distribution of dust around the star.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2404a/L{1}X{2}Y{3}.png
+name: Water in the HL Tauri disc
+ra_hr: 4.5273245109256255
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2404a/thumb.jpg
+zoom_level: 0.0055786515129010745
+---
 _uuid: 12d1df12-9186-4a62-8574-b429e0d06675
 classification: ''
 constellation: DOR

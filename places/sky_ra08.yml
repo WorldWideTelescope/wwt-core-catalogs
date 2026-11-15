@@ -1009,6 +1009,122 @@ ra_hr: 8.37116926666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-032.jpg
 zoom_level: 12.515540992
 ---
+_uuid: 3900a9b4-27bf-437f-85d8-f7d5ad763995
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.986715155093655
+description: This image shows a spectacular view of the orange and pink clouds that
+  make up what remains after the explosive death of a massive star — the Vela supernova
+  remnant. This detailed image consists of 554 million pixels, and is a combined mosaic
+  image of observations taken with the 268-million-pixel OmegaCAM camera at the VLT
+  Survey Telescope, hosted at ESO’s Paranal Observatory. OmegaCAM can take images
+  through several filters that each let the telescope see the light emitted in a distinct
+  colour. To capture this image, four filters have been used, represented here by
+  a combination of magenta, blue, green and red. The result is an extremely detailed
+  and stunning view of both the gaseous filaments in the remnant and the foreground
+  bright blue stars that add sparkle to the image.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2214a/L{1}X{2}Y{3}.png
+name: The Vela supernova remnant imaged by the VLT Survey Telescope
+ra_hr: 8.523883407531214
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2214a/thumb.jpg
+zoom_level: 14.27134113509138
+---
+_uuid: ca7724aa-4841-43f1-b80b-2d0549dd411b
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.499078999999995
+description: This is an 80-million-pixel picture of the star cluster RCW 38, located
+  5500 light-years away in the constellation Vela. RCW 38 is a young cluster containing
+  about 2000 stars, and is bursting with star-forming activity. The picture was taken
+  with ESO’s Visible and Infrared Survey Telescope for Astronomy (VISTA), operating
+  in Chile’s Atacama Desert. It shows a mixture of gas, dust and stars, creating an
+  extravagant, yet spectacular landscape. As VISTA observes infrared light, it is
+  able to peer through most of the dust in this region, which would block our view
+  when observing in visible light. Behind the dust, VISTA is showing young stars within
+  dusty cocoons and cold ‘failed’ stars known as brown dwarfs, thus revealing the
+  secrets within these young stellar nurseries.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2503a/L{1}X{2}Y{3}.png
+name: The RCW 38 cluster in infrared light
+ra_hr: 8.985189960000001
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2503a/thumb.jpg
+zoom_level: 7.118698319999998
+---
+_uuid: fc0b9dfd-2893-427a-bda9-3eebf9d2c591
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.154645317848825
+description: NGC 2547 is a southern open cluster in Vela, discovered by Abbe Lacaille
+  in 1751-1752 from South Africa.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/perez-ngc_2547/L{1}X{2}Y{3}.png
+name: NGC 2547
+ra_hr: 8.159804683817724
+thumbnail: https://data1.wwtassets.org/feeds/eso/perez-ngc_2547/thumb.jpg
+zoom_level: 17.768232886635605
+---
+_uuid: 766ee2c7-eff3-476e-a42d-56cc7c41489e
+classification: ''
+constellation: CNC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 10.776646276512777
+description: In this Picture of the Week we peer closer into the galaxy UGC 4211,
+  where astronomers have discovered two supermassive black holes on the verge of merging,
+  separated by just 750 lightyears — the closest to have been found to date and less
+  than half of the previous record. They used ESO’s Very Large Telescope (VLT), the
+  Atacama Large Millimeter/submillimeter Array (ALMA), of which ESO is a partner,
+  and other telescopes to detect the bright light produced as the black holes engulf
+  material in their vicinity. The image shown here was made using data from the MUSE
+  instrument on ESO’s VLT in Chile, and it shows a classical view of this galaxy,
+  with dust lanes obscuring starlight. Check the alternative versions in the links
+  below, which reveal the presence of two supermassive black holes swallowing material
+  from their surroundings. Combining data from the VLT, ALMA and other telescopes,
+  a team led by Michael Koss at Eureka Scientific in the US could identify these two
+  black holes and study them in detail. These black holes likely found each other
+  when their host galaxies collided and merged. Observing this system will help improve
+  our understanding of how galaxies and their supermassive black holes grow as they
+  merge. Alternative versions of this image Side-by-side comparison Interactive comparison
+  Gaseous image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2302b/L{1}X{2}Y{3}.png
+name: Closest pair of supermassive black holes as seen by MUSE
+ra_hr: 8.079551289781268
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2302b/thumb.jpg
+zoom_level: 0.023138857007272976
+---
+_uuid: 787d0f49-8b2e-4fa1-9ad8-59f217a26768
+classification: ''
+constellation: CNC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 10.776646276512777
+description: In this Picture of the Week we peer closer into the galaxy UGC 4211,
+  where astronomers have discovered two supermassive black holes on the verge of merging,
+  separated by just 750 lightyears — the closest to have been found to date and less
+  than half of the previous record. They used ESO’s Very Large Telescope (VLT), the
+  Atacama Large Millimeter/submillimeter Array (ALMA), of which ESO is a partner,
+  and other telescopes to detect the bright light produced as the black holes engulf
+  material in their vicinity. The image shown here was made using data from the MUSE
+  instrument on ESO’s VLT in Chile. It shows emission from oxygen, nitrogen and hydrogen
+  in blue, green and red respectively. Red indicates areas of star formation, and
+  the bright white central region indicates the presence of two supermassive black
+  holes swallowing material from their surroundings. Combining data from the VLT,
+  ALMA and other telescopes, a team led by Michael Koss at Eureka Scientific in the
+  US could identify these two black holes and study them in detail. These black holes
+  likely found each other when their host galaxies collided and merged. Observing
+  this system will help improve our understanding of how galaxies and their supermassive
+  black holes grow as they merge. Alternative versions of this image Side-by-side
+  comparison Interactive comparison Stellar image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2302c/L{1}X{2}Y{3}.png
+name: Closest pair of supermassive black holes as seen by MUSE
+ra_hr: 8.079551289781268
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2302c/thumb.jpg
+zoom_level: 0.023138857007272976
+---
 _uuid: 1f2f1a7e-af7c-4388-9394-07fabd2860b2
 classification: ''
 constellation: PUP

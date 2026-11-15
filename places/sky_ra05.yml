@@ -6862,6 +6862,163 @@ ra_hr: 5.64539352644483
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-30dor/thumb.jpg
 zoom_level: 1.5495969808834018
 ---
+_uuid: e926d51a-4f78-44e4-be15-83a6a72581a1
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -2.121643802911187
+description: This images shows the Flame Nebula and its surroundings captured in radio
+  waves. The image is based on observations conducted with the SuperCam instrument
+  on the ESO-operated Atacama Pathfinder Experiment (APEX) on Chile’s Chajnantor Plateau.
+  The Flame Nebula is the large feature on the left. The smaller feature on the right
+  is the reflection nebula NGC 2023. To the top right of NGC 2023, the iconic Horsehead
+  Nebula seems to emerge heroically from the “flames”. The three objects are part
+  of the Orion cloud, a giant gas structure located between 1300 and 1600 light-years
+  away. The different colours indicate the velocity of the gas. The Flame Nebula and
+  its surroundings are moving away from us, with the red clouds in the background
+  receding faster than the yellow ones in the foreground.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2201b/L{1}X{2}Y{3}.png
+name: The Flame Nebula region as seen with APEX
+ra_hr: 5.692777087346903
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2201b/thumb.jpg
+zoom_level: 5.424503784781643
+---
+_uuid: 881bbd7a-cacb-41ba-8ced-da910f579cad
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.07694525380072
+description: 'This composite image shows the star-forming region 30 Doradus, also
+  known as the Tarantula Nebula. The background image, taken in the infrared, is itself
+  a composite: it was captured by the HAWK-I instrument on ESO’s Very Large Telescope
+  (VLT) and the Visible and Infrared Survey Telescope for Astronomy (VISTA), shows
+  bright stars and light, pinkish clouds of hot gas. The bright red-yellow streaks
+  that have been superimposed on the image come from radio observations taken by the
+  Atacama Large Millimeter/submillimeter Array (ALMA), revealing regions of cold,
+  dense gas which have the potential to collapse and form stars. The unique web-like
+  structure of the gas clouds led astronomers to the nebula’s spidery nickname.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2209a/L{1}X{2}Y{3}.png
+name: Composite infrared and radio image of 30 Doradus
+ra_hr: 5.645883751091256
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2209a/thumb.jpg
+zoom_level: 1.115540183641201
+---
+_uuid: feb70530-d34a-45ae-b0af-cfd77a62b4a7
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.07694525380072
+description: This image shows the star-forming region 30 Doradus, also known as the
+  Tarantula Nebula, in radio wavelengths, as observed by the Atacama Large Millimeter/submillimeter
+  Array (ALMA). The bright red-yellow streaks reveal regions of cold, dense gas which
+  have the potential to collapse and form stars. The unique web-like structure of
+  the gas clouds is characteristic of the Tarantula Nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2209b/L{1}X{2}Y{3}.png
+name: Radio image of the 30 Doradus nebula with data from ALMA
+ra_hr: 5.645883751091256
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2209b/thumb.jpg
+zoom_level: 1.115540183641201
+---
+_uuid: 17e86fbc-5f2f-44fb-bbcd-6ae044ed7b62
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.07682281206203
+description: 'This infrared image shows the star-forming region 30 Doradus, also known
+  as the Tarantula Nebula, highlighting its bright stars and light, pinkish clouds
+  of hot gas. The image is a composite: it was captured by the HAWK-I instrument on
+  ESO’s Very Large Telescope (VLT) and the Visible and Infrared Survey Telescope for
+  Astronomy (VISTA).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2209c/L{1}X{2}Y{3}.png
+name: Infrared image of 30 Doradus
+ra_hr: 5.646051889275534
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2209c/thumb.jpg
+zoom_level: 1.1325693478482313
+---
+_uuid: 0d11b0c3-b957-4e4f-a888-867a8aa5722c
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 25.332390834742995
+description: This composite image shows the MWC 758 planet-forming disc, located about
+  500 light-years away in the Taurus region, as seen with two different facilities.
+  The yellow colour represents infrared observations obtained with the Spectro-Polarimetric
+  High-contrast Exoplanet REsearch (SPHERE) instrument on ESO’s Very Large Telescope
+  (VLT). The blue regions on the other hand correspond to observations performed with
+  the Atacama Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner.
+  These facilities allow astronomers to map how dust is distributed around this and
+  other stars in different but complementary ways. SPHERE captures light from the
+  host star that has been scattered by the dust around it, whereas ALMA registers
+  radiation directly emitted by the dust itself. These observations combined help
+  astronomers understand how planets may form in the dusty discs surrounding young
+  stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2405e/L{1}X{2}Y{3}.png
+name: The MWC 758 planet-forming disc as seen by SPHERE and ALMA
+ra_hr: 5.5076482531333335
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2405e/thumb.jpg
+zoom_level: 0.0047921958648
+---
+_uuid: 2c98f13e-eb97-4068-b696-820878e65e19
+classification: ''
+constellation: PIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -51.06665260257898
+description: This image, taken with ESO’s Very Large Telescope (VLT) shows Beta Pictoris
+  d, a new planet found orbiting the star Beta Pictoris. The star is at the centre
+  of the frame, and was subtracted when processing the data, revealing the environment
+  around it. The new planet, indicated with an arrow, is the third one found around
+  this star. The other two are Beta Pictoris b –– the bright source to the left, and
+  Beta Pictoris c, orbiting much closer to the star and not seen here. The image was
+  taken with the ERIS instrument at the VLT. Based on its infrared brightness and
+  colour, the new planet appears to be a gas giant, about 2.4 times more massive than
+  Jupiter. The diffuse horizontal band in this image is a debris disc around the star,
+  seen here edge-on, the leftover material of planetary formation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2609a/L{1}X{2}Y{3}.png
+name: VLT image of the Beta Pictoris d exoplanet
+ra_hr: 5.788106036033434
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2609a/thumb.jpg
+zoom_level: 0.009486
+---
+_uuid: 975f7732-ca83-460b-9c0c-dba283194d0f
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.17792589424761
+description: Astronomers used the ESO 1-metre Schmidt telescope to capture this image
+  of the nearby Large Magellanic Cloud (LMC) galaxy in 1986.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/lmc-schmidt-1986-6000p/L{1}X{2}Y{3}.png
+name: LMC snapped by the ESO 1-metre Schmidt telescope
+ra_hr: 5.4860388180455555
+thumbnail: https://data1.wwtassets.org/feeds/eso/lmc-schmidt-1986-6000p/thumb.jpg
+zoom_level: 45.00034168865665
+---
+_uuid: 85767ee4-b1e7-4a0d-af00-eb97df3909aa
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -5.411017600919616
+description: This is the young stellar object 244-440 in the Orion Nebula observed
+  with ESO’s Very Large Telescope (VLT) –– the sharpest image ever taken of this object.
+  The data were obtained with the Multi Unit Spectroscopic Explorer (MUSE) instrument,
+  with red, green and blue colours mapping the distribution of argon, hydrogen and
+  oxygen respectively. MUSE captures data at thousands of different wavelengths all
+  at once, allowing astronomers to study not only the distribution of many different
+  chemical elements but also how they move. Click here for a more detailed description
+  of this object.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2316b/L{1}X{2}Y{3}.png
+name: A stellar sprinkler (alternative colour view)
+ra_hr: 5.590128277184984
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2316b/thumb.jpg
+zoom_level: 0.023578170511505653
+---
 _uuid: 9de364d6-d8ad-434f-9dd6-b7e12d11ba10
 classification: ''
 constellation: ORI

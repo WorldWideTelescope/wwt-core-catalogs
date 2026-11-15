@@ -1603,6 +1603,75 @@ ra_hr: 2.7015223666901247
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-fbot/thumb.jpg
 zoom_level: 0.1533160276623645
 ---
+_uuid: 3b29944a-5503-4d82-b355-5ec5ed91a070
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -30.27475649299155
+description: ERIS, the Very Large Telescope’s newest infrared eye on the sky, captured
+  this stunning image of the inner ring of the galaxy NGC 1097. This galaxy is located
+  45 million light-years away from Earth, in the constellation Fornax. ERIS has captured
+  the gaseous and dusty ring that lies at the very centre of the galaxy. The bright
+  spots in the ring are stellar nurseries, shown in unprecedented detail. The centre
+  of this galaxy is active, with a supermassive black hole that feeds off its surroundings.
+  This image has been taken through four different filters by ERIS’s state-of-the-art
+  infrared imager, the Near Infrared Camera System — or NIX. The filters have been
+  represented here by blue, green, red and magenta, where the last one highlights
+  the compact regions in the ring. To put NIX’s resolution in perspective, this image
+  shows, in detail, a portion of the sky less than 0.03% the size of the full Moon.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ann22015a/L{1}X{2}Y{3}.png
+name: ERIS sees first light, capturing a detailed view of the inner ring of NGC 1097
+ra_hr: 2.7719548082230228
+thumbnail: https://data1.wwtassets.org/feeds/eso/ann22015a/thumb.jpg
+zoom_level: 0.0889534603485504
+---
+_uuid: edd3556d-74f6-430b-8c5d-b390a6538eaa
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.26605294930524914
+description: This image shows the orientation of the magnetic field in the distant
+  9io9 galaxy, seen here when the Universe was only 20% of its current age — the furthest
+  ever detection of a galaxy’s magnetic field. The observations were done with the
+  Atacama Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner.
+  Dust grains within 9io9 are somewhat aligned with the galaxy’s magnetic field, and
+  due to this they emit polarised light, meaning that light waves oscillate along
+  a preferred direction rather than randomly. ALMA detected this polarisation signal,
+  from which astronomers could work out the orientation of the magnetic field, shown
+  here as curved lines overlaid on the ALMA image. The polarised light signal emitted
+  by the magnetically aligned dust in 9io9 was extremely faint, representing just
+  one percent of the total brightness of the galaxy, so astronomers used a clever
+  trick of nature to help them obtain this result. The team was helped by the fact
+  that 9io9, although very distant from us, had been magnified via a process known
+  as gravitational lensing. This occurs when light from a distant galaxy, in this
+  case 9io9, appears brighter and distorted as it is bent by the gravity of a very
+  large object in the foreground.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2316a/L{1}X{2}Y{3}.png
+name: ALMA view of the 9io9 galaxy
+ra_hr: 2.1614532167769362
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2316a/thumb.jpg
+zoom_level: 0.044404346927203076
+---
+_uuid: 24ed9d9c-f7d5-42ed-95d4-8cd8e86bb916
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.26621842798656303
+description: 'This infrared image shows the distant galaxy 9io9, seen here as a reddish
+  arc curved around a bright nearby galaxy. This nearby galaxy acts as a gravitational
+  lens: its mass curves spacetime around it, bending lightrays coming from 9io9 in
+  the background, hence its distorted shape. This colour view results from combining
+  infrared images taken with ESO’s Visible and Infrared Survey Telescope for Astronomy
+  (VISTA) in Chile and the Canada France Hawaii Telescope (CFHT) in the US.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2316b/L{1}X{2}Y{3}.png
+name: An infrared view of the 9io9 galaxy
+ra_hr: 2.1614631481871664
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2316b/thumb.jpg
+zoom_level: 0.114234165390288
+---
 _uuid: 72cb88c4-b0fc-42aa-897c-5be0337830ce
 classification: ''
 constellation: CET

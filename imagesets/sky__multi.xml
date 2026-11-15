@@ -747,7 +747,7 @@
     Xcxstatus="in:64276262975014bc743f1638"
     Xdominant_band="IR"
   >
-    <Credits>CTIO/NOIRLab/NSF/AURA/SMARTS ConsortiumImage processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
+    <Credits>CTIO/NOIRLab/NSF/AURA/SMARTS Consortium. Image processing: T. A. Rector (University of Alaska Anchorage/NSF’s NOIRLab), M. Zamani &amp;amp; D. de Martin (NSF’s NOIRLab)</Credits>
     <CreditsUrl>https://noirlab.edu/public/images/iotw2115a/</CreditsUrl>
     <ThumbnailUrl>http://data1.wwtassets.org/feeds/noirlab/iotw2115a/thumb.jpg</ThumbnailUrl>
   </ImageSet>
@@ -9909,6 +9909,99 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
     <Credits>X-ray: NASA/CXC/INAF-IRA/A. Botteon et al.; Infrared: UKIDSS-GPS ; Radio: ASTRON/LOFAR; Image processing: NASA/CXC/SAO/N. Wolk</Credits>
     <CreditsUrl>https://chandra.harvard.edu/photo/2026/trebleclef/</CreditsUrl>
     <ThumbnailUrl>https://data1.wwtassets.org/feeds/chandra/2026-trebleclef/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
+    BaseDegreesPerTile="0.22797248875888643"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="84.6882172487"
+    CenterY="-69.0769591487"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Composite infrared and radio image of 30 Doradus"
+    OffsetX="2.7828672944200003e-05"
+    OffsetY="1.3914336472100002e-05"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="90.08000000000004"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="https://data1.wwtassets.org/feeds/eso/eso2209a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="IR,Radio"
+    Xcorepipe_ids="eso|eso2209a"
+    Xcxstatus="skip"
+    Xdominant_band="IR"
+  >
+    <Credits>ESO, ALMA (ESO/NAOJ/NRAO)/Wong et al., ESO/M.-R. Cioni/VISTA Magellanic Cloud survey. Acknowledgment: Cambridge Astronomical Survey Unit</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso2209a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/eso/eso2209a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
+    BaseDegreesPerTile="0.0017350292843008"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="104.881633051"
+    CenterY="-4.09105631245"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Combined SPHERE and ALMA image of material orbiting V960 Mon"
+    OffsetX="8.47182267725e-07"
+    OffsetY="8.47182267725e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="https://data1.wwtassets.org/feeds/eso/eso2312a/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="IR,Radio"
+    Xcorepipe_ids="eso|eso2312a"
+    Xcxstatus="skip"
+    Xdominant_band="IR"
+  >
+    <Credits>ESO/ALMA (ESO/NAOJ/NRAO)/Weber et al.</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso2312a/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/eso/eso2312a/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
+    BaseDegreesPerTile="0.000655448064"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="82.614723797"
+    CenterY="25.3323905147"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="The MWC 758 planet-forming disc as seen by SPHERE and ALMA"
+    OffsetX="3.20043e-07"
+    OffsetY="3.20043e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="2"
+    Url="https://data1.wwtassets.org/feeds/eso/eso2405e/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="IR,Radio"
+    Xcorepipe_ids="eso|eso2405e"
+    Xcxstatus="skip"
+    Xdominant_band="IR"
+  >
+    <Credits>ESO/A. Garufi et al.; R. Dong et al.; ALMA (ESO/NAOJ/NRAO)</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso2405e/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/eso/eso2405e/thumb.jpg</ThumbnailUrl>
   </ImageSet>
   <ImageSet
     BandPass="Multi"

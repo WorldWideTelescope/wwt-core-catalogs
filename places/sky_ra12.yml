@@ -4875,6 +4875,128 @@ ra_hr: 12.59808899532676
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-at2016blu/thumb.jpg
 zoom_level: 1.3476872732788654
 ---
+_uuid: cc089f69-d19e-45be-befe-b7559b821cab
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.421634942875635
+description: This image of the nearby galaxy NGC 4254, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 4254 is a grand-design spiral galaxy located approximately 45 million
+  light-years from Earth in the constellation Coma Berenices. The images were taken
+  as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project,
+  which is making high-resolution observations of nearby galaxies with telescopes
+  operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 4254 galaxy as seen with ALMA
+ra_hr: 12.314099957302059
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-alma-cc/thumb.jpg
+zoom_level: 0.45310687797168003
+---
+_uuid: a5ece2e4-b168-4c61-8520-cef3b421dcce
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.423051405171998
+description: This image of the nearby galaxy NGC 4254, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 4254 is a grand-design spiral galaxy
+  located approximately 45 million light-years from Earth in the constellation Coma
+  Berenices. The images were taken as part of the Physics at High Angular resolution
+  in Nearby GalaxieS (PHANGS) project, which is making high-resolution observations
+  of nearby galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-cc/L{1}X{2}Y{3}.png
+name: The NGC 4254 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 12.314174357238425
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-cc/thumb.jpg
+zoom_level: 0.5115518330894256
+---
+_uuid: 22f41a97-811d-4ef6-9590-9e37c419a151
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.423051405171998
+description: This image of the nearby galaxy NGC 4254 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 4254 is a grand-design spiral galaxy
+  located approximately 45 million light-years from Earth in the constellation Coma
+  Berenices. The images were taken as part of the Physics at High Angular resolution
+  in Nearby GalaxieS (PHANGS) project, which is making high-resolution observations
+  of nearby galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 4254 mapped with MUSE on ESO’s VLT
+ra_hr: 12.314174357238425
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-ha/thumb.jpg
+zoom_level: 0.5115518330894256
+---
+_uuid: 2a464567-8c39-4363-bbc8-15e6419cf616
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image of the nearby galaxy NGC 4303, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 4303 is a spiral galaxy, with a bar of stars and gas at its centre, located
+  approximately 55 million light-years from Earth in the constellation Virgo. The
+  images were taken as part of the Physics at High Angular resolution in Nearby GalaxieS
+  (PHANGS) project, which is making high-resolution observations of nearby galaxies
+  with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 4303 galaxy as seen with ALMA
+ra_hr: 12.365246137611551
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-alma-cc/thumb.jpg
+zoom_level: 0.5015475170506039
+---
+_uuid: e1dfc2a5-5516-4ee4-9a5b-ebbd5b23e781
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604725774477
+description: This image of the nearby galaxy NGC 4303 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 4303 is a spiral galaxy, with a bar
+  of stars and gas at its centre, located approximately 55 million light-years from
+  Earth in the constellation Virgo. The images were taken as part of the Physics at
+  High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 4303 mapped with MUSE on ESO’s VLT
+ra_hr: 12.365253676324665
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-muse-ha/thumb.jpg
+zoom_level: 0.4984781206501008
+---
+_uuid: cda2b944-6b97-41bf-ae86-8157b545c481
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image of the nearby galaxy NGC 4303, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 4303 is a spiral galaxy, with a
+  bar of stars and gas at its centre, located approximately 55 million light-years
+  from Earth in the constellation Virgo. The images were taken as part of the Physics
+  at High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making
+  high-resolution observations of nearby galaxies with telescopes operating across
+  the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-muse/L{1}X{2}Y{3}.png
+name: The NGC 4303 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 12.365246137611551
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-muse/thumb.jpg
+zoom_level: 0.5015475170506039
+---
 _uuid: 823626d9-9530-4d44-9561-ef4c0ddcb491
 classification: ''
 constellation: COM

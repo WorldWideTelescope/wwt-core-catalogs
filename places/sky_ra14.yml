@@ -1926,6 +1926,27 @@ ra_hr: 14.054313578628815
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-m101/thumb.jpg
 zoom_level: 2.220053284312072
 ---
+_uuid: acfa20a4-c013-4ab7-babe-c812189a8d55
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -41.39805583220495
+description: 'This image, taken with the Atacama Large Millimeter/submillimeter Array
+  (ALMA), in which ESO is a partner, shows the young planetary system PDS 70, located
+  nearly 400 light-years away from Earth. The system features a star at its centre,
+  around which the planet PDS 70b is orbiting. On the same orbit as PDS 70b, astronomers
+  have detected a cloud of debris that could be the building blocks of a new planet
+  or the remnants of one already formed. The ring-like structure that dominates the
+  image is a circumstellar disc of material, out of which planets are forming. There
+  is in fact another planet in this system: PDS 70c, seen at 3 o’clock right next
+  to the inner rim of the disc.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2311b/L{1}X{2}Y{3}.png
+name: A planet and its Trojan orbiting a star in the PDS 70 system
+ra_hr: 14.13614051113037
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2311b/thumb.jpg
+zoom_level: 0.008682622039836956
+---
 _uuid: 95a5f37f-7b58-45ae-b8c1-5b7f7c26ab19
 classification: ''
 constellation: BOO

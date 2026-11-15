@@ -1434,6 +1434,81 @@ ra_hr: 6.974293308950493
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-bullet/thumb.jpg
 zoom_level: 0.416542458417416
 ---
+_uuid: 2e95ebd6-ecb9-456d-83b1-9890684f6527
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 9.40112512783896
+description: The Cone Nebula is part of a star-forming region of space, NGC 2264,
+  about 2500 light-years away. Its pillar-like appearance is a perfect example of
+  the shapes that can develop in giant clouds of cold molecular gas and dust, known
+  for creating new stars. This dramatic new view of the nebula was captured with the
+  FOcal Reducer and low dispersion Spectrograph 2 (FORS2) instrument on ESO’s Very
+  Large Telescope (VLT), and released on the occasion of ESO’s 60th anniversary.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2215a/L{1}X{2}Y{3}.png
+name: 'ESO’s 60th anniversary image: the Cone Nebula as seen by the VLT'
+ra_hr: 6.6870554786578005
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2215a/thumb.jpg
+zoom_level: 1.2010407423978022
+---
+_uuid: 2fa7c690-9cd1-43d9-8f4d-6b4ff96bef8e
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: At the centre of this image is the young star V960 Mon, located over
+  5000 light-years away in the constellation Monoceros. Dusty material with potential
+  to form planets surrounds the star. Observations obtained using the Spectro-Polarimetric
+  High-contrast Exoplanet REsearch (SPHERE) instrument on ESO’s VLT, represented in
+  yellow in this image, show that the dusty material orbiting the young star is assembling
+  together in a series of intricate spiral arms extending to distances greater than
+  the entire Solar System. Meanwhile, the blue regions represent data obtained with
+  the Atacama Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner.
+  The ALMA data peers deeper into the structure of the spiral arms, revealing large
+  dusty clumps that could contract and collapse to form giant planets roughly the
+  size of Jupiter via a process known as “gravitational instability”.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312a/L{1}X{2}Y{3}.png
+name: Combined SPHERE and ALMA image of material orbiting V960 Mon
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312a/thumb.jpg
+zoom_level: 0.01690230285983502
+---
+_uuid: ca7f49f9-be3a-4793-b133-fc3002422084
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: This image of the young star V960 Mon and its surrounding material was
+  taken with the Spectro-Polarimetric High-contrast Exoplanet REsearch (SPHERE) instrument
+  on ESO’s VLT. The material orbiting the young star is assembling together in a series
+  of intricate spiral arms that extend to distances greater than the entire Solar
+  System.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312c/L{1}X{2}Y{3}.png
+name: Intricate spiral arms around V960 Mon captured with SPHERE
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312c/thumb.jpg
+zoom_level: 0.01690230285983502
+---
+_uuid: e693936d-9e76-423f-9c16-3ea1d2778edd
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: This image of the young star V960 Mon and surrounding dusty material
+  was obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. Large dusty clumps with masses similar to that of planets are
+  visible here as blue blobs. These clumps could contract and collapse via a process
+  known as “gravitational instability” to form giant planets roughly the size of Jupiter.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312d/L{1}X{2}Y{3}.png
+name: Large dusty clumps orbiting V960 Mon captured by ALMA
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312d/thumb.jpg
+zoom_level: 0.01690230285983502
+---
 _uuid: ac3e7e46-a89a-41f2-80d9-bc5c730c1485
 classification: ''
 constellation: COL

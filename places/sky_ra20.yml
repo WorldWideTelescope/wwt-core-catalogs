@@ -1680,6 +1680,38 @@ ra_hr: 20.399687112660267
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2021-v404cyg/thumb.jpg
 zoom_level: 3.2306429333593245
 ---
+_uuid: 99cb6528-e77a-4993-8d4b-07629006d42a
+classification: ''
+constellation: MIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -44.440206616494066
+description: Do you see that small red spot? That’s an extremely distant explosion
+  in the early universe imaged by the X-Shooter instrument at ESO’s Very Large Telescope
+  (VLT). This light is from a gamma-ray burst (GRB), one of the most luminous and
+  puzzling phenomena in the universe. In September 2021, NASA's Neil Gehrels Swift
+  Observatory detected a bright source of gamma rays in this area of the sky. Once
+  the initial bright flash of a GRB has died down, the afterglow shines at longer
+  wavelengths like visible or infrared light. But they fade very quickly, so astronomers
+  must react fast! A team of astronomers led by Andrea Rossi at INAF in Bologna observed
+  the aftermath of the GRB with a number of telescopes around the world, including
+  several ESO instruments on the VLT and the robotic telescopes REM and GROND hosted
+  at ESO’s La Silla Observatory. Besides taking images with X-Shooter, the team also
+  used this instrument to obtain spectra. This was key to discover that the burst
+  originates from an extremely distant galaxy, when the universe was only 6% of its
+  current age, making this one of the most distant GBRs ever found. The origins of
+  gamma-ray bursts however remain a bit of a mystery. According to Rossi’s team, this
+  particular GRB put out so much energy that it was probably powered by material falling
+  onto a black hole or (less likely) a magnetar –– a neutron star with a very strong
+  magnetic field. With ESO’s upcoming Extremely Large Telescope, properties of bursts
+  like these and their progenitors can be studied in greater detail, and their elusive
+  origin can be uncovered.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2240a/L{1}X{2}Y{3}.png
+name: A blast from the past
+ra_hr: 20.603216767596294
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2240a/thumb.jpg
+zoom_level: 0.12917396596534558
+---
 _uuid: a2a75c9e-d022-4df4-adfb-0cc5325820eb
 classification: ''
 constellation: CYG

@@ -2288,6 +2288,116 @@ ra_hr: 16.62043462815019
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-zetaoph/thumb.jpg
 zoom_level: 6.149525794395171
 ---
+_uuid: f983bcfa-ae00-4e79-bc44-afec0a4fda5e
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.213311681401706
+description: This image shows the L1688 region in the Ophiuchus constellation. New
+  stars are born in the colourful clouds of gas and dust seen here. The infrared observations
+  underlying this image reveal new details in the star-forming regions that are usually
+  obscured by the clouds of dust. The image was produced with data collected by the
+  VIRCAM instrument, which is attached to the VISTA telescope at ESO’s Paranal Observatory
+  in Chile. The observations were done as part of the VISIONS survey, which will allow
+  astronomers to better understand how stars form in these dust-enshrouded regions.
+  This 520-million-pixel image can be explored in more detail with this zoomable version.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307a/L{1}X{2}Y{3}.png
+name: An infrared view of the L1688 region in Ophiuchus
+ra_hr: 16.48110176855313
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307a/thumb.jpg
+zoom_level: 16.75542617993637
+---
+_uuid: cdab766d-8d86-4eb9-a5e0-150e55bceca5
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.12809903189787
+description: This image shows the region Lupus 3. New stars are born in the colourful
+  clouds of gas and dust seen here. The infrared observations underlying this image
+  reveal new details in the star-forming regions that are usually obscured by the
+  clouds of dust. The image was produced with data collected by the VIRCAM instrument,
+  which is attached to the VISTA telescope at ESO’s Paranal Observatory in Chile.
+  The observations were done as part of the VISIONS survey, which will allow astronomers
+  to better understand how stars form in these dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307c/L{1}X{2}Y{3}.png
+name: An infrared view of the Lupus 3 region
+ra_hr: 16.158090795268176
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307c/thumb.jpg
+zoom_level: 5.856951141012168
+---
+_uuid: 408b7462-dbe2-4877-9a86-1e0ea1cf17e3
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.213311681401706
+description: This image shows the environment around the L1688 star-forming region
+  in visible light. This area, located in the Ophiuchus constellation, features prominent
+  dark lanes and glowing nebulae. This image was taken from ESO’s Paranal Observatory
+  with a 10-cm Takahashi FSQ106Ed f/3.6 telescope and a SBIG STL CCD camera, as part
+  of the Gigagalaxy Zoom project.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307g/L{1}X{2}Y{3}.png
+name: The L1688 region in visible light
+ra_hr: 16.48110176855313
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307g/thumb.jpg
+zoom_level: 16.75542617993637
+---
+_uuid: 302a34ab-dfca-4676-afc2-e93f909bdca7
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.38611
+description: Fittingly nicknamed the Dark Wolf Nebula, this cosmic cloud was captured
+  in a 283-million-pixel image by the VLT Survey Telescope (VST) at ESO’s Paranal
+  Observatory in Chile. Located around 5300 light-years from Earth, the cold clouds
+  of cosmic dust create the illusion of a wolf-like silhouette against a colourful
+  backdrop of glowing gas clouds.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2416a/L{1}X{2}Y{3}.png
+name: The Dark Wolf Nebula
+ra_hr: 16.902778
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2416a/thumb.jpg
+zoom_level: 10.2002694024
+---
+_uuid: 922dfc58-9c73-463c-b4cf-59e705ec3793
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 26.885156897254813
+description: 'There are several galaxies in this Picture of the Week, but the most
+  fascinating is probably the one surrounded by four light-blue dots, resembling a
+  flower with blue petals. But, are these dots real? Yes and no… Taken with ESO’s
+  Very Large Telescope (VLT), this image shows a so-called Einstein Cross. The four
+  ‘petals’ are images of a distant galaxy hidden behind the orange galaxy at the centre.
+  Something very fascinating happens to allow us to detect the light from this hidden
+  object: the galaxy at the centre acts as a gravitational lens, bending the light
+  emitted from the distant galaxy around it. As a result, we see several images of
+  the distant galaxy, distorted and magnified. In the special configuration of these
+  two galaxies, the hidden one appears as four images around the central ‘lens’ galaxy,
+  forming a cross-like (or flower-like) pattern dubbed an Einstein Cross. Gravitational
+  lensing thus allows us to discover hidden galaxies that would be otherwise invisible
+  to us. The observations of this system were conducted with the Multi Unit Spectroscopic
+  Explorer (MUSE) instrument at ESO’s VLT in Chile. MUSE splits the light coming from
+  every point within the area being observed into a rainbow or spectrum, which provides
+  astronomers with a wealth of information about the objects within the field of view.
+  The results of these observations, presented in a new paper led by Aleksandar Cikota
+  at the Gemini Observatory in Chile, show that the distant galaxy is forming stars
+  at a rapid rate[1]. Since light left the galaxy when the Universe was about 20%
+  of its current age, studying it provides clues about how galaxies formed in the
+  early Universe. Note [1] The expansion of the Universe makes distant galaxies appear
+  redder than if they were closer to us. That being said, the four images of the distant
+  galaxy here look blue due to the presence of young stars. The lens galaxy at the
+  centre is closer to us, but it looks red as it’s largely composed of old stars.
+  Link Closeup of the Einstein Cross.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2337b/L{1}X{2}Y{3}.png
+name: A flower with four petals (full field of view)
+ra_hr: 16.883578079434375
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2337b/thumb.jpg
+zoom_level: 0.17139804427005145
+---
 _uuid: 5caa6566-3360-4dee-8585-9e07299b7b02
 classification: ''
 constellation: DRA

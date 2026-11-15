@@ -2111,6 +2111,67 @@ name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
 ---
+_uuid: 4724aa54-cfd1-401f-b22d-0463342aec7f
+classification: ''
+constellation: CRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -36.95357396207955
+description: This image shows the regions around the Coronet star cluster in the Corona
+  Australis constellation. New stars are born in the colourful clouds of gas and dust
+  seen here. The infrared observations underlying the image reveal new details in
+  the star-forming regions that are usually obscured by the clouds of dust. The image
+  was produced with data collected by the VIRCAM instrument, which is attached to
+  the VISTA telescope at ESO’s Paranal Observatory in Chile. The observations were
+  done as part of the VISIONS survey, which will allow astronomers to better understand
+  how stars form in these dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307f/L{1}X{2}Y{3}.png
+name: An infrared view of the region around the Coronet star cluster
+ra_hr: 19.03060190278874
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307f/thumb.jpg
+zoom_level: 3.724389051986205
+---
+_uuid: 2eebb1ed-3343-4d94-82fd-981d51cd313f
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.681963890000006
+description: What appears to be a ripple in space, is today’s Picture of the Week
+  depicting a newborn planet eating its way through its dusty cradle as it orbits
+  its host star. This image, taken with ESO’s Very Large Telescope (VLT) in Chile,
+  is the first clear detection of a baby planet in a disc with multiple rings. These
+  so-called protoplanetary discs surround young stars and appear as disc-shaped structures
+  of gas and dust, often with rings like the one in this image. They are the birthplace
+  of planets, and the rings are thought to indicate the presence of (hungry) planets
+  in the disc. Initially, little particles in the spinning disc begin to accumulate
+  and grow as gravity takes over, stealing more material from the native disc until
+  they evolve into embryo planets. The clear detection of the planet WISPIT 2b in
+  this image is an important step forward in our understanding of how planets form.
+  It’s about 5 times the mass of Jupiter, and its host star is a younger version of
+  our Sun. It also reinforces the idea that gaps can be created by newly formed planets
+  — a prediction only made in theory that has now been verified observationally. While
+  looking for stars hosting young planets, the team of researchers were lucky enough
+  to find a planet so young that is still embedded in its birth disc. This discovery
+  was published in a paper led by Richelle van Capelleveen at the University of Leiden,
+  Netherlands, in collaboration with an international team of astronomers from the
+  University of Galway and the University of Arizona. It was made possible through
+  the precise observations of the planet-hunting SPHERE instrument on the VLT. SPHERE
+  blocks the light of the central star and corrects atmospheric turbulence with adaptive
+  optics, delivering crisp images of the surroundings of the star. The University
+  of Arizona's MagAO-X AO system on the 6.5m Magellan telescope in Chile detected
+  hydrogen gas falling onto the planet, confirming that it is accreting matter from
+  its surroundings. Further observations of this system might reveal new insights
+  about how our own Solar System may have looked in its early days. Links VLT paper
+  by R. F. van Capelleveen et al., accepted for publication in Astrophysical Journal
+  Letters. Magellan paper by L. M. Close, accepted for publication in Astrophysical
+  Journal Letters.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2534a/L{1}X{2}Y{3}.png
+name: A very hungry planet
+ra_hr: 19.388063888866668
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2534a/thumb.jpg
+zoom_level: 0.01851912
+---
 _uuid: 093eae83-7f9d-4d88-9001-20bbadf9a951
 classification: ''
 constellation: PAV

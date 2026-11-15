@@ -1442,6 +1442,24 @@ name: Thor's Helmet
 ra_hr: 7.3086111111111105
 zoom_level: 3.746666666666667
 ---
+_uuid: dcf8d774-3614-486d-8874-dd63c25a62c6
+classification: ''
+constellation: PUP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -38.408156857189255
+description: NGC 2477 (also known as Caldwell 71) is an open cluster in the constellation
+  Puppis. It contains about 300 stars, and was discovered by Abbe Lacaille in 1751.
+  The cluster's age has been estimated at about 700 million years. NGC 2477 is a stunning
+  cluster, almost as extensive in the sky as the full moon. It has been called "one
+  of the top open clusters in the sky", like a highly-resolved globular cluster without
+  the dense centre characteristic of globular clusters.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/perez-ngc_2477/L{1}X{2}Y{3}.png
+name: NGC 2477
+ra_hr: 7.812668500324743
+thumbnail: https://data1.wwtassets.org/feeds/eso/perez-ngc_2477/thumb.jpg
+zoom_level: 17.762202715935956
+---
 _uuid: 4cd42b66-ccdb-4e31-bf18-173be2ba790d
 classification: ''
 constellation: CEP

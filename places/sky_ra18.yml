@@ -3409,6 +3409,61 @@ ra_hr: 18.180236408339233
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-z8338/thumb.jpg
 zoom_level: 2.2770447215087857
 ---
+_uuid: ec0484ec-3b61-43ba-aced-378716c2b389
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.736729631925392
+description: This image of the spectacular Sh2-54 nebula was taken in infrared light
+  using ESO’s VISTA telescope at Paranal Observatory in Chile. The clouds of dust
+  and gas that are normally obvious in visible light are less evident here, and in
+  this light we can see the light of the stars behind the nebulae now piercing through.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2301a/L{1}X{2}Y{3}.png
+name: The Sh2-54 nebula in the infrared with VISTA
+ra_hr: 18.29820627605409
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2301a/thumb.jpg
+zoom_level: 2.2065196502273006
+---
+_uuid: 2f4d8416-942a-4fae-965e-e064f591b826
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.736729631925392
+description: A visible-light image of the Sh2-54 nebula, captured by the VLT Survey
+  Telescope at ESO’s Paranal Observatory in Chile. At these wavelengths the structure
+  of the nebula is clear and the clouds of dust and gas block the light of stars within
+  and behind it.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2301b/L{1}X{2}Y{3}.png
+name: The Sh2-54 nebula in visible light with the VST
+ra_hr: 18.29820627605409
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2301b/thumb.jpg
+zoom_level: 2.2065196502273006
+---
+_uuid: 52858b84-4cc7-46c1-b9a5-536d254a18ef
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -16.672782661862787
+description: In this Picture of the Week, we take a deep plunge into the ocean of
+  stars in the IC4701 nebula. This nebula is located in the Sagittarius constellation,
+  and it is twice as wide as the full Moon in the sky. The energetic light from newly-born
+  stars ionizes the hydrogen gas in the nebula, causing it to emit the intense reddish
+  hue seen in this picture. The dark clouds in this image contain large amounts of
+  interstellar dust, too dense for the light of the background stars to pierce through
+  it. The IC4701 nebula is part of a rich and vast complex of dust and gas within
+  which new stars spring to life. When stars are born, most of them are cooler, redder,
+  and less massive than our own Sun. Hotter, more massive stars are much rarer, and
+  they quickly burn through all their fuel and die. This makes these brilliant blue
+  and massive stars, and their surrounding glowing gas, beacons of recent star formation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2310a/L{1}X{2}Y{3}.png
+name: Plunge into a stellar ocean
+ra_hr: 18.276390184342556
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2310a/thumb.jpg
+zoom_level: 10.200188788869909
+---
 _uuid: cb59f986-b09c-40d8-a21b-d750d1e0e2c3
 classification: ''
 constellation: SER2

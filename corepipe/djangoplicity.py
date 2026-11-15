@@ -62,12 +62,13 @@ def fix_djangoplicity_json(obj):
     return obj
 
 
-_RUN_ON_ACK = re.compile(r"([^\s>'\"])(Acknowledge?ments?:)")
+_RUN_ON_ACK = re.compile(r"([^\s>'\"])((?:Acknowledge?ments?|Image [Pp]rocessing):)")
 
 
 def _separate_acknowledgement(text):
     """
-    The sites show "Acknowledgement: ..." on its own line, but the API drops the
+    The sites show "Acknowledgement: ..." (and NOIRLab "Image processing: ...") on
+    its own line, but the API drops the
     line break: "J. DalcantonAcknowledgement: Judy Schmidt". Put a separator back.
     """
 

@@ -1073,6 +1073,25 @@ ra_hr: 15.181782204365568
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-a2029/thumb.jpg
 zoom_level: 4.3239143054697085
 ---
+_uuid: 6230b367-62b7-41db-bd53-f9151a595fcb
+classification: ''
+constellation: LUP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -34.260988849575305
+description: This image shows the region Lupus 2. New stars are born in the colourful
+  clouds of gas and dust seen here. The infrared observations underlying this image
+  reveal new details in the star-forming regions that are usually obscured by the
+  clouds of dust. The image was produced with data collected by the VIRCAM instrument,
+  which is attached to the VISTA telescope at ESO’s Paranal Observatory in Chile.
+  The observations were done as part of the VISIONS survey, which will allow astronomers
+  to better understand how stars form in these dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307b/L{1}X{2}Y{3}.png
+name: An infrared view of the Lupus 2 region
+ra_hr: 15.747534357615864
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307b/thumb.jpg
+zoom_level: 4.568489689009585
+---
 _uuid: d8547e33-1317-46f7-af12-15886fa1b3e9
 classification: ''
 constellation: APS

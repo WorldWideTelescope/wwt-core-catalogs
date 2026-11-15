@@ -3433,6 +3433,50 @@ ra_hr: 17.741174862130833
 thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-sgrc/thumb.jpg
 zoom_level: 2.943250739044409
 ---
+_uuid: fef9d561-cd59-4d57-b8d9-876f2e9ccf75
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -28.834065294119256
+description: 'This image shows the complex distribution of molecular gas in the Central
+  Molecular Zone (CMZ) of the Milky Way. It was obtained with the Atacama Large Millimeter/submillimeter
+  Array (ALMA), in which ESO is a partner. This map is as long as three full Moons
+  side-by-side in the sky, and it is in fact the largest ALMA image ever obtained.
+
+  This map is part of ACES — the ALMA CMZ Exploration Survey — a project designed
+  to understand how gas condenses into stars in the extreme and chaotic environment
+  at the heart of our galaxy. The survey has charted the distribution of dozens of
+  different molecules, five of which are shown here in different colours: sulphur
+  monoxide (cyan), silicon monoxide (green), isocyanic acid (red), cyanoacetylene
+  (blue), and carbon monosulphide (magenta).
+
+  The stars in the foreground of this image were observed at infrared wavelengths
+  (Y, Z and J filters) with ESO’s VISTA telescope as part of a different project.
+  The actual density of stars in the CMZ is much higher than what is shown here, where
+  we have opted to highlight the details in the molecular cloud. Note that the edges
+  of the ALMA map appear somewhat sharp because the ALMA observations do not cover
+  the entire rectangular area here.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2603a/L{1}X{2}Y{3}.png
+name: Largest ALMA image ever shows the molecular gas in the centre of the Milky Way
+ra_hr: 17.767638722848705
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2603a/thumb.jpg
+zoom_level: 5.779996300799999
+---
+_uuid: cd1cd8e0-3fea-4152-9393-eced593b2bb0
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.0097685722683
+description: View of the Galactic centre captured with ESO's VISTA infrared survey
+  telescope, as part of the Variables in the Via Lactea (VVV) ESO public survey.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/galactic-centre-e/L{1}X{2}Y{3}.png
+name: View of the galactic centre
+ra_hr: 17.761228564650654
+thumbnail: https://data1.wwtassets.org/feeds/eso/galactic-centre-e/thumb.jpg
+zoom_level: 0.1412254396849136
+---
 _uuid: 84299878-e9ed-4add-a35f-2780945f7ed0
 classification: ''
 constellation: DRA
