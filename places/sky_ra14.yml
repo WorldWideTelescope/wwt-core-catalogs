@@ -2340,6 +2340,104 @@ ra_hr: 14.396520153174713
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2429a/thumb.jpg
 zoom_level: 0.40855690059927596
 ---
+_uuid: c271ebf0-0394-4c65-87cd-bb7b6e0533a5
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -62.651471870523515
+description: The SMARTS 0.9-meter Telescope at Cerro-Tololo International Observatory
+  (CTIO), a Program of NSF NOIRLab, has captured an echo of the past in this gorgeous
+  Image of the Week. RCW 86 is a literal shell of its former self, the gaseous remnant
+  of a supernova. Some 11,000 years ago a white dwarf, itself the core of a former
+  star, became too massive and spectacularly exploded in a Type Ia supernova. Shockwaves
+  reverberated through space, pushing the gas outward, whereupon it formed the multi-layered
+  “bubble” we see today. Besides being a spectacular stellar object, the remnant may
+  have been created by the earliest recorded supernova, observed by Chinese astronomers
+  in 185 AD in the same area between the constellations Circinus and Centaurus. This
+  image was obtained by NOIRLab’s Communication, Education & Engagement team as part
+  of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2236a/L{1}X{2}Y{3}.png
+name: Dynastic Vibes
+ra_hr: 14.676726176835388
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2236a/thumb.jpg
+zoom_level: 2.320228642957177
+---
+_uuid: 85dd58fb-0b7d-49ed-b21b-c9bb7f2a3343
+classification: ''
+constellation: BOO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.889170572965863
+description: This Gemini North image, superimposed on an image taken with the Hubble
+  Space Telescope, shows the telltale near-infrared afterglow of a kilonova produced
+  by a long GRB (GRB 211211A). This discovery challenges the prevailing theory that
+  long GRBs exclusively come from supernovae, the end-of-life explosions of massive
+  stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2228c/L{1}X{2}Y{3}.png
+name: Gemini North and Hubble image of GRB afterglow (unannotated)
+ra_hr: 14.152911836892962
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2228c/thumb.jpg
+zoom_level: 0.1391484049149067
+---
+_uuid: 3c51a76c-dcdc-483e-ba95-ccf3ab4eb281
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -62.56931144292395
+description: The tattered shell of the first-ever recorded supernova was captured
+  by the US Department of Energy-fabricated Dark Energy Camera, which is mounted on
+  the National Science Foundation’s (NSF) Víctor M. Blanco 4-meter Telescope at Cerro
+  Tololo Inter-American Observatory in Chile, a Program of NSF NOIRLab. A ring of
+  glowing debris is all that remains of a white dwarf star that exploded more than
+  1800 years ago when it was recorded by Chinese astronomers as a ‘guest star’. This
+  special image, which covers an impressive 45 arcminutes on the sky, gives a rare
+  view of the entirety of this supernova remnant.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2307a/L{1}X{2}Y{3}.png
+name: DECam Images RCW 86, Remains of Supernova Witnessed in 185
+ra_hr: 14.716589691865194
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2307a/thumb.jpg
+zoom_level: 8.144718277082491
+---
+_uuid: c98c3822-abfd-4f10-99de-b1a56a99f12e
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 54.31814483807507
+description: Gemini North, part of the International Gemini Observatory operated by
+  NSF NOIRLab, is back observing the night sky following the repair and refurbishment
+  of its primary mirror. The telescope’s debut observation captured the supernova
+  dubbed SN 2023ixf (lower left), which was discovered on 19 May by Japanese astronomer
+  Koichi Itagaki. This dazzling point of light, the closest supernova seen in the
+  past five years, is located along one of the spiral arms of the Pinwheel Galaxy
+  (Messier 101).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2315a/L{1}X{2}Y{3}.png
+name: Gemini North Back On Sky With Dazzling Image of Supernova in the Pinwheel Galaxy
+ra_hr: 14.05418076354201
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2315a/thumb.jpg
+zoom_level: 0.9104310121605221
+---
+_uuid: 0086033e-3475-4839-be18-94791d72aa8c
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.339222957464244
+description: A celestial shadow known as the Circinus West molecular cloud creeps
+  across this image taken with the Department of Energy-fabricated 570-megapixel Dark
+  Energy Camera (DECam) — one of the most powerful digital cameras in the world. Within
+  this stellar nursery's opaque boundaries, infant stars ignite from cold, dense gas
+  and dust, while outflows hurtle leftover material into space. DECam is mounted on
+  the U.S. National Science Foundation Víctor M. Blanco 4-meter telescope at Cerro
+  Tololo Inter-American Observatory in Chile, a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2515a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Captures Circinus West Molecular Cloud
+ra_hr: 14.998402786533335
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2515a/thumb.jpg
+zoom_level: 13.12008390821178
+---
 _uuid: f758b9f4-333b-4513-824a-aee8fc190ede
 classification: ''
 constellation: CEN

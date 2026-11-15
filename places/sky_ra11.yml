@@ -3276,3 +3276,101 @@ name: MACS J1149.5+2223
 ra_hr: 11.824843046554728
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2522b/thumb.jpg
 zoom_level: 0.4108060722345016
+---
+_uuid: 8b514570-43dd-48de-b38f-fa0dc6e30733
+classification: ''
+constellation: CRT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -19.899339839934303
+description: This unbarred spiral galaxy in the constellation Crater features a bright
+  central core, where a supermassive black hole lies, surrounded by a disk of hot,
+  young stars and spiral arms laced with streams of dust and more young stars. The
+  irregular, outstretched shape of its arms is likely due to gravitational influence
+  from an encounter with one of its galactic neighbors. NGC 3981 is a member of the
+  NGC 4038 Group of galaxies, which also contains the well-known interacting Antennae
+  Galaxies. The NGC 4038 Group is a small component of the Virgo Supercluster, the
+  immense collection of galaxies that hosts our own Milky Way Galaxy. The unfurling
+  arms of NGC 3981 appear to dissolve right into the cosmos in this image captured
+  by the DOE-built Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope
+  at the U.S. National Science Foundation Cerro Tololo Inter-American Observatory
+  (CTIO), a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2425a/L{1}X{2}Y{3}.png
+name: The Unfurling Spiral Arms of NGC 3981
+ra_hr: 11.932944580753382
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2425a/thumb.jpg
+zoom_level: 2.1628526677639788
+---
+_uuid: 26110d4b-8d01-48b4-9c3f-b351133c7b0b
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.72958532324618
+description: This ethereal image, captured from Chile by the international Gemini
+  Observatory, a Program of NSF NOIRLab, looks as delicate as a butterfly’s wing.
+  It is, however, a structure known as the Chamaeleon Infrared Nebula, which is located
+  near the center of the even larger Chamaeleon I dark cloud, one of the nearest star-forming
+  regions in our Milky Way.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2129a/L{1}X{2}Y{3}.png
+name: Chamaeleon Infrared Nebula
+ra_hr: 11.144001498452324
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2129a/thumb.jpg
+zoom_level: 0.8191141291237967
+---
+_uuid: 00558e1c-d304-4186-8cff-dfe955c5fc72
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -28.53534363517546
+description: The symmetrical, onion-like layers of shell galaxy NGC 3923 are showcased
+  in this galaxy-rich image (zoom in here!) taken by the US Department of Energy’s
+  (DOE) Dark Energy Camera mounted on the National Science Foundation’s (NSF) Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab. A nearby, massive galaxy cluster is also captured exhibiting
+  the phenomenon known as gravitational lensing.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2325a/L{1}X{2}Y{3}.png
+name: NGC 3923
+ra_hr: 11.838080643867738
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2325a/thumb.jpg
+zoom_level: 11.726599226426274
+---
+_uuid: a4391c74-f15b-47b5-ac2c-3901ee72024b
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 13.599346025186804
+description: NGC 3628, sometimes nicknamed the Hamburger Galaxy or Sarah's Galaxy,
+  is an unbarred spiral galaxy about 35 million light-years away in the constellation
+  Leo. Extending to the left of NGC 3628 for around 300,000 light-years is a ‘tidal
+  tail’ — an elongated region of stars that arises as a result of gravitational interaction
+  with another galaxy. Embedded within this tidal tail is the ultra-compact dwarf
+  galaxy known as NGC 3628-UCD1. This image was captured by the US Department of Energy’s
+  (DOE) Dark Energy Camera mounted on the National Science Foundation’s (NSF) Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab. NGC 3628 was not part of the survey of the Virgo Cluster.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2330c/L{1}X{2}Y{3}.png
+name: NGC 3628 and an example of an ultra-compact dwarf galaxy (no annotations)
+ra_hr: 11.3404790402
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2330c/thumb.jpg
+zoom_level: 4.024926302325486
+---
+_uuid: a2ad9335-3b96-4ae6-85cc-5aabba09fe89
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.55934740734662
+description: The ominous Chamaeleon I dark cloud, the nearest star-forming region
+  to Earth, is captured in this image taken with the 570-megapixel Department of Energy-fabricated
+  Dark Energy Camera mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF NOIRLab.
+  Chamaeleon I is one portion of the larger Chamaeleon Complex and is home to three
+  reflection nebulae that are brightly illuminated by nearby newly formed stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2519a/L{1}X{2}Y{3}.png
+name: The Ominous Chamaeleon I Dark Cloud
+ra_hr: 11.116566769764402
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2519a/thumb.jpg
+zoom_level: 13.44956181569765

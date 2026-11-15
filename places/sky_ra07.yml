@@ -1895,6 +1895,77 @@ ra_hr: 7.486335501881009
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2616b/thumb.jpg
 zoom_level: 0.21955456953540953
 ---
+_uuid: 1299a38c-fe74-41cd-ba89-cd707164412f
+classification: ''
+constellation: CAM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.59118388498597
+description: 'Captured by the Mosaic camera on the Nicholas U. Mayall 4-meter Telescope
+  at the Kitt Peak National Observatory (KPNO), a Program of NSF NOIRLab, the spiral
+  galaxy NGC 2403, also known as Caldwell 7, highlights the dynamic birth and death
+  of stars. The glowing red spots dotting the galaxy are clouds of ionized hydrogen
+  gas known as HII regions. These areas indicate the birth of young, hot stars, which
+  often ionize nearby hydrogen gas during their dynamic formation. Conversely NGC
+  2403 has also been the home of the brightest and nearest observed death of a star
+  this millennium: the supernova SN 2004dj. The region in NGC 2403 that contained
+  the star which became a supernova in 2004 had been observed both before, during
+  and after the explosion, providing a fascinating timeline of the impact of the event.
+  Since star formation occurs on a timescale much longer than a human lifetime, the
+  process has to be pieced together like a puzzle through observations of different
+  stars in different stages of the stellar life cycle. It is very satisfying for astronomers
+  to be able to observe supernovae, which occur incredibly quickly even by human standards,
+  to confirm and develop theories of the life cycle of stars.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2221a/L{1}X{2}Y{3}.png
+name: A Galaxy of Birth and Death
+ra_hr: 7.614084175340687
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2221a/thumb.jpg
+zoom_level: 3.4537989648510075
+---
+_uuid: 932dfefd-65ed-4838-8f04-c718d307c98b
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.12632533100528
+description: A billowing pair of nearly symmetrical loops of dust and gas mark the
+  death throes of an ancient red-giant star, as captured by Gemini South, one half
+  of the International Gemini Observatory, operated by NSF NOIRLab. The resulting
+  structure, said to resemble an old style of English jug, is a rarely seen bipolar
+  reflection nebula. Evidence suggests that this object formed by the interactions
+  between the dying red giant and a now-shredded companion star. The image was obtained
+  by NOIRLab’s Communication, Education & Engagement team as part of the NOIRLab Legacy
+  Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2320a/L{1}X{2}Y{3}.png
+name: Gemini South Captures Toby Jug Nebula
+ra_hr: 7.947459323954432
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2320a/thumb.jpg
+zoom_level: 0.8621772558728584
+---
+_uuid: 5694492e-3897-4589-be08-e507251a5e6b
+classification: ''
+constellation: PUP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.00485176392972
+description: This cloudy, ominous structure is CG 4, a cometary globule nicknamed
+  ‘God’s Hand’. CG 4 is one of many cometary globules present within the Milky Way,
+  and how these objects get their distinct form is still a matter of debate among
+  astronomers. This image was captured by the Department of Energy-fabricated Dark
+  Energy Camera on the U.S. National Science Foundation Víctor M. Blanco 4-meter Telescope
+  at Cerro Tololo Inter-American Observatory, a Program of NSF NOIRLab. In it, the
+  features that classify CG 4 as a cometary globule are hard to miss. Its dusty head
+  and long, faint tail vaguely resemble the appearance of a comet, though they have
+  nothing in common. Astronomers theorize that cometary globules get their structure
+  from the stellar winds of nearby hot, massive stars. This image was obtained by
+  NOIRLab’s Communication, Education & Engagement team as part of the NOIRLab Legacy
+  Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2412a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Images Cometary Globule CG 4
+ra_hr: 7.5424112065807
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2412a/thumb.jpg
+zoom_level: 12.207574328142492
+---
 _uuid: a849fa52-c2ed-40bf-ae8b-d940a09912bc
 classification: ''
 constellation: MON

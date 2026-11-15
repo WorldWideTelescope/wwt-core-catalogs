@@ -4115,3 +4115,179 @@ name: 'IC 348 Crop: Spiral galaxies'
 ra_hr: 3.7290043085445084
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2619h/thumb.jpg
 zoom_level: 0.18652473331354613
+---
+_uuid: b6707d28-29a7-4865-a9dc-c0d673cd9b8e
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -26.340176044787253
+description: This image captures the spiral galaxy NGC 1398, which lies roughly 65
+  million light-years from Earth in the constellation Fornax. NGC 1398 is a barred
+  spiral galaxy, and both its bright central bar and delicate spiral arms are clearly
+  visible in this image, with the galaxy itself seemingly adrift and alone in a field
+  of stars. Upon closer inspection, however, the sky around NGC 1398 is teeming with
+  the smudges and whirls of distant galaxies. This deep portrait of NGC 1398 and its
+  neighborhood was captured by the Víctor M. Blanco 4-meter Telescope at Cerro Tololo
+  Inter-American Observatory (CTIO), a Program of NSF NOIRLab. In 1995 the telescope
+  was named in honor of Puerto Rican astronomer Víctor Manuel Blanco, the second director
+  of CTIO. Today, the telescope is a high-performance astronomical workhorse, providing
+  astronomers with detailed observations over a wide field of view. The image was
+  taken as part of the Dark Energy Survey (DES), funded by the DOE, with one of the
+  highest-performance, wide-field CCD imagers in the world, DECam, built and tested
+  at DOE’s Fermilab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2140a/L{1}X{2}Y{3}.png
+name: A Galaxy Adrift
+ra_hr: 3.6475352377183787
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2140a/thumb.jpg
+zoom_level: 3.0607832473424343
+---
+_uuid: f80ab768-019b-4453-a68c-17f4eb1f2c41
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -41.11386515434684
+description: This Image of the Week of NGC 1269 was taken utilizing the Department
+  of Energy-fabricated Dark Energy Camera (DECam), which is mounted on the U.S. National
+  Science Foundation Víctor M. Blanco 4-meter Telescope at NSF Cerro Tololo Inter-American
+  Observatory, a Program of NSF NOIRLab. NGC 1269 is an early-type spiral galaxy located
+  about 33 million light-years from Earth in the constellation Eridanus. A bar, a
+  feature common to many spiral galaxies, slices through the center of the galaxy.
+  Surrounding the galactic core are both inner and outer disks, seeming to form ‘wheels’
+  around the core. Their presence is thought to be the result of a merger with another
+  galaxy, and the inner disk is also believed to have been further shaped by density
+  waves radiating outward from the galactic center. Data for this image came from
+  the archive of the Dark Energy Survey (DES), operated by the DOE and NSF between
+  2013 and 2019 with the specially-designed DECam. The survey sought to study the
+  nature of the elusive dark matter by imaging hundreds of millions of galaxies. Today,
+  the DECam is available to other scientists for use on the Blanco telescope.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2608a/L{1}X{2}Y{3}.png
+name: The Cosmic Steering Wheel NGC 1269
+ra_hr: 3.2883388273980767
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2608a/thumb.jpg
+zoom_level: 4.980589208167784
+---
+_uuid: b825757e-728d-49eb-94b8-4e19acfad262
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -35.49512067295035
+description: Members of the Fornax galaxy cluster fill this image from the Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO), a
+  Program of NSF NOIRLab. Appearing in the constellation Fornax (the Furnace), the
+  Fornax Cluster is a relatively nearby galaxy cluster, only about 60 million light-years
+  from Earth. Some foreground stars, which belong to our own Milky Way Galaxy, appear
+  in the image as well.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2126a/L{1}X{2}Y{3}.png
+name: Galaxies in the Fornax Cluster
+ra_hr: 3.649020540107378
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2126a/thumb.jpg
+zoom_level: 3.7227492169197003
+---
+_uuid: 2ea499e2-3f3e-482f-8957-cecd860eded3
+classification: ''
+constellation: RET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -53.641524134171675
+description: This is an image centered on a relatively nearby galaxy cluster dubbed
+  Abell 3158; light from these galaxies had a redshift value of 0.059, meaning that
+  it traveled approximately 825 million years on its journey to Earth. The image is
+  a small part of the DESI Legacy Imaging Surveys — a monumental six-year survey covering
+  nearly half the sky. Most of the data for the image originally were taken as part
+  of the LoVoCCS survey.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2306a/L{1}X{2}Y{3}.png
+name: Image of Abell 3158, Part of the DESI Legacy Imaging Survey
+ra_hr: 3.717812554550359
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2306a/thumb.jpg
+zoom_level: 1.8804471219958532
+---
+_uuid: 965591d3-7518-4700-a007-c3858d7aa356
+classification: ''
+constellation: PER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 41.46995676766441
+description: NGC 1270 is just one member of the Perseus Cluster, a group of thousands
+  of galaxies that lies around 240 million light-years from Earth in the constellation
+  Perseus. This image, taken with the Gemini Multi-Object Spectrograph (GMOS) on the
+  Gemini North telescope, one half of the International Gemini Observatory, which
+  is supported in part by the U.S. National Science Foundation and operated by NSF
+  NOIRLab, captures a dazzling collection of galaxies in the central region of this
+  enormous cluster.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2426a/L{1}X{2}Y{3}.png
+name: 'NGC 1270: A Galactic Archipelago'
+ra_hr: 3.316143483083528
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2426a/thumb.jpg
+zoom_level: 0.7401400523492059
+---
+_uuid: 6bcc7de4-3f12-477b-8ebc-00fa437e91df
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -22.506806597210005
+description: This image shows the cosmic field in which the fast X-ray transient EP
+  250108a, and the supernova that followed it, were detected by Einstein Probe (EP)
+  in early 2025. Using a combination of telescopes, including the International Gemini
+  Observatory, funded in part by the U.S. National Science Foundation and operated
+  by NSF NOIRLab, and the SOAR telescope at Cerro Tololo Inter-American Observatory
+  in Chile, a Program of NSF NOIRLab, a team of astronomers studied the evolving signal
+  of EP 250108a/SN 2025kg to uncover details about its origin. Their analysis reveals
+  that fast X-ray transients can result from the ‘failed’ explosive death of a massive
+  star.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2520b/L{1}X{2}Y{3}.png
+name: Location of SN 2025kg
+ra_hr: 3.707896910545068
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2520b/thumb.jpg
+zoom_level: 0.9089974345011168
+---
+_uuid: 2627dda7-391d-4a21-8df4-341be2ac80c5
+classification: ''
+constellation: HOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.221998297332284
+description: Newly discovered supernova SN 2026ahvu is seen here in the nearby spiral
+  galaxy NGC 1433. The supernova appears as a very bright point of light to the right
+  and slightly below the center of the galaxy. This image was captured by the Gemini
+  South telescope in Chile using its Gemini Multi-Object Spectrograph (GMOS). Gemini
+  South is one half of the International Gemini Observatory, an international collaboration
+  led by the NSF, in partnership with Canada, Chile, Brazil, Argentina, and the Republic
+  of Korea, and operated by NSF NOIRLab. Caught early and still approaching its expected
+  maximum brightness, SN 2026ahvu gives astronomers a valuable opportunity to study
+  a stellar explosion as it unfolds. NSF NOIRLab is coordinating observations across
+  the facilities it operates, working with its partners to maximize scientific return,
+  and inviting other observatories to join the effort.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2628a/L{1}X{2}Y{3}.png
+name: Gemini South captures supernova SN 2026ahvu
+ra_hr: 3.700399903132653
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2628a/thumb.jpg
+zoom_level: 0.7970360036055637
+---
+_uuid: 73ce4975-99ad-4c50-a1b4-c00e434a00c1
+classification: ''
+constellation: HOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.221851771067826
+description: Newly discovered supernova SN 2026ahvu is seen here in the nearby spiral
+  galaxy NGC 1433. The supernova appears as a very bright point of light to the right
+  and slightly below the center of the galaxy. This image was captured by the U.S.
+  Department of Energy-fabricated Dark Energy Camera (DECam), mounted on the U.S.
+  National Science Foundation Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory (CTIO), a Program of NSF NOIRLab. Caught early and still approaching
+  its expected maximum brightness, SN 2026ahvu gives astronomers a valuable opportunity
+  to study a stellar explosion as it unfolds. NSF NOIRLab is coordinating observations
+  across the facilities it operates, working with its partners to maximize scientific
+  return, and inviting other observatories to join the effort. This image was taken
+  a few days after the Asteroid Terrestrial-impact Last Alert System (ATLAS) first
+  detected SN 2026ahvu on 2 November 2026. The final composite also includes observations
+  taken between 2013 and 2018.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2628b/L{1}X{2}Y{3}.png
+name: DECam captures supernova SN 2026ahvu
+ra_hr: 3.700438631606541
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2628b/thumb.jpg
+zoom_level: 1.6879537854021227

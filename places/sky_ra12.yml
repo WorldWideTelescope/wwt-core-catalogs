@@ -6373,6 +6373,191 @@ ra_hr: 12.200655014861166
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2621d/thumb.jpg
 zoom_level: 0.32251439717575425
 ---
+_uuid: bd8c9bb0-a189-4d69-8a09-d904dd696615
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 29.137817112889103
+description: 'The constellation Coma Berenices hosts the galaxy NGC 4495 among myriad
+  other astronomical objects. This galaxy has a tumultuous history: several supernovae
+  have been recorded over the years, including the three named 1994S, 2010lo, and
+  2011ca. This last burst of energy from a dying star can be triggered by a number
+  of different processes. 1994S, for example, was triggered by interactions between
+  a white dwarf and another star, which reignited the core of the stellar remnant
+  — a Type Ia supernova. 2011ca on the other hand is a Type Ic supernova, triggered
+  by the core collapse of a single massive star. This image was captured by the DOE-built
+  Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo
+  Inter-American Observatory (CTIO) as part of the DESI Legacy Imaging Surveys. The
+  DESI Legacy Imaging Surveys were conducted to identify targets for the Dark Energy
+  Spectroscopic Instrument (DESI) operations. These surveys comprise a unique blend
+  of three projects that have observed a third of the night sky. DESI is an international
+  science collaboration managed by the US Department of Energy''s (DOE) Lawrence Berkeley
+  National Laboratory with primary funding for construction and operations from DOE’s
+  Office of Science.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2241a/L{1}X{2}Y{3}.png
+name: A Storm of Light
+ra_hr: 12.523412139209134
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2241a/thumb.jpg
+zoom_level: 1.146138692054093
+---
+_uuid: 1df27e15-3b92-4ec7-ab8f-ee2a427be85a
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 8.911823465789668
+description: A wide shot of this Image of the Week captures both NGC 4410 and NGC
+  4411. In the center of the image, NGC 4411 is a serene pair of spiral galaxies in
+  a deceptive union. Though the companions are thought to be right next to each other
+  — both at a distance of about 50 million light-years from us — they don’t show signs
+  of interaction, such as distorted arms. The pair NGC4411b (left) and NCG 4411a (right)
+  were captured by the Dark Energy Camera (DECam) which was built by the Department
+  of Energy and mounted on the prime focus of Víctor M. Blanco 4-meter Telescope at
+  the U.S. National Science Foundation Cerro Tololo Inter-American Observatory (CTIO),
+  a Program of NSF NOIRLab, in Chile. NGC 4411a is a particularly satisfying galaxy
+  to observe because of its distinct and symmetrical spiral arms that swirl more than
+  360 degrees around its core. If the galaxies of NGC 4411 were interacting, they
+  would look more intertwined, like NGC 4410, above them in this image. The four interacting
+  galaxies of that system are connected by tidal bridges, created by the gravity of
+  each galaxy pulling on the others in the system. This image was captured as part
+  of the DESI Legacy Imaging Surveys, which was conducted to identify targets for
+  the Dark Energy Spectroscopic Instrument (DESI) operations.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2421b/L{1}X{2}Y{3}.png
+name: A Galactic Illusion
+ra_hr: 12.448234685323529
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2421b/thumb.jpg
+zoom_level: 4.120792936725846
+---
+_uuid: a1dca223-491f-464a-b67d-7b55d71e0fca
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.550197973762646
+description: 'Punctuating the deep black of this Image of the Week are hundreds of
+  blobs of light, each one an entire galaxy in our Universe. Many of the yellowish
+  points are members of the galaxy cluster Abell 1489, imaged here using the Gemini
+  Multi-Object Spectrograph (GMOS) on Gemini North, one half of the International
+  Gemini Observatory, supported in part by the U.S. National Science Foundation and
+  operated by NSF NOIRLab. Galaxy clusters are immense neighborhoods of galaxies gravitationally
+  bound together. These massive formations serve as tools for astronomers to understand
+  the Universe’s dark matter distribution, structure, and overall evolution. Astronomers
+  classify galaxy clusters in several ways and have compiled multiple catalogs of
+  clusters. This particular cluster has been labeled using the Abell classification
+  scheme. Within this scheme, clusters are mainly sorted by their richness — the number
+  of galaxies they contain — and their distance from us. Abell 1489 was categorized
+  with a richness of Group 4. This means it has between 200 and 299 galaxies, which
+  also makes it one of the richer clusters in the Abell catalogue. Abell 1489 appears
+  fainter in most telescopes than other galaxy clusters, indicating that the structure
+  is immensely distant from Earth. Yet images like this demonstrate the sensitivity
+  of instruments like GMOS to resolve this cluster’s distant light and reveal its
+  richness. This abundance is of particular importance for future study: the mass
+  of all these galaxies together makes this cluster behave as a ‘magnifying glass’
+  to view light sources that are even farther away. These effects of gravitational
+  lensing are visible as arcs of light, such as in the upper middle section of this
+  image. The Gemini telescopes are some of the few telescopes that can show lensing
+  in such clarity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2518a/L{1}X{2}Y{3}.png
+name: Cosmic Community of Abell 1489
+ra_hr: 12.205279558368781
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2518a/thumb.jpg
+zoom_level: 0.7717455729001436
+---
+_uuid: 8456f754-11a6-4ceb-b04d-64dd387ab973
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.390873187391948
+description: The huge halo around giant elliptical galaxy Messier 87 appears on this
+  very deep image. An excess of light in the top-right part of this halo, and the
+  motion of planetary nebulae in the galaxy, are the last remaining signs of a medium-sized
+  galaxy that recently collided with Messier 87. The image also reveals many other
+  galaxies forming the Virgo Cluster, of which Messier 87 is the largest member. In
+  particular, the two galaxies at the top right of the frame are nicknamed "the Eyes".
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/m87-chris-mihos-Case-Western-Burrell/L{1}X{2}Y{3}.png
+name: The Halo of Galaxy Messier 87
+ra_hr: 12.513717451998275
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/m87-chris-mihos-Case-Western-Burrell/thumb.jpg
+zoom_level: 16.41199737873289
+---
+_uuid: f2caa3af-1615-4ce5-99d7-75c7dcd33376
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 11.241667753756845
+description: This image from the Gemini North telescope in Hawai‘i reveals a pair
+  of interacting spiral galaxies — NGC 4568 (bottom) and NGC 4567 (top) — as they
+  begin to clash and merge. The galaxies will eventually form a single elliptical
+  galaxy in around 500 million years.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2219a/L{1}X{2}Y{3}.png
+name: The merging galaxy pair NGC 4568 and NGC 4567
+ra_hr: 12.609236698389884
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2219a/thumb.jpg
+zoom_level: 0.8914881666037984
+---
+_uuid: 0efac435-abda-4bde-aa8e-1f2d7a2f8faf
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -1.1999745490044482
+description: Discovered by astronomer William Herschel in 1784, NGC 4753 displays
+  some truly fascinating features. In this image captured by the Gemini South telescope,
+  one half of the International Gemini Observatory operated by NSF NOIRLab, the galaxy’s
+  intricate dust lanes are a sight to behold. NGC 4753 is located about 60 million
+  light-years away in the constellation Virgo. It is a member of the NGC 4753 Group
+  of galaxies within the Virgo II Cloud — a series of at least 100 galaxy clusters
+  and individual galaxies stretching off the southern edge of the Virgo Supercluster.
+  A 1992 study of NGC 4753 found that its complex network of twisted dust lanes is
+  likely the result of a merger with a nearby dwarf galaxy companion about 1.3 billion
+  years ago.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2403a/L{1}X{2}Y{3}.png
+name: The Twisted Dusty Disk of NGC 4753
+ra_hr: 12.87288035675173
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2403a/thumb.jpg
+zoom_level: 0.8597651338650274
+---
+_uuid: 8fc745e0-1be0-4f4f-86da-57438c6925c9
+classification: ''
+constellation: CVN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 44.09183447900094
+description: An explosive array of bright pinks and blues makes for a remarkable sight
+  in this image captured with the Gemini North telescope, one half of the International
+  Gemini Observatory. Resembling a cloud of cosmic confetti, this image is being released
+  in celebration of Gemini North’s 25th anniversary. NGC 4449 is a prime example of
+  starburst activity caused by the interacting and mingling of galaxies as it slowly
+  absorbs its smaller galactic neighbors. This image was obtained by NOIRLab’s Communication,
+  Education & Engagement team as part of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2416a/L{1}X{2}Y{3}.png
+name: Starburst Galaxy NGC 4449
+ra_hr: 12.469020414774413
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2416a/thumb.jpg
+zoom_level: 0.879524056149166
+---
+_uuid: 4a0d90fe-cb44-4d1e-bbff-18ec6ccdbd0f
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.62586558442452
+description: Messier 104, nicknamed the Sombrero galaxy, is a popular target for amateur
+  observing and astronomical research. Its recognizable extended halo and dust-filled
+  disk are captured in this image from the Department of Energy-fabricated Dark Energy
+  Camera (DECam) mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO) in Chile, a
+  Program of NSF NOIRLab. See a close-up of the Sombrero Galaxy in the cropped version
+  of this image here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2612a/L{1}X{2}Y{3}.png
+name: 'Sombrero Galaxy: The Universe’s Dusty Brimmed Hat'
+ra_hr: 12.666816113577708
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2612a/thumb.jpg
+zoom_level: 6.852259188258514
+---
 _uuid: e2b29764-5554-423a-9268-bbecf86c3195
 classification: ''
 constellation: VIR

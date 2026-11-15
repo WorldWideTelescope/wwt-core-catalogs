@@ -1,0 +1,15 @@
+feed_id: noirlab
+source_type: djangoplicity
+default_copyright: Copyright NSF NOIRLab/AURA
+default_license_id: CC-BY-4.0
+default_constellations_handle: noirlab
+default_prepend_catfile: studiesnoao
+publish_url_prefix: https://data1.wwtassets.org/feeds/noirlab/
+astropix_publisher_id: noirlab
+
+# NOIRLab (Kitt Peak, CTIO, Gemini, SOAR ...) images. Rubin images have their
+# own feed (feeds/rubin). The API usually omits the "Original" resource; the
+# full-resolution TIFFs live at original_url_template.
+djangoplicity:
+  base_url: https://noirlab.edu/public/images/
+  original_url_template: https://storage.noirlab.edu/media/archives/images/original/{id}.tif

@@ -2081,6 +2081,79 @@ ra_hr: 20.341136724358655
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2501e/thumb.jpg
 zoom_level: 0.1446082590047565
 ---
+_uuid: 1a89dff5-3abd-4d83-b622-cfd455513465
+classification: ''
+constellation: TEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.07448438442113
+description: 'A quartet of interacting galaxies is captured in this observation from
+  Gemini South, which is one of the twin telescopes of the International Gemini Observatory,
+  operated by NSF NOIRLab. The four galaxies in this image are collectively known
+  as NGC 6845, and lie roughly 270 million light-years from Earth in a constellation
+  named, appropriately, Telescopium. This constellation is one of a handful named
+  after scientific instruments rather than animals or mythological figures. The galaxies
+  in NGC 6845 come in two varieties: the pair of galaxies at the top of this image
+  are well-defined spiral galaxies whereas the two below them are disk-shaped lenticular
+  galaxies. Connecting the galaxies is evidence of star-forming regions and filaments
+  made of stars detached from their original galaxies. Being relatively close neighbors,
+  the galaxies in NGC 6845 are interacting. These gravitational interactions are subtly
+  distorting the galaxies in NGC 6845, and astronomers believe that the two spiral
+  galaxies will eventually evolve into lenticular galaxies.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2247a/L{1}X{2}Y{3}.png
+name: Galactic Quartet
+ra_hr: 20.016146834979416
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2247a/thumb.jpg
+zoom_level: 0.8225313184563883
+---
+_uuid: 90111f38-dde4-4f60-be32-f48c7c9c4fb1
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 44.241156738809416
+description: This mesmerizing field of view harbors an incredible enigma invisible
+  to the human eye. It was captured using the Gemini Multi-Object Spectrograph (GMOS)
+  mounted on the Gemini North telescope in Hawai‘i, one half of the International
+  Gemini Observatory, which is partly funded by the U.S. National Science Foundation
+  and operated by NSF NOIRLab. Inside this cloudy region is a gamma-ray pulsar, PSR
+  J2030+4415, an extremely dense object left behind by the deaths of stars 10–25 times
+  more massive than the Sun. In death, these supermassive stars explode into supernovae,
+  leaving behind their gravitationally collapsed cores as objects known as neutron
+  stars. Neutron stars have roughly 1.5 times the mass of the Sun packed into a sphere
+  about 12 miles in diameter. For comparison, a single teaspoon of neutron-star material
+  would weigh as much as Mount Everest! Highly magnetized and rapidly spinning neutron
+  stars are known as pulsars. They emit jets of electromagnetic radiation from their
+  poles as they spin, like the gamma rays emitting from PSR J2030+4415. As astronomers
+  see a beam of radiation periodically pointing towards Earth, this creates an effect
+  similar to a lighthouse. The surrounding cloudy material is called a pulsar wind
+  nebula, which consists of the shedded material from the supernova being blown around
+  by winds generated from the pulsar. Evidence of the shock front is visible in the
+  upper left quadrant of this image. You can find an annotated version of this image
+  here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2530a/L{1}X{2}Y{3}.png
+name: Home of a Gamma-ray Pulsar
+ra_hr: 20.51117695203771
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2530a/thumb.jpg
+zoom_level: 0.7513234657341357
+---
+_uuid: a3a05f10-6cba-4a43-b27e-a8de354b076e
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -56.687823640500255
+description: Abell 3667 — an actively merging galaxy cluster — is featured in this
+  image assembled from over 28 hours of observations with the 570-megapixel Department
+  of Energy-fabricated Dark Energy Camera, mounted on the U.S. National Science Foundation
+  Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory, a
+  Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2524a/L{1}X{2}Y{3}.png
+name: DECam’s Deep View of Abell 3667
+ra_hr: 20.190448744641476
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2524a/thumb.jpg
+zoom_level: 8.94195161387191
+---
 _uuid: e08624c0-715c-4674-b549-0b3605b7388a
 classification: ''
 constellation: TEL

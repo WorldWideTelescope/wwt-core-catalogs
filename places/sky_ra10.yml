@@ -4518,6 +4518,111 @@ ra_hr: 10.766517280031877
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622d/thumb.jpg
 zoom_level: 0.6144770348530347
 ---
+_uuid: f30f6814-af5f-4de0-a774-47b4ba21230a
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -26.1625847488253
+description: This galaxy, NGC 3109, is a somewhat nondescript — but fascinating —
+  member of our Local Group of galaxies. Located around four million light-years from
+  Earth in the constellation Hydra, it’s about 40,000 light-years across. Despite
+  its beautiful blue hues, this irregular dwarf galaxy appears featureless with no
+  central bulge or picturesque arms. However, spectroscopic analysis has shown that
+  NGC 3109 is one of the most metal-poor galaxies in the Local Group. For most of
+  us, metals are conductive, malleable elements like aluminum or copper, but to astronomers
+  metals are all elements other than hydrogen and helium — such as carbon, nitrogen
+  and oxygen. Stars consume hydrogen and helium to produce heavier elements. These
+  metals are released into the interstellar medium when a star dies and are found
+  in successive generations of stars. Metal-poor galaxies like NGC 3109 have a similar
+  composition to the stars — and therefore the galaxies — in the early Universe, so
+  they may provide insight into the chemical evolution of early galaxies. This Image
+  of the Week was taken by the Dark Energy Camera (DECam), which was built by the
+  U.S. Department of Energy and is mounted on the U.S. National Science Foundation
+  Víctor M. Blanco 4-meter Telescope at NSF Cerro Tololo Inter-American Observatory
+  (CTIO), a Program of NSF NOIRLab, in Chile.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2508a/L{1}X{2}Y{3}.png
+name: The Value of Being Metal-Poor
+ra_hr: 10.052312765353784
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2508a/thumb.jpg
+zoom_level: 2.9728586999216913
+---
+_uuid: 76134ffd-6449-43c1-bf73-75dd77c41e68
+classification: ''
+constellation: ANT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -35.36804526407724
+description: The Antlia Cluster (Abell S636) is a group of at least 230 galaxies located
+  about 130 million light-years away in the direction of the constellation Antlia
+  (the Air Pump). It hosts a rich variety of galaxy types, including lenticular galaxies,
+  irregular galaxies and ultra-compact dwarfs. The cluster is dominated by two massive
+  elliptical galaxies — NGC 3268 (center) and NGC 3258 (lower right). This image was
+  taken with the 570-megapixel Department of Energy-fabricated Dark Energy Camera
+  (DECam), mounted on the U.S. National Science Foundation (NSF) Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile, a Program
+  of NSF NOIRLab. It captures only a portion of the 230 of galaxies that so far have
+  been found to make up the Antlia Cluster. DECam’s ultra-deep view showcases the
+  variety of galaxies within and beyond the cluster in incredible detail.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2501a/L{1}X{2}Y{3}.png
+name: DECam Deep View of the Antlia Cluster
+ra_hr: 10.499234999457189
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2501a/thumb.jpg
+zoom_level: 5.935253376799686
+---
+_uuid: e4f57137-877b-4fd1-80b8-ef6dbb041acd
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 11.819831922822214
+description: 'Among the nearly four billion objects in the DESI Legacy Imaging Surveys’
+  map is Messier 96 (NGC 3368), a majestic spiral galaxy nestled in the constellation
+  Leo approximately 35 million light-years from Earth. Spanning 100,000 light-years,
+  slightly larger than our own Milky Way in size, it’s the brightest member of the
+  Messier 96 Group, the closest grouping of galaxies to our own Local Group. The Messier
+  96 data were extracted from the DESI Legacy Survey and captured by the U.S. Department
+  of Energy-fabricated Dark Energy Camera (DECam), a powerful CCD camera affixed to
+  the U.S. National Science Foundation (NSF) Víctor M. Blanco 4-meter Telescope at
+  NSF Cerro Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. The
+  asymmetrical appearance of Messier 96 hints at its history of gravitational interactions:
+  dark dust trails are distributed unevenly throughout the spiral arms, which appear
+  smeared in certain areas. Though it’s not obvious in this image, scientists agree
+  that the bright core is not exactly at the center of the galaxy where they would
+  expect it to be. These distorted spiral patterns and the misplaced central core
+  point to disruption caused by the gravitational pull exerted by other galaxies in
+  the Messier 96 Group that have drifted farther away from this preeminent group member.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2620a/L{1}X{2}Y{3}.png
+name: Messier 96 as Seen with DESI Legacy Survey
+ra_hr: 10.779995641510796
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2620a/thumb.jpg
+zoom_level: 2.227104282483854
+---
+_uuid: 66c37ec0-fa90-4995-a51b-6f7ba3a76130
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.6682492028990925
+description: Captured within this image is the newly discovered galaxy proto-supercluster
+  named COSMOS-z3.1-A. A proto-supercluster is a loose collection of galaxies that
+  will one day coalesce into a stable ‘cluster-of-clusters’ of galaxies. Having been
+  observed when the Universe was only 2.1 billion years old, COSMOS-z3.1-A is the
+  earliest, most distant proto-supercluster ever found, and it boasts an impressive
+  mass 5000 times that of the Milky Way Galaxy. COSMOS-z3.1-A was discovered using
+  data from the One-hundred-deg2 DECam Imaging in Narrowbands (ODIN) survey. This
+  survey is conducted with the DOE-fabricated Dark Energy Camera (DECam), mounted
+  on the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) in Chile, a program of NSF NOIRLab. The members of the proto-supercluster
+  are difficult to see in this image due to their expansive distribution against a
+  crowded background. View this annotated version of the image to see the members
+  of COSMOS-z3.1-A. See an animated 3D model of COSMOS-z3.1-A here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2622a/L{1}X{2}Y{3}.png
+name: Most distant galaxy proto-supercluster (unannotated)
+ra_hr: 10.053331620504306
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2622a/thumb.jpg
+zoom_level: 9.038432317417586
+---
 _uuid: 34066141-80a6-4b72-9be6-1d656d316a43
 classification: ''
 constellation: SEX

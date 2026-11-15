@@ -1574,3 +1574,79 @@ name: NGC 7129 (NIRCam image)
 ra_hr: 21.718036086883227
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2620a/thumb.jpg
 zoom_level: 0.992400594631071
+---
+_uuid: e26f5aa1-3087-4e9b-866c-66fe7d522306
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -64.02571350351182
+description: NGC 7020, a barred lenticular galaxy in the southern constellation Pavo,
+  holds a geometric mystery. Clear but subtle in this image from Gemini South, one
+  half of the International Gemini Observatory, a Program of NSF NOIRLab, the core
+  of NGC 7020 is visibly hexagonal in shape. A hexagon is not a common shape for any
+  celestial body, let alone an entire galaxy. To form a hexagonal structure such as
+  this, a considerable number of stars must orbit in a very narrow band. This orbital
+  path includes two denser regions of stars seen on the left and right sides of the
+  hexagon, which are known as “ansae”. NGC 7020’s unusual shape seems to be the product
+  of a very rare orbital resonance, or an as-yet-unknown phenomenon. The 8-meter Gemini
+  South telescope is located on Cerro Pachón in the Chilean Andes. Along with the
+  other half of the international Gemini observatory, Gemini North in Hawai‘i, these
+  two telescopes give us a deep view of the entire night sky.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2224a/L{1}X{2}Y{3}.png
+name: A Hexagonal Galactic Center
+ra_hr: 21.188842827178227
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2224a/thumb.jpg
+zoom_level: 0.7703678256742417
+---
+_uuid: 163b8235-e7f1-4cde-aca0-de3439671b79
+classification: ''
+constellation: GRU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.387430590069805
+description: IC 5148, nicknamed the Spare Tyre Nebula, is a beautiful planetary nebula
+  located about 3000 light-years away near the ‘neck’ of the southern constellation
+  Grus (The Crane). This image, captured with the Gemini South telescope, one half
+  of the International Gemini Observatory operated by NSF NOIRLab, showcases the looming
+  cloud of gas of IC 1548 and the central stellar remnant from which the gas radiates.
+  It’s one of the fastest expanding planetary nebulae, pushing out into space at 180,000
+  kilometers per hour (112,000 miles per hour). With small telescopes, this nebula
+  looks like a bright central star with an outer ring. The mesmerizing layers of gas
+  are faint. They are almost undetectable without the use of larger telescopes, and
+  not with the clarity captured in this image using the Gemini Multi-Object Spectrograph
+  (GMOS) on Gemini South. Around the time IC 5148 was discovered by astronomers in
+  1894, researchers coined the term planetary nebula to refer to these giant gaseous
+  balls that looked like giant planets. Today we know that these balls are in fact
+  stellar remnants. At the center of IC 5148 is a white dwarf, the hot core of the
+  dying star, surrounded by asymmetrical gaseous ‘blooms’ and a faint halo ring. The
+  predecessor of the white dwarf was likely a star of a similar mass to our Sun. At
+  the end of that star’s life, the internal pressure imbalance resulted in the star
+  swelling up into a red giant. As it grew, the outer layers of the gas and stellar
+  material were pushed into space to form the nebula we see today. The central hole
+  — the dark patch surrounding the star — is due to the pressure of the radiation
+  from the star that pushes the surrounding gas away from the core and leaves a vacant
+  space. The formation of the ring and the bow-like structures of gas are marks of
+  the evolutionary history of IC 5148 — but the mechanisms that created them remain
+  a mystery to astronomers.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2344a/L{1}X{2}Y{3}.png
+name: Blooming of the Spare Tyre Nebula
+ra_hr: 21.993108876713524
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2344a/thumb.jpg
+zoom_level: 0.8375354089813297
+---
+_uuid: a5d19960-fec1-4814-82b0-bd1a4f932136
+classification: ''
+constellation: CAP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -20.73201101639718
+description: Unannotated image of the region of the sky surrounding a recently identified
+  galaxy that was found to be the home of GRB 151229A, a short gamma-ray burst. Astronomers
+  calculate that this burst, which lies in the direction of the constellation Capricornus,
+  occurred approximately 9 billion years ago.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2218c/L{1}X{2}Y{3}.png
+name: Hidden Galaxy Home of GRB (Unannotated)
+ra_hr: 21.95797601424971
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2218c/thumb.jpg
+zoom_level: 0.3531369554835665

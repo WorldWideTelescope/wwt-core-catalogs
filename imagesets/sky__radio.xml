@@ -3128,6 +3128,35 @@
   </ImageSet>
   <ImageSet
     BandPass="Radio"
+    BaseDegreesPerTile="0.0027554469608420664"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.52199913912439"
+    CenterY="-4.407867439099363"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="ALMA image of &quot;Shadow Blaster&quot;"
+    OffsetX="6.727165431743326e-07"
+    OffsetY="6.727165431743326e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="https://data1.wwtassets.org/feeds/noirlab/noirlab2615e/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xcorepipe_ids="noirlab|noirlab2615e"
+    Xcxstatus="skip"
+  >
+    <Credits>NOIRLab/NSF/AURA/ALMA (ESO/NAOJ/NRAO) Image Processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin &amp; M. Zamani (NSF NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2615e/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/noirlab/noirlab2615e/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Radio"
     BaseDegreesPerTile="0.382147705141248"
     BaseTileLevel="0"
     BottomsUp="False"

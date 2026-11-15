@@ -4450,6 +4450,78 @@ ra_hr: 18.292104161851608
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2503a/thumb.jpg
 zoom_level: 0.39873413738998986
 ---
+_uuid: dfec2dbb-269d-486c-be15-12b8924b656d
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.780380225520755
+description: The dusty disk around HD 169142 is part of a survey of 44 young massive
+  stars to investigate planet formation in dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212d/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 169142
+ra_hr: 18.40827191897511
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212d/thumb.jpg
+zoom_level: 0.007430656980417739
+---
+_uuid: 7df6d452-f3c8-4ca1-81b0-96490cca9999
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -18.66763346017609
+description: Comet 3I/ATLAS streaks across a dense star field in this image captured
+  by the Gemini North telescope's Gemini Multi-Object Spectrograph (GMOS-N). The left
+  panel captures the comet’s colorful trail as it moves through the Solar System.
+  The image was composed of exposures taken through three filters, shown here as red,
+  green, and blue. See a close-up image of the comet here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2522c/L{1}X{2}Y{3}.png
+name: Comet 3I/ATLAS Seen With Gemini North
+ra_hr: 18.04896306020519
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2522c/thumb.jpg
+zoom_level: 0.41277453404358944
+---
+_uuid: 31d3c782-9e92-4273-a337-6754a4e0c15e
+classification: ''
+constellation: SCT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.8739632486182405
+description: The stellar field around the host galaxy of GRB 250702B — the longest
+  gamma-ray burst that astronomers have ever observed. It comprises observations from
+  the Gemini North telescope, one half of the International Gemini Observatory, funded
+  in part by the U.S. National Science Foundation and operated by NSF NOIRLab, as
+  well as the U.S. Department of Energy-fabricated Dark Energy Camera, mounted on
+  the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab. The DECam data were acquired on 3 July 2025. The Gemini
+  North data were acquired on 20 July 2025.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2531c/L{1}X{2}Y{3}.png
+name: Field around GRB 250702B
+ra_hr: 18.97932574222667
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2531c/thumb.jpg
+zoom_level: 0.4552868089518675
+---
+_uuid: 3335186a-ea7e-4c34-b8d8-42f447f03954
+classification: ''
+constellation: SCT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.873902647854351
+description: The faint oval at the center of this image is the host galaxy of GRB
+  250702B — the longest gamma-ray burst that astronomers have ever observed. This
+  image was taken on 20 July 2025 by the Gemini North telescope, one half of the International
+  Gemini Observatory, funded in part by the U.S. National Science Foundation and operated
+  by NSF NOIRLab. It is the result of over two hours of observation, yet the host
+  galaxy appears extremely faint due to the large amount of dust surrounding it.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2531d/L{1}X{2}Y{3}.png
+name: GRB 250702B host galaxy
+ra_hr: 18.979314330619104
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2531d/thumb.jpg
+zoom_level: 0.026919878012204457
+---
 _uuid: 8adfa1f1-65c6-4b6e-9b90-7673f6e4d925
 classification: ''
 constellation: CRA

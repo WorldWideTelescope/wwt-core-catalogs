@@ -2569,3 +2569,238 @@ name: Planetary Nebula NGC 1514 (MIRI image)
 ra_hr: 4.154693713620947
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2508a/thumb.jpg
 zoom_level: 0.7162561859497124
+---
+_uuid: d68a956f-4043-4afd-b8bf-f2261806f895
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -54.09942247402554
+description: Intermediate barred spiral galaxy NGC 1515 composed of data taken with
+  the Dark Energy Camera on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo
+  Inter-American Observatory (CTIO), a Program of NSF NOIRLab, as part of the Dark
+  Energy Survey, a project that mapped millions of galaxies. One of the most powerful
+  digital cameras in the world, the Dark Energy Camera was designed specifically for
+  the Dark Energy Survey and was operated by the US Department of Energy and NSF between
+  2013 and 2019.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2152b/L{1}X{2}Y{3}.png
+name: NGC 1515
+ra_hr: 4.067351186295665
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2152b/thumb.jpg
+zoom_level: 3.0191611949719874
+---
+_uuid: 9f27587f-389e-4867-832b-de7a948e4f21
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.24971488515475
+description: The arms of the barred spiral galaxy NGC 1672 sweep across this Image
+  of the Week, captured by the Víctor M. Blanco 4-meter Telescope at Cerro Tololo
+  Inter-American Observatory (CTIO), a Program of NSF NOIRLab. NGC 1672 is something
+  of a celestial mystery, as it is difficult to define its galactic activity. The
+  nucleus is surrounded by a ring of hot gas filled with individual point sources
+  of X-ray light, in other words bright, newly formed stars. However, the luminous
+  nucleus of NGC 1672 itself shines brightly in various types of light from X-ray
+  to infrared. Known as a Seyfert Type 2 nucleus, it’s an example of a specific type
+  of active galactic nucleus (AGN) and likely a supermassive black hole. Fragile young
+  stars and a destructive AGN shouldn’t necessarily be so close together, and their
+  proximity in this galaxy creates a conundrum. Galaxies like NGC 1672 can open up
+  new pathways to understanding the activities and behaviors of galaxies, and in turn
+  be pieced together to discern the long-term evolution of galaxies. Data for this
+  image were collected using the Dark Energy Camera on the Víctor M. Blanco 4-meter
+  Telescope for the Dark Energy Survey, which mapped millions of galaxies to determine
+  the nature of dark energy. The analysis of data from the Dark Energy Survey is supported
+  by the Department of Energy and the National Science Foundation, and the Dark Energy
+  Camera science archive is curated by the Community Science and Data Center at NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2205a/L{1}X{2}Y{3}.png
+name: A Galactic Vortex
+ra_hr: 4.7611906106082165
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2205a/thumb.jpg
+zoom_level: 2.5627461887478686
+---
+_uuid: 725cea98-5dd1-4852-b825-2dbee34eada5
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.788894585101595
+description: This Image of the Week features a sky speckled with stars and galaxies.
+  The most prominent galaxy, in the upper right quadrant of the image, is known as
+  NGC 1703. It was observed using the Dark Energy Camera (DECam), a high-performance
+  camera installed by the US Department of Energy at the Víctor M. Blanco 4-meter
+  Telescope at Cerro Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab.
+  NGC 1703 lies in a region of the sky that constitutes the constellation Dorado,
+  the dolphinfish. You may know this fish by its Hawaiian name, mahi-mahi. The constellation
+  was named Dorado back in the 16th century and the name was made official in the
+  early 20th century. It is one of the 88 astronomical constellations recognized by
+  the International Astronomical Union. So NGC 1703 could fancifully be thought of
+  as one of the Dorado’s more impressive scales. Use the interactive zoom tool to
+  explore the thousands of background galaxies, each with billions of stars like our
+  Sun.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2210a/L{1}X{2}Y{3}.png
+name: A Dorado’s Scale
+ra_hr: 4.887326617557813
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2210a/thumb.jpg
+zoom_level: 2.666956620319459
+---
+_uuid: 2cc62607-4df2-4143-a37f-7ef6fc477982
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 22.898781632615815
+description: This observation captures the variable star HP Tau, which lies more than
+  550 light-years from Earth in the constellation Taurus. This image was created using
+  data from the Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory
+  (KPNO), a Program of NSF NOIRLab. HP Tau is a T Tauri star, a young and chaotic
+  type of star that is settling into a more sedate phase of stellar life known as
+  the main sequence. The length of time that a star spends on the main sequence will
+  depend on its mass. Our Sun, for example, is about halfway through its roughly 10-billion-year
+  main-sequence lifetime. HP Tau is part of a triple star system — the three separate
+  stars are visible at the center of this image — surrounded by a large arcing reflection
+  nebula. These nebulae, as the name suggests, reflect the light from nearby stars
+  rather than glowing like emission nebulae elsewhere in the Universe.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2301a/L{1}X{2}Y{3}.png
+name: Triple Stellar Treat
+ra_hr: 4.598611380089101
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2301a/thumb.jpg
+zoom_level: 2.001124794387496
+---
+_uuid: 4fdd9dc3-c761-4340-b868-4557efed1075
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -54.9417487981492
+description: This image, taken by astronomers using the US Department of Energy-fabricated
+  Dark Energy Camera on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory, a Program of NSF NOIRLab, captures the galaxy NGC 1566 as it twirls,
+  flinging its arms through the vastness of space. Colloquially nicknamed the Spanish
+  Dancer, this spiral galaxy is often studied by astronomers learning about galaxy
+  groups, stars of different ages, and galactic black holes.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2208a/L{1}X{2}Y{3}.png
+name: Spiral galaxy NGC 1566
+ra_hr: 4.334025704019635
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2208a/thumb.jpg
+zoom_level: 2.6168407744097957
+---
+_uuid: 269d0225-cd96-468e-91b1-6b87743802ac
+classification: ''
+constellation: HOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.53055521814962
+description: The interacting galaxy pair NGC 1512 and NGC 1510 take center stage in
+  this image from the Dark Energy Camera, a state-of-the art wide-field imager on
+  the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab. NGC 1512 has been in the process of merging with its smaller
+  galactic neighbor for 400 million years, and this drawn-out interaction has ignited
+  waves of star formation and warped both galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2210c/L{1}X{2}Y{3}.png
+name: Wider crop of the NGC 1512 image
+ra_hr: 4.048690613848836
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2210c/thumb.jpg
+zoom_level: 7.449744137255999
+---
+_uuid: eedf2da3-a797-491b-8dbc-f38b6fcfec4a
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -32.885021311977475
+description: The spiral galaxy NGC 1532, also known as Haley’s Coronet, is caught
+  in a lopsided tug of war with its smaller neighbor, the dwarf galaxy NGC 1531. The
+  image — taken by the US Department of Energy’s (DOE) Dark Energy Camera mounted
+  on the National Science Foundation’s (NSF) Víctor M. Blanco 4-meter Telescope at
+  Cerro Tololo Inter-American Observatory in Chile, a Program of NSF NOIRLab — captures
+  the mutual gravitational influences of a massive- and dwarf-galaxy merger.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2321d/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Captures Galaxies in Lopsided Tug of War, a Prelude to Merger
+ra_hr: 4.198644253364907
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2321d/thumb.jpg
+zoom_level: 2.7702630177464656
+---
+_uuid: 33494eca-b08d-49df-b6bd-5654bf8f4d79
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 30.77619425001396
+description: The 8.1-meter Gemini North telescope, located on the summit of Maunakea
+  in Hawai‘i, has captured NGC 1514, nicknamed the Crystal Ball Nebula, in awe-inspiring
+  detail. This nebula, with its mesmerizing glow of gas, harbors hints of a past stellar
+  death, and its asymmetrical shell is now being shaped by the binary pair that lies
+  at its center. Gemini North is one half of the International Gemini Observatory,
+  partly funded by the U.S. National Science Foundation (NSF) and operated by NSF
+  NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2613a/L{1}X{2}Y{3}.png
+name: 'NGC 1514: The Crystal Ball Nebula'
+ra_hr: 4.154686535571359
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2613a/thumb.jpg
+zoom_level: 0.7620450580933451
+---
+_uuid: e4c33589-97b0-4d3c-9fa1-23ab2c700756
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.408022630752682
+description: This image shows the field around the gravitationally lensed galaxy nicknamed
+  "Shadow Blaster." This galaxy lies 11 billion light-years away and sits just behind
+  the bright red galaxy at the center of this image. The red foreground galaxy acts
+  like a cosmic magnifying glass, enlarging and distorting the image of the more distant
+  Shadow Blaster galaxy behind it. See a close-up image of Shadow Blaster and the
+  gravitational lens here. This image was captured by the Gemini North telescope,
+  one half of the International Gemini Observatory, partly funded by the U.S. National
+  Science Foundation and operated by NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2615b/L{1}X{2}Y{3}.png
+name: Gemini North image of the field around "Shadow Blaster"
+ra_hr: 4.034808454182649
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2615b/thumb.jpg
+zoom_level: 0.40395020102604084
+---
+_uuid: 63e31ddc-b930-4b3d-bbf0-1ea6049df84a
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.407997927107563
+description: This image shows the gravitationally lensed galaxy nicknamed "Shadow
+  Blaster," which astronomers have identified as the likely source of the high-energy
+  neutrino event IC 210922A, detected by the IceCube Neutrino Observatory in 2021.
+  Gravitational lensing occurs when a very massive foreground galaxy bends space-time,
+  acting as a cosmic magnifying glass that enlarges and distorts the image of a more
+  distant galaxy behind it. In this case, the red foreground galaxy is bending the
+  light of the more distant Shadow Blaster galaxy, creating multiple distorted images
+  of it that appear here as yellow arcs. This composite image was created using data
+  from the Atacama Large Millimeter/submillimeter Array (ALMA) and the Gemini North
+  telescope, one half of the International Gemini Observatory, partly funded by the
+  U.S. National Science Foundation and operated by NSF NOIRLab. See an image of Shadow
+  Blaster without the foreground galaxy here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2615c/L{1}X{2}Y{3}.png
+name: Gemini North and ALMA image of "Shadow Blaster"
+ra_hr: 4.034809752077253
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2615c/thumb.jpg
+zoom_level: 0.054496938043352566
+---
+_uuid: e6df9a6a-e604-4a69-a827-65088873624a
+classification: ''
+constellation: ERI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.40786676638281
+description: This image shows a close-up of the gravitationally lensed galaxy nicknamed
+  "Shadow Blaster," which astronomers have identified as the likely source of the
+  high-energy neutrino event IC 210922A, detected by the IceCube Neutrino Observatory
+  in 2021. Gravitational lensing occurs when a very massive foreground galaxy bends
+  spacetime, acting as a cosmic magnifying glass that enlarges and distorts the image
+  of a more distant galaxy behind it. In this case, a foreground galaxy, which is
+  not visible in this image, is bending the light of the more distant Shadow Blaster
+  galaxy, creating multiple distorted images of it that appear here as yellow arcs.
+  See an image of Shadow Blaster with the foreground galaxy here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2615e/L{1}X{2}Y{3}.png
+name: ALMA image of "Shadow Blaster"
+ra_hr: 4.034799897627479
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2615e/thumb.jpg
+zoom_level: 0.014821290879216898

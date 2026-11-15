@@ -1,6 +1,9 @@
 """Set BandPass on newly ingested imagesets with the propose_bandpass.py rules.
 
-    python bandpass/apply_bands_to.py BATCH.wtml [--dry-run]
+    python bandpass/apply_bands_to.py BATCH.wtml [--dry-run] [--set ID=Band ...]
+
+`--set ID=Band` overrides the rules for any imageset whose URL contains ID
+(e.g. a title naming the object, "Gamma-ray Pulsar", on an optical image).
 
 Runs `propose_bandpass.decide()` for every imageset whose URL appears in
 BATCH.wtml (normally the ingest WTML of a feed batch) and applies the result:
@@ -26,6 +29,7 @@ from wwt_data_formats.enums import Bandpass  # noqa: E402
 def main():
     batch = Path(sys.argv[1]).read_text(encoding="utf-8")
     dry = "--dry-run" in sys.argv
+    overrides = dict(a.split("=", 1) for i, a in enumerate(sys.argv) if i and sys.argv[i - 1] == "--set")
     urls = set(re.findall(r'Url="([^"]+\{1\}[^"]*)"', batch))
     descs, colls = pb.load_places_and_collections()
     wanted = [s for s in pb.load_imagesets() if s["url"] in urls]
@@ -33,6 +37,9 @@ def main():
     tally, review = Counter(), []
     for s in wanted:
         d = pb.decide(s, descs.get(s["url"], []), colls.get(s["url"], set()))
+        forced = next((b for k, b in overrides.items() if k in s["url"]), None)
+        if forced:
+            d = {"proposed": forced, "components": forced, "dominant": forced, "confidence": "override"}
         if d["confidence"] == "review":
             review.append((s["name"], d["evidence"]))
             continue

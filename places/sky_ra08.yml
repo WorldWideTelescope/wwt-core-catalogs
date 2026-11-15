@@ -1465,3 +1465,50 @@ name: NGC 2566 (HST image)
 ra_hr: 8.312755390842172
 thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2412c/thumb.jpg
 zoom_level: 0.3821280952499354
+---
+_uuid: 71741e9d-7381-47ca-bbde-4db6f9a02c6b
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.728825200723634
+description: The very unusual galaxy NGC 2685, also known as the Helix Galaxy, is
+  located about 40 million light-years away in the constellation Ursa Major. This
+  image was captured by the Gemini North telescope, one half of the International
+  Gemini Observatory, operated by NSF NOIRLab which is funded by the U.S. National
+  Science Foundation. NGC 2685 is a peculiar lenticular galaxy known as a polar ring
+  galaxy. A ring of gas, stars, and dust orbits NGC 2685 perpendicular to the flat
+  plane of the host galaxy. This odd crossing of planes is believed to be evidence
+  of galaxy interactions, mergers, or tidal accretion events. Current research suggests
+  that the present structure of NGC 2685 was formed when it captured material from
+  another galaxy, which was strung out into an encircling ring. This galaxy is one
+  of our closest known polar ring galaxies and is therefore one of the easiest of
+  its kind to study. Owing to its odd characteristics, it has been called the most
+  unusual galaxy in the Shapley-Ames Catalog of Bright Galaxies and appears as number
+  336 in astronomer Halton Arp's Atlas of Peculiar Galaxies. You can see another view
+  of this galaxy, captured in 1998 by the WIYN 0.9-meter Telescope of Kitt Peak National
+  Observatory, a Program of NSF NOIRLab, here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2415a/L{1}X{2}Y{3}.png
+name: 'NGC 2685: A Helix in the Sky'
+ra_hr: 8.926809118651125
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2415a/thumb.jpg
+zoom_level: 0.8334891676673877
+---
+_uuid: 8d01ae3f-fa9b-4f1d-9f70-69d015f21b3f
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.86745651465135
+description: The knotted young stellar jet, MHO 1502, is captured in this image from
+  Chile by the international Gemini Observatory, a Program of NSF's NOIRLab. The stellar
+  jet is embedded in an area of star formation known as an HII region. The bipolar
+  jet is composed of a chain of knots, suggesting that its source, thought to be two
+  stars, has been intermittently emitting material. These crystal-clear observations
+  were made using the Gemini South telescope’s adaptive optics system, which helps
+  astronomers counteract the blurring effects of atmospheric turbulence.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2204c/L{1}X{2}Y{3}.png
+name: Young stellar jet MHO 1502
+ra_hr: 8.759468415489305
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2204c/thumb.jpg
+zoom_level: 0.2261616767035058

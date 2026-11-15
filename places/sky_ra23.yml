@@ -2352,3 +2352,41 @@ name: Parallel field to protostar IRAS23385
 ra_hr: 23.680947991644253
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2409a/thumb.jpg
 zoom_level: 0.3274756934531572
+---
+_uuid: da5c5f52-2e56-4e72-bbf6-c0e5dbd4aeaf
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 33.3599134348978
+description: A unique ultra-faint dwarf galaxy has been discovered in the outer fringes
+  of the Andromeda Galaxy thanks to the sharp eyes of an amateur astronomer examining
+  archival data from the US Department of Energy-fabricated Dark Energy Camera on
+  the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) and processed by the Community Science and Data Center (CSDC). Follow-up
+  by professional astronomers using the International Gemini Observatory revealed
+  that the dwarf galaxy — Pegasus V — contains very few heavier elements and is likely
+  to be a fossil of the first galaxies. All three facilities involved are Programs
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2214a/L{1}X{2}Y{3}.png
+name: The ultra-faint dwarf galaxy Pegasus V
+ra_hr: 23.307750336293168
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2214a/thumb.jpg
+zoom_level: 0.46490199301128243
+---
+_uuid: f38469f6-7425-4a81-b708-67bc913e5536
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -12.29203122530788
+description: Gemini South, one half of the International Gemini Observatory operated
+  by NSF NOIRLab, captures the billion-year-old aftermath of a double spiral galaxy
+  collision. At the heart of this chaotic interaction, entwined and caught in the
+  midst of the chaos, is a pair of supermassive black holes — the closest such pair
+  ever recorded from Earth.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2329a/L{1}X{2}Y{3}.png
+name: Gemini South Reveals Tangled Spiral Arms of the Peculiar Galaxy NGC 7727
+ra_hr: 23.66508153799273
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2329a/thumb.jpg
+zoom_level: 0.8729533034889496

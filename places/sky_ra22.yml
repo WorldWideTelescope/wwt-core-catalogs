@@ -2067,3 +2067,50 @@ name: Abell S1063 galaxy cluster
 ra_hr: 22.81220916641503
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2610c/thumb.jpg
 zoom_level: 0.372036685432514
+---
+_uuid: 3c8ca989-d535-4475-b5f8-d6f54ce6aa69
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 34.41975901299828
+description: The magnificent spiral galaxy NGC 7331, located approximately 40 million
+  light-years away in the constellation Pegasus, is the brightest and closest galaxy
+  in the visual galaxy group that bears its name, the NGC 7331 Group. Revealed in
+  the details of this image are populations of hot stars and dark dust lanes winding
+  throughout the spiral arms. Also known as Caldwell 30, this galaxy is often thought
+  of as a twin to the Milky Way owing to its similar size and spiral structure. However,
+  there are a couple of features of its core that set it apart from our home galaxy.
+  For instance, astronomers have found evidence that the Milky Way has a central bar
+  of stars and dust cutting through its center, a feature common to many spiral galaxies.
+  But NGC 7331 lacks this feature. Additionally, NGC 7331’s central bulge rotates
+  in the opposite direction to its galactic disk — unusual behavior compared to other
+  galaxies and different from what we observe in the Milky Way. This image was taken
+  by Gemini North, one half of the International Gemini Observatory, supported in
+  part by the U.S. National Science Foundation and operated by NSF NOIRLab. You can
+  find other views of NGC 7331 captured at Kitt Peak National Observatory, a Program
+  of NSF NOIRLab, in 2014 and 1975 in the NOIRLab Image archive.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2451a/L{1}X{2}Y{3}.png
+name: The Milky Way’s Unusual Twin in Pegasus
+ra_hr: 22.61769784668275
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2451a/thumb.jpg
+zoom_level: 0.7057066554735454
+---
+_uuid: 2e80e224-e486-4b84-87b2-1d7ded86d46b
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 29.389126334706017
+description: Nā ʻUhane Māhoe Huki Pū i ke Ola is the Hawaiian name given to this image
+  of NGC 7253 — a pair of spiral galaxies caught in each other’s gravity. This image
+  was captured by the Gemini North telescope on Maunakea, one half of the International
+  Gemini Observatory, partly funded by the U.S. National Science Foundation (NSF)
+  and operated by NSF NOIRLab. The name of the image, which translates to “The Twin
+  Spirits Pulling Together Creating Life,” was chosen by the 2026 Project Hōkūlani
+  interns.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2621a/L{1}X{2}Y{3}.png
+name: Nā ʻUhane Māhoe Huki Pū i ke Ola
+ra_hr: 22.3245611704105
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2621a/thumb.jpg
+zoom_level: 0.7035309507222884

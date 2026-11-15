@@ -5204,6 +5204,133 @@ ra_hr: 13.424346843075467
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2615e/thumb.jpg
 zoom_level: 1.5456946598574786
 ---
+_uuid: 09eb9c07-9947-4e0b-8fc8-ba35bc2c012c
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.4651816391649
+description: During its commissioning and capabilities testing, astronomers used NEWFIRM
+  on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) in Chile to capture a spectacular image of the Omega Centauri globular cluster.
+  At about 17,000 light-years from Earth in the direction of the constellation Centaurus,
+  Omega Centauri is the largest globular cluster in the Milky Way, containing approximately
+  10 million stars, making it a popular target for observations.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/ann23013a/L{1}X{2}Y{3}.png
+name: Globular Cluster Omega Centauri Captured by NEWFIRM on the Blanco Telescope
+ra_hr: 13.446864937965744
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/ann23013a/thumb.jpg
+zoom_level: 2.1546158727410765
+---
+_uuid: 3170ade6-a569-49a8-8793-c99c46dba6e8
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 5.115080102867981
+description: With its swirling arms and luminous core, NGC 5364 is unmistakably a
+  spiral galaxy, lying in the constellation Virgo. But it’s not just any spiral galaxy
+  imaged by the Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope
+  at Cerro Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. This
+  eye-catching stellar body is classified as a grand design spiral galaxy. Grand design
+  spiral galaxies are characterized by prominent, well-defined arms that circle outwards
+  from a distinct core. Only ten percent of spiral galaxies are given this descriptive
+  name and they are considered the archetype of spiral galaxies owing to their ‘perfect’
+  structure. However, NGC 5364 is not as perfect as it may appear. Compared to other
+  grand design spirals, its arms are actually amorphous and asymmetrical. This distortion
+  is thought to be due to interactions with the nearby lenticular galaxy NGC 5363,
+  which can be seen in this image as a fuzzy smear below NGC 5364. Despite its significantly
+  smaller size, the close proximity of this galaxy to NGC 5364 results in a mutual
+  tugging. This moves around the stars and gas within NGC 5364’s arms and warps the
+  overall shape of the galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2347a/L{1}X{2}Y{3}.png
+name: A Grand Design of Imperfections
+ra_hr: 13.932299159936537
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2347a/thumb.jpg
+zoom_level: 3.51172216325271
+---
+_uuid: 3f93486a-8aa6-47b1-9d07-abe80d002f1a
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -30.4399437137086
+description: The galaxy cluster Abell 3574 is captured here by the 570-megapixel Department
+  of Energy-fabricated Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter
+  Telescope, one of around 40 telescopes at the U.S. National Science Foundation Cerro
+  Tololo Inter-American Observatory (CTIO) in Chile, a Program of NSF NOIRLab. Located
+  about 200 million light-years away, Abell 3574 is a gravitationally-bound group
+  of hundreds of galaxies. Galaxy clusters are the second-largest-scale structures
+  known in the Universe, but even at their massive scale these galaxies are never
+  all that far from each other. In the top left, the large galaxy IC 4329, surrounded
+  by rings of light, shows evidence of a past cosmic collision. The spread-out fragments
+  of illuminated blue and white gas on the right side of the image are evidence of
+  a similar clash with the galaxy NGC 5291 (yellow color). If you look closely, you
+  can see more evidence of gravitationally interacting galaxies. Do you notice any?
+  The camera that captured this image was specifically designed for the Dark Energy
+  Survey (DES) and was operated by the Department of Energy (DOE) and NSF between
+  2013 and 2019. The purpose of DES was to map out hundreds of millions of galaxies
+  and record their distances to help astronomers understand dark energy. Since the
+  conclusion of DES, the DES data have been made available to the public and the DECam
+  has been available to other researchers on the Blanco telescope.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2543a/L{1}X{2}Y{3}.png
+name: A Cluster of Interacting Galaxies
+ra_hr: 13.802722855493771
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2543a/thumb.jpg
+zoom_level: 4.152824435973287
+---
+_uuid: 5d20c30e-1399-4302-a5a3-1f33d942a997
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -6.9930822952557605
+description: IC 4212 is a barred spiral galaxy located in the constellation Virgo.
+  It is situated close to the celestial equator, meaning it is at least partly visible
+  from both hemispheres in certain times of the year.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2328c/L{1}X{2}Y{3}.png
+name: IC 4212
+ra_hr: 13.201010221199999
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2328c/thumb.jpg
+zoom_level: 1.1269906144942865
+---
+_uuid: 4ecf3c2b-0710-4a63-b894-45e6d2d0efb3
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.96177442173247
+description: The Dark Energy Camera captures an image of the dazzling Coma Cluster,
+  named after the hair of Queen Berenice II of Egypt. Not only significant in Greek
+  mythology, this collection of galaxies was also fundamental to the discovery of
+  the existence of dark matter. The theory emerged in 1937 when Swiss astronomer Fritz
+  Zwicky noticed that the Coma Cluster galaxies behaved as if they were under the
+  influence of vast amounts of unobservable ‘dark’ matter. See a cropped version of
+  this image here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2420b/L{1}X{2}Y{3}.png
+name: Coma Cluster (uncropped view)
+ra_hr: 13.009592572286227
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2420b/thumb.jpg
+zoom_level: 6.773153441495189
+---
+_uuid: 9ba1a71e-9280-48a1-80bd-54465cab7ae4
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.875382368036476
+description: Twelve million light-years away lies the galactic masterpiece Messier
+  83, also known as the Southern Pinwheel Galaxy. Its swirling spiral arms display
+  a high rate of star formation and host six detected supernovae. This image was captured
+  with the Department of Energy-fabricated Dark Energy Camera, mounted on the U.S.
+  National Science Foundation Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory in Chile, a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2429b/L{1}X{2}Y{3}.png
+name: The Southern Pinwheel Galaxy (rotated)
+ra_hr: 13.616394548284376
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2429b/thumb.jpg
+zoom_level: 5.693060941367684
+---
 _uuid: 0c3652e6-4742-4950-8fa4-8e022c58d818
 classification: ''
 constellation: CEN

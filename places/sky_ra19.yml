@@ -2464,3 +2464,131 @@ name: Hubble’s view of Wolf-Rayet 124
 ra_hr: 19.19191577218273
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2307f/thumb.jpg
 zoom_level: 0.3151495760649259
+---
+_uuid: d0a4554a-a06b-4427-a756-24a4fb5e6692
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 33.76535898180232
+description: This ghostly, butterfly-shaped planetary nebula, captured with Gemini
+  North, one half of the International Gemini Observatory, supported in part by the
+  U.S. National Science Foundation and operated by NSF NOIRLab, is known as Kohoutek
+  3-46. Kohoutek 3-46 derives its name from the prolific planetary nebula hunter who
+  discovered it, Czech astronomer Luboš Kohoutek. Located in the constellation Cygnus,
+  Kohoutek 3-46 is estimated to be around 20,000 years old and around 7200 light-years
+  away. The term ‘planetary nebula’ is a misnomer, since these nebulae are unrelated
+  to planets. The term originates from their planet-like round shape, more obviously
+  seen in this earlier NOIRLab Image of the Week. Kohoutek 3-46 has expanded into
+  an unusual bipolar shape, classified by its well-defined hourglass shape, prominent
+  equatorial ring and marked waist. About 10–20% of planetary nebulae are bipolar.
+  No matter the shape they take on, these glowing clouds of gas form after a star
+  of one to eight times the mass of the Sun has expanded into a red giant. As the
+  core of the red giant contracts, the star expels layers of its atmosphere into space.
+  Energetic ultraviolet radiation from the hot, exposed core then ionizes this gaseous
+  shell around it, ‘illuminating’ the planetary nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2430a/L{1}X{2}Y{3}.png
+name: A ‘Butterfly’ from Death’s Door
+ra_hr: 19.833109404786452
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2430a/thumb.jpg
+zoom_level: 0.6040317925456827
+---
+_uuid: efe92b5e-e0d9-4d84-9248-c058917aff04
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.8576375631071
+description: Behold NGC 6744, a spiral galaxy bearing similarities to our home galaxy,
+  the Milky Way. This cosmic twin is captured here in stunning detail by the Dark
+  Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope at the U.S. National
+  Science Foundation Cerro Tololo Inter-American Observatory (CTIO), a Program of
+  NSF NOIRLab in Chile. Located around 30 million light-years away in the constellation
+  Pavo, NGC 6744 exhibits a luminous core and spiral arms spanning 175,000 light-years
+  across, a larger but similar anatomy to our Milky Way. Moreover, to the lower right
+  of NGC 6744, at the end of the spiral arm, is a faint blob. This is its companion
+  galaxy known as NGC 6744A. The companionship between these galaxies is analogous
+  to that between the Milky Way and its dwarf companion the Large Magellanic Cloud.
+  Though it’s impossible to get an external view of our galaxy, these similarities
+  offer insight into how the Milky Way might look to a distant observer. This is one
+  of the deepest images of NGC 6744 ever taken, and keen observers can spy the faint
+  extended arm on the left hand side of the galaxy — rarely visible in most images.
+  This image is part of the DESI Legacy Imaging Surveys, an ambitious effort to construct
+  the largest 3D map of the night sky with the DOE-built DECam on the Blanco Telescope
+  at NSF CTIO and other Programs of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2434a/L{1}X{2}Y{3}.png
+name: Galactic Twin NGC 6744
+ra_hr: 19.162809284591976
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2434a/thumb.jpg
+zoom_level: 3.7992927264814
+---
+_uuid: 99a403b3-2f0d-4533-bb52-370ac4134e61
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 15.787671612296256
+description: The dusty disk around MWC 614 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212f/L{1}X{2}Y{3}.png
+name: Dusty disk around MWC 614
+ra_hr: 19.186459768395828
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212f/thumb.jpg
+zoom_level: 0.006928562123053223
+---
+_uuid: e672718e-3faf-4df4-b28f-bf2420293ff3
+classification: ''
+constellation: SGE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 19.773201046517435
+description: Thanks to a fast reaction by observers and staff, near-simultaneous observations
+  were made of GRB221009A from Gemini South in Chile. The image is a combination of
+  4 exposures in I, J,H, K with two instruments taken in the morning of Friday 14
+  October 2022.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2224b/L{1}X{2}Y{3}.png
+name: Record-breaking Gamma-Ray Burst Caught With Gemini (no annotations)
+ra_hr: 19.21763407275831
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2224b/thumb.jpg
+zoom_level: 0.406316360389824
+---
+_uuid: 11e1ad47-e303-4162-9c95-ede4ec1d0973
+classification: ''
+constellation: VUL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 23.312667452341714
+description: To celebrate 25 years since the completion of the International Gemini
+  Observatory, students in Hawai‘i voted for the Gemini North telescope to image NGC
+  6820 — a striking emission nebula and open star cluster. The image was named Ua
+  ʻŌhiʻa Lani, the Heavenly ʻŌhiʻa Rains, after the traditional Hawaiian story of
+  the ʻŌhiʻa forests. The International Gemini Observatory is partly funded by the
+  U.S. National Science Foundation (NSF) and operated by NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2529a/L{1}X{2}Y{3}.png
+name: 'Ua ʻŌhiʻa Lani: An Image to Celebrate Gemini North’s 25th Anniversary'
+ra_hr: 19.727441052301945
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2529a/thumb.jpg
+zoom_level: 0.887419371537799
+---
+_uuid: b52a1a91-9eb2-4392-a894-d204d137bcc8
+classification: ''
+constellation: CRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -36.85069322414195
+description: A vibrant view of the Corona Australis Molecular Cloud, one of the closest
+  star-forming regions to Earth, reveals glowing nebulae, dark dust lanes, and newborn
+  stars in a scene reminiscent of Van Gogh’s The Starry Night. At left, the young
+  binary system R Coronae Australis illuminates surrounding gas and dust, while the
+  glittering globular cluster NGC 6723 shines at upper right, far beyond the nearby
+  stellar nursery. This image was captured by the 570-megapixel DOE-fabricated Dark
+  Energy Camera (DECam), mounted on the NSF Víctor M. Blanco 4-meter Telescope at
+  Cerro Tololo Inter-American Observatory (CTIO) in Chile.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2617a/L{1}X{2}Y{3}.png
+name: Corona Australis Molecular Cloud
+ra_hr: 19.01418443094818
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2617a/thumb.jpg
+zoom_level: 5.033849580464399

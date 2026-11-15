@@ -2178,3 +2178,129 @@ name: Stellar jet in Sh2-284 (NIRCam image)
 ra_hr: 6.771048458623323
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2519a/thumb.jpg
 zoom_level: 0.2532511344200943
+---
+_uuid: 7a95f253-e26e-4600-8e66-e9afc8f7e802
+classification: ''
+constellation: LEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -20.11675744400368
+description: The galaxy cluster MACS J0060.1-2008 (MACS0060) is well known for its
+  strong gravitational lensing effect. This means the cluster is massive enough to
+  curve the space-time around it and bend the path of light from more distant objects.
+  The galaxy cluster acts like a giant magnifying glass, boosting the reach of our
+  telescopes and allowing us to see farther and fainter objects in space. When researchers
+  analyzed a Hubble Space Telescope (HST) image of the MACS0600 cluster, they realized
+  that the cluster's mass as determined from the image was too small to account for
+  the strength of its gravitational lensing effect. The researchers observed the area
+  just east of where the HST image was taken using the Gemini Multi-Object Spectrograph
+  (GMOS) on Gemini North, one half of the International Gemini Observatory, supported
+  in part by the U.S. National Science Foundation and operated by NSF NOIRLab. They
+  found that the HST image only captured a small part of a massive, sprawling cluster.
+  As a result, the researchers have given MACS0600 the nickname ‘Anglerfish cluster,’
+  in reference to the deep-sea creature that is often only partially visible while
+  the bulk of it remains hidden. Further research will be needed to find the spatial
+  limits of the cluster’s mass, and astronomers are already planning to use this cluster’s
+  magnification powers to study galaxies in the early Universe.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2535a/L{1}X{2}Y{3}.png
+name: Delimiting a Cosmic Magnifying Glass
+ra_hr: 6.0048152265159755
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2535a/thumb.jpg
+zoom_level: 0.8662063125300596
+---
+_uuid: eb94a8f4-aca9-45c9-a696-2b9158c3f150
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -6.966513674115323
+description: The dusty disk around HD 50138 is part of a survey of 44 young massive
+  stars to investigate planet formation in dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212e/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 50138
+ra_hr: 6.859277524709873
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212e/thumb.jpg
+zoom_level: 0.007214161342638095
+---
+_uuid: c35551e1-2815-4221-91a7-7a7c99df08ae
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 16.515754679616208
+description: The dusty disk around MWC 789 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212g/L{1}X{2}Y{3}.png
+name: Dusty disk around MWC 789
+ra_hr: 6.033330333528768
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212g/thumb.jpg
+zoom_level: 0.007274319429717608
+---
+_uuid: 4ac31f36-7c96-46e2-9e31-165bc37d01ec
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -55.961021571193115
+description: The Bullet Cluster is made up of two galaxy clusters that are colliding,
+  one moving through the other, about 3.7 billion light-years away in the constellation
+  Carina. These galaxy clusters act as gravitational lenses, magnifying the light
+  of background galaxies. This phenomenon makes the Bullet Cluster a compelling piece
+  of evidence supporting the existence of dark matter. This image was taken with the
+  570-megapixel U.S. Department of Energy-fabricated Dark Energy Camera (DECam), mounted
+  on the U.S. National Science Foundation Víctor M. Blanco 4-meter Telescope at Cerro
+  Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. View the Zoomable
+  image to explore this stunning galaxyscape in more detail.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2603a/L{1}X{2}Y{3}.png
+name: Bullet Cluster with DECam
+ra_hr: 6.975304593640096
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2603a/thumb.jpg
+zoom_level: 7.976506619045834
+---
+_uuid: a84395bb-4600-4315-bb85-06a46a1a3915
+classification: ''
+constellation: PIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.91305220619296
+description: This image shows stars in the ultra-faint dwarf galaxy, Pictor II. Pictor
+  II is a satellite galaxy of the Large Magellanic Cloud, which is a satellite galaxy
+  of the Milky Way, and is located in the constellation Pictor. The system is made
+  up of several thousand stars and is more than ten billion years old. Within this
+  small, ancient galaxy, astronomers discovered a star, PicII-503, with the lowest
+  iron content ever measured outside of the Milky Way. With less than 1/40,000th the
+  amount of iron as the Sun, PicII-503 is the clearest example of a star within a
+  primordial system that preserves the chemical enrichment of the Universe’s first
+  stars. PicII-503 also has an extreme overabundance of carbon, providing the missing
+  link to connect carbon-enhanced stars observed in the Milky Way halo to an origin
+  in ancient dwarf galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2607a/L{1}X{2}Y{3}.png
+name: Pictor II ultra-faint dwarf galaxy
+ra_hr: 6.7453005566
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2607a/thumb.jpg
+zoom_level: 4.796544776483525
+---
+_uuid: daba0160-8eff-4bf3-bdf6-4af529a17f46
+classification: ''
+constellation: PIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -60.13995705181635
+description: This image shows the star PicII-503, with the lowest iron content ever
+  measured outside of the Milky Way. With less than 1/40,000th the amount of iron
+  as the Sun, PicII-503 is the clearest example of a star within a primordial system
+  that preserves the chemical enrichment of the Universe’s first stars. PicII-503
+  also has an extreme overabundance of carbon, providing the missing link to connect
+  carbon-enhanced stars observed in the Milky Way halo to an origin in ancient dwarf
+  galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2607c/L{1}X{2}Y{3}.png
+name: Star PicII-503 in Pictor II ultra-faint dwarf galaxy
+ra_hr: 6.733073222610093
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2607c/thumb.jpg
+zoom_level: 0.12602529618119387

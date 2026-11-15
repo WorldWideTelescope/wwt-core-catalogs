@@ -4505,3 +4505,81 @@ name: IRS 3 Field (MIRI image)
 ra_hr: 17.761134468105396
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2617d/thumb.jpg
 zoom_level: 0.5784301123063338
+---
+_uuid: 1095031e-b504-4d86-9e06-85ca94763617
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -38.46904647739045
+description: RCW 120, also known as Sharpless 2-3, is an emission nebula and star-forming
+  region located in the constellation Scorpius, about 4300 light-years away from Earth.
+  The glowing nebula was captured here by the SMARTS 0.9-meter Telescope at Cerro
+  Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. This HII region
+  shines in the red color of ionized hydrogen gas. Immense heat generated from young,
+  massive stars within energizes the gas, that then releases light in deep red and
+  infrared wavelengths. The dark lanes in the nebula are less energized areas and
+  thus do not appear to glow despite being made of the same material. Within the gas,
+  bright stars are a common sight in emission nebulae, and are responsible for fusing
+  together light elements to form many of the heavier elements in the cosmos, such
+  as silicon and iron. RCW 120, however, houses an unusual embryonic star – one that
+  is expected to become one of the brightest in our galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2230a/L{1}X{2}Y{3}.png
+name: A Crimson Nursery
+ra_hr: 17.206363647309608
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2230a/thumb.jpg
+zoom_level: 2.189162350560309
+---
+_uuid: 687b19b0-ef8b-442a-b25a-3d44e1f8dc8f
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.673698361503398
+description: The sinuous young stellar jet, MHO 2147, meanders lazily across a field
+  of stars in this image captured from Chile by the international Gemini Observatory,
+  a Program of NSF's NOIRLab. The stellar jet is the outflow from a young star that
+  is embedded in an infrared dark cloud. Astronomers suspect its sidewinding appearance
+  is caused by the gravitational attraction of companion stars. These crystal-clear
+  observations were made using the Gemini South telescope’s adaptive optics system,
+  which helps astronomers counteract the blurring effects of atmospheric turbulence.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2204d/L{1}X{2}Y{3}.png
+name: Young stellar jet MHO 2147 (wider crop)
+ra_hr: 17.930137538727106
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2204d/thumb.jpg
+zoom_level: 0.2646195071247641
+---
+_uuid: 9060efc4-40f2-4102-8b44-f4b8fba8a7b5
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -34.20759969514152
+description: This image, taken by astronomers using the US Department of Energy-fabricated
+  Dark Energy Camera on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory, a Program of NSF NOIRLab, captures the star-forming nebula NGC 6357,
+  which is located 8000 light-years away in the direction of the constellation Scorpius.
+  This image reveals bright, young stars surrounded by billowing clouds of dust and
+  gas inside NGC 6357, which is also known as the Lobster Nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2221a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Captures Bright, Young Stars Blazing Inside Glowing Nebula
+ra_hr: 17.416813849687745
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2221a/thumb.jpg
+zoom_level: 13.415015509456937
+---
+_uuid: 89d5c911-3179-453b-b1e5-676a81c3fc11
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -37.101555831340995
+description: To celebrate 25 years since the completion of the International Gemini
+  Observatory, students in Chile voted for the Gemini South telescope to image the
+  NGC 6302 — a billowing planetary nebula that resembles a cosmic butterfly. The International
+  Gemini Observatory is partly funded by the U.S. National Science Foundation (NSF)
+  and operated by NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2530a/L{1}X{2}Y{3}.png
+name: Gemini South Images the Butterfly Nebula
+ra_hr: 17.227734427800605
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2530a/thumb.jpg
+zoom_level: 0.6850262505267232

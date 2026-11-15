@@ -2700,6 +2700,133 @@ ra_hr: 16.014016711779075
 thumbnail: https://data1.wwtassets.org/feeds/jwst/wolf-rayet-apep/thumb.jpg
 zoom_level: 0.1987192047475505
 ---
+_uuid: 3aa757b0-21bc-4a49-9a48-2826bfc53176
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.4014215969738086
+description: A detailed image of NGC 6240 taken by the Dark Energy Camera (DECam).
+  DECam was made by the U.S. Department of Energy (DOE) and is mounted on the Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2342c/L{1}X{2}Y{3}.png
+name: NGC 6240 taken by the Dark Energy Camera
+ra_hr: 16.883002573910527
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2342c/thumb.jpg
+zoom_level: 1.2567247677054563
+---
+_uuid: 7e739e60-97ed-4b18-8600-0ccd64ed2e27
+classification: ''
+constellation: ARA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -48.709707121366776
+description: The Fighting Dragons of Ara, formally designated NGC 6188, is an emission
+  nebula located about 4000 light-years away near the edge of a large molecular cloud
+  in the constellation Ara (the Altar). The nebula was given its name for its resemblance
+  to two ‘dragons’ emerging from within the ominous dark dust clouds to face off with
+  one another. This image is of their ‘profiles’ pointed squarely at each other, captured
+  by the DOE-built Dark Energy Camera (DECam) mounted on the Víctor M. Blanco 4-meter
+  Telescope at the U.S. National Science Foundation Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab. The reddish glow of the dragons’ backs is ionized hydrogen,
+  ‘lit up’ by light from the bright young stars — only a few million years old — in
+  the nebula. Of these young stars, 27 form the beaming open cluster NGC 6193 (in
+  the upper left quadrant of the image, left of the image’s centerline), which gives
+  a background glow that further defines the outline of the dragons. These young stars
+  have also been blowing off intense stellar winds since they ignited, sculpting and
+  shaping the gas and dust into the mythical ‘duel’ that we see today. This image
+  was obtained by NOIRLab’s Communication, Education & Engagement team as part of
+  the NOIRLab Legacy Imaging Program. You can view a close-up of this shot here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2528b/L{1}X{2}Y{3}.png
+name: Dueling Dust Dragons (in Space!)
+ra_hr: 16.67257181997701
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2528b/thumb.jpg
+zoom_level: 4.880312982167362
+---
+_uuid: 12a338a0-872d-424c-b004-527a3d84613f
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -23.07549938988762
+description: This image shows a small region of the sky in the direction of the Upper
+  Scorpius constellation. It zooms in on a recently discovered free-floating planet,
+  meaning a planet that does not orbit a star but instead roams freely on its own.
+  The free-floating planet is the tiny, bright red dot at the very centre of the image.
+  The image was created by combining data from the OmegaCam instrument on VLT Survey
+  Telescope (VST) and from the VIRCAM instrument on the Visible and Infrared Survey
+  Telescope for Astronomy (VISTA), both located at ESO’s Paranal Observatory in Chile.
+  Observations with these and other instruments helped the scientists tell the planets
+  apart from stars, brown dwarfs and other objects in this region of the sky. Lurking
+  far away from any star illuminating them, free-floating planets would normally be
+  impossible to image, but shortly after formation they emit a faint glow that can
+  be detected by sensitive cameras on powerful telescopes.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2131b/L{1}X{2}Y{3}.png
+name: The faint red glow of a free-floating planet
+ra_hr: 16.136944360679074
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2131b/thumb.jpg
+zoom_level: 1.2355028644797237
+---
+_uuid: 492fcee0-1891-446a-ab1f-894e09a9986a
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -22.48518101611762
+description: The dusty disk around HD 145718 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212h/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 145718
+ra_hr: 16.219886668149577
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212h/thumb.jpg
+zoom_level: 0.007172331669374256
+---
+_uuid: e2c7d446-d1cb-42b6-9658-24830e80578c
+classification: ''
+constellation: LUP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.156063241480034
+description: The two young, low-mass proto-stars HR 5999 and HR 6000 illuminate nearby
+  dust, creating the reflection nebula Bernes 149. These stars grew out of the dusty
+  dark cloud of Lupus 3, part of a larger complex of as many as nine dark clouds.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2313a/L{1}X{2}Y{3}.png
+name: Reflection Nebula Bernes 149 in Dark Cloud Lupus 3
+ra_hr: 16.13960034740264
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2313a/thumb.jpg
+zoom_level: 9.896132736045367
+---
+_uuid: 2eb509c2-72be-4b1e-8e8e-ac5a4edbf79d
+classification: ''
+constellation: CRB
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 31.034500491135958
+description: Using a combination of telescopes, astronomers have discovered the largest
+  radio jet ever found in the early Universe. The jet was first identified using the
+  international Low Frequency Array (LOFAR) Telescope, a network of radio telescopes
+  throughout Europe. Follow-up observations in the near-infrared with the Gemini Near-Infrared
+  Spectrograph (GNIRS), and in the optical with the Hobby Eberly Telescope, were obtained
+  to paint a complete picture of the radio jet and the quasar producing it. GNIRS
+  is mounted on the Gemini North telescope, one half of the International Gemini Observatory,
+  funded in part by the U.S. National Science Foundation and operated by NSF NOIRLab.
+  A portion of this image was taken as part of the DECam Legacy Survey (DECaLS), one
+  of three public surveys that jointly imaged 14,000 square degrees of sky to provide
+  targets for the ongoing Dark Energy Spectroscopic Instrument (DESI) Survey. DECals
+  was conducted using the 570-megapixel Department of Energy-fabricated Dark Energy
+  Camera (DECam), mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO) in Chile, a
+  Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/L{1}X{2}Y{3}.png
+name: Quasar J1601+3102
+ra_hr: 16.030443806624508
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/thumb.jpg
+zoom_level: 0.044811441583180345
+---
 _uuid: a6bf0aaf-35f1-467d-90b9-eaab3b9f2a51
 classification: ''
 constellation: SCO

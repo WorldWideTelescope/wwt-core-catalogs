@@ -3057,6 +3057,69 @@ ra_hr: 9.931948842466463
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612e/thumb.jpg
 zoom_level: 1.049876132071117
 ---
+_uuid: 9950a787-d0f5-4bac-8b8d-a4386543fca6
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 13.736336337622113
+description: This image, which looks a little like an enormous bubble in space, features
+  a planetary nebula known as EGB 6. It was imaged by the Nicholas U. Mayall 4-meter
+  Telescope at Kitt Peak National Observatory (KPNO), a Program of NSF NOIRLab. Planetary
+  nebulae, notoriously, have nothing to do with planets. They form during the dying
+  millennia of intermediate-mass stars, stars with masses between one and eight times
+  the mass of the Sun. “Dying millennia” might sound like a very long time, but compared
+  to the overall lifespan of a star, planetary nebulae are extremely short-lived.
+  Towards the end of their life cycle, intermediate-mass stars enter the red giant
+  phase, during which fusion reactions temporarily reignite in a dying star’s core.
+  Layers of gas, shed or ejected during the red giant phase, absorb vast amounts of
+  energy and create the gorgeous phenomena known as planetary nebulae. The dying millenia
+  only last about 20,000 years, a mere blink of an eye when you consider that intermediate-mass
+  stars shine steadily for between 30 million to 10 billion years (depending on their
+  mass) before they die.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2215a/L{1}X{2}Y{3}.png
+name: A Dead Star’s Shroud
+ra_hr: 9.883872585484827
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2215a/thumb.jpg
+zoom_level: 5.103173998310988
+---
+_uuid: 70e31cae-ee69-4253-97d0-4cb225aacff2
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.99804249704954
+description: This image, which is brimming with stars and dark dust clouds, is a small
+  extract — a mere pinprick — of the full Dark Energy Camera Plane Survey (DECaPS2)
+  of the Milky Way. The new dataset contains a staggering 3.32 billion celestial objects
+  — arguably the largest such catalog so far. The data for this unprecedented survey
+  were taken with the US Department of Energy-fabricated Dark Energy Camera at the
+  NSF’s Cerro Tololo Inter-American Observatory in Chile, a Program of NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2301c/L{1}X{2}Y{3}.png
+name: Deep Dive into Astronomical Data Tapestry of the Milky Way
+ra_hr: 9.483847372824473
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2301c/thumb.jpg
+zoom_level: 42.72660587339768
+---
+_uuid: d08e845f-eb6c-4b8b-847f-dc3b4249ae35
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.4144669255005929
+description: This image shows the field around the progenitor to supernova SN 2026gzf,
+  detected by the Einstein Probe on 21 March 2026. The supernova progenitor appears
+  as a bright blue dot within the galaxy located at the center of this image. View
+  a series of close-up images that show the evolving supernova here. This image was
+  captured with the 570-megapixel DOE-fabricated Dark Energy Camera (DECam), mounted
+  on the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) in Chile, a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2619b/L{1}X{2}Y{3}.png
+name: DECam image of the field around the progenitor to supernova SN 2026gzf
+ra_hr: 9.99493801555808
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2619b/thumb.jpg
+zoom_level: 1.1796657583922243
+---
 _uuid: eda99bef-2631-4171-aa8a-d910ee0b1c2d
 classification: ''
 constellation: UMA

@@ -11077,6 +11077,68 @@ The active galaxy NGC 1275 lies at the center of the cluster of galaxies known a
   </ImageSet>
   <ImageSet
     BandPass="Multi"
+    BaseDegreesPerTile="0.007423625862482476"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="240.4566581569587"
+    CenterY="31.034499584931634"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Quasar J1601+3102"
+    OffsetX="9.062043289163178e-07"
+    OffsetY="9.062043289163178e-07"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="Visible,Radio"
+    Xcorepipe_ids="noirlab|noirlab2506c"
+    Xcxstatus="skip"
+    Xdominant_band="Radio"
+  >
+    <Credits>LOFAR/DECaLS/DESI Legacy Imaging Surveys/LBNL/DOE/CTIO/NOIRLab/NSF/AURA. Image processing: M. Zamani (NSF NOIRLab)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2506c/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
+    BaseDegreesPerTile="0.010131602134421392"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="60.52214875509524"
+    CenterY="-4.408000407541011"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Gemini North and ALMA image of &quot;Shadow Blaster&quot;"
+    OffsetX="2.4735356773489728e-06"
+    OffsetY="2.4735356773489728e-06"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.16000000000000156"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="https://data1.wwtassets.org/feeds/noirlab/noirlab2615c/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xbands="Visible,Radio"
+    Xcorepipe_ids="noirlab|noirlab2615c"
+    Xcxstatus="skip"
+    Xdominant_band="Radio"
+  >
+    <Credits>International Gemini Observatory/NOIRLab/NSF/AURA/ALMA (ESO/NAOJ/NRAO) Image Processing: T.A. Rector (University of Alaska Anchorage/NSF NOIRLab), D. de Martin &amp; M. Zamani (NSF NOIRLab) Acknowledgment: PI: Yuji Urata (MITOS Science Co., LTD.)</Credits>
+    <CreditsUrl>https://noirlab.edu/public/images/noirlab2615c/</CreditsUrl>
+    <ThumbnailUrl>https://data1.wwtassets.org/feeds/noirlab/noirlab2615c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="Multi"
     BaseDegreesPerTile="0.59847110508544"
     BaseTileLevel="0"
     BottomsUp="False"

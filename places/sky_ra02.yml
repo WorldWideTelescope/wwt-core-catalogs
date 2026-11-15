@@ -2416,3 +2416,71 @@ name: Digel Cloud 2S
 ra_hr: 2.808289150776243
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2422a/thumb.jpg
 zoom_level: 0.22078242583181004
+---
+_uuid: c4b7d31a-745f-4ceb-beea-e126a5da6546
+classification: ''
+constellation: PER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 37.341886551395724
+description: 'Approximately as bright in the night sky as Proxima Centauri, this quiescent
+  spiral galaxy known as NGC 1058 betrays its unassuming appearance with a record
+  of supernovae and starburst activity. Captured by the Gemini Multi-Object Spectrograph
+  (GMOS) at Gemini North, operated by NSF NOIRLab, the galaxy lies about 30 million
+  light-years away in the constellation of Perseus as part of the NGC 1023 Group.
+  A Seyfert Type 2 galaxy, NGC 1058 hosts a luminous center with a mix of blues and
+  pinks along its arms that indicate active regions of star formation. Three supernovae
+  have been observed in the galaxy: SN 1961V, SN 1969L, and SN 2007gr. SN 1961V has
+  been enveloped in mystery as its explosion is yet to be understood. Although a faint
+  shell of expanding gas can just be resolved by astronomers, some are skeptical because
+  there is a remaining bright star near the position of its wake. As the ‘supernova’
+  gradually fades into the night, the incriminating star continues to shine with an
+  unusually long decay time. You can see another view of NGC 1058 from Kitt Peak National
+  Observatory (KPNO), a Program of NSF NOIRLab, here.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2403a/L{1}X{2}Y{3}.png
+name: Hidden Among Supernovae
+ra_hr: 2.724246242262488
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2403a/thumb.jpg
+zoom_level: 0.7813986573827567
+---
+_uuid: 6db9c9ab-a3c2-4c6d-958c-39eb1d671ebf
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.79043088636476
+description: 'In the southern constellation of Fornax lies NGC 922, a peculiar galaxy
+  with a structure that has puzzled astronomers for years. Previously, researchers
+  thought its distinctive features — the stellar plume and off-center galactic bar
+  — resulted from a collision with a nearby dwarf galaxy some 330 million years ago.
+  However, new observations have revealed an umbrella-like tidal tail, seen in this
+  image taken with the DOE-built DECam on the U.S. National Science Foundation Víctor
+  M. Blanco 4-meter Telescope at the Cerro Tololo Inter-American Observatory (CTIO),
+  a Program of NSF NOIRLab. These observations contradict the previous collision theory
+  by showing that this newly detected tail doesn’t align with the trajectory of the
+  dwarf galaxy. Moreover, the dwarf galaxy itself shows signs of ongoing star formation
+  and has a well-defined structure, which is inconsistent with the aftermath of a
+  direct collision. So, a new hypothesis has emerged: that these complex features
+  may be the result of a merger with a ‘stripped’ dwarf galaxy that lost much of its
+  material through past interactions with other galaxies. As scientists rewrite the
+  history of NGC 922, these tidal features make this galaxy a valuable subject for
+  understanding how galaxies evolve after interactions.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2439a/L{1}X{2}Y{3}.png
+name: The Tidal Tales of NGC 922
+ra_hr: 2.417774195433333
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2439a/thumb.jpg
+zoom_level: 1.1759231714949596
+---
+_uuid: ab1ce9c9-713e-496c-b618-936474b9e3ba
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -5.3403866875434804
+description: A deep image from the Dark Energy Survey showing the field covered by
+  one of the individual detectors in the Dark Energy Camera.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2401f/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Deep Image
+ra_hr: 2.24646152872516
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2401f/thumb.jpg
+zoom_level: 1.5053188962822595

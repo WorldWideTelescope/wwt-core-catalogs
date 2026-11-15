@@ -3966,3 +3966,148 @@ name: NGC 346 (Webb)
 ra_hr: 0.9849520310740464
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2301d/thumb.jpg
 zoom_level: 0.7769725615461543
+---
+_uuid: 5f1fbcb7-6598-4c7d-9780-5de61ec4e124
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -23.954620134925534
+description: The smudge in the center of this image from the Dark Energy Camera (DECam),
+  built by the US Department of Energy, is the elusive dwarf galaxy Donatiello II.
+  It is one of six dwarf galaxies discovered by Italian amateur astronomer Giuseppe
+  Donatiello. Three of them — Donatiello II, III and IV — were tucked away in the
+  DECam images, and are now known to be satellites of the Sculptor Galaxy (NGC 253)
+  (outside the field, to the far right). DECam is an instrument on the Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO), a Program of
+  NSF NOIRLab. It combines a wide field of view with high sensitivity, meaning that
+  it can scan large swathes of the night sky and also pick out the faint stars making
+  up neighboring dwarf galaxies such as this one. The Milky Way shares its patch of
+  the Universe with a whole host of small galaxies and star clusters, which help astronomers
+  shed light on the yet-to-be-understood physics of dark matter.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2306a/L{1}X{2}Y{3}.png
+name: Recently Discovered Dwarf Galaxy Donatiello II
+ra_hr: 0.7855029206726687
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2306a/thumb.jpg
+zoom_level: 1.300216372002157
+---
+_uuid: 668aaefc-80f7-48d7-b623-1a35db27c915
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -31.204942836599216
+description: In the constellation Sculptor lies this large extended spiral galaxy
+  called NGC 289. Despite being around 75 million light-years away, the light of NGC
+  289 is stunningly captured here by the Dark Energy Camera (DECam) on the Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO), a
+  Program of NSF NOIRLab. The galaxy’s bluish arms reach through the expanse of space
+  over 100,000 light-years, larger than the size of our own Milky Way. It’s classified
+  as a Type II Seyfert galaxy with its ripe collections of star formation and bright
+  core, but it’s also relatively faint. Studies have found that the galaxy contains
+  large amounts of dark matter, which is a common feature of all galaxies with a low
+  surface brightness. Dark matter is yet to be directly observed, which led the US
+  Department of Energy to build the DECam in order to study the nature of dark matter.
+  Since the conclusion of its survey, DECam has been available to other scientists
+  for use, such as for this image of NGC 289.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2332a/L{1}X{2}Y{3}.png
+name: Gentle Giant Galaxy
+ra_hr: 0.8783989125837935
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2332a/thumb.jpg
+zoom_level: 2.226256454466158
+---
+_uuid: 9929a202-b1d3-4050-8fd6-81b85c1fb0c8
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -73.2353784899182
+description: Orbiting around the Milky Way about 210,000 light-years away is the Small
+  Magellanic Cloud (SMC). This satellite galaxy is a dwarf galaxy, about a twentieth
+  the size of our own galaxy. Sitting among its hundred million stars is a 'bauble'
+  of hydrogen gas, captured here with the 4.1-meter Southern Astrophysical Research
+  (SOAR) Telescope, one of the telescopes at Cerro Tololo Inter-American Observatory
+  (CTIO), operated by NSF NOIRLab. This HII (pronounced H two) region is a cloud ripe
+  with star formation. Young, hot, blue stars formed from the material in the molecular
+  cloud, and now emit highly energetic ultraviolet radiation. The photons of the radiation
+  field bombard the remaining hydrogen gas with energy that ionizes the atoms, or,
+  in other words, excites them to a higher energy level. Astronomers use the term
+  HII to refer to this ionized state of the hydrogen. Ionized hydrogen emits light
+  at a specific wavelength called H-alpha. For researchers down on Earth, this wavelength
+  is a unique identity marker for ionized hydrogen, and is responsible for the characteristic
+  red color of HII regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2350a/L{1}X{2}Y{3}.png
+name: Glowing Hydrogen Bauble in the Small Magellanic Cloud
+ra_hr: 0.8022414670092863
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2350a/thumb.jpg
+zoom_level: 0.5228153887944672
+---
+_uuid: 64fa8709-77c2-44da-b4e9-154c9bb5c9e8
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -72.79622471670001
+description: This NOIRLab Image of the Week of the Small Magellanic Cloud (SMC) was
+  not taken with a telescope! It was instead captured using a camera and a wide-aperture
+  telephoto lens. It was taken by Petr Horálek, a NOIRLab Audiovisual Ambassador.
+  Petr captured this special image for almost four hours during a night spent under
+  clear skies on Cerro Pachón in Chile. Cerro Pachón is a mountain in the foothills
+  of Chile’s Andes range. Northern Chile offers some of the clearest, driest, and
+  darkest skies in the world. These conditions create ample opportunities for astrophotography
+  and for addressing some of our biggest questions about the Universe. The summit
+  of Cerro Pachón is home to several telescopes operated by NSF NOIRLab including
+  the SOAR Telescope, a part of the U.S. National Science Foundation (NSF) Cerro Tololo
+  Inter-American Observatory (CTIO), a Program of NSF NOIRLab; Gemini South, one half
+  of the International Gemini Observatory, funded in part by the NSF; and NSF–DOE
+  Vera C. Rubin Observatory, which is jointly funded by the NSF and the U.S. Department
+  of Energy Office of Science (DOE/SC). The Small Magellanic Cloud and Large Magellanic
+  Cloud (LMC) are the largest of the 60+ satellite galaxies of the Milky Way. Satellite
+  galaxies orbit around a host galaxy and are usually smaller than their host galaxy.
+  The SMC was once even a satellite galaxy of the LMC! Unlike most of the other satellite
+  galaxies of the Milky Way, the SMC is actively forming stars at a rapid pace, a
+  process revealed by the blue light in this image. Petr similarly captured the LMC
+  from Cerro Pachón as an earlier NSF NOIRLab Image of the Week.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2615a/L{1}X{2}Y{3}.png
+name: The Small Magellanic Cloud from Cerro Pachón
+ra_hr: 0.8863640054866667
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2615a/thumb.jpg
+zoom_level: 63.085471509437355
+---
+_uuid: 5f23796b-708f-41f6-9b0b-74f405602b47
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 23.485517468525106
+description: The Gemini North telescope, one half of the International Gemini Observatory,
+  operated by NSF NOIRLab, captured this dazzling image of the so-called Taffy Galaxies
+  — UGC 12914 and UGC 12915. Their twisted appearance is the result of a head-on collision
+  that occurred about 25 million years prior to their appearance in this image. A
+  bridge of highly turbulent gas devoid of significant star formation spans the gap
+  between the two galaxies. This image was obtained by NOIRLab’s Communication, Education
+  & Engagement team as part of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2308a/L{1}X{2}Y{3}.png
+name: ‘Taffy Galaxies’ Collide, Leave Behind Bridge of Star-Forming Material
+ra_hr: 0.027659556826583005
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2308a/thumb.jpg
+zoom_level: 0.7191336914694506
+---
+_uuid: 8cdd500f-ee20-4531-9822-91f7262e083d
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 67.50119191337217
+description: No, this is not a firework display. This is Pa 30 — the likely remnant
+  of the historic supernova witnessed in the year 1181, now captured here in unprecedented
+  detail by the Gemini North telescope, one half of the International Gemini Observatory,
+  partly funded by the U.S. National Science Foundation (NSF) and operated by NSF
+  NOIRLab. This image was captured with the Gemini Multi-Object Spectrograph (GMOS),
+  and it shows that the remnant’s unmistakable firework-shaped ejecta take on a cascading
+  knot-like structure.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2624a/L{1}X{2}Y{3}.png
+name: Supernova remnant Pa 30
+ra_hr: 0.88645596278787
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2624a/thumb.jpg
+zoom_level: 0.7783288644823422

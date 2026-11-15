@@ -8333,3 +8333,246 @@ name: Crab Nebula (MIRI and NIRCam image)
 ra_hr: 5.575711127387851
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2417a/thumb.jpg
 zoom_level: 0.7862280005290743
+---
+_uuid: d2386afb-c2ce-4524-99c6-b82d87a2ad2d
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -5.4375929654691655
+description: This is the first light image from Gemini South. It shows a small section
+  of the Trapezium region of the Orion Nebula as seen at infrared wavelengths using
+  the Flamingos-I near infrared imager.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/November-2000/L{1}X{2}Y{3}.png
+name: First Light Image Gemini South
+ra_hr: 5.587723101775716
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/November-2000/thumb.jpg
+zoom_level: 0.36348196084269024
+---
+_uuid: f024f313-6252-4f3c-922b-349db06b2202
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.10084172437932
+description: This near-infrared image obtained with GeMS adaptive optics system resolves
+  the stars inside RMC 136, a giant star cluster within the Tarantula Nebula in the
+  Large Magellanic Cloud. The cluster produces most of the energy that energizes the
+  Tarantula Nebula. The estimated mass of the cluster is about half a million times
+  the mass of the sun, suggesting it will probably become a globular cluster in the
+  future.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/gemini-2013-rmc136-legacy/L{1}X{2}Y{3}.png
+name: RMC 136
+ra_hr: 5.645318082627622
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/gemini-2013-rmc136-legacy/thumb.jpg
+zoom_level: 0.24760705173960962
+---
+_uuid: ae4e86da-d110-4846-ae7f-5d566f6adde4
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 22.013877546588233
+description: 'The nebula that keeps on giving, Messier 1 (Crab Nebula) is captured
+  here by the Nicholas U. Mayall 4-meter Telescope from Kitt Peak National Observatory
+  (KPNO), a Program of NSF NOIRLab. The storied history of this supernova remnant
+  in modern astronomy begins when it was recorded in 1731 by British astronomer John
+  Bevis, who believed it was nothing more than a cloudy blob. It was more than three
+  decades later that French comet hunter Charles Messier clarified that the object
+  was in fact something, and it became the first entry in his catalog of nebulae and
+  star clusters. Then in the early 20th century astronomers connected Messier 1 to
+  a supernova explosion observed by Chinese astronomers in 1054. This made the Crab
+  Nebula the first astronomical object to be connected to a previously observed supernova.
+  A pulsar — the ultra-dense, rapidly spinning remnant of a star — inside the Crab
+  Nebula was discovered in 1968 at radio wavelengths. Its presence in the optical
+  part of the spectrum was confirmed a year later by Americans John Cocke and Donald
+  Taylor and British astronomer Michael Disney using the UArizona 0.9-meter Spacewatch
+  Telescope at KPNO. The Crab Pulsar then became integral in advancing scientific
+  understanding of supernova remnants: it was the first of its kind to link a historical
+  supernova to a pulsar whose precise age is known. This image was the last taken
+  with the Mayall telescope before the Dark Energy Spectroscopic Instrument (DESI)
+  was installed. The Crab Nebula was also the first target for the telescope’s first
+  light in 1973. This image was obtained by NOIRLab’s Communication, Education & Engagement
+  team as part of the NOIRLab Legacy Imaging Program.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2311a/L{1}X{2}Y{3}.png
+name: A legendary nebula
+ra_hr: 5.575396230244026
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2311a/thumb.jpg
+zoom_level: 2.0009528084646835
+---
+_uuid: dbf7be07-9435-463f-95bd-ebb7b429a471
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 8.433827254641576
+description: 'Observing the night sky has never been so delightful as with this image
+  of LBN 867, the Raspberry Nebula. Captured here by the Nicholas U. Mayall 4-meter
+  Telescope using the Mosaic-3 detector at Kitt Peak National Observatory (KPNO),
+  a Program of NSF NOIRLab, this nebula is located in the constellation Orion. LBN
+  867’s overall structure, though, is more like an onion than a raspberry: it hosts
+  three different celestial objects in one! The characteristic red bloom of LBN 867
+  is an emission nebula. It glows as a result of the ionization of hydrogen gas by
+  the light from the star HD 34989. From the center of the image, this main sequence
+  star shines prominently, though it is about as bright as the planet Uranus as seen
+  from Earth. The last object is hidden in plain sight. Notice the subtle bluish glow
+  around HD 34989? This is the reflection nebula vdB 38, which reflects the blue-white
+  light of its host star off local interstellar dust. Combined, the nebulae and star
+  become a cosmic treat for any keen astronomer.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2316a/L{1}X{2}Y{3}.png
+name: Nebular Harvest
+ra_hr: 5.362190488436398
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2316a/thumb.jpg
+zoom_level: 6.194156798172605
+---
+_uuid: 179fa775-d8f0-4025-afcb-056a1ba87860
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -37.50325572444573
+description: NGC 1808 is a barred spiral galaxy located in the southern constellation
+  Columba (the dove). This image was captured using the Dark Energy Camera (DECam),
+  which is mounted on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory (CTIO), a Program of NSF NOIRLab, in Chile. You can find this Image
+  of the Week here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2320b/L{1}X{2}Y{3}.png
+name: NGC 1808
+ra_hr: 5.128442095579761
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2320b/thumb.jpg
+zoom_level: 3.7153578129862144
+---
+_uuid: 2cb50372-e9a2-49f0-9447-aaaa3f97d702
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 1.8077393648997517
+description: 'The shadowy clouds of LDN 1622 are pictured in this observation from
+  the Nicholas U. Mayall 4-meter Telescope at Kitt Peak National Observatory (KPNO),
+  a Program of NSF NOIRLab. This image was captured in 2018 by the Mosaic-3 instrument,
+  a wide-field camera used to capture large swaths of the night sky from Kitt Peak
+  in Arizona. Mosaic-3 has since been retired to make way for the Dark Energy Spectroscopic
+  Instrument (DESI), the most powerful multi-object survey spectrograph in the world.
+  This swap highlights one of the benefits of ground-based astronomy: the ability
+  to upgrade and replace instruments as new technologies become available. LDN 1622
+  is a dark nebula, so called because these dense interstellar clouds of gas and dust
+  blot out light from background objects, appearing as ink-dark clouds against a backdrop
+  of stars. This enigmatic cosmic cloud lies 1300 light-years from Earth in the nearby
+  Orion complex, a star-forming region thronging with young stars and other dark nebulae.
+  This observation was taken before the 2022 Contreras Fire, which affected KPNO.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2325a/L{1}X{2}Y{3}.png
+name: Dark Shrouds in Orion
+ra_hr: 5.908128520811399
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2325a/thumb.jpg
+zoom_level: 6.389826655004173
+---
+_uuid: 21c0ad6b-e6ca-4c99-8e68-180fdf3bef07
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.37407205571775
+description: 'This Image of the Week is of the Large Magellanic Cloud (LMC), a dwarf
+  galaxy that appears cloud-like in the Southern Hemisphere. This image was captured
+  by photographer Petr Horálek, a NOIRLab Audiovisual Ambassador, using a wide-aperture
+  telephoto lens on a commercial camera. Petr photographed the LMC over about four
+  hours during three nights on Cerro Pachón in Chile, home of Gemini South, one half
+  of the International Gemini Observatory, operated by NSF NOIRLab. The LMC is one
+  of the 60+ satellite galaxies orbiting the Milky Way. Satellite galaxies are usually
+  smaller than their host galaxy. Case in point, the LMC consists of around 20 billion
+  stars, while our Milky Way galaxy holds between 100–400 billion stars. The LMC is
+  also considered an irregular galaxy because of its indistinct shape. Its central
+  bright bar is geometrically off-center, which has led astronomers to believe this
+  galaxy was once a barred spiral galaxy, like the Milky Way. The LMC’s once well-defined
+  spiral arms have been warped by the pull of gravity, likely from the Milky Way and
+  the Small Magellanic Cloud (SMC), another dwarf galaxy visible near the LMC. Like
+  most irregular galaxies, the LMC is a prime site for star formation. It even hosts
+  the most active star-forming region among our nearby galaxies, the nebula Doradus
+  30 (Tarantula Nebula). The LMC also has an extra advantage: the more massive LMC
+  has been observed to “steal” gas and stars from the neighboring SMC. As the stellar
+  materials are pulled from the SMC, they collide with the LMC’s own materials and
+  form an intergalactic gaseous bridge between the clouds. These collisions pressurize
+  and concentrate the gas, making star formation much more likely in the LMC and the
+  bridge itself.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2547a/L{1}X{2}Y{3}.png
+name: Cloudy with a Chance of Star Formation
+ra_hr: 5.334692036563076
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2547a/thumb.jpg
+zoom_level: 68.6000494954404
+---
+_uuid: eb09550c-df34-4ed9-b910-16f381ea005a
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 5.645221985296405
+description: The dusty disk around HD 34700 A is part of a survey of 44 young massive
+  stars to investigate planet formation in dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212c/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 34700 A
+ra_hr: 5.328171638189131
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212c/thumb.jpg
+zoom_level: 0.007473888222645081
+---
+_uuid: 7d539932-6aed-4470-ae33-649943478174
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.10075425916547
+description: Nestled in the center of the Tarantula Nebula in the Large Magellanic
+  Cloud is the largest star yet discovered. With the help of the Zorro imager and
+  the power of the 8.1-meter Gemini South telescope in Chile, astronomers have produced
+  the sharpest image ever of this star. This new image challenges our understanding
+  of the most massive stars and suggests that they may not be as massive as previously
+  thought.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2220a/L{1}X{2}Y{3}.png
+name: Sharpest Image Ever of R136a1, Largest Known Star
+ra_hr: 5.645104706802001
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2220a/thumb.jpg
+zoom_level: 0.0072183658772355065
+---
+_uuid: 361ec7a9-0505-4004-b61d-9adaf609ca9f
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -67.5769969869553
+description: Displaying wispy layers of red, orange and yellow, the nebula encasing
+  NGC 2040 resembles a vibrant rose in this image captured by the Gemini South telescope,
+  one half of the International Gemini Observatory, which is supported in part by
+  the U.S. National Science Foundation and operated by NSF NOIRLab. This nebulous
+  flower showcases the dramatic story of stellar life, death and rebirth. This image
+  was obtained by NOIRLab’s Communication, Education & Engagement team as part of
+  the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2507a/L{1}X{2}Y{3}.png
+name: NGC 2040
+ra_hr: 5.600286026208851
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2507a/thumb.jpg
+zoom_level: 0.8181048736027182
+---
+_uuid: fea1f1f7-f8c1-45a2-be85-de2b252d2da1
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 7.406591374616331
+description: Using the NASA-NSF-funded ‘Alopeke instrument on the Gemini North telescope,
+  one half of the International Gemini Observatory, partly funded by the U.S. National
+  Science Foundation (NSF) and operated by NSF NOIRLab, astronomers have discovered
+  a companion star in an incredibly tight orbit around Betelgeuse. This discovery
+  answers the millennia-old question of why this famous star experiences a roughly
+  six-year-long periodic change in its brightness, and provides insight into the physical
+  mechanisms behind other variable red supergiants. The companion star appears blue
+  here because, based on the team’s analysis, it is likely an A- or B-type star, both
+  of which are blue-white due to their high temperatures. ‘Alopeke is funded by the
+  NASA-NSF Exoplanet Observational Research Program (NN-EXPLORE).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2523c/L{1}X{2}Y{3}.png
+name: Betelgeuse and Its Stellar Companion (non-annotated)
+ra_hr: 5.9195602712160325
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2523c/thumb.jpg
+zoom_level: 0.0035225302386986427
