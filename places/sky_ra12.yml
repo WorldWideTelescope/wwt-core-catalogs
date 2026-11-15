@@ -4808,6 +4808,73 @@ name: NGC 4565
 ra_hr: 12.605833333333333
 zoom_level: 3.966666666666667
 ---
+_uuid: 778563e8-f3f1-4f31-9887-40b54f128228
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.945365857875483
+description: 'This image represents a deep dataset of the Coma galaxy cluster obtained
+  by NASA''s Chandra X-ray Observatory . Researchers have used these data to study
+  how the hot gas in the cluster behaves, as reported in our press release . One intriguing
+  and important aspect to study is how much viscosity, or "stickiness," the hot gas
+  demonstrates in these cosmic giants.
+
+
+  Galaxy clusters are comprised of individual galaxies, hot gas, and dark matter.
+  The hot gas in Coma glows in X-ray light observed by Chandra. Seen as the purple
+  and pink colors in this new composite image, the hot gas contains about six times
+  more mass than all of the combined galaxies in the cluster. The galaxies appear
+  as white in the optical part of the composite image from the Sloan Digital Sky Survey.
+  (The unusual shape of the X-ray emission in the lower right is caused by the edges
+  of the Chandra detectors being visible.)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-coma/L{1}X{2}Y{3}.png
+name: Coma Cluster
+ra_hr: 12.994358769044712
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-coma/thumb.jpg
+zoom_level: 4.0199695326879095
+---
+_uuid: ad11e6f1-7a8a-4db1-802b-2836d974c815
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.882111282286838
+description: 'With a single letter seemingly etched in the X-ray glow around it, a
+  giant black hole at the center of a massive elliptical galaxy is making a mark on
+  its surroundings.
+
+
+  This “H”-shaped structure is found in a detailed new X-ray map of the multimillion-degree
+  gas around the galaxy Messier 84 (M84).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-m84/L{1}X{2}Y{3}.png
+name: M84
+ra_hr: 12.417563059649114
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-m84/thumb.jpg
+zoom_level: 0.9005521035409795
+---
+_uuid: 7276ebd2-1d05-4604-a991-cd96cce73bbd
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.958908738356325
+description: 'Astronomers have discovered what is triggering repeated outbursts from
+  a giant, unstable star using NASA’s Chandra X-ray Observatory, as described in our
+  latest press release . This volatile star, known as AT 2016blu, is located in the
+  spiral galaxy NGC 4559 that is about 30 million light-years from Earth.
+
+
+  For about 15 years, astronomers have watched as AT 2016blu has repeatedly grown
+  extremely bright in optical light only to dim back down again. AT 2016blu is a type
+  of luminous blue variable (LBV), which are hot massive stars characterized by changes
+  in brightness (Eta Carinae is the most famous LBV).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-at2016blu/L{1}X{2}Y{3}.png
+name: AT 2016blu
+ra_hr: 12.59808899532676
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-at2016blu/thumb.jpg
+zoom_level: 1.3476872732788654
+---
 _uuid: 823626d9-9530-4d44-9561-ef4c0ddcb491
 classification: ''
 constellation: COM

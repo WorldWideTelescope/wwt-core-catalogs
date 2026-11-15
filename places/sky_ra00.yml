@@ -3080,6 +3080,103 @@ name: NGC 246
 ra_hr: 0.7841666666666667
 zoom_level: 4.0
 ---
+_uuid: 173cf059-ce87-4b77-88a7-4c1388127d40
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.13486716423363
+description: 'In 1572, Danish astronomer Tycho Brahe was among those who noticed a
+  new bright object in the constellation Cassiopeia. Adding fuel to the intellectual
+  fire that Copernicus started, Tycho showed this "new star" was far beyond the Moon,
+  and that it was possible for the Universe beyond the Sun and planets to change.
+
+
+  Astronomers now know that Tycho''s new star was not new at all. Rather it signaled
+  the death of a star in a supernova , an explosion so bright that it can outshine
+  the light from an entire galaxy. This particular supernova was a Type Ia , which
+  occurs when a white dwarf star pulls material from, or merges with, a nearby companion
+  star until a violent explosion is triggered. The white dwarf star is obliterated,
+  sending its debris hurtling into space.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-tycho/L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant (2019)
+ra_hr: 0.42228256980628825
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-tycho/thumb.jpg
+zoom_level: 2.0590119695033007
+---
+_uuid: be81b767-be20-4f0d-903d-db45aa51ecd1
+classification: ''
+constellation: PSC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 20.554280733740974
+description: 'This image features Abell 98, a system of galaxy clusters that includes
+  a pair in the early stages of a collision. Astronomers have used data from NASA’s
+  Chandra X-ray Observatory (shown as blue and purple with optical data from the WIYN
+  telescope on Kitt Peak in Arizona appearing white and red) to identify key structures
+  and look for “missing” matter in the Universe.
+
+
+  This missing material is not dark matter, which is invisible, of an unknown nature,
+  and thought to constitute most of the matter in the universe, but “normal” matter
+  found in familiar objects like stars, planets, and humans. About a third of this
+  matter that was created in the first billion years or so after the Big Bang has
+  yet to be detected by observations of the local universe, that is, in regions less
+  than a few billion light-years from Earth.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-a98/L{1}X{2}Y{3}.png
+name: Abell 98
+ra_hr: 0.7740409912385513
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-a98/thumb.jpg
+zoom_level: 2.273207654238621
+---
+_uuid: a6606c87-923c-4ff8-abcb-dfb56d04ee8d
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.13492439906642
+description: 'This image provides a new look at the Tycho supernova remnant, named
+  for Danish astronomer Tycho Brahe who noticed the bright glow of this new “star”
+  in the constellation Cassiopeia more than 450 years ago. Astronomers used NASA’S
+  Imaging X-ray Polarimetry Explorer (IXPE) to study polarized light from Tycho, the
+  debris from an exploded star, as described in IXPE’s latest press release . IXPE
+  revealed, for the first time, the geometry of the magnetic fields close to the supernova’s
+  blast wave, which is still propagating from the initial explosion and forms a boundary
+  around the ejected material. Understanding the magnetic field geometry allows scientists
+  to further investigate how particles are accelerated there.
+
+
+  In this composite image, data from IXPE (dark purple and white) have been combined
+  with those from NASA’s Chandra X-ray Observatory (red and blue), which were overlaid
+  with the stars in the field of view seen by the Digitized Sky Survey.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-tycho/L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant (2023)
+ra_hr: 0.4222807048095915
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-tycho/thumb.jpg
+zoom_level: 2.294405967723435
+---
+_uuid: 81b5473f-e56b-4238-85bb-129196becd63
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 67.49776487371646
+description: 'In the year 1181 a rare supernova explosion appeared in the night sky,
+  staying visible for 185 consecutive days. Historical records show that the supernova
+  looked like a temporary ‘star’ in the constellation Cassiopeia shining as bright
+  as Saturn.
+
+
+  Ever since, scientists have tried to find the supernova’s remnant. At first it was
+  thought that this could be the nebula around the pulsar — the dense core of a collapse
+  star — named 3C 58. However closer investigations revealed that the pulsar is older
+  than supernova 1181.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-snr1181/L{1}X{2}Y{3}.png
+name: SNR 1181
+ra_hr: 0.8864127343803115
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-snr1181/thumb.jpg
+zoom_level: 1.052211259051628
+---
 _uuid: 307bcb5e-2e7d-4afc-8be9-2396715460d9
 classification: ''
 constellation: PHE

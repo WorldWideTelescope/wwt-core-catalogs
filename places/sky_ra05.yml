@@ -6725,6 +6725,143 @@ name: Witch Head Nebula
 ra_hr: 5.045833333333333
 zoom_level: 56.39666666666667
 ---
+_uuid: b01e8024-e951-4a35-bdd2-78c47d35cec5
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 22.014216894904763
+description: 'Next year marks the 20th anniversary of NASA''s Chandra X-ray Observatory
+  launch into space. The Crab Nebula was one of the first objects that Chandra examined
+  with its sharp X-ray vision, and it has been a frequent target of the telescope
+  ever since.
+
+
+  There are many reasons that the Crab Nebula is such a well-studied object. For example,
+  it is one of a handful of cases where there is strong historical evidence for when
+  the star exploded. Having this definitive timeline helps astronomers understand
+  the details of the explosion and its aftermath.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-crab/L{1}X{2}Y{3}.png
+name: Crab Nebula (2018)
+ra_hr: 5.575538527512568
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-crab/thumb.jpg
+zoom_level: 0.600422472048
+---
+_uuid: f29f3590-81d3-4213-929e-757024892962
+classification: ''
+constellation: TAU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 22.020987922399474
+description: 'In the year 1054 AD, Chinese sky watchers witnessed the sudden appearance
+  of a "new star" in the heavens, which they recorded as six times brighter than Venus,
+  making it the brightest observed stellar event in recorded history. This "guest
+  star," as they described it, was so bright that people saw it in the sky during
+  the day for almost a month. Native Americans also recorded its mysterious appearance
+  in petroglyphs.
+
+
+  Observing the nebula with the largest telescope of the time, Lord Rosse in 1844
+  named the object the "Crab" because of its tentacle-like structure. But it wasn''t
+  until the 1900s that astronomers realized the nebula was the surviving relic of
+  the 1054 supernova , the explosion of a massive star.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-crab3d/L{1}X{2}Y{3}.png
+name: Crab Nebula (2020)
+ra_hr: 5.575703043984851
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-crab3d/thumb.jpg
+zoom_level: 1.2234182999976662
+---
+_uuid: fa8c8a0c-2ad1-411f-86e6-90e02fb87dd6
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.03452599737506
+description: 'While astronomers have seen the debris from scores of exploded stars
+  in the Milky Way and nearby galaxies, it is often difficult to determine the timeline
+  of the star’s demise. By studying the spectacular remains of a supernova in a neighboring
+  galaxy using NASA telescopes, a team of astronomers has found enough clues to help
+  wind back the clock.
+
+
+  The supernova remnant called SNR 0519-69.0 (SNR 0519 for short) is the debris from
+  an explosion of a white dwarf star . After reaching a critical mass, either by pulling
+  matter from a companion star or merging with another white dwarf, the star underwent
+  a thermonuclear explosion and was destroyed. Scientists use this type of supernova,
+  called a Type Ia , for a wide range of scientific studies ranging from studies of
+  thermonuclear explosions to measuring distances to galaxies across billions of light-years.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-snr0519/L{1}X{2}Y{3}.png
+name: SNR 0519-69.0
+ra_hr: 5.326275246579595
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-snr0519/thumb.jpg
+zoom_level: 0.16126177639357425
+---
+_uuid: b8548c97-c4ac-4734-900e-16ae3891730e
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.09520900073753
+description: 'The largest and brightest region of star formation in the Local Group
+  of galaxies, including the Milky Way, is called 30 Doradus (or, informally, the
+  Tarantula Nebula). Located in the Large Magellanic Cloud , a small neighbor galaxy
+  to the Milky Way, 30 Doradus has long been studied by astronomers who want to better
+  understand how stars like the Sun are born and evolve.
+
+
+  NASA’s Chandra X-ray Observatory has frequently looked at 30 Doradus over the lifetime
+  of the mission, often under the direction of Dr. Leisa Townsley who passed away
+  in the summer of 2022. These data will continue to be collected and analyzed, providing
+  opportunities for scientists both now and in the future to learn more about star
+  formation and its related processes.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-30dor/L{1}X{2}Y{3}.png
+name: Tarantula Nebula (2023)
+ra_hr: 5.646557369274857
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-30dor/thumb.jpg
+zoom_level: 0.7153674867666324
+---
+_uuid: cd1655c9-5216-447b-b3ae-6cc97ba59045
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.08314577269716
+description: 'A bouquet of thousands of stars in bloom has arrived. This composite
+  image contains the deepest X-ray image ever made of the spectacular star forming
+  region called 30 Doradus.
+
+
+  By combining X-ray data from NASA’s Chandra X-ray Observatory (blue and green) with
+  optical data from NASA’s Hubble Space Telescope (yellow) and radio data from the
+  Atacama Large Millimeter/submillimeter Array (orange), this stellar arrangement
+  comes alive.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-30dor/L{1}X{2}Y{3}.png
+name: Tarantula Nebula (2025)
+ra_hr: 5.635540883861925
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-30dor/thumb.jpg
+zoom_level: 3.342002162211089
+---
+_uuid: 35f0cc86-1cdf-4faa-97d6-b3790ea9f7b2
+classification: ''
+constellation: DOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -69.10365951156447
+description: 'Like a collage made of layered sheets of colored cellophane, a vibrant
+  new image layers observations of a famous star-forming nebula from NASA space telescopes.
+  The resulting cosmic “craft” reveals new details about the star formation region
+  known as 30 Doradus, or the Tarantula Nebula.
+
+
+  Located in the Large Magellanic Cloud, a small neighbor galaxy to the Milky Way
+  about 160,000 light-years from Earth, the Tarantula has thousands of young stars
+  embedded in a vibrant honeycomb-like structure of gas and dust.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-30dor/L{1}X{2}Y{3}.png
+name: Tarantula Nebula (2026)
+ra_hr: 5.64539352644483
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-30dor/thumb.jpg
+zoom_level: 1.5495969808834018
+---
 _uuid: 9de364d6-d8ad-434f-9dd6-b7e12d11ba10
 classification: ''
 constellation: ORI

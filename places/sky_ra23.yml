@@ -1611,6 +1611,104 @@ name: NGC 7789
 ra_hr: 23.9566666666667
 zoom_level: 20.705
 ---
+_uuid: 72a013b7-3cc1-46fc-afcb-15183f57d478
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.81488312101981
+description: 'NASA''s Chandra X-ray Observatory has captured many spectacular images
+  of cosmic phenomena over its two decades of operations, but perhaps its most iconic
+  is the supernova remnant Cassiopeia A.
+
+
+  Located about 11,000 light-years from Earth, Cas A (as it''s nicknamed) is the glowing
+  debris field left behind after a massive star exploded. When the star ran out of
+  fuel, it collapsed onto itself and blew up as a supernova , possibly briefly becoming
+  one of the brightest objects in the sky. (Although astronomers think that this happened
+  around the year 1680, there are no verifiable historical records to confirm this.)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-firstlight/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2019)
+ra_hr: 23.39106728083345
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-firstlight/thumb.jpg
+zoom_level: 1.0262222504087661
+---
+_uuid: 00ebddae-bc68-4358-be6a-f236dbd89d1f
+classification: ''
+constellation: PHE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -42.7201357374833
+description: 'The Phoenix galaxy cluster contains the first confirmed supermassive
+  black hole that is unable to prevent large numbers of stars from forming in the
+  core of the galaxy cluster where it resides. This result, reported in our latest
+  press release , was made by combining data from NASA''s Chandra X-ray Observatory
+  and Hubble Space Telescope, and the NSF''s Karl Jansky Very Large Array (VLA). A
+  new composite image shows data from each telescope. X-rays from Chandra depict hot
+  gas in purple and radio emission from the VLA features jets in red. Optical light
+  data from Hubble show galaxies (in yellow), and filaments of cooler gas where stars
+  are forming (in light blue).
+
+
+  Galaxy clusters are the largest structures in the cosmos that are held together
+  by gravity, and they consist of hundreds or even thousands of galaxies embedded
+  in hot gas and invisible dark matter . The galaxies in their centers of clusters
+  contain the largest supermassive black holes known. In the case of the Phoenix Cluster,
+  the black hole in its core has a mass equivalent to 5.8 billion suns.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-phoenix/L{1}X{2}Y{3}.png
+name: Phoenix Cluster
+ra_hr: 23.74552325621674
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-phoenix/thumb.jpg
+zoom_level: 0.12593364151608474
+---
+_uuid: f68ed876-4fec-40fd-88a9-d632d4c84815
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.81493024610464
+description: 'For the first time, astronomers have measured and mapped polarized X-rays
+  from the remains of an exploded star, using NASA’s Imaging X-ray Polarimetry Explorer
+  (IXPE). The findings, which come from observations of a stellar remnant called Cassiopeia
+  A, shed new light on the nature of young supernova remnants , which accelerate particles
+  close to the speed of light.
+
+
+  Launched on Dec. 9, 2021, IXPE, a collaboration between NASA and the Italian Space
+  Agency, is the first satellite that can measure the polarization of X-ray light
+  with this level of sensitivity and clarity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-casa_streams/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2022)
+ra_hr: 23.391097213005455
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-casa_streams/thumb.jpg
+zoom_level: 1.026732260322564
+---
+_uuid: 5348abd3-13c8-4c78-bd3b-429ac0f54f4e
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.815909585457604
+description: 'For the first time astronomers have combined data from NASA’s Chandra
+  X-ray Observatory and James Webb Space Telescope to study the well-known supernova
+  remnant Cassiopeia A (Cas A). As described in our latest press release , this work
+  has helped explain an unusual structure in the debris from the destroyed star called
+  the “Green Monster”, first discovered in Webb data in April 2023. The research has
+  also uncovered new details about the explosion that created Cas A about 340 years
+  ago, from Earth’s perspective.
+
+
+  A new composite image contains X-rays from Chandra (blue), infrared data from Webb
+  (red, green, blue), and optical data from Hubble (red and white). The outer parts
+  of the image also include infrared data from NASA’s Spitzer Space Telescope (red,
+  green and blue). The outline of the Green Monster can be seen by mousing over the
+  image.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-casa/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2024)
+ra_hr: 23.390964117203364
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-casa/thumb.jpg
+zoom_level: 1.054940676168267
+---
 _uuid: 160a9b44-c3f9-4ab7-a611-37d379bbb15e
 classification: ''
 constellation: SCL

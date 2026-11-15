@@ -3344,6 +3344,71 @@ name: Ring Nebula
 ra_hr: 18.893333333333334
 zoom_level: 1.0
 ---
+_uuid: 288701b5-8a51-4a05-bb39-68bef2a4826a
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -2.9847239769038016
+description: 'Scientists have confirmed the identity of the youngest known pulsar
+  in the Milky Way galaxy using data from NASA''s Chandra X-ray Observatory . This
+  result could provide astronomers new information about how some stars end their
+  lives.
+
+
+  After some massive stars run out of nuclear fuel, then collapse and explode as supernovas
+  , they leave behind dense stellar nuggets called " neutron stars ". Rapidly rotating
+  and highly magnetized neutron stars produce a lighthouse-like beam of radiation
+  that astronomers detect as pulses as the pulsar''s rotation sweeps the beam across
+  the sky.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-kes75/L{1}X{2}Y{3}.png
+name: Kes 75
+ra_hr: 18.773969918201768
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-kes75/thumb.jpg
+zoom_level: 0.9584499809030802
+---
+_uuid: 3bb5744b-99f6-4219-8177-ad9e2368b162
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -13.835397755228799
+description: 'The Eagle Nebula, also known as Messier 16, contains the young star
+  cluster NGC 6611. It also the site of the spectacular star-forming region known
+  as the Pillars of Creation, which is located in the southern portion of the Eagle
+  Nebula.
+
+
+  Using Chandra, researchers detected over 1,700 individual sources of X-rays in the
+  Eagle Nebula.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-m16/L{1}X{2}Y{3}.png
+name: The Eagle Nebula (M16)
+ra_hr: 18.314622548887538
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-m16/thumb.jpg
+zoom_level: 0.7038786152107885
+---
+_uuid: a4850402-712c-4720-8498-cd88f6331604
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 49.9362725630396
+description: 'Astronomers using NASA’s Chandra X-ray Observatory have found a galaxy
+  cluster has two streams of superheated gas crossing one another. This result shows
+  that crossing the streams may lead to the creation of new structure.
+
+
+  Researchers have discovered an enormous, comet-like tail of hot gas — spanning over
+  1.6 million light-years long — trailing behind a galaxy within the galaxy cluster
+  called Zwicky 8338 (Z8338 for short). This tail, spawned as the galaxy had some
+  of its gas stripped off by the hot gas it is hurtling through, has split into two
+  streams.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-z8338/L{1}X{2}Y{3}.png
+name: Zwicky 8338
+ra_hr: 18.180236408339233
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-z8338/thumb.jpg
+zoom_level: 2.2770447215087857
+---
 _uuid: cb59f986-b09c-40d8-a21b-d750d1e0e2c3
 classification: ''
 constellation: SER2

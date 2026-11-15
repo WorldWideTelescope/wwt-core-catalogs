@@ -976,6 +976,103 @@ name: Splinter Galaxy;NGC 5907
 ra_hr: 15.2638888888889
 zoom_level: 5.08
 ---
+_uuid: bf620906-d601-4df0-a346-c04fa3c26f12
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.11575802098879
+description: 'Rotating neutron stars with strong magnetic fields, or pulsars, serve
+  as laboratories for extreme physics, offering high-energy conditions that cannot
+  be replicated on Earth. Young pulsars can create jets of matter and antimatter moving
+  away from the poles of the pulsar, along with an intense wind, forming a “pulsar
+  wind nebula”.
+
+
+  In 2001, NASA’s Chandra X-ray Observatory first observed the pulsar PSR B1509-58
+  and revealed that its pulsar wind nebula (referred to as MSH 15-52) resembles a
+  human hand. The pulsar is located at the base of the “palm” of the nebula. Now Chandra’s
+  data of MSH 15-52 have been combined with data from NASA’s newest X-ray telescope,
+  the Imaging X-ray Polarimetry Explorer (IXPE) to unveil the magnetic field “bones”
+  of this remarkable structure, as reported in our press release . IXPE stared at
+  MSH 15-52 for 17 days, the longest it has looked at any single object since it launched
+  in December 2021.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-msh1552/L{1}X{2}Y{3}.png
+name: MSH 15-52 (2023)
+ra_hr: 15.230658397805346
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-msh1552/thumb.jpg
+zoom_level: 3.4158420809599797
+---
+_uuid: b9052484-25c5-4249-91f7-a858f4cbe88c
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -41.91305527902086
+description: 'When the object now called SN 1006 first appeared on May 1, 1006 A.D.,
+  it was far brighter than Venus and visible during the daytime for weeks. Astronomers
+  in China, Japan, Europe, and the Arab world all documented this spectacular sight,
+  which was later understood to have been a supernova . With the advent of the Space
+  Age in the 1960s, scientists were able to launch instruments and detectors above
+  Earth''s atmosphere to observe the Universe in wavelengths that are blocked from
+  the ground , including X-rays . The remains of SN 1006 was one of the faintest X-ray
+  sources detected by the first generation of X-ray satellites.
+
+
+  This new image shows SN 1006 from two of NASA’s current X-ray telescopes, the Chandra
+  X-ray Observatory and Imaging X-ray Polarimetry Explorer (IXPE). In the full image
+  of SN 1006, red, green, and blue show low-, medium-, and high-energy detected by
+  Chandra. The IXPE data, which measure the polarization of the X-ray light, have
+  been added in the upper left corner of the remnant in purple. The lines in that
+  corner represent the direction of the magnetic field .'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-sn1006/L{1}X{2}Y{3}.png
+name: SN 1006
+ra_hr: 15.048221794834173
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-sn1006/thumb.jpg
+zoom_level: 6.739379964045586
+---
+_uuid: 30af598f-5efb-42b7-80f1-724448855a55
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.11572607428754
+description: 'In 2009, NASA’s Chandra X-ray Observatory released a captivating image:
+  a pulsar and its surrounding nebula that is shaped like a hand.
+
+
+  Since then, astronomers have used Chandra and other telescopes to continue to observe
+  this object. Now, new radio data from the Australia Telescope Compact Array (ATCA),
+  has been combined with Chandra’s X-ray data to provide a fresh view of this exploded
+  star and its environment, to help understand its peculiar properties and shape.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-msh1552/L{1}X{2}Y{3}.png
+name: MSH 15-52 (2025)
+ra_hr: 15.230659325721705
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-msh1552/thumb.jpg
+zoom_level: 3.4203320718390575
+---
+_uuid: 9e649afb-2874-44b2-b739-0bd3121ad361
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 5.728896656244958
+description: 'The galaxy cluster Abell 2029 is sometimes described as “the most relaxed
+  cluster in the Universe.” This moniker does not arise from some sort of mellow vibe,
+  but rather because of how calm and undisturbed the superheated gas that pervades
+  the cluster appears to be.
+
+
+  New observations from NASA’s Chandra X-ray Observatory clearly show that Abell 2029
+  had a much more colorful history than its current disposition suggests. The latest
+  study finds that Abell 2029 is still settling down after a raucous collision with
+  another smaller cluster about four billion years ago.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-a2029/L{1}X{2}Y{3}.png
+name: Abell 2029
+ra_hr: 15.181782204365568
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-a2029/thumb.jpg
+zoom_level: 4.3239143054697085
+---
 _uuid: d8547e33-1317-46f7-af12-15886fa1b3e9
 classification: ''
 constellation: APS

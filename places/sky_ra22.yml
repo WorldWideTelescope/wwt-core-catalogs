@@ -1618,6 +1618,52 @@ name: Helix Nebula
 ra_hr: 22.494444444444447
 zoom_level: 3.893333333333333
 ---
+_uuid: 048d8458-177a-44d2-8ec7-6c3eba5fd45e
+classification: ''
+constellation: CEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.59367982079934
+description: 'Normally found only in heavy metal bands or certain post-apocalyptic
+  films, a “flame-throwing guitar” has now been spotted moving through space. Astronomers
+  have captured movies of this extreme cosmic object using NASA’s Chandra X-ray Observatory
+  and Hubble Space Telescope.
+
+
+  The new movie of Chandra (red) and Palomar (blue) data helps break down what is
+  playing out in the Guitar Nebula. X-rays from Chandra show a filament of energetic
+  matter and antimatter particles, about two light-years or 12 trillion miles long,
+  blasting away from the pulsar (seen as the bright white dot connected to the filament).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-guitar/L{1}X{2}Y{3}.png
+name: Guitar Nebula
+ra_hr: 22.428699357255404
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-guitar/thumb.jpg
+zoom_level: 0.42530633030380227
+---
+_uuid: 3d41fa02-bb36-43f7-b04f-0400fbd60d3b
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -20.841245091660813
+description: 'A planet may have been destroyed by a white dwarf at the center of a
+  planetary nebula — the first time this has been seen. As described in our latest
+  press release , this would explain a mysterious X-ray signal that astronomers have
+  detected from the Helix Nebula for over 40 years. The Helix is a planetary nebula,
+  a late-stage star like our Sun that has shed its outer layers leaving a small dim
+  star at its center called a white dwarf.
+
+
+  This composite image contains X-rays from Chandra (magenta), optical light data
+  from Hubble (orange, light blue), infrared data from ESO (gold, dark blue), and
+  ultraviolet data from GALEX (purple) of the Helix Nebula. Data from Chandra indicates
+  that this white dwarf has destroyed a very closely orbiting planet.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-helix/L{1}X{2}Y{3}.png
+name: Helix Nebula
+ra_hr: 22.494444010447328
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-helix/thumb.jpg
+zoom_level: 3.008788479004416
+---
 _uuid: af2f0bf1-5b34-40e1-96f0-18cea4fa3dba
 classification: ''
 constellation: PEG

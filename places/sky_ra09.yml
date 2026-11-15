@@ -1960,6 +1960,26 @@ name: M81;Messier 81
 ra_hr: 9.92861111111111
 zoom_level: 4.73833333333333
 ---
+_uuid: 9e4f2352-5739-4c3b-8db6-85209d26e189
+classification: ''
+constellation: LYN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 40.77032982309859
+description: 'New observations from NASA’s Chandra X-ray Observatory and other telescopes
+  have captured a rare cosmic event: two galaxy clusters have collided and are now
+  poised to head back for another swipe at each other.
+
+
+  Galaxy clusters are some of the largest structures in the universe. Held together
+  by gravity, they are monster-sized collections of hundreds or thousands of individual
+  galaxies, massive amounts of superheated gas, and invisible dark matter .'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-g181/L{1}X{2}Y{3}.png
+name: PSZ2 G181.06+48.47
+ra_hr: 9.657754870981885
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-g181/thumb.jpg
+zoom_level: 2.7522731406791707
+---
 _uuid: 2d7416d2-c497-4a60-8695-ad7fbcdb9191
 classification: ''
 constellation: LEO

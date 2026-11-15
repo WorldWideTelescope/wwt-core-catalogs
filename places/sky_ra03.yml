@@ -3050,6 +3050,50 @@ name: Pleiades
 ra_hr: 3.783333333333333
 zoom_level: 23.459999999999997
 ---
+_uuid: f84f30f7-24ce-42dd-ab50-79047e203eda
+classification: ''
+constellation: PER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 41.53916560614043
+description: 'A gigantic and resilient "cold front" hurtling through the Perseus galaxy
+  cluster has been studied using data from NASA''s Chandra X-ray Observatory. This
+  cosmic weather system spans about two million light years and has been traveling
+  for over 5 billion years, longer than the existence of our Solar System.
+
+
+  This graphic shows the cold front in the Perseus cluster. The image above contains
+  X-ray data from Chandra — for regions close to the center of the cluster —along
+  with data from ESA''s XMM-Newton and the now-defunct German Roentgen (ROSAT) satellite
+  for regions farther out. The Chandra data have been specially processed to brighten
+  the contrast of edges to make subtle details more obvious.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-perseus/L{1}X{2}Y{3}.png
+name: Perseus Cluster
+ra_hr: 3.34158182022164
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-perseus/thumb.jpg
+zoom_level: 5.077797909900001
+---
+_uuid: c4675a2f-3253-41fd-90a4-c94a3b1614f8
+classification: ''
+constellation: CAM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 57.921790768468874
+description: 'Astronomers have used NASA’s Chandra X-ray Observatory to break down
+  the cause of a remarkable formation of radio waves they have nicknamed the “Treble
+  Clef” because its distinct shape strongly resembles the musical symbol.
+
+
+  The researchers discovered the Treble Clef is likely caused by an outburst from
+  a supermassive black hole, followed by a collision of two galaxy clusters. A paper
+  describing the findings, led by Andrea Botteon of the National Institute for Astrophysics,
+  or INAF, in Italy, published Wednesday in the Astronomy & Astrophysics journal.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-trebleclef/L{1}X{2}Y{3}.png
+name: VLSS J0318.9+5755
+ra_hr: 3.3161709907169152
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-trebleclef/thumb.jpg
+zoom_level: 1.7657718698257
+---
 _uuid: ebeafa31-ca03-46f5-9209-576cae3abc9c
 classification: ''
 constellation: FOR

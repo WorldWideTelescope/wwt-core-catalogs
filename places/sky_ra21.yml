@@ -1138,6 +1138,54 @@ name: NGC 7023
 ra_hr: 21.026666666666667
 zoom_level: 3.908333333333333
 ---
+_uuid: d7259f0f-e22e-428e-92b5-b776c35a59b8
+classification: ''
+constellation: CAP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -19.64382424850059
+description: 'Several hundred million years ago, two galaxy clusters collided and
+  then passed through each other. This mighty event released a flood of hot gas from
+  each galaxy cluster that formed an unusual bridge between the two objects. This
+  bridge is now being pummeled by particles driven away from a supermassive black
+  hole .
+
+
+  Galaxy clusters are the largest objects in the universe held together by gravity.
+  They contain hundreds or thousands of galaxies, vast amounts of multi-million-degree
+  gas that glow in X-rays , and enormous reservoirs of unseen dark matter .'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-a2384/L{1}X{2}Y{3}.png
+name: Abell 2384
+ra_hr: 21.871912784294384
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-a2384/thumb.jpg
+zoom_level: 6.477722612760924
+---
+_uuid: 34e527e3-50bb-47de-98f6-54a487deed93
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 47.2660108756017
+description: 'To celebrate Valentine''s Day, we are releasing a new image of the Cocoon
+  Nebula (officially named IC 5146). This heart-shaped nebula is a region in the Milky
+  Way galaxy where new stars are forming. X-ray data from NASA’s Chandra X-ray Observatory
+  (red, green, and blue) reveal a cluster of new stars that are just poking through
+  the stunning nebula. Young stars, like those in the Cocoon Nebula, are very active
+  and give off large amounts of X-rays that Chandra can detect.
+
+
+  The nebula itself glows from a combination of light that is emitted by the young
+  stars as well as light that is reflected off the dust in the nebula. This composite
+  image of the Cocoon Nebula contains an optical-light image (red, green, and blue)
+  from astrophotographers Michael Adler and Barry Wilson, as well as infrared light
+  data (red, yellow, and cyan) from NASA’s Wide-field Infrared Survey Explorer (WISE)
+  mission.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-heart/L{1}X{2}Y{3}.png
+name: IC 5146
+ra_hr: 21.890874392592206
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-heart/thumb.jpg
+zoom_level: 3.9470706794782098
+---
 _uuid: 78a064e2-0774-443f-ac98-8851302e81b8
 classification: ''
 constellation: PEG

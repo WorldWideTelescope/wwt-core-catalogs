@@ -1359,6 +1359,81 @@ name: Rosette Nebula
 ra_hr: 6.533055555555555
 zoom_level: 32.0
 ---
+_uuid: 1f4233a0-a58c-497f-9122-381b5009980a
+classification: ''
+constellation: VOL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -74.23789507382874
+description: 'Astronomers have used NASA''s Chandra X-ray Observatory to discover
+  a ring of black holes or neutron stars in a galaxy 300 million light years from
+  Earth.
+
+
+  This ring, while not wielding power over Middle Earth, may help scientists better
+  understand what happens when galaxies smash into one another in catastrophic impacts.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-ring/L{1}X{2}Y{3}.png
+name: AM 0644-741
+ra_hr: 6.721662921331885
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-ring/thumb.jpg
+zoom_level: 0.5447234967662655
+---
+_uuid: 01f008db-11f3-45ca-9ac8-9d8439107765
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 9.77463174022742
+description: 'This new image of NGC 2264, also known as the “Christmas Tree Cluster,”
+  shows the shape of a cosmic tree with the glow of stellar lights. NGC 2264 is, in
+  fact, a cluster of young stars — with ages between about one and five million years
+  old — in our Milky Way about 2,500 light-years away from Earth. The stars in NGC
+  2264 are both smaller and larger than the Sun, ranging from some with less than
+  a tenth the mass of the Sun to others containing about seven solar masses.
+
+
+  This new composite image enhances the resemblance to a Christmas tree through choices
+  of color and rotation. The blue and white lights (which blink in the animated version
+  of this image ) are young stars that give off X-rays detected by NASA’s Chandra
+  X-ray Observatory . Optical data from the National Science Foundation-supported
+  WIYN 0.9-meter telescope on Kitt Peak shows a nebula of gas in the cluster in green,
+  corresponding to the “pine needles” of the tree. Finally infrared data from the
+  Two Micron All Sky Survey shows foreground and background stars in white. This image
+  has been rotated clockwise by 160 degrees from the astronomer’s standard of North
+  pointing upward, so that it appears like the top of the tree is toward the top of
+  the image.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-ngc2264/L{1}X{2}Y{3}.png
+name: NGC 2264
+ra_hr: 6.68359191561394
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-ngc2264/thumb.jpg
+zoom_level: 13.005145029201477
+---
+_uuid: 2961d0a1-fe13-4c9f-b509-5b5b92fe12b6
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -55.94820712828469
+description: 'New data has created a spectacular new image of the Bullet Cluster using
+  NASA’s James Webb Space Telescope (JWST) and Chandra X-ray Observatory . The Bullet
+  Cluster, otherwise known as 1E 0657-56, is iconic, having provided the first direct
+  proof of dark matter through observations from Chandra, NASA’s Hubble Space Telescope
+  and ground-based telescopes in 2006 .
+
+
+  Now, Webb data is delivering highly detailed images that show extremely faint and
+  distant galaxies in the cluster and the background in greater detail than ever before.
+  Astronomers used Webb to completely map the contents of the Bullet Cluster, which
+  gets its nickname because of its distinctive shape in X-rays . Galaxy clusters are
+  the largest structures in the universe held together by gravity and they contain
+  thousands of individual galaxies, huge reservoirs of superheated gas, and vast amounts
+  of dark matter.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-bullet/L{1}X{2}Y{3}.png
+name: Bullet Cluster
+ra_hr: 6.974293308950493
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-bullet/thumb.jpg
+zoom_level: 0.416542458417416
+---
 _uuid: ac3e7e46-a89a-41f2-80d9-bc5c730c1485
 classification: ''
 constellation: COL

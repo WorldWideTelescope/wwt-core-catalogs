@@ -3229,6 +3229,210 @@ name: Messier 92
 ra_hr: 17.285
 zoom_level: 4.876666666666667
 ---
+_uuid: aefed2e4-a44a-4160-96ea-b4966a5566aa
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.002905589271
+description: 'Astronomers have discovered evidence for thousands of black holes located
+  near the center of our Milky Way galaxy using data from NASA''s Chandra X-ray Observatory
+  .
+
+
+  This black hole bounty consists of stellar-mass black holes, which typically weigh
+  between five to 30 times the mass of the Sun. These newly identified black holes
+  were found within three light years — a relatively short distance on cosmic scales
+  — of the supermassive black hole at our Galaxy''s center known as Sagittarius A*
+  (Sgr A*).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-sgra_swarm/L{1}X{2}Y{3}.png
+name: Sagittarius A* Swarm
+ra_hr: 17.76114885820313
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-sgra_swarm/thumb.jpg
+zoom_level: 1.0034948284398104
+---
+_uuid: ffe076ac-4e5e-47db-b57a-37171cd9a0c6
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 57.41097288517171
+description: 'As the holiday season approaches, people in the northern hemisphere
+  will gather indoors to stay warm. In keeping with the season, astronomers have studied
+  two groups of galaxies that are rushing together and producing their own warmth.
+
+
+  The majority of galaxies do not exist in isolation. Rather, they are bound to other
+  galaxies through gravity either in relatively small numbers known as "galaxy groups,"
+  or much larger concentrations called " galaxy clusters " consisting of hundreds
+  or thousands of galaxies. Sometimes, these collections of galaxies are drawn toward
+  one another by gravity and eventually merge.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-ngc6338/L{1}X{2}Y{3}.png
+name: NGC 6338
+ra_hr: 17.25639952726244
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-ngc6338/thumb.jpg
+zoom_level: 1.9733231476954738
+---
+_uuid: edee2e8e-45cb-4f41-a142-601e6422320f
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 32.132033040165496
+description: 'The mystery surrounding the whereabouts of a supermassive black hole
+  has deepened.
+
+
+  Despite searching with NASA''s Chandra X-ray Observatory and Hubble Space Telescope,
+  astronomers have no evidence that a distant black hole estimated to weigh between
+  3 billion and 100 billion times the mass of the Sun is anywhere to be found.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-a2261/L{1}X{2}Y{3}.png
+name: Abell 2261
+ra_hr: 17.374139846343805
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-a2261/thumb.jpg
+zoom_level: 0.5104075642501065
+---
+_uuid: a89d17a0-0050-4d7a-a509-97b200be3c48
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -21.493914519529362
+description: 'Astronomers have used NASA''s Chandra X-ray Observatory to record material
+  blasting away from the site of an exploded star at speeds faster than 20 million
+  miles per hour. This is about 25,000 times faster than the speed of sound on Earth.
+
+
+  Kepler''s supernova remnant is the debris from a detonated star that is located
+  about 20,000 light years away from Earth in our Milky Way galaxy. In 1604 early
+  astronomers, including Johannes Kepler who became the object''s namesake, saw the
+  supernova explosion that destroyed the star.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-kepler/L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant (2020)
+ra_hr: 17.511348909499883
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-kepler/thumb.jpg
+zoom_level: 1.179147661152142
+---
+_uuid: e7068e24-6a72-4d64-ab77-0aa7036cc810
+classification: ''
+constellation: UMI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 78.70738081683083
+description: 'Astronomers have captured a spectacular, ongoing collision between at
+  least three galaxy clusters . Data from NASA’s Chandra X-ray Observatory , ESA’s
+  (European Space Agency’s) XMM-Newton, and a trio of radio telescopes is helping
+  astronomers sort out what is happening in this jumbled scene. Collisions and mergers
+  like this are the main way that galaxy clusters can grow into the gigantic cosmic
+  edifices seen today. These also act as the largest particle accelerators in the
+  universe.
+
+
+  The giant galaxy cluster forming from this collision is Abell 2256, located 780
+  million light-years from Earth. This composite image of Abell 2256 combines X-rays
+  from Chandra and XMM in blue with radio data collected by the Giant Metrewave Radio
+  Telescope (GMRT), the Low Frequency Array (LOFAR), and the Karl G. Jansky Very Large
+  Array (VLA) all in red, plus optical and infrared data from Pan-STARRs in white
+  and pale yellow.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-a2256/L{1}X{2}Y{3}.png
+name: Abell 2256
+ra_hr: 17.054178964341315
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-a2256/thumb.jpg
+zoom_level: 3.219842967174632
+---
+_uuid: 54aabebe-d813-425e-b5af-28912e857bc2
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 28.837449310903587
+description: 'Astronomers have discovered a black hole has torn apart a star (a phenomenon
+  called a tidal disruption event, or TDE) in a surprising location, as described
+  in this press release . This event occurred about 2,600 light-years away from the
+  center of the black hole’s host galaxy, indicating the presence of a second large
+  black hole. Most TDEs have been detected at the centers of galaxies where supermassive
+  black holes are usually found.
+
+
+  A TDE happens when an infalling star is stretched or “spaghettified” by a black
+  hole’s immense gravitational tidal forces. The shredded stellar remnants are pulled
+  into a circular orbit around the black hole. This generates shocks and outflows
+  with high temperatures that can be seen in ultraviolet and visible light. X-rays
+  are produced when material from the destroyed star falls toward the black hole and
+  is heated to millions of degrees.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-bhtde/L{1}X{2}Y{3}.png
+name: AT2024tvd
+ra_hr: 17.178480423197737
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-bhtde/thumb.jpg
+zoom_level: 0.047956532127620494
+---
+_uuid: ae66964b-74f0-4895-91d2-f5aebc265acc
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.006908423703305
+description: 'Like a recording artist who has had a long career, NASA’s Chandra X-ray
+  Observatory has a “back catalog” of cosmic recordings that is impossible to replicate.
+  To access these X-ray tracks, or observations, the mission has developed the ultimate
+  compendium: the Chandra Source Catalog.
+
+
+  The Chandra Source Catalog contains the X-ray data detected by Chandra, the world’s
+  premier X-ray telescope and one of NASA’s “Great Observatories,” from its launch
+  in 1999 up to the end of 2021. [AF2.1]The latest version of the Chandra Source Catalog,
+  known as CSC 2.1, contains over 400,000 unique compact and extended sources and
+  over 1.3 million individual detections in X-ray light.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-csc/L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.761178768552632
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-csc/thumb.jpg
+zoom_level: 1.6848934068661827
+---
+_uuid: 56a84519-5599-49e7-a884-5d1ddeb84521
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -21.491272074415356
+description: 'A new video shows changes in Kepler’s Supernova Remnant using data from
+  NASA’s Chandra X-ray Observatory captured over more than two and a half decades
+  with observations taken in 2000, 2004, 2006, 2014, and 2025. In this video , which
+  is the longest-spanning one ever released by Chandra, X-rays (blue) from the telescope
+  have been combined with an optical image (red, green, and blue) from Pan-STARRS.
+
+
+  Kepler’s Supernova Remnant, named after the German astronomer Johannes Kepler, was
+  first spotted in the night sky in 1604. Today, astronomers know that a white dwarf
+  star exploded when it exceeded a critical mass, after pulling material from a companion
+  star, or merging with another white dwarf. This kind of supernova is known as a
+  Type Ia and scientists use it to measure the expansion of the Universe.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-kepler/L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant (2026)
+ra_hr: 17.511522687997168
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-kepler/thumb.jpg
+zoom_level: 1.2092244036525224
+---
+_uuid: b345e588-4801-4137-8332-82e0b7efab1e
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.456786785869784
+description: 'Using data from NASA’s Chandra X-ray Observatory, astronomers may have
+  found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.
+  A paper describing these new findings published in The Astrophysical Journal.
+
+
+  Supernova remnants are the expanding remains of exploded stars and provide elements
+  — like iron, oxygen, and silicon — that are critical for the formation of planets
+  and for life as we know it to form and flourish.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-sgrc/L{1}X{2}Y{3}.png
+name: Sagittarius C
+ra_hr: 17.741174862130833
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-sgrc/thumb.jpg
+zoom_level: 2.943250739044409
+---
 _uuid: 84299878-e9ed-4add-a35f-2780945f7ed0
 classification: ''
 constellation: DRA

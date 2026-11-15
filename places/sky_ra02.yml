@@ -1548,6 +1548,61 @@ name: NGC 891
 ra_hr: 2.3758333333333335
 zoom_level: 2.331666666666667
 ---
+_uuid: 462f0900-fe58-406f-a543-158b9d0ae990
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.82690215507404
+description: 'The supernova remnant 3C 58 contains a spinning neutron star , known
+  as PSR J0205+6449, at its center. Astronomers studied this neutron star and others
+  like it to probe the nature of matter inside these very dense objects. A new study,
+  made using NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton, reveals that the
+  interiors of neutron stars may contain a type of ultra-dense matter not found anywhere
+  else in the Universe, as reported in our latest press release .
+
+
+  In this image of 3C 58, low-energy X-rays are colored red, medium-energy X-rays
+  are green, and the high-energy band of X-rays is shown in blue. The X-ray data have
+  been combined with an optical image in yellow from the Digitized Sky Survey. The
+  Chandra data show that the rapidly rotating neutron star (also known as a “pulsar”)
+  at the center is surrounded by a torus of X-ray emission and a jet that extends
+  for several light-years . The optical data shows stars in the field.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-3c58/L{1}X{2}Y{3}.png
+name: 3C 58
+ra_hr: 2.0937023739212677
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-3c58/thumb.jpg
+zoom_level: 0.6768484619926192
+---
+_uuid: 6d37073e-276e-4a62-9072-5205fba890ad
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -16.956483576575593
+description: 'This composite image features X-ray and optical data of a so-called
+  luminous fast blue optical transient (LFBOT) named AT 2024wpp. LFBOTs are a class
+  of object involving bright flashes of blue and ultraviolet light that gradually
+  fade away, leaving behind faint X-ray and radio signals. The X-ray data from NASA’s
+  Chandra X-ray Observatory shows AT 2024wpp as a blue point source within its host
+  galaxy, seen in optical data from the Legacy Survey (red and white). As the brightest
+  LFBOT ever seen, AT 2024wpp is easily detected despite being about 1.1 billion light-years
+  from Earth.
+
+
+  Two new papers report that AT 2024wpp likely came from an extreme event where a
+  black hole up to 100 times the mass of the Sun tore apart a companion star that
+  got too close. As reported in a press release from Berkeley , these papers rule
+  out two alternative explanations for AT 2024wpp, either that the LFBOT came an unusual
+  type of supernova or by gas in the galaxy falling into a black hole. After the companion
+  star was torn apart, collisions between the stellar debris and gas already pulled
+  from the companion star generated X-ray, UV and blue light.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-fbot/L{1}X{2}Y{3}.png
+name: AT 2024wpp
+ra_hr: 2.7015223666901247
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-fbot/thumb.jpg
+zoom_level: 0.1533160276623645
+---
 _uuid: 72cb88c4-b0fc-42aa-897c-5be0337830ce
 classification: ''
 constellation: CET

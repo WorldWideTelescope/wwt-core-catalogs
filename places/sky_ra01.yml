@@ -2077,6 +2077,78 @@ name: Messier 103;M103
 ra_hr: 1.55805555555556
 zoom_level: 12.2066666666667
 ---
+_uuid: 461f96fd-9e2e-46d6-9e72-1d89866746f7
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -72.0330276235072
+description: 'Astronomers have discovered a special kind of neutron star for the first
+  time outside of the Milky Way galaxy, using data from NASA''s Chandra X-ray Observatory
+  and the European Southern Observatory''s Very Large Telescope (VLT) in Chile.
+
+
+  Neutron stars are the ultra dense cores of massive stars that collapse and undergo
+  a supernova explosion . This newly identified neutron star is a rare variety that
+  has both a low magnetic field and no stellar companion.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-e0102/L{1}X{2}Y{3}.png
+name: E0102-72.3
+ra_hr: 1.0668383231607552
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-e0102/thumb.jpg
+zoom_level: 0.19467406587924424
+---
+_uuid: d12c5edf-446a-4c67-bc08-2a7d51bae5f7
+classification: ''
+constellation: PHE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.260484615950475
+description: 'When astronomers discovered the galaxy cluster ACT-CL J0102-4915 in
+  2012 with NASA''s Chandra X-ray Observatory and ground-based optical telescopes,
+  they nicknamed it "El Gordo" (Spanish for the "Fat One") because of its gigantic
+  mass. Scientists estimate that El Gordo contains as much as 3 million billion (3,000,000,000,000,000)
+  times the mass of the Sun. Thanks to its heft, El Gordo acts as a natural lens,
+  distorting the light from more distant objects behind it through a process known
+  as gravitational lensing.
+
+
+  A new composite image of El Gordo shows the diffuse, superheated gas in the cluster
+  observed in X-rays from Chandra (blue) that have been combined with a new infrared
+  image from NASA''s James Webb Space Telescope (red, green, and blue). Webb''s image
+  shows galaxies in El Gordo plus background galaxies located further away from Earth.
+  El Gordo is located about 7.3 billion light-years from Earth and the background
+  galaxies are at a range of different distances including several that are 12.3 billion
+  light-years from Earth. The appearance of some of the background galaxies has been
+  distorted into a variety of unusual and highly elongated shapes because of gravitational
+  lensing by the cluster.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-elgordo/L{1}X{2}Y{3}.png
+name: El Gordo
+ra_hr: 1.0487096566281495
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-elgordo/thumb.jpg
+zoom_level: 0.3738135473652535
+---
+_uuid: 8e62c5f3-1a4f-47a0-bef2-5eda8a44986c
+classification: ''
+constellation: HYI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -73.56086098240833
+description: 'Since antiquity, wreaths have symbolized the cycle of life, death, and
+  rebirth. It is fitting then that one of the best places for astronomers to learn
+  more about the stellar lifecycle resembles a giant holiday wreath itself.
+
+
+  The star cluster NGC 602 lies on the outskirts of the Small Magellanic Cloud, which
+  is one of the closest galaxies to the Milky Way , about 200,000 light-years from
+  Earth. The stars in NGC 602 have fewer heavier elements compared to the Sun and
+  most of the rest of the galaxy. Instead, the conditions within NGC 602 mimic those
+  for stars found billions of years ago when the universe was much younger.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-ngc602/L{1}X{2}Y{3}.png
+name: NGC 602
+ra_hr: 1.4909542745001185
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-ngc602/thumb.jpg
+zoom_level: 0.4053191080620924
+---
 _uuid: 816cf301-1e63-438e-b791-099d82983321
 classification: ''
 constellation: CET

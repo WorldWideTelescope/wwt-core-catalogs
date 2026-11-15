@@ -2238,6 +2238,56 @@ name: Massive Young Stars Trigger Stellar Birth;RCW 108
 ra_hr: 16.6663888888889
 zoom_level: 4.5
 ---
+_uuid: ca590800-9b34-4877-a28b-908ea919a003
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.071545912209718
+description: 'On Earth, amethysts can form when gas bubbles in lava cool under the
+  right conditions. In space, a dying star with a mass similar to the Sun is capable
+  of producing a structure on par with the appeal of these beautiful gems.
+
+
+  As stars like the Sun run through their fuel, they cast off their outer layers and
+  the core of the star shrinks. Using NASA''s Chandra X-ray Observatory , astronomers
+  have found a bubble of ultra-hot gas at the center of one of these expiring stars,
+  a planetary nebula in our galaxy called IC 4593. At a distance of about 7,800 light
+  years from Earth, IC 4593 is the most distant planetary nebula yet detected with
+  Chandra.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-ic4593/L{1}X{2}Y{3}.png
+name: IC 4593
+ra_hr: 16.19571248122389
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-ic4593/thumb.jpg
+zoom_level: 0.05424972032833971
+---
+_uuid: 964618d9-9fb8-4aba-9734-07c12900145c
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -10.544860218725326
+description: 'Zeta Ophiuchi is a star with a complicated past, having likely been
+  ejected from its birthplace by a powerful stellar explosion. A new look by NASA''s
+  Chandra X-ray Observatory helps tell more of the story of this runaway star.
+
+
+  Located about 440 light-years from Earth, Zeta Ophiuchi is a hot star that is 20
+  times more massive than the Sun. Previous observations have provided evidence that
+  Zeta Ophiuchi was once in close orbit with another star, before being ejected at
+  about 100,000 miles per hour when this companion was destroyed in a supernova explosion
+  over a million years ago. Previously released infrared data from NASA''s now-retired
+  Spitzer Space Telescope, seen in this new composite image, reveals a spectacular
+  shock wave (red and green) that was formed by matter blowing away from the star''s
+  surface and slamming into gas in its path. Data from Chandra shows a bubble of X-ray
+  emission (blue) located around the star, produced by gas that has been heated by
+  the effects of the shock wave to tens of millions of degrees.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-zetaoph/L{1}X{2}Y{3}.png
+name: Zeta Ophiuchi
+ra_hr: 16.62043462815019
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-zetaoph/thumb.jpg
+zoom_level: 6.149525794395171
+---
 _uuid: 5caa6566-3360-4dee-8585-9e07299b7b02
 classification: ''
 constellation: DRA

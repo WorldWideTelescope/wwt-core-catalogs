@@ -1904,6 +1904,28 @@ name: Pinwheel Galaxy
 ra_hr: 14.053333333333335
 zoom_level: 4.0
 ---
+_uuid: c4bfd6b3-36bd-42df-88b0-1be617202c4e
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 54.34293791702296
+description: 'Astronomers have discovered a new class of objects in multiple galaxies.
+  This result, made possible by NASA’s Chandra X-ray Observatory and outlined in our
+  latest press release , may help scientists solve two outstanding mysteries in astrophysics.
+
+
+  The face-on spiral galaxy M101, also known as the Pinwheel, is one of the galaxies
+  where the new type of object was found. This new M101 composite image contains X-ray
+  data from Chandra (purple) that have been combined with an optical image from the
+  Hubble Space Telescope (red, green, and blue). Circles in an annotated version of
+  the image show the location of the seven newly-discovered objects in M101.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-m101/L{1}X{2}Y{3}.png
+name: M101
+ra_hr: 14.054313578628815
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-m101/thumb.jpg
+zoom_level: 2.220053284312072
+---
 _uuid: 95a5f37f-7b58-45ae-b8c1-5b7f7c26ab19
 classification: ''
 constellation: BOO

@@ -3838,6 +3838,148 @@ name: Whirlpool Galaxy
 ra_hr: 13.497777777777777
 zoom_level: 4.0
 ---
+_uuid: 1e749376-57fc-4e0d-a7cf-f55653fb2264
+classification: ''
+constellation: CVN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 50.47726101976318
+description: 'Astronomers using data from NASA''s Chandra X-ray Observatory and other
+  telescopes have put together a detailed map of a rare collision between four galaxy
+  clusters . Eventually all four clusters — each with a mass of at least several hundred
+  trillion times that of the Sun — will merge to form one of the most massive objects
+  in the universe.
+
+
+  Galaxy clusters are the largest structures in the cosmos that are held together
+  by gravity. Clusters consist of hundreds or even thousands of galaxies embedded
+  in hot gas, and contain an even larger amount of invisible dark matter . Sometimes
+  two galaxy clusters collide, as in the case of the Bullet Cluster , and occasionally
+  more than two will collide at the same time.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-a1758/L{1}X{2}Y{3}.png
+name: Abell 1758
+ra_hr: 13.548947219348625
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-a1758/thumb.jpg
+zoom_level: 2.7852720914810014
+---
+_uuid: 0f0870e2-dc63-4c18-bc97-a5ca6878a196
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.01888985135215
+description: 'The galaxy Centaurus A (Cen A) shines bright in this image combining
+  data from multiple observatories. In the center of this galaxy is a supermassive
+  black hole feeding off the gas and dust encircling it, and large jets of high-energy
+  particles and other material spewing out. The jet shown at the upper left of this
+  image extends for about 13,000 light-years away from the black hole. Also visible
+  is a dust lane, wrapping around the middle of the galaxy, which may have resulted
+  from a collision with a smaller galaxy millions of years ago.
+
+
+  Colors in this image have been chosen to reflect the sources of data. Blue shows
+  X-ray light captured by NASA’s Chandra X-ray Observatory, orange represents X-rays
+  detected by NASA’s Imaging X-ray Polarimetry Explorer (IXPE) satellite, and optical
+  light seen by the European Southern Observatory in Chile is colored white and gray.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-cena/L{1}X{2}Y{3}.png
+name: Centaurus A
+ra_hr: 13.424373495088856
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-cena/thumb.jpg
+zoom_level: 1.6975874155125754
+---
+_uuid: f6f02cef-9806-45c0-95ab-8d158a00357d
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.484345711761044
+description: 'A group of dead stars known as “spider pulsars” are obliterating companion
+  stars within their reach. Data from NASA’s Chandra X-ray Observatory of the globular
+  cluster Omega Centauri is helping astronomers understand how these spider pulsars
+  prey on their stellar companions.
+
+
+  A pulsar is the spinning dense core that remains after a massive star collapses
+  into itself to form a neutron star . Rapidly rotating neutron stars can produce
+  beams of radiation . Like a rotating lighthouse beam, the radiation can be observed
+  as a powerful, pulsing source of radiation, or pulsar. Some pulsars spin around
+  dozens to hundreds of times per second, and these are known as millisecond pulsars.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-spiders/L{1}X{2}Y{3}.png
+name: Omega Centauri
+ra_hr: 13.446333059388397
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-spiders/thumb.jpg
+zoom_level: 2.7073626072180526
+---
+_uuid: 6ffccb45-6133-4651-95a3-cea6cdd572f8
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.01914810365154
+description: 'Even matter ejected by black holes can run into objects in the dark.
+  Using NASA’s Chandra X-ray Observatory , astronomers have found an unusual mark
+  from a giant black hole’s powerful jet striking an unidentified object in its path.
+
+
+  The discovery was made in a galaxy called Centaurus A (Cen A), located about 12
+  million light-years from Earth. Astronomers have long studied Cen A because it has
+  a supermassive black hole in its center sending out spectacular jets that stretch
+  out across the entire galaxy. The black hole launches this jet of high-energy particles
+  not from inside the black hole, but from intense gravitational and magnetic fields
+  around it.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-cena/L{1}X{2}Y{3}.png
+name: Centaurus A Knots
+ra_hr: 13.42464519399871
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-cena/thumb.jpg
+zoom_level: 0.41780575756355137
+---
+_uuid: cfa94615-db64-4e0d-a9fd-10c412f8b791
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 26.518078407669332
+description: 'Celebrate the New Year with the “Champagne Cluster,” a galaxy cluster
+  seen in this new image from NASA’s Chandra X-ray Observatory and optical telescopes.
+
+
+  Astronomers discovered this galaxy cluster Dec. 31, 2020. The date, combined with
+  the bubble-like appearance of the galaxies and the superheated gas seen with Chandra
+  observations (represented in purple), inspired the scientists to nickname the galaxy
+  cluster the Champagne Cluster, a much easier-to-remember name than its official
+  designation of RM J130558.9+263048.4.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-champagne/L{1}X{2}Y{3}.png
+name: Champagne Cluster
+ra_hr: 13.10028980287507
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-champagne/thumb.jpg
+zoom_level: 0.7103697404205586
+---
+_uuid: de9c3763-957e-4f46-b82a-075d8abac9a0
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.865151105448685
+description: 'This graphic shows two of the X-ray sources in a nearby galaxy that
+  are changing their brightness in surprising ways as described in our latest press
+  release . By analyzing data from NASA’s Chandra X-ray Observatory that span over
+  14 years, researchers found over 20 previously identified supernova remnants — remains
+  from stars that exploded — that vary unexpectedly in X-ray brightness in Messier
+  83 (M83). These represent roughly half of the X-ray sources associated with supernova
+  remnants in their sample in M83.
+
+
+  The panel on the left contains a composite image of M83 with X-rays from Chandra
+  (red, green, and blue) and optical light data from NASA’s Hubble Space Telescope
+  (red, green, and blue). The two varying Chandra sources are circled in the composite
+  image and close-up timelapse images of these sources are shown in the panels on
+  the right.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-m83/L{1}X{2}Y{3}.png
+name: M83
+ra_hr: 13.616749374932823
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-m83/thumb.jpg
+zoom_level: 1.6340424292978382
+---
 _uuid: 399475aa-b5e3-4327-9a88-83f9a8fca1b3
 classification: ''
 constellation: CEN

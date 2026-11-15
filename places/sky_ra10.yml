@@ -3075,6 +3075,123 @@ name: NGC 3311 in Hydra Cluster of Galaxies
 ra_hr: 10.6118225
 zoom_level: 0.871831403894357
 ---
+_uuid: d890af84-23f1-4ccd-a919-2b478b89b9e1
+classification: ''
+constellation: LMI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 35.04835130385784
+description: 'Hidden in a distant galaxy cluster collision are wisps of gas resembling
+  the starship Enterprise — an iconic spaceship from the "Star Trek" franchise.
+
+
+  Galaxy clusters — cosmic structures containing hundreds or even thousands of galaxies
+  — are the largest objects in the Universe held together by gravity. Multi-million-degree
+  gas fills the space in between the individual galaxies. The mass of the hot gas
+  is about six times greater than that of all the galaxies combined. This superheated
+  gas is invisible to optical telescopes, but shines brightly in X-rays , so an X-ray
+  telescope like NASA''s Chandra X-ray Observatory is required to study it.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-a1033/L{1}X{2}Y{3}.png
+name: Abell 1033
+ra_hr: 10.529717325738895
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-a1033/thumb.jpg
+zoom_level: 1.283094536246348
+---
+_uuid: 66864403-5bd4-4b67-ad29-3ed35d84ea43
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 55.67567857576622
+description: 'We all know bubbles from soapy baths or sodas. These bubbles of everyday
+  experience on Earth are up to a few inches across, and consist of a thin film of
+  liquid enclosing a small volume of air or other gas. In space, however, there are
+  very different bubbles — composed of a lighter gas inside a heavier one — and they
+  can be huge.
+
+
+  The galaxy NGC 3079, located about 67 million light years from Earth, contains two
+  "superbubbles" unlike anything here on our planet. A pair of balloon-like regions
+  stretch out on opposite sides of the center of the galaxy: one is 4,900 light years
+  across and the other is only slightly smaller, with a diameter of about 3,600 light
+  years. For context, one light year is about 6 trillion miles, or 9 trillion kilometers.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-ngc3079/L{1}X{2}Y{3}.png
+name: NGC 3079
+ra_hr: 10.03323613176791
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-ngc3079/thumb.jpg
+zoom_level: 0.20450488888713308
+---
+_uuid: 00950e56-2060-468f-96aa-50afed3b3a1a
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -58.22121584631543
+description: 'Astronomers have made the most extensive study yet of how magnetically
+  active stars are when they are young. This gives scientists a window into how X-rays
+  from stars like the Sun, but billions of years younger, could partially or completely
+  evaporate the atmospheres of planets orbiting them.
+
+
+  Many stars begin their lives in “ open clusters ,” loosely packed groups of stars
+  with up to a few thousand members, all formed roughly at the same time. This makes
+  open clusters valuable for astronomers investigating the evolution of stars and
+  planets, because they allow the study of many stars of similar ages forged in the
+  same environment.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-ngc3293/L{1}X{2}Y{3}.png
+name: NGC 3293
+ra_hr: 10.596865007876666
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-ngc3293/thumb.jpg
+zoom_level: 4.152467638757931
+---
+_uuid: 2e420814-3ff1-4900-a05a-95e9a105f6ab
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.6837276727433
+description: 'A new movie made from over two decades of data from NASA’s Chandra X-ray
+  Observatory shows a famous star system changing with time, as described in our latest
+  press release . Eta Carinae contains two massive stars (one is about 90 times the
+  mass of the Sun and the other is believed to be about 30 times the Sun’s mass).
+
+
+  In the middle of the 19th century, skywatchers observed as Eta Carinae experienced
+  a huge explosion that was dubbed the “Great Eruption.” During this event, Eta Carinae
+  ejected between 10 and 45 times the mass of the Sun. This material became a dense
+  pair of spherical clouds of gas, now called the Homunculus nebula, on opposite sides
+  of the two stars. The Homunculus is clearly seen in a composite image of the Chandra
+  data with optical light from the Hubble Space Telescope (blue, purple, and white).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-etacar/L{1}X{2}Y{3}.png
+name: Eta Carinae
+ra_hr: 10.751094883285079
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-etacar/thumb.jpg
+zoom_level: 0.19591286471655034
+---
+_uuid: b5f56a0d-2241-45af-88cb-e5fd16bc8844
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.2199131865084087
+description: 'Scientists have discovered an oddly-shaped galaxy that may contain the
+  first newborn supermassive black hole ever spotted, as described in our latest blog
+  post . If confirmed, this result implies that black holes can form remarkably quickly,
+  not just soon after the Big Bang but throughout cosmic time.
+
+
+  This composite image of the so-called Infinity Galaxy shows X-rays from NASA’s Chandra
+  X-ray Observatory (purple) and infrared data from NASA''s James Webb Space Telescope
+  (red, green and blue). The Webb data shows two rings of stars and gas seen in the
+  Infinity Galaxy, which astronomers think were likely formed from the collision of
+  two galaxies. The centers of these two galaxies are the white-orange sources in
+  the middle of the two rings, in the lower left and upper right of the galaxy.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-infinity/L{1}X{2}Y{3}.png
+name: Infinity Galaxy
+ra_hr: 10.003941395190578
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-infinity/thumb.jpg
+zoom_level: 0.011196039686648618
+---
 _uuid: e03c565d-1a83-413f-9d19-dca06240bf5d
 classification: ''
 constellation: CAR

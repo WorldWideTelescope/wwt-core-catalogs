@@ -1656,6 +1656,30 @@ name: Fireworks Galaxy
 ra_hr: 20.58138888888889
 zoom_level: 3.92
 ---
+_uuid: 7975afad-e5f4-419c-864f-3b6487a3652f
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 33.86624661955187
+description: 'This image features a spectacular set of rings around a black hole ,
+  captured using NASA''s Chandra X-ray Observatory and Neil Gehrels Swift Observatory.
+  The X-ray images of the giant rings reveal information about dust located in our
+  galaxy, using a similar principle to the X-rays performed in doctor''s offices and
+  airports.
+
+
+  The black hole is part of a binary system called V404 Cygni, located about 7,800
+  light years away from Earth. The black hole is actively pulling material away from
+  a companion star — with about half the mass of the Sun — into a disk around the
+  invisible object. This material glows in X-rays, so astronomers refer to these systems
+  as "X-ray binaries."'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2021-v404cyg/L{1}X{2}Y{3}.png
+name: V404 Cygni
+ra_hr: 20.399687112660267
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2021-v404cyg/thumb.jpg
+zoom_level: 3.2306429333593245
+---
 _uuid: a2a75c9e-d022-4df4-adfb-0cc5325820eb
 classification: ''
 constellation: CYG
