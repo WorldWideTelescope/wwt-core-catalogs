@@ -1,0 +1,435 @@
+id	status	reason	date	arcsec_px	fov	bandpass	xbands	xdominant_band	title
+ann2104c	skipped	not Hubble data (Gemini North Gemini North Gemini North)	2021-03-18	0.000	0.0'				Cosmic Ripples — image created with FITS Liberator
+heic1905c	tiled		2019-03-07	0.050	3.5'	Visible			Globular cluster NGC 4147
+heic1912a	tiled		2019-07-01	0.023	0.7'	Ultraviolet			Cosmic Fireworks in Ultraviolet
+heic1913c	tiled		2019-07-11	0.040	2.6'	Visible			Galaxy NGC 3147
+heic1919b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2019-10-28	0.000	0.0'				Wide-field view of Arp-Madore 2026-424 (ground-based view)
+heic1920a	tiled		2019-11-07	0.030	2.6'	Visible			The Sunburst Arc
+heic1920b	skipped	"crop of heic1920a (0.030 vs 0.030""/px)"	2019-11-07	0.030	0.4'				Sunburst Arc 1
+heic1920c	skipped	"crop of heic1920a (0.030 vs 0.030""/px)"	2019-11-07	0.030	0.4'				Sunburst Arc 2
+heic1920d	skipped	"crop of heic1920a (0.030 vs 0.030""/px)"	2019-11-07	0.030	0.3'				Sunburst Arc 3
+heic1920e	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2019-11-07	0.000	0.0'				Area surrounding the Sunburst Arc (ground-based image)
+heic1921d	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2019-11-20	0.000	0.0'				Wide-field view of GRB 190114C (ground-based view)
+heic1921e	tiled		2019-11-20	0.008	0.1'	Visible			Hubble Observation of the host galaxy of GRB 190114C
+heic2002a	tiled		2020-01-06	0.030	5.0'	Visible			UGC 2885
+heic2002b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-01-06	0.000	0.0'				Area Around UGC2885 (ground-based image)
+heic2004a	tiled		2020-03-18	0.040	2.7'	Visible			A massive laboratory
+heic2005c	tiled		2020-03-31	0.030	0.7'	Visible			Hubble Observation of Intermediate-Mass Black Hole
+heic2005d	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-03-31	0.000	0.0'				Ground-Based View of J2150−0551 Region
+heic2006b	skipped	no WCS	2020-04-20	0.000	0.0'				Illustration of Hubble’s Observation of Fomalhaut b’s Expanding Dust Cloud
+heic2007b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-04-24	0.000	0.0'				Wide-field view of NGC 2014 and NGC 2020 in the Large Magellanic Cloud (Ground-based Image)
+heic2011c	tiled		2020-06-18	0.040	1.2'	Visible			NGC 7027
+heic2011d	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-06-18	0.000	0.0'				Wide-field image of NGC 6302 (ground-based image)
+heic2011e	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-06-18	0.000	0.0'				Wide-field image of NGC 7027 (ground-based image)
+heic2012a	tiled		2020-06-25	0.030	2.0'	IR			Bat Shadow (2018 Observation)
+heic2014c	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-08-13	0.000	0.0'				Wide-field view of Betelgeuse (ground-based image)
+heic2018a	skipped	"crop of heic2018b (0.040 vs 0.040""/px)"	2020-10-01	0.040	1.2'				Hubble Captures Supernova in NGC 2525
+heic2018b	tiled		2020-10-01	0.040	2.6'	Visible			Galaxy NGC 2525
+heic2018c	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-10-01	0.000	0.0'				Wide-Field View of NGC 2525
+heic2020b	skipped	same field as heic2020c (1996 vs 2016 epoch); kept the newer	2020-12-03	0.007	0.1'				Hubble’s Observation of the Stingray Nebula in 1996
+heic2020c	tiled		2020-12-03	0.007	0.1'	Visible			Hubble’s Observation of the Stingray Nebula in 2016
+heic2020d	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2020-12-03	0.000	0.0'				Wide-Field View of the Stingray Nebula
+heic2021c	skipped	not Hubble data (DSS DSS)	2020-12-10	0.000	0.0'				Region of the Sky Around HD 106906b
+heic2102b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2021-01-15	0.000	0.0'				Wide-Field View of the Supernova Remnant 1E 0102.2-7219
+heic2102c	skipped	no WCS	2021-01-15	0.000	0.0'				Hubble’s Distant View of the Supernova Remnant 1E 0102.2-7219 in 2006
+heic2103e	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2021-02-11	0.000	0.0'				Wide-Field View of Globular Cluster NGC 6397
+heic2104b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2021-03-11	0.000	0.0'				Wide-Field View of GJ 1132 b’s Host Star
+heic2105a	tiled		2021-04-23	0.040	2.4'	Visible			Hubble Celebrates its 31st anniversary with a magnificent view of AG Carinae
+heic2105b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2021-04-23	0.000	0.0'				Wide-Field View of AG Carinae
+heic2105c	skipped	no WCS	2021-07-19	0.000	0.0'				Hubble Celebrates its 31st anniversary with a magnificent view of AG Carinae
+heic2106a	tiled		2021-05-27	0.040	2.7'	Visible			Hubble Captures NGC 2276
+heic2106b	skipped	not Hubble data (Schulman Telescope Schulman Telescope Schulman Telescope Schulman Telescope)	2021-05-27	0.000	0.0'				Wide-Field View of NGC 2276
+heic2112a	tiled		2021-10-28	0.040	2.4'	Visible			CW Leonis
+heic2112b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2021-10-28	0.000	0.0'				Wide-Field View of CW Leonis
+heic2201a	tiled		2022-02-22	0.050	3.3'	Visible			Hubble’s Observation of Arp 143
+heic2201b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2022-02-22	0.000	0.0'				Wide-Field View of Arp 143
+heic2203a	tiled	"new epoch of a catalogued field, kept by user decision 2026-11-14 (was: duplicate of DB image https://esahubble.org/images/potw1743a/ (0.030 vs 0.030""/px; new one is the smaller crop, not sharper))"	2022-03-30	0.030	2.4'	Visible			Hubble Finds the Most Distant Star Ever Seen
+heic2205c	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2)	2022-04-19	0.000	0.0'				Wide-Field View of the Hickson Compact Group 40
+heic2211a	skipped	"duplicate of DB image https://esawebb.org/images/weic2301c/ (0.031 vs 0.123""/px; new one is the smaller crop, not sharper)"	2022-09-08	0.123	3.3'				NGC 346
+heic2213a	tiled		2022-10-27	0.030	2.3'	Visible			A Cosmic Cobweb
+heic2213b	skipped	not Hubble data (Digitized Sky Survey 2 Digitized Sky Survey 2 Digitized Sky Survey 2)	2022-10-27	0.000	0.0'				Wide-Field View Abell 611
+heic2301a	tiled		2023-02-02	0.040	1.2'	Visible			LAWD 37
+heic2304a	tiled		2023-04-20	0.040	7.5'	Visible			Hubble celebrates its 33rd anniversary with NGC 1333
+heic2308a	tiled		2023-09-07	0.040	2.4'	Visible			Glittering globular cluster Terzan 12
+heic2310a	skipped	"duplicate of DB image https://esawebb.org/images/weic2327a/ (0.030 vs 0.030""/px; same title)"	2023-11-09	0.030	2.2'				Galaxy cluster MACS0416 (Hubble and Webb composite image)
+heic2313a	tiled		2023-12-20	0.040	2.8'	Visible			Dwarf irregular galaxy UGC 8091
+heic2313b	skipped	title: not a plain sky image	2023-12-20	0.040	3.1'				Dwarf irregular galaxy UGC 8091 (wide-field view)
+heic2402c	tiled		2024-01-09	0.040	1.6'	Visible			Hubble photographs home of farthest fast radio burst (clean image)
+heic2406a	tiled		2024-03-25	0.050	1.8'	Visible			FS Tau
+heic2407a	tiled	"new epoch of a catalogued field, kept by user decision 2026-11-14 (was: duplicate of DB image https://esahubble.org/images/potw1035a/ (0.050 vs 0.050""/px; new one is the smaller crop, not sharper))"	2024-04-18	0.050	2.2'	Visible			Asteroid photobombs Hubble snapshot of Galaxy UGC 12158
+heic2408a	tiled		2024-04-23	0.040	5.0'	Visible			Little Dumbbell Nebula (M76)
+heic2409a	tiled		2024-07-10	0.040	9.2'	Visible			Omega Centauri
+heic2409c	skipped	"crop of heic2409a (0.040 vs 0.040""/px)"	2024-07-10	0.040	0.7'				Omega Centauri (cropped)
+heic2411b	tiled		2024-09-26	0.039	1.6'	Visible			M87
+heic2413a	tiled		2024-10-16	0.039	2.0'	Visible			R Aquarii
+heic2414a	skipped	"duplicate of DB image https://esawebb.org/images/weic2426a/ (0.045 vs 0.045""/px; same title)"	2024-10-31	0.045	4.8'				Galaxies IC 2163 and NGC 2207 (Webb and Hubble image)
+heic2414b	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2024-10-31	0.000	0.0'				Galaxies IC 2163 and NGC 2207 (Webb MIRI image)
+heic2502a	skipped	"duplicate of DB image https://esawebb.org/images/weic2301c/ (0.031 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-04-04	0.040	3.8'				Stellar sculptors in NGC 346
+heic2503b	skipped	no WCS	2025-04-07	0.000	0.0'				Close-up: Uranus aurorae (October 2022)
+heic2505d	tiled		2025-04-23	0.040	2.6'	Visible			Planetary nebula NGC 2899
+heic2505f	tiled		2025-04-23	0.040	2.7'	Visible			Rosette Nebula
+heic2505i	tiled		2025-04-23	0.040	2.7'	Visible			Barred Spiral Galaxy NGC 5335
+heic2506a	tiled		2025-04-16	0.040	9.5'	Visible			Sombrero Galaxy
+heic2507a	tiled		2025-04-18	0.050	6.5'	Visible			Eagle Nebula
+heic2512b	tiled		2025-12-18	0.009	0.3'	Visible			Fomalhaut cs1 and cs2 (clean image)
+heic2601c	tiled		2026-01-05	0.050	2.4'	Visible			Field surrounding Cloud-9
+heic2603b	tiled		2026-01-27	0.010	0.1'	Visible			An anomaly from Hubble’s archive — Collisional ring galaxy
+heic2603c	tiled		2026-01-27	0.012	0.1'	Visible			An anomaly from Hubble’s archive — Merging galaxies 1
+heic2603d	tiled		2026-01-27	0.011	0.1'	Visible			An anomaly from Hubble’s archive — Merging galaxies 2
+heic2603e	tiled		2026-01-27	0.013	0.1'	Visible			An anomaly from Hubble’s archive — Unknown object
+heic2603f	tiled		2026-01-27	0.012	0.1'	Visible			An anomaly from Hubble’s archive — Gravitational lens 1
+heic2603g	tiled		2026-01-27	0.011	0.1'	Visible			An anomaly from Hubble’s archive — Gravitational lens 2
+heic2604a	tiled		2026-02-10	0.040	1.1'	Visible			The Egg Nebula
+heic2605a	tiled		2026-02-18	0.100	3.1'	Visible			Galaxy field of low-surface-brightness galaxy CDG-2
+heic2607a	tiled	"new epoch of a catalogued field, kept by user decision 2026-11-14 (was: duplicate of DB image https://esahubble.org/images/ann0820/ (0.099 vs 0.099""/px; new one is the smaller crop, not sharper))"	2026-03-23	0.099	6.4'	Visible			Crab Nebula (2024 Hubble image)
+heic2607b	skipped	"duplicate of DB image https://esahubble.org/images/ann0820/ (0.099 vs 0.099""/px; new one is the smaller crop, not sharper)"	2026-03-23	0.099	6.4'				Crab Nebula (new image from 1999/2000 data)
+heic2608a	tiled		2026-04-20	0.040	2.7'	Visible			Trifid Nebula (Wide Field Camera 3 Image)
+heic2609b	tiled		2026-06-23	0.030	1.6'	Multi	Visible,IR	IR	Galaxy field of MXDFz4.4 (Hubble and Webb clean image)
+heic2614b	skipped	"duplicate of DB image https://esawebb.org/images/weic2622b/ (0.040 vs 0.040""/px; same title)"	2026-10-29	0.040	3.5'				Cat’s Head Nebula (Hubble WFC3 image)
+heic2614c	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-10-29	0.000	0.0'				Cat’s Head Nebula (Webb NIRCam image)
+heic2614d	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-10-29	0.000	0.0'				Cat’s Head Nebula (Webb MIRI)
+heic2614e	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-10-29	0.000	0.0'				Cat’s Head Nebula (Webb NIRCam image)
+heic2614f	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-10-29	0.000	0.0'				Cat’s Head Nebula (Webb NIRCam image)
+opo1944a	tiled		2019-11-19	0.034	0.7'	Multi	XRay,Visible,Radio	XRay	A Weakened Black Hole Allows Its Galaxy to Awaken
+opo2032a	tiled		2020-10-29	0.030	3.1'	Visible			Hubble Finds Halloween Pumpkin Pair
+opo2105a	skipped	no WCS	2021-02-25	0.000	0.0'				Hubble Spots Vagabond Comet Near Jupiter's Asteroids
+opo2106a	skipped	no WCS	2021-03-18	0.000	0.0'				Infant Stars in Orion
+opo22051a	tiled		2022-12-06	0.050	3.0'	Visible			Tiny, Hidden Galaxy Provides A Peek Into The Past
+opo2302a	tiled		2023-04-05	0.004	0.1'	Visible			Hubble unexpectedly finds double quasar in distant Universe
+opo2404a	tiled		2024-02-08	0.019	1.0'	Visible			Hubble traces 'string-of-pearls' star clusters in galaxy collisions
+opo2418b	tiled		2024-06-10	0.020	0.5'	Visible			Symbiotic star Mira HM Sge
+opo2504	tiled		2025-01-13	0.032	1.0'	IR			Quasar J0742+2704
+opo2506	tiled		2025-02-04	0.050	3.2'	Visible			Galaxy LEDA 1313424
+opo2515	tiled		2025-05-08	0.010	0.4'	Visible			Hubble observes new tidal disruption event (January 2025 image)
+opo2606	tiled		2025-12-23	0.040	0.9'	Visible			Circumstellar disc IRAS 23077+6707
+opo2623	tiled		2026-09-30	0.040	2.2'	Visible			Hubble seeks lensed supernova, marks 200,000 orbits
+potm2602b	tiled		2026-03-03	0.025	0.7'	Visible			Looking at the Cat’s Eye Nebula with Hubble
+potm2602c	skipped	not Hubble data (Euclid Euclid Euclid Euclid)	2026-03-03	0.000	0.0'				Euclid and Hubble's view of Cat's Eye Nebula
+potm2603a	tiled		2026-03-27	0.050	2.3'	Visible			Where spiral arms and star formation meet
+potw1929a	tiled		2019-07-22	0.050	3.3'	Visible			Up and Over
+potw1931a	tiled		2019-08-05	0.050	2.8'	Visible			Galactic Creatures at Play
+potw1932a	tiled		2019-08-12	0.050	0.9'	Visible			The Inky Abyss
+potw1933a	skipped	"duplicate of DB image https://esahubble.org/images/opo0813a/ (0.050 vs 0.050""/px; new one is the smaller crop, not sharper)"	2019-08-19	0.050	0.9'				The Death of a Star
+potw1934a	tiled		2019-08-26	0.050	0.7'	Visible			A Passing Fancy
+potw1936a	tiled		2019-09-09	0.040	2.1'	Visible			Dark Matter in the Belly of the Whale
+potw1937a	tiled		2019-09-16	0.100	2.4'	Visible			Not So Dead After All
+potw1938a	tiled		2019-09-23	0.050	3.2'	Visible			Beacon of Light
+potw1940a	tiled		2019-10-07	0.040	2.7'	Visible			A Spiral in Profile
+potw1941a	tiled		2019-10-14	0.040	0.7'	Visible			A Galactic Portal
+potw1942a	tiled		2019-10-21	0.040	2.5'	Visible			A Familiar Sight
+potw1944a	tiled		2019-11-04	0.050	3.3'	Visible			Champions League
+potw1945a	tiled		2019-11-11	0.026	1.3'	Visible			A Rival to the Milky Way
+potw1946a	tiled		2019-11-18	0.040	2.7'	Visible			Emission Versus Absorption
+potw1947a	tiled		2019-11-25	0.085	2.3'	IR			A Close Relationship
+potw1948a	tiled		2019-12-02	0.040	2.6'	Visible			A Dramatic Demise
+potw1950a	tiled		2019-12-16	0.032	0.7'	Visible			Discs and Bulges
+potw1951a	tiled		2019-12-23	0.040	2.3'	Visible			An Active Centre
+potw1952a	skipped	no WCS	2019-12-30	0.000	0.0'				Placed Among the Stars
+potw2001a	tiled		2020-01-06	0.040	2.6'	Visible			Imposter or the Real Deal?
+potw2002a	tiled		2020-01-13	0.050	2.7'	Visible			Catalogues Galore
+potw2004a	tiled		2020-01-27	0.040	2.7'	Visible			Bars and Baby Stars
+potw2005a	tiled		2020-02-03	0.040	0.7'	Visible			Nature’s Grand Design
+potw2006a	tiled		2020-02-10	0.050	2.6'	Visible			Open Arms
+potw2007a	skipped	"crop of potw2421a (0.040 vs 0.040""/px)"	2020-02-17	0.040	0.7'				A Smudged Fingerprint
+potw2008a	tiled		2020-02-24	0.040	2.6'	Visible			Centuries Before Hubble
+potw2009a	tiled		2020-03-02	0.040	0.7'	Visible			A Galactic Traffic Jam
+potw2010a	tiled		2020-03-09	0.040	1.3'	Visible			Hunger Pangs
+potw2011a	tiled		2020-03-16	0.035	0.7'	Visible			Cotton Wool Galaxy
+potw2012a	tiled		2020-03-23	0.050	3.3'	Visible			Single Arm Galaxy
+potw2013a	tiled		2020-03-30	0.050	2.9'	Visible			Feeding Time
+potw2014a	tiled		2020-04-06	0.040	2.6'	Visible			Rings Upon Rings
+potw2015a	tiled		2020-04-13	0.040	1.9'	Visible			Hunting for Dead Stars
+potw2016a	tiled		2020-04-20	0.050	3.3'	Visible			Stealing the Show
+potw2017a	tiled		2020-04-27	0.050	3.3'	Visible			A Stretched Spiral
+potw2018a	tiled		2020-05-04	0.040	2.4'	Visible			Galaxy Galaxy, Burning Bright!
+potw2019a	tiled		2020-05-11	0.040	2.4'	Visible			Two Supernovae, One Galaxy
+potw2021a	tiled		2020-05-25	0.040	0.7'	Visible			One Large Stellar Latte To Go
+potw2022a	tiled		2020-06-01	0.040	2.4'	Visible			Stellar Snowflakes
+potw2023a	tiled		2020-06-08	0.039	2.2'	Visible			One Amongst Millions
+potw2024a	tiled		2020-06-15	0.128	2.2'	IR			A Bright Find
+potw2025a	tiled		2020-06-22	0.100	4.4'	Visible			A Galaxy on Edge
+potw2026a	skipped	"crop of potw2538a (0.040 vs 0.040""/px)"	2020-06-29	0.040	2.6'				Birds of a Feather
+potw2028a	tiled		2020-07-13	0.050	3.3'	Visible			A frEGGs-cellent Discovery
+potw2029a	tiled		2020-07-20	0.040	2.3'	Visible			A Discovery of Ghostly Arms
+potw2030a	tiled		2020-07-27	0.040	2.7'	Visible			Stellar Sweet Shop
+potw2031a	tiled		2020-08-03	0.040	2.7'	Visible			Seeing Near and Far
+potw2032a	tiled		2020-08-10	0.040	2.2'	Visible			Ring of Stellar Wildfire
+potw2033a	tiled		2020-08-17	0.040	3.8'	Visible			Cosmic Fireworks
+potw2035a	tiled		2020-08-31	0.050	3.4'	Visible			A Tilted Wonder
+potw2036a	tiled		2020-09-07	0.040	2.6'	Visible			A Pocketful of Stars
+potw2037a	tiled		2020-09-14	0.040	2.7'	Visible			Eye of the Serpent
+potw2039a	skipped	same field as potw2450a at the same scale; kept the larger	2020-09-28	0.040	2.6'				Spirals Are In This Season
+potw2040a	tiled		2020-10-05	0.040	2.6'	Visible			Survey of the Stars
+potw2041a	tiled		2020-10-12	0.050	3.3'	Visible			A frEGGS-plosion of Star Formation
+potw2042a	tiled		2020-10-19	0.050	3.0'	Visible			Galactic Waterspout
+potw2043a	tiled		2020-10-26	0.039	2.6'	Visible			Beauty From Chaos
+potw2044a	tiled		2020-11-02	0.030	3.3'	Visible			A Waterfall of Stars
+potw2045a	tiled		2020-11-09	0.040	2.0'	Visible			Contorting Giants
+potw2046a	tiled		2020-11-16	0.050	3.2'	Visible			Cosmic Cinnamon Bun
+potw2048a	tiled		2020-11-30	0.040	2.7'	Visible			Cosmic Wonderland
+potw2049a	tiled		2020-12-07	0.040	2.7'	Visible			The Stellar Forge
+potw2050a	tiled		2020-12-14	0.040	2.3'	Visible			Rings of Relativity
+potw2051a	tiled		2020-12-21	0.040	2.3'	Visible			Faint Remnant Threads
+potw2052a	tiled		2020-12-23	0.050	3.3'	Visible			A Bright Bar of Light
+potw2101a	tiled		2021-01-04	0.128	6.6'	IR			A Galaxy to Take Your Breath Away
+potw2102a	tiled		2021-01-11	0.050	3.4'	Visible			Sculpted in Sculptor
+potw2103a	skipped	"crop of potw2546a (0.040 vs 0.040""/px)"	2021-01-18	0.040	2.7'				Colours of the Lost Galaxy
+potw2104a	tiled		2021-01-25	0.040	0.3'	Visible			An Interstellar Distributor
+potw2105a	tiled		2021-02-01	0.040	1.3'	Visible			The Modest Galaxy
+potw2107a	tiled		2021-02-15	0.040	2.3'	Visible			Tantrums of a Baby Star
+potw2109a	tiled		2021-03-01	0.050	6.4'	Visible			Big, Beautiful and Blue
+potw2110a	tiled		2021-03-08	0.128	2.2'	IR			Through the Clouds
+potw2111a	tiled		2021-03-15	0.040	3.7'	Visible			A Flash of Life
+potw2112a	tiled		2021-03-22	0.040	2.3'	Visible			A Peculiar Sight
+potw2114a	tiled		2021-04-05	0.040	2.7'	Visible			Spiral Snapshot
+potw2115a	tiled		2021-04-12	0.050	2.5'	Visible			Light Bends from the Beyond
+potw2116a	tiled		2021-04-19	0.050	0.8'	Visible			Galactic Close-Up
+potw2118a	skipped	"duplicate of DB image https://www.eso.org/public/images/eso1514a/ (0.030 vs 0.050""/px; new one is the smaller crop, not sharper)"	2021-05-03	0.050	2.4'				Our Giant Universe
+potw2120a	tiled		2021-05-17	0.050	2.4'	Visible			A Menagerie of Galaxies
+potw2121a	tiled		2021-05-24	0.040	2.3'	Visible			A Distant Spiral in Virgo
+potw2124a	tiled		2021-06-14	0.040	2.4'	Visible			A Galactic Powerhouse
+potw2125a	tiled		2021-06-21	0.040	2.3'	Visible			Clash of the Titans
+potw2126a	tiled		2021-06-28	0.040	2.5'	Visible			A Scattering of Stars
+potw2127a	tiled		2021-07-05	0.040	2.7'	Visible			One of the Greats
+potw2128a	tiled		2021-07-12	0.040	2.6'	Visible			Rediscovered, Renamed, Reclassified
+potw2129a	tiled		2021-07-19	0.040	1.9'	Visible			Cosmic Lens Flare
+potw2131a	tiled		2021-08-02	0.040	2.7'	Visible			Portrait of a Swirling Galaxy
+potw2132a	tiled		2021-08-09	0.040	2.1'	Visible			Seeing Quintuple
+potw2133a	skipped	"crop of potw2346a (0.040 vs 0.040""/px)"	2021-08-16	0.040	2.7'				In the Heart of the Furnace
+potw2134a	tiled		2021-08-23	0.040	2.5'	Visible			Cluster in the Cloud
+potw2135a	tiled		2021-08-30	0.128	2.3'	IR			Astronomy in Action
+potw2136a	tiled		2021-09-06	0.040	2.5'	Visible			A Glittering Globular Cluster
+potw2137c	skipped	"crop of heic2105a (0.040 vs 0.040""/px)"	2021-09-13	0.040	1.3'				A Closer Look at Hubble’s 31st Anniversary Snapshot
+potw2138a	tiled		2021-09-20	0.050	2.4'	Visible			On Clusters and Constellations
+potw2139a	tiled		2021-09-27	0.040	2.3'	Visible			More than Meets the Eye
+potw2140a	tiled		2021-10-04	0.050	2.9'	Visible			A Dangerous Dance
+potw2141a	tiled		2021-10-11	0.040	2.6'	Visible			Invisible Galactic Gale
+potw2142a	tiled		2021-10-18	0.050	3.3'	Visible			Hubble Spies a Pair of Squabbling Galaxies
+potw2144a	tiled		2021-11-01	0.040	2.0'	Visible			Cosmic Fireworks
+potw2146a	tiled		2021-11-15	0.040	1.3'	Visible			A Spectacular Side-On Spiral
+potw2147a	tiled		2021-11-22	0.040	2.3'	Visible			One Galaxy, Three Times
+potw2149a	tiled		2021-12-06	0.040	2.4'	Visible			Four Filter Fusion
+potw2150a	tiled		2021-12-13	0.040	3.2'	Visible			Hubble Gazes Sidelong at NGC 3568
+potw2151a	tiled		2021-12-20	0.040	2.9'	Visible			A Sprinkling of Stars
+potw2152a	tiled		2021-12-27	0.040	2.2'	Visible			Lonely Spiral
+potw2201a	tiled		2022-01-03	0.040	2.4'	Visible			Galactic Conjunction
+potw2202a	tiled		2022-01-10	0.040	2.2'	Visible			Galactic Tranquility
+potw2203a	tiled		2022-01-17	0.040	2.5'	Visible			Sail of Stars
+potw2204a	tiled		2022-01-24	0.050	2.5'	Visible			Strike!
+potw2205a	tiled		2022-01-31	0.040	2.6'	Visible			Hubble Revisits a Galactic Oddball
+potw2206a	tiled		2022-02-07	0.050	3.3'	Visible			A Cosmic Draw
+potw2207a	tiled		2022-02-14	0.050	2.7'	Visible			Tumultuous Galactic Trio
+potw2208a	tiled		2022-02-21	0.040	3.2'	Visible			Hubble Captures a Peculiar Galactic Pair
+potw2209a	tiled		2022-02-28	0.040	2.6'	Visible			Not-So-Close Encounter
+potw2210a	tiled		2022-03-07	0.128	2.3'	IR			Hubble Snaps a Jet Set
+potw2211a	tiled		2022-03-14	0.040	4.9'	Visible			Eye of the Galaxy
+potw2212a	skipped	"crop of potw2543a (0.040 vs 0.040""/px)"	2022-03-21	0.040	2.7'				Hubble Spies a Stunning Spiral
+potw2213a	tiled		2022-03-28	0.040	2.1'	Visible			More Than Meets the Eye
+potw2214a	tiled		2022-04-04	0.040	1.4'	Visible			Hubble Spies a Serpentine Spiral Galaxy
+potw2215a	tiled		2022-04-11	0.040	2.7'	Visible			Spiral Snapshot
+potw2216a	tiled		2022-04-18	0.050	3.0'	Visible			Hubble Inspects a Set of Galactic Wings
+potw2216b	skipped	"crop of potw2216a (0.050 vs 0.050""/px)"	2022-04-18	0.050	1.7'				Hubble Inspects a Set of Galactic Wings
+potw2217a	tiled		2022-04-25	0.050	2.4'	Visible			Hubble Spies a Tenuous Diffuse Galaxy
+potw2218a	tiled		2022-05-02	0.040	4.8'	Visible			Hubble Sees Double in M99
+potw2219a	tiled		2022-05-09	0.040	2.6'	Visible			Aftermath of a Cosmic Cataclysm
+potw2220a	tiled		2022-05-16	0.050	3.4'	Visible			Hubble Spies a Glittering Gathering of Stars
+potw2221a	tiled		2022-05-23	0.050	2.9'	Visible			Hiding in Plain Sight
+potw2222a	tiled		2022-05-30	0.040	2.8'	Visible			Hubble Goes Galactic Birdwatching
+potw2223a	tiled		2022-06-06	0.050	3.5'	Visible			Hubble Investigates an Enigmatic Globular Cluster
+potw2224a	tiled		2022-06-13	0.050	2.3'	Visible			Cosmic Treasure Chest
+potw2225a	tiled		2022-06-20	0.050	2.3'	Visible			Snapshot of a Massive Cluster
+potw2226a	tiled		2022-06-27	0.050	2.4'	Visible			Delving into an Astronomical Treasure Trove
+potw2227a	tiled		2022-07-04	0.050	2.4'	Visible			Hubble Spies a Galactic Gem
+potw2228a	tiled		2022-07-11	0.050	2.4'	Visible			Portrait of a Globular Cluster
+potw2229a	tiled		2022-07-18	0.040	1.6'	Visible			Lens Flair
+potw2230a	tiled		2022-07-25	0.050	2.4'	Visible			Follow the LEDA
+potw2231a	tiled		2022-08-01	0.050	2.2'	Visible			Star-Studded Skyfield
+potw2232a	tiled		2022-08-08	0.050	3.3'	Visible			Celestial Cloudscape in the Orion Nebula
+potw2233a	tiled		2022-08-15	0.050	2.4'	Visible			Hubble Spies a Scintillating Globular Cluster
+potw2234a	tiled		2022-08-22	0.050	3.1'	Visible			A Marvel of Galactic Morphology
+potw2235a	tiled		2022-08-29	0.040	3.4'	Visible			Hubble Gazes into M74
+potw2235b	skipped	"crop of potw2235a (0.040 vs 0.040""/px)"	2022-08-29	0.040	3.4'				The Phantom Galaxy Across the Spectrum
+potw2236a	tiled		2022-09-05	0.050	2.9'	Visible			Galactic Overlap
+potw2237a	tiled		2022-09-12	0.050	2.4'	Visible			Starstruck in Terzan 4
+potw2238a	tiled		2022-09-19	0.128	2.3'	IR			An Enigmatic Astronomical Explosion
+potw2239a	tiled		2022-09-26	0.040	1.6'	Visible			Hubble Spies a Stately Spiral Galaxy
+potw2240a	failed	AVM WCS tagged for 3430x2240 but the original is 3430x2735	2022-10-03	0.050	2.9'				A Snapshot of Interacting Galaxies
+potw2241a	tiled		2022-10-10	0.050	2.4'	Visible			Terzan 1, Take 2
+potw2242a	tiled		2022-10-17	0.040	2.8'	Visible			Multiwavelength View of a Turbulent Stellar Nursery
+potw2243a	tiled		2022-10-24	0.100	3.0'	Visible			Cosmic Keyhole
+potw2244a	tiled		2022-10-31	0.050	3.3'	Visible			Hubble Inspects A Pair of Space Oddities
+potw2245a	tiled		2022-11-07	0.040	2.7'	Visible			Investigating A Made-to-Measure Galaxy
+potw2246a	tiled		2022-11-14	0.040	2.3'	Visible			Clouded Vision
+potw2247a	tiled		2022-11-21	0.050	3.2'	Visible			Hubble Hunts an Unusual Galaxy
+potw2248a	skipped	"duplicate of DB image http://hubblesite.org/contents/news-releases/2003/news-2003-20.html (0.046~ vs 0.062""/px; new one is the smaller crop, not sharper)"	2022-11-28	0.062	2.0'				Revisiting a Celestial Fireworks Display
+potw2249a	tiled		2022-12-05	0.050	2.2'	Visible			Head in the Clouds
+potw2250a	tiled		2022-12-12	0.050	3.2'	Visible			Cosmic Smokescreen
+potw2251a	tiled		2022-12-19	0.050	3.3'	Visible			Festive and Free-Floating
+potw2252a	tiled		2022-12-26	0.050	3.4'	Visible			Hubble Spies a Long-Armed Galaxy
+potw2301a	tiled		2023-01-02	0.050	3.1'	Visible			Stargazing in NGC 6355
+potw2302a	tiled		2023-01-09	0.050	3.4'	Visible			Calling on a Galactic Neighbour
+potw2303a	tiled		2023-01-16	0.050	3.2'	Visible			Visitor to a Galaxy
+potw2304a	tiled		2023-01-23	0.050	3.3'	Visible			Tempestuous Young Stars in Orion
+potw2305a	skipped	"duplicate of DB image https://esahubble.org/images/heic1206a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2023-01-30	0.040	2.6'				Exploring a Turbulent Tarantula
+potw2306a	tiled		2023-02-06	0.050	3.2'	Visible			Can You Spot It?
+potw2307a	tiled		2023-02-13	0.050	2.4'	Visible			Galactic Crash Course
+potw2308a	tiled		2023-02-20	0.050	3.4'	Visible			Cosmic Contortions
+potw2309a	tiled		2023-02-27	0.040	2.7'	Visible			Galactic Seascape
+potw2310a	skipped	"crop of potw2310b (0.050 vs 0.050""/px)"	2023-03-06	0.050	2.7'				Hubble spies a meandering spiral
+potw2310b	tiled		2023-03-06	0.050	3.0'	Visible			Hubble spies a meandering spiral (wide field)
+potw2311a	tiled		2023-03-13	0.050	2.7'	Visible			Hubble’s neighbourhood watch
+potw2312a	tiled		2023-03-20	0.040	2.7'	Visible			Portrait of a galactic jellyfish
+potw2313a	tiled		2023-03-27	0.040	1.0'	Visible			Everything, in one place, all at once
+potw2314a	tiled		2023-04-03	0.050	3.3'	Visible			Aftermath of a cosmic explosion
+potw2315a	tiled		2023-04-10	0.040	2.2'	Visible			A jellyfish and the ram
+potw2316a	tiled		2023-04-17	0.040	3.3'	Visible			Hubble spotlights a swirling spiral
+potw2317a	tiled		2023-04-24	0.050	2.6'	Visible			The cluster that almost got away
+potw2318a	tiled		2023-05-01	0.040	2.5'	Visible			Ghostly galactic jellyfish
+potw2319a	tiled		2023-05-08	0.050	2.4'	Visible			Cosmic leviathan
+potw2320a	tiled		2023-05-15	0.050	3.4'	Visible			Scrutinising a star-studded cluster
+potw2321a	tiled		2023-05-22	0.040	1.4'	Visible			A jellyfish galaxy adrift
+potw2322a	tiled		2023-05-29	0.050	3.1'	Visible			Hubble explores explosive aftermath in NGC 298
+potw2323a	tiled		2023-06-05	0.040	2.3'	Visible			Under the Sea
+potw2324a	tiled		2023-06-12	0.050	2.5'	Visible			A dishevelled irregular galaxy
+potw2325a	tiled		2023-06-19	0.040	3.3'	Visible			On the edge of the Lagoon
+potw2326a	tiled		2023-06-26	0.050	3.1'	Visible			Hubble checks in on the neighbours
+potw2327a	tiled		2023-07-03	0.040	2.7'	Visible			Serene Supernova Aftermath
+potw2328a	tiled		2023-07-10	0.040	2.4'	Visible			Galactic monster mash
+potw2329a	skipped	"same picture as esawebb potm2608b (same Hubble data and credits, resampled to 0.031""/px vs 0.040""/px here): kept the sharper esawebb copy (user decision 2026-11-14)"	2023-07-17	0.040	2.7'				Starstruck image of Arp 263
+potw2330a	tiled		2023-07-24	0.040	2.2'	Visible			Galactic island of tranquillity
+potw2331a	tiled		2023-07-31	0.040	2.5'	Visible			NGC 6652
+potw2332a	tiled		2023-08-07	0.050	3.3'	Visible			Portrait of a Ghostly Galactic Peacock
+potw2333a	tiled		2023-08-14	0.050	2.7'	Visible			A clear view of a galaxy cluster
+potw2334a	tiled		2023-08-21	0.040	2.7'	Visible			A sparkling galactic neighbour
+potw2335a	tiled		2023-08-28	0.128	2.2'	IR			Stellar cradle
+potw2336a	tiled		2023-09-04	0.040	2.4'	Visible			Galactic isolation
+potw2337a	tiled		2023-09-11	0.040	2.5'	Visible			Measure of a great galactic disc
+potw2338a	tiled		2023-09-18	0.050	3.0'	Visible			A peculiar proceeding
+potw2339a	tiled		2023-09-25	0.050	3.2'	Visible			What’s in a name?
+potw2340a	tiled		2023-10-02	0.128	2.3'	IR			Leaving on a jet
+potw2341a	tiled		2023-10-09	0.050	3.4'	Visible			LINER on collision course
+potw2342a	tiled		2023-10-16	0.040	2.7'	Visible			‘S’ is for ‘Spiral’, ‘AB’ is for … ‘Weakly Barred’
+potw2343a	tiled		2023-10-23	0.050	2.9'	Visible			A dynamic duo … or trio?
+potw2344a	tiled		2023-10-30	0.040	2.7'	Visible			The dancer in Dorado
+potw2345a	tiled		2023-11-06	0.050	2.7'	Visible			When amateur astronomers point the way
+potw2346a	tiled		2023-11-13	0.040	2.7'	Visible			Same galaxy, different filters
+potw2347a	tiled		2023-11-20	0.050	3.0'	Visible			“Late-type” galaxy?
+potw2348a	tiled		2023-11-27	0.040	3.1'	Visible			One cluster or two?
+potw2349a	tiled		2023-12-04	0.040	3.2'	Visible			Cluster in the cloud
+potw2350a	tiled		2023-12-11	0.050	3.4'	Visible			All lined up
+potw2351a	tiled		2023-12-18	0.050	2.9'	Visible			Sighting forbidden light
+potw2352a	tiled		2023-12-25	0.050	3.3'	Visible			It’s all relative
+potw2401a	tiled		2024-01-01	0.128	2.1'	IR			So near, or so far?
+potw2402a	tiled		2024-01-08	0.050	3.4'	Visible			When one plus one (eventually) equals one
+potw2403a	tiled		2024-01-15	0.040	2.1'	Visible			Gone but not forgotten
+potw2404a	tiled		2024-01-22	0.040	2.0'	Visible			Luminous in Lepus
+potw2405a	tiled		2024-01-29	0.040	2.2'	Visible			Dim, but still distinct
+potw2406a	tiled		2024-02-05	0.040	2.8'	Visible			The forest for the trees, the galaxy for the stars
+potw2407a	tiled		2024-02-12	0.128	2.2'	IR			Colouring what human eyes can’t see
+potw2408a	tiled		2024-02-19	0.050	3.3'	Visible			A high amount of ram
+potw2409a	tiled		2024-02-26	0.040	2.6'	Visible			Celestial fossils
+potw2410a	tiled		2024-03-04	0.050	3.2'	Visible			A matter of perspective
+potw2411a	tiled		2024-03-11	0.050	3.2'	Visible			An unlikely spiral
+potw2412a	tiled		2024-03-18	0.040	3.0'	Visible			The Spider (and not its web)
+potw2413a	skipped	title: not a plain sky image	2024-03-25	0.040	2.5'				No zoom
+potw2414a	tiled		2024-04-01	0.050	3.2'	Visible			Two’s company
+potw2415a	tiled		2024-04-08	0.050	3.4'	Visible			Hidden in a dark cloud
+potw2416a	tiled		2024-04-15	0.040	2.7'	Visible			The eponymous NGC 3783
+potw2417a	tiled		2024-04-22	0.050	2.7'	Visible			Captured on glass
+potw2418a	tiled		2024-04-29	0.050	2.2'	Visible			On the hunt for X-rays
+potw2419a	tiled		2024-05-06	0.050	3.0'	Visible			A star forming factory
+potw2420a	tiled		2024-05-13	0.040	1.8'	Visible			Lenticular dust in detail
+potw2421a	tiled		2024-05-20	0.040	2.5'	Visible			A jewel in the queen’s hair
+potw2422a	tiled		2024-05-27	0.040	2.7'	Visible			The lights of a galactic bar
+potw2423a	tiled		2024-06-03	0.040	2.8'	Visible			A broad and narrow galactic view
+potw2424a	tiled		2024-06-10	0.040	2.6'	Visible			An ancient witness
+potw2425a	tiled		2024-06-17	0.128	2.2'	IR			A transformation in progress
+potw2426a	tiled		2024-06-24	0.050	4.9'	Visible			Channelling light from starbursts
+potw2426b	tiled		2024-06-24	0.025	0.5'	Visible			NGC 5253 (ACS/HRC)
+potw2427a	tiled		2024-07-01	0.040	2.7'	Visible			A maelstrom of matter and energy
+potw2428a	tiled		2024-07-08	0.040	2.3'	Visible			The difference between distance and dust
+potw2429a	tiled		2024-07-15	0.050	5.2'	Visible			Assembling the largest galaxies
+potw2430a	tiled		2024-07-22	0.050	2.8'	Visible			An island universe
+potw2431a	tiled		2024-07-29	0.050	3.1'	Visible			Galaxies in miniature
+potw2432a	tiled		2024-08-05	0.064	1.0'	IR			A supernova spotlight
+potw2433a	tiled		2024-08-12	0.040	2.6'	Visible			Rings and things
+potw2434a	tiled		2024-08-19	0.050	3.1'	Visible			A super(nova) spiral
+potw2435a	tiled		2024-08-26	0.050	2.0'	Visible			Hiding a bright secret
+potw2436a	tiled		2024-09-02	0.050	2.7'	Visible			Power across the spectrum
+potw2437a	tiled		2024-09-09	0.050	2.7'	Visible			Cloudy with a chance of explosions
+potw2438a	tiled		2024-09-16	0.040	2.8'	Visible			The light of knowledge
+potw2439a	skipped	"crop of potw2131a (0.040 vs 0.040""/px)"	2024-09-23	0.040	2.6'				The new and improved IC 1954
+potw2440a	tiled		2024-09-30	0.040	2.7'	Visible			Playing against type
+potw2441a	tiled		2024-10-07	0.040	2.7'	Visible			Starbursts on grand scale
+potw2442a	tiled		2024-10-14	0.040	2.8'	Visible			A yet better view
+potw2443a	tiled		2024-10-21	0.050	3.3'	Visible			Celestial cannonball
+potw2444a	tiled		2024-10-28	0.040	2.7'	Visible			Revisiting an old beauty
+potw2445a	tiled		2024-11-04	0.040	4.6'	Visible			Galaxy light show
+potw2445c	skipped	same as potw2445a without the supernova; kept the release image	2024-11-04	0.040	4.6'				NGC 1672 (without SN)
+potw2446a	tiled		2024-11-11	0.064	1.1'	IR			Tangled galaxies
+potw2447a	tiled		2024-11-18	0.050	2.1'	Visible			Spiral from the side
+potw2448a	skipped	"same picture as esawebb potm2411b (same Hubble data and credits, resampled to 0.031""/px vs 0.040""/px here): kept the sharper esawebb copy (user decision 2026-11-14)"	2024-11-25	0.040	2.7'				Viewing a flaky disc
+potw2449a	tiled		2024-12-02	0.040	2.7'	Visible			Signs of the stellar lifecycle
+potw2450a	tiled		2024-12-09	0.040	2.8'	Visible			Hubble revisits a grand spiral
+potw2451a	tiled		2024-12-16	0.040	2.7'	Visible			Seeing eye to eye
+potw2452a	tiled		2024-12-23	0.050	3.3'	Visible			A supernova checkup
+potw2453a	tiled		2024-12-30	0.064	1.2'	IR			Pale blue (supernova) dot
+potw2501a	tiled		2025-01-06	0.040	1.3'	Visible			Ringing in the new year
+potw2502a	tiled		2025-01-13	0.040	2.1'	IR			Jetting into space
+potw2503a	skipped	"duplicate of DB image https://esahubble.org/images/heic1206a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-01-20	0.040	2.7'				A Tarantula’s outskirts
+potw2504a	tiled		2025-01-27	0.040	1.1'	IR			One in a hundred
+potw2505a	tiled		2025-02-03	0.058	1.1'	IR			Supernova spotting
+potw2506a	skipped	"duplicate of DB image https://esahubble.org/images/heic1206a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-02-10	0.040	2.3'				Cosmic cloudscape
+potw2507a	tiled		2025-02-17	0.040	2.5'	Visible			A spiral hiding an impostor
+potw2508a	tiled		2025-02-24	0.040	2.7'	Visible			Lifting the veil
+potw2509a	tiled		2025-03-03	0.040	2.6'	Visible			A spiral of the water snake
+potw2510a	tiled		2025-03-10	0.050	2.5'	Visible			A spiral and a star
+potw2511a	tiled		2025-03-17	0.040	2.7'	Visible			Colourful clouds of a nearby neighbour
+potw2512a	tiled		2025-03-24	0.040	2.7'	Visible			A chance alignment in Lupus
+potw2513a	tiled		2025-03-31	0.040	2.7'	Visible			A galaxy that gives great feedback
+potw2514a	tiled		2025-04-07	0.030	1.5'	Visible			Swan song for stars and cameras
+potw2515a	tiled		2025-04-14	0.040	2.7'	Visible			The squid and the whale
+potw2516a	tiled		2025-04-21	0.040	3.3'	Visible			A glittering cluster shines again
+potw2517a	tiled		2025-04-28	0.040	2.7'	Visible			Snapshot of a peculiar spiral
+potw2518a	tiled		2025-05-05	0.040	2.6'	Visible			Face to face with a spiral’s arms
+potw2519a	skipped	"duplicate of DB image https://esahubble.org/images/heic1206a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-05-12	0.040	2.6'				Capturing candyfloss clouds
+potw2520a	tiled		2025-05-19	0.040	2.6'	Visible			A spiral so inclined
+potw2521a	tiled		2025-05-26	0.040	2.6'	Visible			Paired pinwheel seen solo
+potw2522a	tiled		2025-06-02	0.040	2.8'	Visible			Starry spectacle
+potw2523a	tiled		2025-06-09	0.050	2.5'	Visible			Stirring the interstellar soup
+potw2524a	skipped	"duplicate of DB image https://esahubble.org/images/heic0711a/ (0.035 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-06-16	0.040	2.8'				Small but mighty
+potw2525a	tiled		2025-06-23	0.050	1.8'	Visible			Centre of activity
+potw2526a	tiled		2025-06-30	0.040	2.6'	Visible			The young stars of Taurus
+potw2527a	tiled		2025-07-07	0.040	2.8'	Visible			Portrait of a galaxy cluster
+potw2528a	tiled		2025-07-14	0.040	2.3'	Visible			Digging up a galactic time capsule
+potw2529a	tiled		2025-07-21	0.040	2.0'	Visible			Swirling spiral in Hydra
+potw2530a	tiled		2025-07-28	0.040	3.1'	Visible			A supernova-rich spiral
+potw2531a	skipped	"duplicate of DB image https://esahubble.org/images/heic1206a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-08-04	0.040	3.5'				A sea monster and a Tarantula
+potw2532a	tiled		2025-08-11	0.040	2.6'	Visible			Low brightness, high interest
+potw2533a	skipped	"crop of potw2037a (0.040 vs 0.040""/px)"	2025-08-18	0.040	2.7'				Noteworthy nearby spiral
+potw2534a	skipped	"duplicate of DB image https://esahubble.org/images/potw1535a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-08-25	0.040	2.7'				Taking a third look
+potw2535a	tiled		2025-09-01	0.040	2.5'	Visible			A galaxy with lots to see
+potw2536a	tiled		2025-09-08	0.047	2.2'	Visible			Cloudy cluster
+potw2537a	tiled		2025-09-15	0.012	0.5'	Visible			The smouldering heart of a celestial cigar
+potw2538a	tiled		2025-09-22	0.040	2.7'	Visible			Spiral, elliptical or neither?
+potw2539a	tiled		2025-09-29	0.040	2.4'	Visible			Yellow and blue, old and new
+potw2540a	tiled		2025-10-06	0.040	3.0'	Visible			Starbursting centre
+potw2541a	skipped	"crop of potw2222a (0.040 vs 0.040""/px)"	2025-10-13	0.040	2.7'				A well-studied spiral
+potw2542a	skipped	"crop of potw2542b (0.046 vs 0.046""/px)"	2025-10-20	0.046	3.3'				Focusing on NGC 3370
+potw2542b	tiled		2025-10-20	0.046	3.3'	Visible			NGC 3370 (wide view)
+potw2543a	tiled		2025-10-27	0.040	2.7'	Visible			Spiralling star factory
+potw2544a	tiled		2025-11-03	0.040	2.6'	Visible			Revisiting an unusual spiral
+potw2545a	tiled		2025-11-10	0.040	2.7'	Visible			A disruptive neighbour
+potw2546a	tiled		2025-11-17	0.040	2.7'	Visible			Finding star clusters in the Lost Galaxy
+potw2547a	skipped	"duplicate of DB image https://esahubble.org/images/potw1636a/ (0.050 vs 0.050""/px; new one is the smaller crop, not sharper)"	2025-11-24	0.050	2.7'				Baby stars blowing bubbles
+potw2548a	skipped	"crop of potw2049a (0.040 vs 0.040""/px)"	2025-12-01	0.040	2.6'				A storm of new stars
+potw2549a	tiled		2025-12-08	0.040	3.3'	Visible			Massive stars make their mark
+potw2550a	skipped	"duplicate of DB image https://esahubble.org/images/potw1649a/ (0.040 vs 0.040""/px; new one is the smaller crop, not sharper)"	2025-12-15	0.040	2.6'				Galactic gas makes a getaway
+potw2551a	tiled		2025-12-22	0.050	3.2'	Visible			Long-distance relationship
+potw2552a	skipped	"duplicate of DB image https://esahubble.org/images/potw1636a/ (0.050 vs 0.050""/px; new one is the smaller crop, not sharper)"	2025-12-29	0.050	2.4'				A neighbouring vista of stellar birth
+sci23002a	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2023-05-02	0.000	0.0'				A Spiral Amongst Thousands
+sci23003a	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2023-07-24	0.000	0.0'				Webb Inspects NGC 346 (NIRCam Image)
+sci25004a	skipped	"duplicate of DB image https://esawebb.org/images/potm2503a/ (0.010 vs 0.010""/px; same title)"	2025-06-17	0.010	0.2'				Spying a spiral through a cosmic lens
+sci25006a	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2025-10-23	0.000	0.0'				GOODS-S field (NIRCam image)
+sci26004b	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-05-28	0.000	0.0'				A beacon of light in swirls of dust
+sci26006a	skipped	not Hubble data (James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope James Webb Space Telescope)	2026-10-12	0.000	0.0'				IRS 3 Field (NIRCam and MIRI image)

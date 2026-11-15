@@ -4808,6 +4808,1383 @@ name: NGC 4565
 ra_hr: 12.605833333333333
 zoom_level: 3.966666666666667
 ---
+_uuid: 778563e8-f3f1-4f31-9887-40b54f128228
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.945365857875483
+description: 'This image represents a deep dataset of the Coma galaxy cluster obtained
+  by NASA''s Chandra X-ray Observatory . Researchers have used these data to study
+  how the hot gas in the cluster behaves, as reported in our press release . One intriguing
+  and important aspect to study is how much viscosity, or "stickiness," the hot gas
+  demonstrates in these cosmic giants.
+
+
+  Galaxy clusters are comprised of individual galaxies, hot gas, and dark matter.
+  The hot gas in Coma glows in X-ray light observed by Chandra. Seen as the purple
+  and pink colors in this new composite image, the hot gas contains about six times
+  more mass than all of the combined galaxies in the cluster. The galaxies appear
+  as white in the optical part of the composite image from the Sloan Digital Sky Survey.
+  (The unusual shape of the X-ray emission in the lower right is caused by the edges
+  of the Chandra detectors being visible.)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-coma/L{1}X{2}Y{3}.png
+name: Coma Cluster
+ra_hr: 12.994358769044712
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-coma/thumb.jpg
+zoom_level: 4.0199695326879095
+---
+_uuid: ad11e6f1-7a8a-4db1-802b-2836d974c815
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.882111282286838
+description: 'With a single letter seemingly etched in the X-ray glow around it, a
+  giant black hole at the center of a massive elliptical galaxy is making a mark on
+  its surroundings.
+
+
+  This “H”-shaped structure is found in a detailed new X-ray map of the multimillion-degree
+  gas around the galaxy Messier 84 (M84).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-m84/L{1}X{2}Y{3}.png
+name: M84
+ra_hr: 12.417563059649114
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-m84/thumb.jpg
+zoom_level: 0.9005521035409795
+---
+_uuid: 7276ebd2-1d05-4604-a991-cd96cce73bbd
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.958908738356325
+description: 'Astronomers have discovered what is triggering repeated outbursts from
+  a giant, unstable star using NASA’s Chandra X-ray Observatory, as described in our
+  latest press release . This volatile star, known as AT 2016blu, is located in the
+  spiral galaxy NGC 4559 that is about 30 million light-years from Earth.
+
+
+  For about 15 years, astronomers have watched as AT 2016blu has repeatedly grown
+  extremely bright in optical light only to dim back down again. AT 2016blu is a type
+  of luminous blue variable (LBV), which are hot massive stars characterized by changes
+  in brightness (Eta Carinae is the most famous LBV).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-at2016blu/L{1}X{2}Y{3}.png
+name: AT 2016blu
+ra_hr: 12.59808899532676
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-at2016blu/thumb.jpg
+zoom_level: 1.3476872732788654
+---
+_uuid: cc089f69-d19e-45be-befe-b7559b821cab
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.421634942875635
+description: This image of the nearby galaxy NGC 4254, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 4254 is a grand-design spiral galaxy located approximately 45 million
+  light-years from Earth in the constellation Coma Berenices. The images were taken
+  as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project,
+  which is making high-resolution observations of nearby galaxies with telescopes
+  operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 4254 galaxy as seen with ALMA
+ra_hr: 12.314099957302059
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-alma-cc/thumb.jpg
+zoom_level: 0.45310687797168003
+---
+_uuid: a5ece2e4-b168-4c61-8520-cef3b421dcce
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.423051405171998
+description: This image of the nearby galaxy NGC 4254, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 4254 is a grand-design spiral galaxy
+  located approximately 45 million light-years from Earth in the constellation Coma
+  Berenices. The images were taken as part of the Physics at High Angular resolution
+  in Nearby GalaxieS (PHANGS) project, which is making high-resolution observations
+  of nearby galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-cc/L{1}X{2}Y{3}.png
+name: The NGC 4254 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 12.314174357238425
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-cc/thumb.jpg
+zoom_level: 0.5115518330894256
+---
+_uuid: 22f41a97-811d-4ef6-9590-9e37c419a151
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 14.423051405171998
+description: This image of the nearby galaxy NGC 4254 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 4254 is a grand-design spiral galaxy
+  located approximately 45 million light-years from Earth in the constellation Coma
+  Berenices. The images were taken as part of the Physics at High Angular resolution
+  in Nearby GalaxieS (PHANGS) project, which is making high-resolution observations
+  of nearby galaxies with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 4254 mapped with MUSE on ESO’s VLT
+ra_hr: 12.314174357238425
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4254-muse-ha/thumb.jpg
+zoom_level: 0.5115518330894256
+---
+_uuid: 2a464567-8c39-4363-bbc8-15e6419cf616
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image of the nearby galaxy NGC 4303, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 4303 is a spiral galaxy, with a bar of stars and gas at its centre, located
+  approximately 55 million light-years from Earth in the constellation Virgo. The
+  images were taken as part of the Physics at High Angular resolution in Nearby GalaxieS
+  (PHANGS) project, which is making high-resolution observations of nearby galaxies
+  with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 4303 galaxy as seen with ALMA
+ra_hr: 12.365246137611551
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-alma-cc/thumb.jpg
+zoom_level: 0.5015475170506039
+---
+_uuid: e1dfc2a5-5516-4ee4-9a5b-ebbd5b23e781
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604725774477
+description: This image of the nearby galaxy NGC 4303 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 4303 is a spiral galaxy, with a bar
+  of stars and gas at its centre, located approximately 55 million light-years from
+  Earth in the constellation Virgo. The images were taken as part of the Physics at
+  High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 4303 mapped with MUSE on ESO’s VLT
+ra_hr: 12.365253676324665
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-muse-ha/thumb.jpg
+zoom_level: 0.4984781206501008
+---
+_uuid: cda2b944-6b97-41bf-ae86-8157b545c481
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 4.473604280065001
+description: This image of the nearby galaxy NGC 4303, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 4303 is a spiral galaxy, with a
+  bar of stars and gas at its centre, located approximately 55 million light-years
+  from Earth in the constellation Virgo. The images were taken as part of the Physics
+  at High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making
+  high-resolution observations of nearby galaxies with telescopes operating across
+  the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc4303-muse/L{1}X{2}Y{3}.png
+name: The NGC 4303 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 12.365246137611551
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc4303-muse/thumb.jpg
+zoom_level: 0.5015475170506039
+---
+_uuid: 823626d9-9530-4d44-9561-ef4c0ddcb491
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 18.542433357148074
+description: This globular cluster, NGC 4147, seen with the NASA/ESA Hubble Space
+  Telescope, was one of many which were used by astronomers to measure the total mass
+  of the Milky Way. NGC 4147 is located about 60 000 light-years from Earth in the
+  northern constellation of Coma Berenices (the Berenice's hair).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic1905c/L{1}X{2}Y{3}.png
+name: Globular cluster NGC 4147
+ra_hr: 12.168378818936718
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic1905c/thumb.jpg
+zoom_level: 0.5889852535935242
+---
+_uuid: 626c6568-13e1-4a16-953b-816ac7d956bd
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 14.217385694324616
+description: 'For the end of the year and the holiday season Hubble has captured the
+  festive bundle of lights known as UGC 8091. UGC 8091, also known as GR 8, lies around
+  seven million light-years from Earth in the constellation Virgo. It is a dwarf irregular
+  galaxy: a comparatively small, low-mass galaxy without a distinct or uniform shape.
+  The filters used in this image date from 2006 up to 2021, and were taken by two
+  of Hubble’s most advanced instruments: the Wide Field Camera 3 and the Advanced
+  Camera for Surveys. An astonishing twelve filters combine to produce this image,
+  with light from the mid-ultraviolet right through to the red end of the visible
+  spectrum contributing. The blossoming patches of red represent light emitted by
+  excited hydrogen molecules in hot, energetic stars that have formed in recent starbursts.
+  The other glittering lights on show are a mix of older stars. [Image description:
+  A collection of stars and galaxies fill the scene against a dark background. The
+  image is dominated by a dense collection of stars that make up the irregular galaxy
+  UGC 8091. The stars span a variety of colours, including blue and orange, with patches
+  of blue occupying the central part of the galaxy. There are also visible circular
+  regions of red/pink gas within the galaxy.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2313a/L{1}X{2}Y{3}.png
+name: Dwarf irregular galaxy UGC 8091
+ra_hr: 12.977951785943038
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2313a/thumb.jpg
+zoom_level: 0.2775782911312521
+---
+_uuid: 2313c407-6598-4918-bd43-9c700822022a
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.39113285709693
+description: 'A Hubble Space Telescope image of the giant galaxy M87 shows a 3,000-light-year-long
+  jet of plasma blasting from the galaxy''s 6.5-billion-solar-mass central black hole.
+  The blowtorch-like jet seems to cause stars to erupt along its trajectory. These
+  novae are not caught inside the jet, but are apparently in a dangerous neighbourhood
+  nearby. During a recent 9-month survey, astronomers using Hubble found twice as
+  many of these novae going off near the jet as elsewhere in the galaxy. The galaxy
+  is the home of several trillion stars and thousands of star-like globular star clusters.
+  [Image description: A Hubble photo of galaxy M87, which resembles a translucent,
+  fuzzy white cotton ball. The brightness decreases gradually out in all directions
+  from a bright white point of light at the centre. A wavy blue-white jet of material
+  extends from the point-like core outward to the upper right, about halfway across
+  the galaxy. Stars speckle the background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2411b/L{1}X{2}Y{3}.png
+name: M87
+ra_hr: 12.513684134664242
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2411b/thumb.jpg
+zoom_level: 0.2109367056913299
+---
+_uuid: 196c76dc-f432-4f45-bde5-ca873781dab3
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -11.621322595305221
+description: 'Located around 30 million light-years away in the constellation Virgo,
+  the Sombrero Galaxy is instantly recognisable. Viewed nearly edge on, the galaxy’s
+  softly luminous bulge and sharply outlined disc resemble the rounded crown and broad
+  brim of the Mexican hat from which the galaxy gets its name. Though the Sombrero
+  Galaxy is packed with stars, it’s surprisingly not a hotbed of star formation. Less
+  than one solar mass of gas is converted into stars within the knotted, dusty disc
+  of the galaxy each year. Even the galaxy’s central supermassive black hole, which
+  at 9 billion solar masses is more than 2000 times more massive than the Milky Way’s
+  central black hole, is fairly calm. The galaxy is too faint to be spotted with unaided
+  vision, but it is readily viewable with a modest amateur telescope. Seen from Earth,
+  the galaxy spans a distance equivalent to roughly one third of the diameter of the
+  full Moon. The galaxy’s size on the sky is too large to fit within Hubble’s narrow
+  field of view, so this image is actually a mosaic of several images stitched together.
+  [Image description: The Sombrero Galaxy is an oblong, pale white disc with a glowing
+  core. It appears nearly edge-on but is slanted slightly in the front, presenting
+  a slightly top-down view of the inner region of the galaxy and its bright core.
+  The outer disc is darker with shades of brown and black. Different coloured distant
+  galaxies and various stars are speckled among the black background of space surrounding
+  the galaxy.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2506a/L{1}X{2}Y{3}.png
+name: Sombrero Galaxy
+ra_hr: 12.666476901128796
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2506a/thumb.jpg
+zoom_level: 0.9601138750627519
+---
+_uuid: 73166a95-0d2f-4add-97bd-6271e9179ae1
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 40.30242804622567
+description: 'A team using the NASA/ESA Hubble Space Telescope has uncovered a new
+  type of astronomical object —a starless, gas-rich, dark-matter cloud that is considered
+  a “relic” or remnant of early galaxy formation. Nicknamed “Cloud-9,” this is the
+  first confirmed detection of such an object in the Universe This image shows the
+  blank field of the surrounding region of Cloud-9. The image identifying its location
+  can be found here. [Image description: A dark field with stars and galaxies of various
+  sizes speckled throughout the image. A particularly bright star is visible in the
+  upper left region of the image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2601c/L{1}X{2}Y{3}.png
+name: Field surrounding Cloud-9
+ra_hr: 12.864220354333506
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2601c/thumb.jpg
+zoom_level: 0.25348435821506843
+---
+_uuid: bcf81647-0888-400a-8c97-8050c15b9302
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 12.948240544475128
+description: This image from the NASA/ESA Hubble Space Telescope shows the galaxy
+  Messier 86. Despite its being discovered over 235 years ago by astronomer Charles
+  Messier, the morphological classification of Messier 86 remains unclear; astronomers
+  are still debating over whether it is either elliptical or lenticular (the latter
+  being a cross between an elliptical and spiral galaxy). Messier 86 is part of the
+  Virgo Cluster of galaxies and is situated about 50 million light-years from Earth.
+  The galaxy is moving through space remarkably quickly — its current trajectory is
+  bringing it in our direction, back towards the centre of its cluster from the far
+  side, at the incredible speed of over 875 000 kilometres per hour! Because of the
+  speed with which it is moving through the cluster, Messier 86 is undergoing a process
+  known as ram-pressure stripping; the resistive material filling the gaps between
+  individual cluster galaxies is pulling at the gas and dust in Messier 86 and stripping
+  them out as the galaxy moves, creating a long trail of hot gas that is emitting
+  X-ray radiation. Astronomers are using Hubble observations such as this to study
+  elliptical and lenticular galaxies, both of which are often found at the centres
+  of galaxy clusters. By studying the cores of these galaxies, astronomers hope to
+  determine details of the central structure and to analyse both the history of the
+  galaxy and the formation of its core.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1938a/L{1}X{2}Y{3}.png
+name: Beacon of Light
+ra_hr: 12.436517897247308
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1938a/thumb.jpg
+zoom_level: 0.4908442107164132
+---
+_uuid: 27bfbdc0-d729-4fab-a7e2-fa516fd5951e
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 10.016833877635914
+description: The galaxy NGC 4380 looks like a special effect straight out of a science
+  fiction or fantasy film in this Hubble Picture of the Week, swirling like a gaping
+  portal to another dimension. In the grand scheme of things, though, the galaxy is
+  actually quite ordinary. Spiral galaxies like NGC 4380 are one of the most common
+  types of galaxy in the Universe. These colossal collections of stars, often numbering
+  in the hundreds of billions, are shaped like a flat disc, sometimes with a rounded
+  bulge in the centre. Graceful spiral arms outlined by dark lanes of dust wind around
+  the bulging core, which glows brightly and has the highest concentration of stars
+  in the galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1941a/L{1}X{2}Y{3}.png
+name: A Galactic Portal
+ra_hr: 12.422825320699166
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1941a/thumb.jpg
+zoom_level: 0.10847526600936563
+---
+_uuid: 1175a3a6-4e61-4f03-92cd-2557e4bc2770
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 15.323874534405794
+description: This Picture of the Week, taken by the NASA/ESA Hubble Space Telescope,
+  shows the galaxy NGC 4237. Located about 60 million light-years from Earth in the
+  constellation of Coma Berenices (Berenice's Hair), NGC 4237 is classified as a flocculent
+  spiral galaxy. This means that its spiral arms are not clearly distinguishable from
+  each other, as in grand design spiral galaxies, but are instead patchy and discontinuous.
+  This gives the galaxy a fluffy appearance, somewhat resembling cotton wool. Astronomers
+  studying NGC 4237 were actually more interested in its galactic bulge — its bright
+  central region. By learning more about these bulges, we can explore how spiral galaxies
+  have evolved, and study the growth of the supermassive black holes that lurk at
+  the centres of most spirals. There are indications that the mass of the black hole
+  at the centre of a galaxy is related to the mass of its bulge. However, this connection
+  is still uncertain, and why these two components should be so strongly correlated
+  is still a mystery — one that astronomers hope to solve by studying galaxies in
+  the nearby Universe, such as NGC 4237.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2011a/L{1}X{2}Y{3}.png
+name: Cotton Wool Galaxy
+ra_hr: 12.286508236361158
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2011a/thumb.jpg
+zoom_level: 0.11090519637825261
+---
+_uuid: 9b13539a-3c5b-4db9-b8d7-52ce413ee289
+classification: ''
+constellation: CVN
+data_set_type: Sky
+dec_deg: 41.14631664176292
+description: 'NGC 4618 was discovered on 9 April 1787 by the German-British astronomer,
+  Wilhelm Herschel, who also discovered Uranus in 1781. Only a year before discovering
+  NGC 4618, Herschel theorised that the “foggy” objects astronomers were seeing in
+  the night sky were likely to be large star clusters located much further away then
+  the individual stars he could easily discern.
+
+
+  Since Herschel proposed his theory, astronomers have come to understand that what
+  he was seeing was a galaxy. NGC 4618, classified as a barred spiral galaxy, has
+  the special distinction amongst other spiral galaxies of only having one arm rotating
+  around the centre of the galaxy.
+
+
+  Located about 21 million light-years from our galaxy in the constellation Canes
+  Venatici, NGC 4618 has a diameter of about one third that of the Milky Way. Together
+  with its neighbour, NGC 4625, it forms an interacting galaxy pair, which means that
+  the two galaxies are close enough to influence each other gravitationally. These
+  interactions may result in the two (or more) galaxies merging together to form a
+  new formation, such as a ring galaxy.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2012a/L{1}X{2}Y{3}.png
+name: Single Arm Galaxy
+ra_hr: 12.692460570926594
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2012a/thumb.jpg
+zoom_level: 0.5674829285667141
+---
+_uuid: d1d8d7c7-a52c-4636-8285-c49a058e2d14
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 16.396589062601784
+description: This remarkable spiral galaxy, known as NGC 4651, may look serene and
+  peaceful as it swirls in the vast, silent emptiness of space, but don’t be fooled
+  — it keeps a violent secret. It is believed that this galaxy consumed another smaller
+  galaxy to become the large and beautiful spiral that we observe today. Although
+  only a telescope like the NASA/ESA Hubble Space Telescope, which captured this image,
+  could give us a picture this clear, NGC 4651 can also be observed with an amateur
+  telescope — so if you have a telescope at home and a star-gazing eye, look out for
+  this glittering carnivorous spiral.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2013a/L{1}X{2}Y{3}.png
+name: Feeding Time
+ra_hr: 12.729178594516286
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2013a/thumb.jpg
+zoom_level: 0.27954613579374965
+---
+_uuid: d247e57c-a4f6-4f21-8ed2-0fc6daa104af
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 49.58386073724483
+description: This sparkling spiral galaxy looks almost stretched across the sky in
+  this new image from the NASA/ESA Hubble Space Telescope. Known as NGC 4100, the
+  galaxy boasts a neat spiral structure and swirling arms speckled with the bright
+  blue hue of newly formed stars. Like so many of the stunning images of galaxies
+  we enjoy today, this image was captured by Hubble’s Advanced Camera for Surveys
+  (ACS). This remarkable instrument was installed in 2002, and, with some servicing
+  over the years by intrepid astronauts, is still going strong. You can access many
+  of the stunning images captured by the ACS here, featuring objects from out-of-this-world
+  spiral galaxies to dark, imposing nebulae, bizarre cosmic phenomena, and sparkling
+  clusters made up of thousands upon thousands of stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2017a/L{1}X{2}Y{3}.png
+name: A Stretched Spiral
+ra_hr: 12.102264995857029
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2017a/thumb.jpg
+zoom_level: 0.2652850200411708
+---
+_uuid: f96ab707-6a5b-4937-b20a-ae7ab10739f0
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 28.246131859256533
+description: A notable feature of most spiral galaxies is the multitude of arching
+  spiral arms that seemingly spin out from the galaxy’s centre. In this image, taken
+  with the NASA/ESA Hubble Space Telescope, the stunning silvery-blue spiral arms
+  of the galaxy NGC 4848 are observed in immense detail. Not only do we see the inner
+  section of the spiral arms containing hundreds of thousands of young, bright, blue
+  stars, but Hubble has also captured the extremely faint wispy tails of the outer
+  spiral arms. This wispy barred spiral galaxy was first discovered in 1865 by the
+  German astronomer Heinrich Louis d’Arrest. In his career, Heinrich also notably
+  discovered the asteroid 76 Freia and many other galaxies and he also contributed
+  to the discovery of Neptune. If you are situated in the Northern Hemisphere with
+  a large telescope, you might just be able to observe the ghost-like appearance of
+  this faint galaxy within faint constellation of Coma Berenices (Berenice’s Hair).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2029a/L{1}X{2}Y{3}.png
+name: A Discovery of Ghostly Arms
+ra_hr: 12.967830121314986
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2029a/thumb.jpg
+zoom_level: 0.28219822759020813
+---
+_uuid: 12fa4885-8c6b-4ec9-9344-16bc06fd9316
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 4.474158208660835
+description: The luminous heart of the galaxy M61 dominates this image, framed by
+  its winding spiral arms threaded with dark tendrils of dust. As well as the usual
+  bright bands of stars, the spiral arms of M61 are studded with ruby-red patches
+  of light. Tell-tale signs of recent star formation, these glowing regions lead to
+  M61’s classification as a starburst galaxy. Though the gleaming spiral of this galaxy
+  makes for a spectacular sight, one of the most interesting features of M61 lurks
+  unseen at the centre of this image. As well as widespread pockets of star formation,
+  M61 hosts a supermassive black hole more than 5 million times as massive as the
+  Sun. M61 appears almost face-on, making it a popular subject for astronomical images,
+  even though the galaxy lies more than 52 million light-years from Earth. This particular
+  astronomical image incorporates data from not only Hubble, but also the FORS camera
+  at the European Southern Observatory’s Very Large Telescope, together revealing
+  M61 in unprecedented detail. This striking image is one of many examples of telescope
+  teamwork — astronomers frequently combine data from ground-based and space-based
+  telescopes to learn more about the Universe.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2114a/L{1}X{2}Y{3}.png
+name: Spiral Snapshot
+ra_hr: 12.365369097340883
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2114a/thumb.jpg
+zoom_level: 0.4468101806559631
+---
+_uuid: e4baeda0-c832-45b7-a92a-bec47ea7d143
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -40.96995304261431
+description: This image shows a close-up portrait of the magnificent spiral galaxy
+  NGC 4603, which lies over 100 million light-years away in the constellation of Centaurus
+  (The Centaur). Bright bands of blue young stars make up the arms of this galaxy,
+  which wind lazily outwards from the luminous core. The intricate red-brown filaments
+  threading through the spiral arms are known as dust lanes, and consist of dense
+  clouds of dust which obscure the diffuse starlight from the galaxy. This galaxy
+  is a familiar subject for Hubble. In the last years of the twentieth century, NGC
+  4603 was keenly and closely watched for signs of a peculiar class of stars known
+  as Cepheid variables. These stars have a luminosity closely tied to the period with
+  which they darken and brighten, allowing astronomers to accurately measure how far
+  they are from Earth. Distance measurements from Cepheid variables are key to measuring
+  the furthest distances in the Universe, and were one of the factors used by Georges
+  Lemaître and Edwin Hubble to show that the Universe is expanding.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2116a/L{1}X{2}Y{3}.png
+name: Galactic Close-Up
+ra_hr: 12.682118516105708
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2116a/thumb.jpg
+zoom_level: 0.1399931656951825
+---
+_uuid: a5b7cebb-d274-41da-acf4-05ca1d612439
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -0.4565737421928765
+description: NGC 4666 takes centre stage in this image from the NASA/ESA Hubble Space
+  Telescope. This majestic spiral galaxy lies about 80 million light-years away in
+  the constellation Virgo, and is undergoing a particularly intense episode of star
+  formation. Astronomers refer to galaxies which are forming stars anomalously quickly
+  as starburst galaxies. NGC 4666’s starburst is thought to be due to gravitational
+  interactions with its unruly neighbours — including the nearby galaxy NGC 4668 and
+  a dwarf galaxy. NGC 4666’s burst of star formation is driving an unusual form of
+  extreme galactic weather known as a superwind — a gigantic transfer of gas from
+  the bright central heart of the galaxy out into space. This superwind is the result
+  of driving winds from short-lived massive stars formed during NGC 4666’s starburst
+  as well as spectacularly energetic supernova explosions. Two such supernova explosions
+  have been seen in NGC 4666 within the last decade — one in 2014 and the other in
+  2019. The star which led to the 2019 supernova was recently determined to be 19
+  times as massive as our Sun! At peak, supernovae are often the brightest sources
+  of light in their galaxies, shining so bright that they can be seen clear across
+  the Universe. The 2014 supernova in NGC 4666 is still active in this image, but
+  more than 900 days after it peaked, the supernova has faded from its former glory
+  and looks like just one more star in this busy galaxy. Though the torrent of superheated
+  gas emanating from NGC 4666 is truly vast in scale — extending for tens of thousands
+  of light-years — it is invisible in this image. The superwind’s extremely high temperature
+  makes it stand out as a luminous plume in x-ray or radio observations, but it doesn’t
+  show up at the visible wavelengths imaged by Hubble’s Wide Field Camera 3. Links
+  Video of An Invisible Galactic Gale
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2141a/L{1}X{2}Y{3}.png
+name: Invisible Galactic Gale
+ra_hr: 12.752445203658194
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2141a/thumb.jpg
+zoom_level: 0.28900138387062807
+---
+_uuid: 9784b175-ca96-451e-9569-36858588a35f
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 3.9280874426125485
+description: The twin galaxies NGC 4496A and NGC 4496B dominate the frame in this
+  image from the NASA/ESA Hubble Space Telescope. Both galaxies lie in the constellation
+  Virgo, but despite appearing side-by-side in this image they are at vastly different
+  distances from both Earth and one another. NGC 4496A is 47 million light-years from
+  Earth while NGC 4496B is 212 million light-years away. The enormous distances between
+  the two galaxies mean that the two cannot interact, and they only appear to overlap
+  owing to a chance alignment. Chance galactic alignments such as this provide astronomers
+  with the opportunity to delve into the distribution of dust in these galaxies. Galactic
+  dust adds to the beauty of astronomical images — it can be seen in this image as
+  the dark tendrils threading through both NGC 4496A and NGC 4496B — but it also complicates
+  astronomers’ observations. Dust absorbs starlight, making stars seem dimmer and
+  shifting their light towards longer wavelengths, a process that astronomers refer
+  to as “reddening” (not the same thing as redshift). By carefully measuring how starlight
+  from background galaxies is affected by dust in intervening galaxies, astronomers
+  can map out where the dust is in the foreground galaxy’s spiral arms. The resulting
+  “dust maps” help astronomers calibrate measurements of everything from cosmological
+  distances to the types of stars populating galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2209a/L{1}X{2}Y{3}.png
+name: Not-So-Close Encounter
+ra_hr: 12.527592709476751
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2209a/thumb.jpg
+zoom_level: 0.44697322303103704
+---
+_uuid: 5704c0d7-9d27-4b71-855b-13462c28396d
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 14.499616321744032
+description: 'The spiral galaxy M91 fills the frame of this Wide Field Camera 3 observation
+  from the NASA/ESA Hubble Space Telescope. M91 lies approximately 55 million light-years
+  from Earth in the constellation Coma Berenices and — as is evident in this image
+  — is a barred spiral galaxy. While M91’s prominent bar makes for a spectacular galactic
+  portrait, it also hides an astronomical monstrosity. Like our own galaxy, M91 contains
+  a supermassive black hole at its centre. A 2009 study using archival Hubble data
+  found that this central black hole weighs somewhere between 9.6 and 38 million times
+  as much as the Sun. Whilst archival Hubble data allowed astronomers to weigh M91’s
+  central black hole, more recent observations have had other scientific aims. This
+  observation is part of an effort to build a treasure trove of astronomical data
+  exploring the connections between young stars and the clouds of cold gas in which
+  they form. To do this, astronomers used Hubble to obtain ultraviolet and visible
+  observations of galaxies already seen at radio wavelengths by the ground-based Atacama
+  Large Millimeter/submillimeter Array (ALMA). Observing time with Hubble is a highly
+  valued, and much sought-after, resource for astronomers. To obtain data from the
+  telescope, astronomers first have to write a proposal detailing what they want to
+  observe and highlighting the scientific importance of their observations. These
+  proposals are then anonymised and judged on their scientific merit by a variety
+  of astronomical experts. This process is incredibly competitive: following Hubble’s
+  latest call for proposals, only around 13% of the proposals were awarded observing
+  time. Are you interested in finding out what Hubble is observing right now? You
+  can follow the space telescope’s observations in real time at this link.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2215a/L{1}X{2}Y{3}.png
+name: Spiral Snapshot
+ra_hr: 12.590621254704645
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2215a/thumb.jpg
+zoom_level: 0.4435331188631607
+---
+_uuid: e4a88473-61d1-472c-ba57-d8d217b9110b
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 14.420390953962581
+description: The magnificent spiral galaxy M99 fills the frame in this image from
+  the NASA/ESA Hubble Space Telescope. M99 — which lies roughly 42 million light-years
+  from Earth in the constellation Coma Berenices — is a “grand design” spiral galaxy,
+  so-called because of the well-defined, prominent spiral arms visible in this image.
+  M99 was captured by Hubble’s Wide Field Camera 3 on two separate occasions, helping
+  astronomers study two entirely different astronomical phenomena. The first set of
+  observations aimed to explore a gap between two different varieties of cosmic explosions;
+  novae and supernovae. Novae, which are caused by the interactions between white
+  dwarfs and larger stars in binary systems, are far less bright than the supernovae
+  which mark the catastrophically violent deaths of massive stars. However, current
+  astronomical theories predict that sudden, fleeting events could occur that shine
+  with brightnesses between those of novae and supernovae. Despite being described
+  by astronomers as being shrouded in mystery and controversy, just such an event
+  was observed in M99. Astronomers turned to Hubble’s keen vision to take a closer
+  look and precisely locate the fading source. The second set of observations were
+  part of a large Hubble project which aims to chart the connections between young
+  stars and the clouds of cold gas from which they form. Hubble inspected 38 nearby
+  galaxies, identifying clusters of hot, young stars. These galaxies were also observed
+  by the Atacama Large Millimeter/submillimeter Array (ALMA), a colossal radio telescope
+  consisting of 66 individual dishes perched high in the Chilean Andes. The combination
+  of Hubble’s observations of young stars and ALMA’s insight into clouds of cold gas
+  will allow astronomers to delve into the details of star formation, and paves the
+  way for future science with the NASA/ESA/CSA James Webb Space Telescope.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2218a/L{1}X{2}Y{3}.png
+name: Hubble Sees Double in M99
+ra_hr: 12.31407416350051
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2218a/thumb.jpg
+zoom_level: 0.421077389092824
+---
+_uuid: 9d799f84-06e9-40f6-bd5d-55f14cc7d453
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -51.15020787724433
+description: 'Like Sherlock Holmes’s magnifying glass writ large, the NASA/ESA Hubble
+  Space Telescope has been used to peer into an astronomical mystery in search of
+  clues. The enigma in question concerns the globular cluster Ruprecht 106, which
+  is pictured in this image. While the constituent stars of globular clusters all
+  formed at approximately the same location and time, it turns out that almost all
+  globular clusters contain groups of stars with distinct chemical compositions. These
+  distinct chemical fingerprints are left by groups of stars with very slightly different
+  ages or compositions from the rest of the cluster. A tiny handful of globular clusters
+  do not possess these multiple populations of stars, and Ruprecht 106 is a member
+  of this enigmatic group. Hubble captured this star-studded image using one of its
+  most versatile instruments; the Advanced Camera for Surveys (ACS). Much like the
+  stars in globular clusters, Hubble’s instruments also have distinct generations:
+  ACS is a third generation instrument which replaced the original Faint Object Camera
+  in 2002. Some of Hubble’s other instruments have also gone through three iterations:
+  the Wide Field Camera 3 replaced the Wide Field and Planetary Camera 2 (WFPC2) during
+  the final servicing mission to Hubble. WFPC2 itself replaced the original Wide Field
+  and Planetary Camera, which was installed on Hubble at launch. Astronauts on the
+  NASA Space Shuttle serviced Hubble in orbit a total of five times, and were able
+  to either upgrade aging equipment or replace instruments with newer, more capable
+  versions. This high-tech tinkering in low Earth orbit has helped keep Hubble at
+  the cutting edge of astronomy for more than 3 decades. Links Video of Hubble Investigates
+  an Enigmatic Globular Cluster'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2223a/L{1}X{2}Y{3}.png
+name: Hubble Investigates an Enigmatic Globular Cluster
+ra_hr: 12.644445278461614
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2223a/thumb.jpg
+zoom_level: 0.5367906524037314
+---
+_uuid: 7f22d41c-251f-486c-bce5-3fd8e99fdaf7
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 3.843107475898552
+description: A host of astronomical objects throng this image from the NASA/ESA Hubble
+  Space Telescope. Background galaxies ranging from stately spirals to fuzzy ellipticals
+  are strewn across the image, and bright foreground stars much closer to home are
+  also present, surrounded by diffraction spikes. In the centre of the image, the
+  vague shape of the small galaxy UGC 7983 appears as a hazy cloud of light. UGC 7983
+  is around 30 million light-years from Earth in the constellation Virgo, and is a
+  dwarf irregular galaxy — a type thought to be similar to the very earliest galaxies
+  in the Universe. This image also conceals an astronomical interloper. A minor asteroid,
+  only a handful of kilometres across, can be seen streaking across the upper left-hand
+  side of this image. The trail of the asteroid is visible as four streaks of light
+  separated by small gaps. These streaks of light represent the four separate exposures
+  that were combined to create this image, the small gaps between each observation
+  being necessary to change the filters inside Hubble’s Advanced Camera for Surveys.
+  Capturing an asteroid was a fortunate side effect of a larger effort to observe
+  every known galaxy close to the Milky Way. When this project was first proposed,
+  roughly 75% of all the Milky Way’s near galactic neighbours had been imaged by Hubble.
+  A group of astronomers proposed using the gaps between longer Hubble observations
+  to capture images of the remaining 25%. The project was an elegantly efficient way
+  to fill out some gaps not only in Hubble's observing schedule, but also in our knowledge
+  of nearby galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2303a/L{1}X{2}Y{3}.png
+name: Visitor to a Galaxy
+ra_hr: 12.829708765645275
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2303a/thumb.jpg
+zoom_level: 0.28434223462930297
+---
+_uuid: 15a1f0cc-9eca-4510-acc0-daac166249fb
+classification: ''
+constellation: CRV
+data_set_type: Sky
+dec_deg: -12.106111649067081
+description: 'UGCA 307 hangs against an irregular backdrop of distant galaxies in
+  this image from the NASA/ESA Hubble Space Telescope. The small galaxy consists of
+  a diffuse band of stars containing red bubbles of gas that mark regions of recent
+  star formation, and lies roughly 26 million light-years from Earth in the constellation
+  Corvus. Appearing as just a small patch of stars, UGCA 307 is a diminutive dwarf
+  galaxy without a defined structure — resembling nothing more than a hazy patch of
+  passing cloud. This image is part of a Hubble project to explore every known nearby
+  galaxy, giving astronomers insights into our galactic neighbourhood. Before this
+  set of observations, almost three quarters of nearby galaxies had been investigated
+  by Hubble in enough detail to spot the brightest stars and build up an understanding
+  of the stars populating each galaxy. This Hubble project set out to explore the
+  remaining quarter of nearby galaxies by taking advantage of short gaps in Hubble’s
+  observing schedule. This crystal-clear image was captured by Hubble’s Advanced Camera
+  for Surveys (ACS), which was installed on the telescope in 2002 during Servicing
+  Mission 3B. Hubble’s vantage point in low Earth orbit means that it is above atmospheric
+  turbulence, giving it a sharper view of the Universe. However, it is also close
+  enough to Earth that astronauts could visit the telescope to repair and refurbish
+  the telescope. In total, five Space Shuttle missions flew to Hubble and kept it
+  at the forefront of astronomy by installing new instruments. The ACS replaced one
+  of Hubble’s original instruments, the Faint Object Camera, which was built by ESA.
+  [Image description: A wide band of bluish light extends from the centre of the image
+  to the right side. It is speckled with many tiny stars, and a few small, bright
+  red bubbles of gas, identifying it as a galaxy. The background is black, and has
+  small galaxies and stars spread around. Most are too small to distinguish, except
+  for two oval-shaped galaxies, each having a hazy glow around a bright centre.] Links
+  Pan: Hubble’s neighbourhood watch'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2311a/L{1}X{2}Y{3}.png
+name: Hubble’s neighbourhood watch
+ra_hr: 12.899896928720496
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2311a/thumb.jpg
+zoom_level: 0.42851315777092874
+---
+_uuid: 9cd4bea9-4b62-4974-88b4-f8d499282684
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 14.054049116806878
+description: 'This image features IC 3476, a dwarf galaxy that lies about 54 million
+  light-years from Earth in the constellation Coma Berenices. Whilst this image does
+  not look very dramatic — if we were to anthropomorphise the galaxy, we might say
+  it looks almost serene — the actual physical events taking place in IC 3476 are
+  highly energetic. In fact, the little galaxy is undergoing a process known as ram
+  pressure stripping, which is driving unusually high levels of star formation within
+  regions of the galaxy itself. We tend to associate the letters ‘ram’ with the acronym
+  RAM, which refers to Random Access Memory in computing. However, ram pressure has
+  a totally distinct definition in physics: it is the pressure exerted on a body when
+  it moves through some form of fluid, due to the overall resistance of the fluid.
+  In the case of entire galaxies experiencing ram pressure, the galaxies are the ‘bodies’
+  and the intergalactic or intracluster medium (the dust and gas that permeates the
+  space between galaxies, and for the latter the spaces between galaxies in clusters)
+  is the ‘fluid’. Ram pressure stripping occurs when the ram pressure results in gas
+  being stripped from the galaxy. This stripping away of gas can lead to a reduction
+  in the level of star formation, or even its complete cessation, as gas is absolutely
+  key to the formation of stars. However, the ram pressure can also cause other parts
+  of the galaxy to be compressed, which can actually boost star formation. This is
+  what seems to be taking place in IC 3476: there seems to be absolutely no star formation
+  going on at the edge of the galaxy bearing the brunt of the ram pressure stripping,
+  but then star formation rates within deeper regions of the galaxy seem to be markedly
+  above the average. [Image Description: A dwarf spiral galaxy. The centre is not
+  particularly bright and is covered by some dust, while the outer disc and halo wrap
+  around as if swirling water. Across the face of the galaxy, an arc of brightly glowing
+  spots marks areas where new stars are being formed. The galaxy is surrounded by
+  tiny, distant galaxies on a dark background.] Links Pan: A high amount of ram'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2408a/L{1}X{2}Y{3}.png
+name: A high amount of ram
+ra_hr: 12.544987856605765
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2408a/thumb.jpg
+zoom_level: 0.5612380965852509
+---
+_uuid: 7f86e0dc-208c-47bd-b1cf-20e1cb84e76e
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 5.881375417367818
+description: 'Here we see NGC 4423, a galaxy that lies about 55 million light-years
+  away in the constellation Virgo. In this image NGC 4423 appears to have quite an
+  irregular, tubular form, so it might be surprising to find out that it is in fact
+  a spiral galaxy. Knowing this, we can make out the denser central bulge of the galaxy,
+  and the less crowded surrounding disc (the part that comprises the spiral arms).
+  If NGC 4423 were viewed face-on it would resemble the shape that we most associate
+  with spiral galaxies: the spectacular curving arms sweeping out from a bright centre,
+  interspersed with dimmer, darker, less populated regions. But when observing the
+  skies we are constrained by the relative alignments between Earth and the objects
+  that we are observing: we cannot simply reposition Earth so that we can get a better
+  face-on view of NGC 4423! Of course, celestial objects do not remain sedentary in
+  space, but often move at extremely rapid velocities relative to one another. This
+  might suggest that, should a galaxy be moving in a fortuitous direction relative
+  to Earth, we might be able to view it from a substantially different perspective
+  once it has moved far enough. This is theoretically possible, but the reality is
+  that the distances in space are simply far too big, and human lifetimes far too
+  short, for a noticeable difference in relative alignment to occur. In other words,
+  this is more-or-less the view of NGC 4423 that we will always have! [Image Description:
+  A broad spiral galaxy is seen edge-on, so that its spiral arms can’t be seen. Visible
+  dust and stars trace the disc of the galaxy, surrounded by a glowing halo above
+  and below. The colour of the galaxy changes smoothly between the outer disc at the
+  ends and the bulge in the centre. A few bright stars surround the galaxy on a dark
+  background.] Links Pan of NGC 4423'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2410a/L{1}X{2}Y{3}.png
+name: A matter of perspective
+ra_hr: 12.452553628369225
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2410a/thumb.jpg
+zoom_level: 0.39410687506262
+---
+_uuid: cca42a3b-33e6-4bfe-be46-0e94469c2635
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 8.55758288280265
+description: 'This image shows LEDA 42160, a galaxy about 52 million light-years from
+  Earth in the constellation Virgo. The dwarf galaxy is one of many forcing its way
+  through the comparatively dense gas in the Virgo cluster, a massive cluster of galaxies.
+  The pressure exerted by this intergalactic gas, known as ram pressure, has dramatic
+  effects on star formation in LEDA 42160, which are presently being studied using
+  the Hubble Space Telescope. LEDA 42160 falls into the category of ‘Magellanic spiral
+  galaxy’, or type Sm for short, under the de Vaucouleurs galaxy classification system.
+  Magellanic spiral galaxies can be further sub-categorised as barred (SBm), unbarred
+  (SAm) and weakly barred (SABm), where a ‘bar’ is an elongated bar-shape at a galaxy’s
+  core. Generally speaking, Magellanic spiral galaxies are dwarf galaxies with only
+  one single spiral arm. They are named after their prototype, the Large Magellanic
+  Cloud, which is an SBm galaxy. Magellanic spiral galaxies are an interesting example
+  of how galaxy categorisation is actually more nuanced than simply ‘spiral’, ‘elliptical’
+  or ‘irregular’. [Image Description: A distorted dwarf galaxy, obscured by dust and
+  by bright outbursts caused by star formation, floats roughly in the centre. A few
+  distant galaxies are visible in the background around it, many as little spirals,
+  and also including a prominent elliptical galaxy. A bright star hangs above the
+  galaxy in the foreground, marked by cross-shaped diffraction spikes.] Links Pan
+  of LEDA 42160'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2411a/L{1}X{2}Y{3}.png
+name: An unlikely spiral
+ra_hr: 12.627802976169015
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2411a/thumb.jpg
+zoom_level: 0.44345192565569225
+---
+_uuid: 45284203-b369-4975-a65d-b94e181f85bc
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 8.853587631499668
+description: 'Featured in this Hubble Picture of the Week this week is the dwarf galaxy
+  IC 776. This swirling collection of stars new and old is located in the constellation
+  Virgo — in fact, in the Virgo galaxy cluster — 100 million light-years from Earth.
+  While a dwarf galaxy, it''s also been classified as an SAB-type or ‘weakly barred’
+  spiral, one study naming it a “complex case” in morphology. This highly detailed
+  view from Hubble demonstrates that complexity well. IC 776 has a ragged, disturbed
+  disc that nevertheless looks to spiral around the core, and arcs of star-forming
+  regions. This image is from an observation programme dedicated to the study of dwarf
+  galaxies in the Virgo cluster, searching for sources of X-rays in such galaxies.
+  X-rays are often emitted by accretion discs, where material that is drawn into a
+  compact object by gravity crashes together and forms a hot, glowing disc. The compact
+  object can be a white dwarf or neutron star in a binary pair, stealing material
+  from its companion star, or it can be the supermassive black hole at the heart of
+  a galaxy, devouring all around it. Dwarf galaxies like IC 776, travelling through
+  the Virgo cluster, experience a pressure from the intergalactic gas which can both
+  stimulate star formation and feed the central black hole in a galaxy. That can create
+  energetic accretion discs, hot enough to emit X-rays. While Hubble is not able to
+  see X-rays, it can coordinate with X-ray telescopes such as NASA’s Chandra, revealing
+  the sources of this radiation in high resolution using visible light. Dwarf galaxies
+  are thought to be very important for our understanding of cosmology and the evolution
+  of galaxies. As with many areas of astronomy, the ability to examine these galaxies
+  across the electromagnetic spectrum is critical to their study. [Image Description:
+  A spiral galaxy viewed tilted at a diagonal angle. The core and the disc of the
+  galaxy are different colours, but are otherwise difficult to tell apart, with the
+  disc having wispy, ragged edges and many arcs of glowing star-forming patches. A
+  few distant galaxies can be seen in the background around the spiral galaxy, as
+  well as several foreground stars.] Links Pan video of IC 776'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2418a/L{1}X{2}Y{3}.png
+name: On the hunt for X-rays
+ra_hr: 12.317614488639254
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2418a/thumb.jpg
+zoom_level: 0.3696970424944663
+---
+_uuid: dfdbf1a8-b35f-4b4d-a5c5-995c5b7cd0a4
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -1.1996897405271605
+description: 'Featured in this new image from the NASA/ESA Hubble Space Telescope
+  is a nearly edge-on view of the lenticular galaxy NGC 4753. These galaxies have
+  an elliptical shape and ill-defined spiral arms. This image is the object''s sharpest
+  view to date, showcasing Hubble’s incredible resolving power and ability to reveal
+  complex dust structures. NGC 4753 resides around 60 million light-years from Earth
+  in the constellation Virgo and was first discovered by the astronomer William Herschel
+  in 1784. It is a member of the NGC 4753 Group of galaxies within the Virgo II Cloud,
+  which comprises roughly 100 galaxies and galaxy clusters. This galaxy is believed
+  to be the result of a galactic merger with a nearby dwarf galaxy roughly 1.3 billion
+  years ago. NGC 4753’s distinct dust lanes around its nucleus are believed to have
+  been accreted from this merger event. It is now believed that most of the mass in
+  the galaxy lies in a slightly flattened spherical halo of dark matter. Dark matter
+  is a form of matter that cannot currently be observed directly, but is thought to
+  comprise about 85% of all matter in the Universe. It is referred to as ‘dark’ because
+  it does not appear to interact with the electromagnetic field, and therefore does
+  not seem to emit, reflect or refract light. This object is also of scientific interest
+  to test different theories of formation of lenticular galaxies, given its low-density
+  environment and complex structure. Furthermore, this galaxy has been host to two
+  known Type Ia supernovae. These types of supernovae are extremely important as they
+  are all caused by exploding white dwarfs which have companion stars, and always
+  peak at the same brightness — 5 billion times brighter than the Sun. Knowing the
+  true brightness of these events, and comparing this with their apparent brightness,
+  gives astronomers a unique chance to measure distances in the Universe. [Image Description:
+  Lenticular galaxy NGC 4753 is featured with a bright white core and surrounding
+  defined dust lanes around its nucleus, that predominantly appear dark brown in colour.
+  A variety of faint stars fill the background of the image.] Links Pan video of NGC
+  4753'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2420a/L{1}X{2}Y{3}.png
+name: Lenticular dust in detail
+ra_hr: 12.8727630369944
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2420a/thumb.jpg
+zoom_level: 0.19364207820183482
+---
+_uuid: 2eb2db4e-290b-4f81-9a5e-badffeb7d56c
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 13.762848951490822
+description: 'This Picture of the Week shows the jewel-bright spiral galaxy NGC 4689,
+  which lies 54 million light-years from Earth in the constellation Coma Berenices.
+  This constellation has the distinction of being the only one of the 88 constellations
+  officially recognised by the International Astronomical Union (IAU) to be named
+  after an historical figure, Queen Berenice II of Egypt. The latin word ‘coma’ references
+  her hair, meaning that NGC 4689 can be said to be found in the hair of a queen.
+  Some people of Berenice’s time would have meant this quite literally, as the story
+  goes that her court astronomer thought that a missing lock of Berenice’s hair had
+  been catasterised (a word meaning ‘placed amongst the stars’) by the gods: hence
+  the name of the constellation, Coma Berenices. NGC 4689 holds an interesting — albeit
+  less royal — place in modern astronomy too. The Universe is so incredibly vast that
+  at a distance of a mere 54 million light-years NGC 4689 is relatively nearby for
+  a galaxy. This image has been made using data from two sets of observations, one
+  made in 2019 and 2024, both of which were made as a part of programmes that observed
+  multiple ‘nearby’ galaxies. The 2024 observing programme is an interesting example
+  of how Hubble — a relatively old but extraordinarily productive telescope — can
+  support the work of the technologically cutting-edge Webb telescope. Observations
+  collected by Webb stand to transform our understanding of how galaxies transform
+  and evolve over time, by providing data of an unprecedented level of detail and
+  clarity. However, thanks to their complementary capabilities, new observations from
+  Hubble — such as those used to create this image — can assist the work done using
+  Webb. In this case, the Hubble data were collected in order to get a more accurate
+  grasp of the stellar populations of nearby galaxies, which is crucial to understanding
+  the evolution of galaxies. Thus, NGC 4689 is playing an important role in developing
+  our understanding of how all galaxies evolve. In fact, it is observed enough that
+  it has been the subject of a Hubble Picture of the Week before, in 2020. [Image
+  Description: A spiral galaxy is viewed close up and fills most of the scene. It
+  has a bright, glowing spot at the core, broad spiral arms that are covered by many
+  dark threads of dust, and pink glowing spots across the disc that mark areas of
+  star formation. The disc of the galaxy is surrounded by a faint halo that bleeds
+  into the dark background.] Links Pan video of NGC 4689'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2421a/L{1}X{2}Y{3}.png
+name: A jewel in the queen’s hair
+ra_hr: 12.795986530437993
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2421a/thumb.jpg
+zoom_level: 0.4284076389479923
+---
+_uuid: 2d9b09e3-a21c-40b2-9722-634bc5671323
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -6.392529421699655
+description: 'This week, an image of the broad and sweeping spiral galaxy NGC 4731
+  is the Hubble Picture of the Week. This galaxy lies among the galaxies of the Virgo
+  cluster, in the constellation Virgo, and is located 43 million light-years from
+  Earth. This highly detailed image was created using six different filters. The abundance
+  of colour illustrates the galaxy''s billowing clouds of gas, dark dust bands, bright
+  pink star-forming regions and, most obviously, the long, glowing bar with trailing
+  arms. Barred spiral galaxies outnumber both regular spirals and elliptical galaxies
+  put together, numbering around 60% of all galaxies. The visible bar structure is
+  a result of orbits of stars and gas in the galaxy lining up, forming a dense region
+  that individual stars move in and out of over time. This is the same process that
+  maintains a galaxy''s spiral arms, but it is somewhat more mysterious for bars:
+  spiral galaxies seem to form bars in their centres as they mature, accounting for
+  the large number of bars we see today, but can also lose them later on as the accumulated
+  mass along the bar grows unstable. The orbital patterns and the gravitational interactions
+  within a galaxy that sustain the bar also transport matter and energy into it, fuelling
+  star formation. Indeed, the observing programme studying NGC 4731 seeks to investigate
+  this flow of matter in galaxies. Beyond the bar, the spiral arms of NGC 4731 stretch
+  out far past the confines of this close-in Hubble view. The galaxy’s elongated arms
+  are thought to result from gravitational interactions with other, nearby galaxies
+  in the Virgo cluster. [Image Description: A close-in view of a barred spiral galaxy.
+  The bright, glowing bar crosses the centre of the galaxy, with spiral arms curving
+  away from its ends and continuing out of view. It’s surrounded by bright patches
+  of light where stars are forming, as well as dark lines of dust. The galaxy’s clouds
+  of gas spread out from the arms and bar, giving way to a dark background with some
+  foreground stars and small, distant galaxies.] Links Pan of NGC 4731'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2422a/L{1}X{2}Y{3}.png
+name: The lights of a galactic bar
+ra_hr: 12.850303759009451
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2422a/thumb.jpg
+zoom_level: 0.45903796594874935
+---
+_uuid: 86651af3-bea1-4c5f-bba7-4e114c8d67ef
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 9.086243468659566
+description: 'The Hubble Picture of the Week this week reveals the subtle glow of
+  the galaxy named IC 3430, located 45 million light-years from Earth in the constellation
+  Virgo. It is part of the Virgo cluster, a rich collection of galaxies both large
+  and small, many of which are very similar in type to this diminutive galaxy. IC
+  3430 is a dwarf galaxy, a fact well reflected by this view from Hubble, but it is
+  more precisely known as a dwarf elliptical or dE galaxy. Like its larger cousins,
+  this galaxy has a smooth, oval shape lacking any recognisable features like arms
+  or bars, and it is bereft of gas to form very many new stars. Interestingly, IC
+  3430 does feature a core of hot, massive blue stars, an uncommon sight in elliptical
+  galaxies that indicates recent star-forming activity. It’s believed that ram pressure
+  from the galaxy ploughing through gas within the Virgo cluster has ignited what
+  gas does remain in IC 3430’s core to form some new stars. Dwarf galaxies are really
+  just galaxies with not many stars, usually fewer than a billion, but that is often
+  enough for them to reproduce in miniature the same forms as larger galaxies. There
+  are dwarf elliptical galaxies like IC 3430, dwarf irregular galaxies, dwarf spheroidal
+  galaxies and even dwarf spiral galaxies! The so-called Magellanic spiral is a distinct
+  type of dwarf galaxy, too, the best example being the well-known dwarf galaxies
+  that are the Magellanic Clouds. [Image Description: A relatively small, oval-shaped
+  galaxy, tilted diagonally. It glows brightly at the centre and dims gradually to
+  its edge. At the centre it is crossed by some wisps of dark dust, and a few small,
+  blue, glowing spots are visible, where stars are forming. The galaxy is on a dark
+  background in which many background galaxies and foreground stars can be seen.]
+  Links Pan of IC 3430'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2431a/L{1}X{2}Y{3}.png
+name: Galaxies in miniature
+ra_hr: 12.50471218760043
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2431a/thumb.jpg
+zoom_level: 0.5224893940949504
+---
+_uuid: 2e21331f-2f3c-4191-9f83-4620beac26ac
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 10.983213053140364
+description: 'Most galaxies we are familiar with fall into one of two easily-identified
+  types. Spiral galaxies are young and energetic, filled with the gas needed to form
+  new stars and sporting spiral arms hosting hot, bright stars. Elliptical galaxies
+  have a much more pedestrian look, their light coming from a uniform population of
+  older and redder stars. But other galaxies require in-depth study to understand:
+  such is the case with NGC 4694, a galaxy located 54 million light-years from Earth
+  in the Virgo galaxy cluster, and the subject of this Hubble Picture of the Week.
+  NGC 4694 has a smooth-looking, armless disc which — like an elliptical galaxy —
+  is nearly devoid of star formation. However its stellar population is still relatively
+  young and new stars are still actively forming in its core, powering the brightness
+  we can see in this image and giving it a markedly different stellar profile from
+  that of a classic elliptical galaxy. The galaxy is also suffused by the kinds of
+  gas and dust normally seen in a young and sprightly spiral; elliptical galaxies
+  often do host significant quantities of dust, but not the gas needed to form new
+  stars. NGC 4694 is surrounded by a huge cloud of invisible hydrogen gas, fuel for
+  star formation. This stellar activity is the reason for Hubble’s observations here.
+  As this Hubble image shows, the dust in this galaxy forms chaotic structures that
+  indicate some kind of disturbance. It turns out that the cloud of hydrogen gas around
+  NGC 4694 forms a long bridge to a nearby, faint dwarf galaxy named VCC 2062. The
+  two galaxies have undergone a violent collision, and the larger NGC 4694 is accreting
+  gas from the smaller galaxy. Based on its peculiar shape and its star-forming activity,
+  NGC 4694 has been classified as a lenticular galaxy: lacking the unmistakable arms
+  of a spiral, but not so bereft of gas as an elliptical galaxy, and still with a
+  galactic bulge and disc. Some galaxies just aren’t so easy to classify as one type
+  or the other! [Image Description: An oval-shaped galaxy seen tilted at an angle.
+  It glows brightly at its central point, with the radiated light dimming out to the
+  edge of the oval. Reddish-brown, patchy dust spreads out from the core and covers
+  much of the galaxy’s top half, as well as the outer edge, obscuring some of its
+  light. Stars can be seen around and in front of the galaxy.] Links Pan of NGC 4694'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2440a/L{1}X{2}Y{3}.png
+name: Playing against type
+ra_hr: 12.804179588034536
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2440a/thumb.jpg
+zoom_level: 0.4461317101383758
+---
+_uuid: 355156bd-23d0-4234-bebc-d629dff4f626
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 13.163582579995984
+description: 'The striking spiral galaxy featured in this week’s Hubble Picture of
+  the Week is Messier 90 (M90, also NGC 4569), located in the constellation Virgo.
+  In 2019, an image of M90 was released using data from the older Wide Field and Planetary
+  Camera 2 — data taken in 1994 soon after the camera’s installation. That image has
+  a distinctive stair-step pattern due to the layout of WFPC2’s sensors. WFPC2 was
+  replaced in 2010 by the Wide Field Camera 3, and Hubble used WFC3 when it turned
+  its aperture to Messier 90 again in 2019 and 2023. The resulting data was processed
+  to create this stunning new image, providing a much fuller view of the galaxy’s
+  dusty disc, its gaseous halo and its bright core. The inner regions of M90’s disc
+  are sites of star formation, which is highlighted here by red H-alpha light from
+  nebulae, but this is absent in the rest of the galaxy. M90 sits among the galaxies
+  of the relatively nearby Virgo Cluster, and the course of its orbit took it on a
+  path near the cluster’s centre about three hundred million years ago. The density
+  of gas in the inner cluster weighed on M90 like a strong headwind, stripping enormous
+  quantities of gas from the galaxy and creating the diffuse halo that can be seen
+  around it here. This gas is no longer available for M90 to form new stars with,
+  and it will eventually fade as a spiral galaxy as a result. M90 is located 55 million
+  light-years from Earth, but it’s one of the very few galaxies getting closer to
+  us. Its orbit through the Virgo cluster has accelerated it so much that it’s in
+  the process of escaping the cluster entirely, and by happenstance it’s moving in
+  our direction — other galaxies in the Virgo cluster have been measured at similar
+  speeds, but in the opposite direction. Over the coming billions of years, we will
+  be treated to a yet better view of M90 while it evolves into a lenticular galaxy.
+  [Image Description: A spiral galaxy. It has a bright core with light spilling out,
+  and its disc is filled with thick clumps of dark reddish dust, which swirls around
+  the galaxy following its rotation. Parts of the disc are speckled with blue, showing
+  brighter and hotter stars. A halo of faintly-lit gas wraps around the galaxy, extending
+  beyond the edges of the image.] Links Pan of Messier 90'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2442a/L{1}X{2}Y{3}.png
+name: A yet better view
+ra_hr: 12.613840275609466
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2442a/thumb.jpg
+zoom_level: 0.42601681487706866
+---
+_uuid: 8d13387c-6e3b-4b85-b89f-7a27bf501298
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 6.67403610904557
+description: 'The spiral galaxy appearing in this week’s Hubble Picture of the Week
+  is named IC 3225. It looks remarkably as if it’s been launched from a cannon, speeding
+  through space like a comet with a tail of gas streaming from its disc behind it.
+  The scenes that galaxies appear in from Earth’s point of view are fascinating; many
+  seem to hang calmly in the emptiness of space as if hung from a string, while others
+  star in much more dynamic situations! Appearances can be deceiving with objects
+  so far from Earth — IC 3225 itself is about 100 million light-years away — but the
+  galaxy’s location suggests some causes for this active scene, because IC 3225 is
+  one of over 1300 members of the Virgo galaxy cluster. The density of galaxies in
+  the Virgo cluster creates a rich field of hot gas between them, the so-called ‘intracluster
+  medium’, while the cluster’s extreme mass has its galaxies careening around its
+  centre in some very fast orbits. Ramming through the thick intracluster medium,
+  especially close to the cluster’s centre, places an enormous ‘ram pressure’ on the
+  moving galaxies that strips gas out of them as they go. IC 3225 is not so close
+  to the cluster core right now, but astronomers have deduced that it has undergone
+  this ram pressure stripping in the past. The galaxy looks as though it’s been impacted
+  by this: it is compressed on one side and there has been noticeably more star formation
+  on this leading edge, while the opposite end is stretched out of shape. Being in
+  such a crowded field, a close call with another galaxy could also have tugged on
+  IC 3225 and created this shape. The sight of this distorted galaxy is a reminder
+  of the incredible forces at work on astronomical scales, which can move and reshape
+  even entire galaxies! [Image Description: A spiral galaxy. Its disc glows visibly
+  from the centre, and has faint dust threaded through it. A spiral arm curves around
+  the left edge of the disc and is noticeably more dense with bright blue spots, where
+  there are hot and new stars, than the rest. Opposite, the disc stretches out into
+  a short tail where it covers a distant background galaxy. Around it, other distant
+  galaxies and some nearby stars are visible.] Links Pan of IC 3225'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2443a/L{1}X{2}Y{3}.png
+name: Celestial cannonball
+ra_hr: 12.377401584358914
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2443a/thumb.jpg
+zoom_level: 0.38546251948686805
+---
+_uuid: 7ac6c9ed-5b4a-4e33-bdf4-784970b82042
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 31.223442359569635
+description: 'This image from the NASA/ESA Hubble Space Telescope features the unbarred
+  spiral galaxy NGC 4414, roughly 51 million light-years away from Earth in the constellation
+  Coma Berenices. You can see an old image of NGC 4414 that features Hubble data from
+  1995 and 1999 here, which was captured as one of the telescope’s primary missions
+  to determine the distance to galaxies. This was achieved as part of an ongoing research
+  effort to study Cepheid variable stars. Cepheids are a special type of variable
+  star with very stable and predictable brightness variations. The period of these
+  variations depends on physical properties of the stars such as their mass and true
+  brightness. This means that astronomers, just by looking at the variability of their
+  light, can find out about the Cepheids'' physical nature, which then can be used
+  very effectively to determine their distance. For this reason cosmologists call
+  Cepheids ''standard candles''. Astronomers have used Hubble to observe Cepheids,
+  like those that reside in NGC 4414, with extraordinary results. The Cepheids have
+  then been used as stepping-stones to make distance measurements for supernovae,
+  which have, in turn, given a measure for the scale of the Universe. Today we know
+  the age of the Universe to a much higher precision than before Hubble: around 13.7
+  billion years. [Image description: A large spiral galaxy is seen tilted diagonally.
+  The arms of the galaxy’s disc are speckled with glowing patches; some are blue in
+  colour, others are pink, showing gas illuminated by new stars. A faint glow surrounds
+  the galaxy, which lies on a dark, nearly empty background. The galaxy''s centre
+  glows in white.] Links Image B (closeup of NGC 4414''s supernovae) Pan of NGC 4414'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2444a/L{1}X{2}Y{3}.png
+name: Revisiting an old beauty
+ra_hr: 12.440657563642274
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2444a/thumb.jpg
+zoom_level: 0.4574680387075192
+---
+_uuid: 8735d7da-e389-4413-ba8b-c3ee9a757eac
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 29.12886318585976
+description: 'Previously the Hubble Picture of the Week series has featured a jewel
+  in the queen’s hair — a spiral galaxy in the constellation Coma Berenices, named
+  for the hair of the historical Egyptian queen. However, that galaxy is only one
+  of many known in this constellation. This week’s new image from the NASA/ESA Hubble
+  Space Telescope depicts the cosmic tangle that is MCG+05-31-045, a pair of interacting
+  galaxies located 390 million light-years away and a part of the so-called Coma galaxy
+  cluster. The Coma cluster is a particularly rich cluster and contains over a thousand
+  known galaxies. Several can be easily seen with amateur telescopes. Most of them
+  are elliptical galaxies, and that’s typical of a dense galaxy cluster like the Coma
+  cluster: many elliptical galaxies are formed in close encounters between galaxies
+  that stir them up, or even collisions that rip them apart. While the stars in the
+  interacting galaxies can stay together, the gas in the galaxies is a different story
+  — it’s twisted and compressed by gravitational forces, and rapidly used up to form
+  new stars. When the hot, massive, blue stars die, there is little gas left to replace
+  them with new generations of young stars. For interacting spiral galaxies, the regular
+  orbits that produce their striking spiral arms are also disrupted. Whether through
+  mergers or simple near misses, the result is a galaxy almost devoid of gas, with
+  ageing stars orbiting in uncoordinated circles: an elliptical galaxy. It’s very
+  likely that a similar fate will befall MCG+05-31-045. As the smaller spiral galaxy
+  is torn up and integrated into the larger galaxy, many new stars will form, and
+  the hot, blue ones will quickly burn out, leaving cooler, redder stars behind in
+  an elliptical galaxy much like the others in the Coma cluster. But this process
+  won’t be complete for many millions of years — until then, Queen Berenice II will
+  have to suffer the knots in her hair! [Image Description: In the centre is a large,
+  oval-shaped galaxy, with a shining, ringed core. Left of its centre is a second,
+  smaller galaxy with two spiral arms. The pair of galaxies are close enough that
+  they appear to be merging: a tail of material with a few glowing spots connects
+  from one of the smaller galaxy’s spiral arms to the larger galaxy. Both are surrounded
+  in a faint halo. Several stars can be seen around the pair.] Links Pan of MCG+05-31-045'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2446a/L{1}X{2}Y{3}.png
+name: Tangled galaxies
+ra_hr: 12.971709147334963
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2446a/thumb.jpg
+zoom_level: 0.17508430659806049
+---
+_uuid: 20a2dca8-3eb2-4d41-8c45-516d7027565a
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 62.50000320631962
+description: 'This serene spiral galaxy hides a cataclysmic past. The galaxy IC 758,
+  shown here in today’s NASA/ESA Hubble Space Telescope Picture of the Week, is situated
+  60 million light-years away in the constellation Ursa Major. In this Hubble image
+  captured in 2023, IC 758 appears peaceful, its soft blue spiral arms curving gently
+  around its hazy barred centre. But in 1999, astronomers spotted a powerful explosion
+  in this galaxy: the supernova SN 1999bg. SN 1999bg marked the dramatic end of a
+  star far more massive than the Sun. It’s not yet known how massive this star was
+  before it exploded. Researchers will use these Hubble observations to measure the
+  masses of stars in SN 1999bg’s neighbourhood, which will help them estimate the
+  mass of the star that went supernova. The Hubble data may also reveal whether SN
+  1999bg’s progenitor star had a companion, which would give additional clues about
+  the star’s life and death. A supernova represents more than just the demise of a
+  single star — it’s also a powerful force that can shape its neighbourhood. When
+  a massive star collapses, triggering a supernova, its outer layers rebound off its
+  shrunken core. The explosion stirs the interstellar soup of gas and dust out of
+  which new stars form. This interstellar shakeup can scatter and heat nearby gas
+  clouds, preventing new stars from forming, or it can compress them, creating a burst
+  of new stars. The cast-off layers also become ingredients for new stars. [Image
+  Description: A spiral galaxy with a generally soft and slightly faint appearance.
+  It glows most brightly around the pale yellow bar across its centre. It has two
+  spiral arms which wrap around the centre, quickly broadening out to join a wide,
+  faint circular halo around the galaxy. Glowing, sparkling patches in the disc show
+  stars forming in nebulae. Behind the galaxy, distant galaxies appear as orange dots
+  on a black background.] Links Pan: IC 758'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2523a/L{1}X{2}Y{3}.png
+name: Stirring the interstellar soup
+ra_hr: 12.069397612511853
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2523a/thumb.jpg
+zoom_level: 0.40988824977687244
+---
+_uuid: 98db7c60-52d9-4981-b61e-c867363597e3
+classification: ''
+constellation: COM
+data_set_type: Sky
+dec_deg: 14.220189131934005
+description: 'A star-studded spiral galaxy shines in this NASA/ESA Hubble Space Telescope
+  Picture of the Week. This galaxy is called NGC 4571, and it’s situated about 60
+  million light-years away in the constellation Coma Berenices. NGC 4571 dominates
+  the scene with its feathery spiral structure and sparkling star clusters. The galaxy’s
+  dusty spiral arms are dotted with brilliant pink nebulae that contain massive young
+  stars. Though the star-forming clouds that are seen here are heated to roughly 10
+  000 degrees by searing ultraviolet light from the young stars at their cores, stars
+  get their start in much chillier environments. The sites of star birth are giant
+  molecular clouds tens to hundreds of light-years across, in which the temperature
+  hovers just a few tens of degrees above absolute zero. The dramatic transformation
+  from freezing gas cloud to fiery young star happens thanks to the immense pull of
+  gravity, which collects gas into dense clumps within a star-forming cloud. As these
+  clumps yield to gravity’s pull and collapse inward, they eventually become hot and
+  dense enough to spark nuclear fusion in their centres and begin to shine. The glowing
+  clouds in this image surround particularly massive stars that are hot enough to
+  ionise the gas of their birthplaces. A Hubble image of NGC 4571 was previously released
+  in 2022, using data from an observing programme the combines data from leading observatories
+  like Hubble, the NASA/ESA/CSA James Webb Space Telescope, and the Atacama Large
+  Millimeter/submillimeter Array to study star formation in nearby spiral galaxies
+  like NGC 4571. The new image released today adds data from a programme that seeks
+  to understand how dust affects our observations of young stars deeply embedded within
+  their natal clouds. [Image Description: A spiral galaxy, seen face-on, fills the
+  view. Swirling, patchy and broken spiral arms surround a softly glowing centre.
+  The arms are filled with blue, speckled patches showing star clusters, shining pink
+  and red dots where young stars are lighting up gas clouds, and a web of thin, dark
+  red dust lanes. The glow of the galaxy’s arms extends out into the dark background.
+  Individual tiny stars appear throughout.] Links Pan: NGC 4571'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2543a/L{1}X{2}Y{3}.png
+name: Spiralling star factory
+ra_hr: 12.615592265369878
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2543a/thumb.jpg
+zoom_level: 0.423705440903562
+---
+_uuid: 04889743-653a-4f63-9c43-c26ab112a827
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 52.71148183243015
+description: 'What lies at the heart of this unusual-looking spiral galaxy? The galaxy
+  NGC 4102, featured in this ESA/Hubble Picture of the Week, is home to what astronomers
+  call an active galactic nucleus. Active galactic nuclei are luminous galactic centres
+  powered by supermassive black holes that contain millions to billion times the mass
+  of our Sun. As these black holes ensnare gas from their surroundings and draw it
+  close with their intense gravitational pull, the gas becomes so hot that it begins
+  to glow and emits light from X-ray to radio wavelengths. At a distance of just 56
+  million light-years away in the constellation Ursa Major (The Great Bear), NGC 4102
+  provides an ideal opportunity to study the ways in which active galactic nuclei
+  interact with their home galaxies. Active galactic nuclei come in many different
+  flavours, from extremely powerful types that consume massive amounts of matter and
+  shoot out jets of charged particles, to calmer types that sip gas from their surroundings
+  and glow more faintly. NGC 4102 likely falls into the latter category. It’s classified
+  as Compton-thick — a way of saying that its nucleus is obscured by a thick layer
+  of gas — and a LINER, or low-ionisation nuclear emission-line region. LINER galaxies
+  are identified by emission lines from certain weakly ionised elements, and they
+  can be powered by a supermassive black hole that is lazily collecting gas from around
+  it. A previous image of this galaxy, made from data taken with Hubble’s Wide Field
+  Planetary Camera 2 (WFPC2), was released in 2014. This new version presents an upgraded
+  view of the galaxy, using data from the Wide Field Camera 3, which replaced WFPC2
+  in 2009 and improved upon its resolution and field of view. The new observations
+  come from a programme that will combine visible-light images from Hubble with X-ray
+  information from the Chandra X-ray Observatory to study the relationship between
+  NGC 4102 and its active galactic nucleus. [Image Description: A spiral galaxy. The
+  inner region immediately around the bright centre is golden in colour. A gap separates
+  this region from a bright ring, itself surrounded by a glowing halo. Strands of
+  dark brown dust swirl around the centre and the outer ring, joined in one spot by
+  a curved arm. Bright, blue and pink specks of light dot the ring, showing where
+  stars are concentrated or have recently formed.] Links Pan: NGC 4102'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2544a/L{1}X{2}Y{3}.png
+name: Revisiting an unusual spiral
+ra_hr: 12.106409786341155
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2544a/thumb.jpg
+zoom_level: 0.38207856388854
+---
+_uuid: d1c43aa9-8871-4530-9749-3c82d06a2287
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 8.201170197107713
+description: 'Today’s ESA/Hubble Picture of the Week features the spiral galaxy NGC
+  4535, which is situated about 50 million light-years away in the constellation Virgo
+  (The Maiden). This galaxy has been nicknamed the ‘Lost Galaxy’ because it’s extremely
+  faint when viewed through a small telescope. With a mirror spanning 2.4 metres across,
+  Hubble is well equipped to observe dim galaxies like NGC 4535 and pick out features
+  like its massive spiral arms and central bar of stars. On full display in this Hubble
+  image are NGC 4535’s young star clusters, which dot the galaxy’s spiral arms. Many
+  of the groupings of bright blue stars are enclosed by glowing pink clouds. These
+  clouds, called H II (‘H-two’) regions, are a sign that the galaxy is home to especially
+  young, hot, and massive stars that are blazing with high-energy radiation. By heating
+  the clouds in which they were born, shooting out powerful stellar winds, and eventually
+  exploding as supernovae, massive stars certainly shake up their surroundings. This
+  Hubble image incorporates data from an observing programme that will catalogue roughly
+  50 000 H II regions in nearby star-forming galaxies like NGC 4535. A previous image
+  of NGC 4535 was released in 2021. Both the 2021 image and today’s image incorporate
+  observations from the PHANGS programme, which seeks to understand the connections
+  between young stars and cold gas. Today’s image adds a new dimension to our understanding
+  of NGC 4535 by capturing the brilliant red glow of the nebulae that encircle massive
+  stars in their first few million years of life. [Image Description: A close-in view
+  of a spiral galaxy that faces the viewer. Brightly lit spiral arms swing outwards
+  through the galaxy’s disc, starting from an elliptical region in the centre. Thick
+  strands of dark reddish dust are spread across the disc, mostly following the spiral
+  arms. The arms also contain many glowing pink-red spots where stars form. The galaxy
+  is a bit fainter beyond the arms, but speckled with blue stars.] Links Pan: NGC
+  4535'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2546a/L{1}X{2}Y{3}.png
+name: Finding star clusters in the Lost Galaxy
+ra_hr: 12.572273830078059
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2546a/thumb.jpg
+zoom_level: 0.4385152387996988
+---
 _uuid: 67bda1c0-ef07-4996-89e2-dc2784f10287
 classification: ''
 constellation: CVN
@@ -4995,6 +6372,191 @@ name: FRB 20240304B (NIRCam clean image)
 ra_hr: 12.200655014861166
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2621d/thumb.jpg
 zoom_level: 0.32251439717575425
+---
+_uuid: bd8c9bb0-a189-4d69-8a09-d904dd696615
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 29.137817112889103
+description: 'The constellation Coma Berenices hosts the galaxy NGC 4495 among myriad
+  other astronomical objects. This galaxy has a tumultuous history: several supernovae
+  have been recorded over the years, including the three named 1994S, 2010lo, and
+  2011ca. This last burst of energy from a dying star can be triggered by a number
+  of different processes. 1994S, for example, was triggered by interactions between
+  a white dwarf and another star, which reignited the core of the stellar remnant
+  — a Type Ia supernova. 2011ca on the other hand is a Type Ic supernova, triggered
+  by the core collapse of a single massive star. This image was captured by the DOE-built
+  Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo
+  Inter-American Observatory (CTIO) as part of the DESI Legacy Imaging Surveys. The
+  DESI Legacy Imaging Surveys were conducted to identify targets for the Dark Energy
+  Spectroscopic Instrument (DESI) operations. These surveys comprise a unique blend
+  of three projects that have observed a third of the night sky. DESI is an international
+  science collaboration managed by the US Department of Energy''s (DOE) Lawrence Berkeley
+  National Laboratory with primary funding for construction and operations from DOE’s
+  Office of Science.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2241a/L{1}X{2}Y{3}.png
+name: A Storm of Light
+ra_hr: 12.523412139209134
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2241a/thumb.jpg
+zoom_level: 1.146138692054093
+---
+_uuid: 1df27e15-3b92-4ec7-ab8f-ee2a427be85a
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 8.911823465789668
+description: A wide shot of this Image of the Week captures both NGC 4410 and NGC
+  4411. In the center of the image, NGC 4411 is a serene pair of spiral galaxies in
+  a deceptive union. Though the companions are thought to be right next to each other
+  — both at a distance of about 50 million light-years from us — they don’t show signs
+  of interaction, such as distorted arms. The pair NGC4411b (left) and NCG 4411a (right)
+  were captured by the Dark Energy Camera (DECam) which was built by the Department
+  of Energy and mounted on the prime focus of Víctor M. Blanco 4-meter Telescope at
+  the U.S. National Science Foundation Cerro Tololo Inter-American Observatory (CTIO),
+  a Program of NSF NOIRLab, in Chile. NGC 4411a is a particularly satisfying galaxy
+  to observe because of its distinct and symmetrical spiral arms that swirl more than
+  360 degrees around its core. If the galaxies of NGC 4411 were interacting, they
+  would look more intertwined, like NGC 4410, above them in this image. The four interacting
+  galaxies of that system are connected by tidal bridges, created by the gravity of
+  each galaxy pulling on the others in the system. This image was captured as part
+  of the DESI Legacy Imaging Surveys, which was conducted to identify targets for
+  the Dark Energy Spectroscopic Instrument (DESI) operations.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2421b/L{1}X{2}Y{3}.png
+name: A Galactic Illusion
+ra_hr: 12.448234685323529
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2421b/thumb.jpg
+zoom_level: 4.120792936725846
+---
+_uuid: a1dca223-491f-464a-b67d-7b55d71e0fca
+classification: ''
+constellation: COM
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.550197973762646
+description: 'Punctuating the deep black of this Image of the Week are hundreds of
+  blobs of light, each one an entire galaxy in our Universe. Many of the yellowish
+  points are members of the galaxy cluster Abell 1489, imaged here using the Gemini
+  Multi-Object Spectrograph (GMOS) on Gemini North, one half of the International
+  Gemini Observatory, supported in part by the U.S. National Science Foundation and
+  operated by NSF NOIRLab. Galaxy clusters are immense neighborhoods of galaxies gravitationally
+  bound together. These massive formations serve as tools for astronomers to understand
+  the Universe’s dark matter distribution, structure, and overall evolution. Astronomers
+  classify galaxy clusters in several ways and have compiled multiple catalogs of
+  clusters. This particular cluster has been labeled using the Abell classification
+  scheme. Within this scheme, clusters are mainly sorted by their richness — the number
+  of galaxies they contain — and their distance from us. Abell 1489 was categorized
+  with a richness of Group 4. This means it has between 200 and 299 galaxies, which
+  also makes it one of the richer clusters in the Abell catalogue. Abell 1489 appears
+  fainter in most telescopes than other galaxy clusters, indicating that the structure
+  is immensely distant from Earth. Yet images like this demonstrate the sensitivity
+  of instruments like GMOS to resolve this cluster’s distant light and reveal its
+  richness. This abundance is of particular importance for future study: the mass
+  of all these galaxies together makes this cluster behave as a ‘magnifying glass’
+  to view light sources that are even farther away. These effects of gravitational
+  lensing are visible as arcs of light, such as in the upper middle section of this
+  image. The Gemini telescopes are some of the few telescopes that can show lensing
+  in such clarity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2518a/L{1}X{2}Y{3}.png
+name: Cosmic Community of Abell 1489
+ra_hr: 12.205279558368781
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2518a/thumb.jpg
+zoom_level: 0.7717455729001436
+---
+_uuid: 8456f754-11a6-4ceb-b04d-64dd387ab973
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.390873187391948
+description: The huge halo around giant elliptical galaxy Messier 87 appears on this
+  very deep image. An excess of light in the top-right part of this halo, and the
+  motion of planetary nebulae in the galaxy, are the last remaining signs of a medium-sized
+  galaxy that recently collided with Messier 87. The image also reveals many other
+  galaxies forming the Virgo Cluster, of which Messier 87 is the largest member. In
+  particular, the two galaxies at the top right of the frame are nicknamed "the Eyes".
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/m87-chris-mihos-Case-Western-Burrell/L{1}X{2}Y{3}.png
+name: The Halo of Galaxy Messier 87
+ra_hr: 12.513717451998275
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/m87-chris-mihos-Case-Western-Burrell/thumb.jpg
+zoom_level: 16.41199737873289
+---
+_uuid: f2caa3af-1615-4ce5-99d7-75c7dcd33376
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 11.241667753756845
+description: This image from the Gemini North telescope in Hawai‘i reveals a pair
+  of interacting spiral galaxies — NGC 4568 (bottom) and NGC 4567 (top) — as they
+  begin to clash and merge. The galaxies will eventually form a single elliptical
+  galaxy in around 500 million years.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2219a/L{1}X{2}Y{3}.png
+name: The merging galaxy pair NGC 4568 and NGC 4567
+ra_hr: 12.609236698389884
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2219a/thumb.jpg
+zoom_level: 0.8914881666037984
+---
+_uuid: 0efac435-abda-4bde-aa8e-1f2d7a2f8faf
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -1.1999745490044482
+description: Discovered by astronomer William Herschel in 1784, NGC 4753 displays
+  some truly fascinating features. In this image captured by the Gemini South telescope,
+  one half of the International Gemini Observatory operated by NSF NOIRLab, the galaxy’s
+  intricate dust lanes are a sight to behold. NGC 4753 is located about 60 million
+  light-years away in the constellation Virgo. It is a member of the NGC 4753 Group
+  of galaxies within the Virgo II Cloud — a series of at least 100 galaxy clusters
+  and individual galaxies stretching off the southern edge of the Virgo Supercluster.
+  A 1992 study of NGC 4753 found that its complex network of twisted dust lanes is
+  likely the result of a merger with a nearby dwarf galaxy companion about 1.3 billion
+  years ago.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2403a/L{1}X{2}Y{3}.png
+name: The Twisted Dusty Disk of NGC 4753
+ra_hr: 12.87288035675173
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2403a/thumb.jpg
+zoom_level: 0.8597651338650274
+---
+_uuid: 8fc745e0-1be0-4f4f-86da-57438c6925c9
+classification: ''
+constellation: CVN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 44.09183447900094
+description: An explosive array of bright pinks and blues makes for a remarkable sight
+  in this image captured with the Gemini North telescope, one half of the International
+  Gemini Observatory. Resembling a cloud of cosmic confetti, this image is being released
+  in celebration of Gemini North’s 25th anniversary. NGC 4449 is a prime example of
+  starburst activity caused by the interacting and mingling of galaxies as it slowly
+  absorbs its smaller galactic neighbors. This image was obtained by NOIRLab’s Communication,
+  Education & Engagement team as part of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2416a/L{1}X{2}Y{3}.png
+name: Starburst Galaxy NGC 4449
+ra_hr: 12.469020414774413
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2416a/thumb.jpg
+zoom_level: 0.879524056149166
+---
+_uuid: 4a0d90fe-cb44-4d1e-bbff-18ec6ccdbd0f
+classification: ''
+constellation: VIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.62586558442452
+description: Messier 104, nicknamed the Sombrero galaxy, is a popular target for amateur
+  observing and astronomical research. Its recognizable extended halo and dust-filled
+  disk are captured in this image from the Department of Energy-fabricated Dark Energy
+  Camera (DECam) mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO) in Chile, a
+  Program of NSF NOIRLab. See a close-up of the Sombrero Galaxy in the cropped version
+  of this image here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2612a/L{1}X{2}Y{3}.png
+name: 'Sombrero Galaxy: The Universe’s Dusty Brimmed Hat'
+ra_hr: 12.666816113577708
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2612a/thumb.jpg
+zoom_level: 6.852259188258514
 ---
 _uuid: e2b29764-5554-423a-9268-bbecf86c3195
 classification: ''

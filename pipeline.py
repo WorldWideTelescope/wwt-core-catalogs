@@ -372,7 +372,7 @@ def refresh_impl(settings):
         except NotActionableError as e:
             os.remove(cand_path)
 
-            with open(os.path.join(rej_dir, uniq_id, "wb")) as f:
+            with open(os.path.join(rej_dir, uniq_id), "wb") as f:
                 pass  # for now, just touch the file
 
             n_rejected += 1

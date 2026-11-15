@@ -1960,6 +1960,469 @@ name: M81;Messier 81
 ra_hr: 9.92861111111111
 zoom_level: 4.73833333333333
 ---
+_uuid: 9e4f2352-5739-4c3b-8db6-85209d26e189
+classification: ''
+constellation: LYN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 40.77032982309859
+description: 'New observations from NASA’s Chandra X-ray Observatory and other telescopes
+  have captured a rare cosmic event: two galaxy clusters have collided and are now
+  poised to head back for another swipe at each other.
+
+
+  Galaxy clusters are some of the largest structures in the universe. Held together
+  by gravity, they are monster-sized collections of hundreds or thousands of individual
+  galaxies, massive amounts of superheated gas, and invisible dark matter .'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-g181/L{1}X{2}Y{3}.png
+name: PSZ2 G181.06+48.47
+ra_hr: 9.657754870981885
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-g181/thumb.jpg
+zoom_level: 2.7522731406791707
+---
+_uuid: 2d7416d2-c497-4a60-8695-ad7fbcdb9191
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 13.279187743350532
+description: The NASA/ESA Hubble Space Telescope celebrates Halloween this year with
+  a striking observation of the carbon star CW Leonis, which resembles a baleful orange
+  eye glaring from behind a shroud of smoke. CW Leonis glowers from deep within a
+  thick shroud of dust in this image from the NASA/ESA Hubble Space Telescope. Lying
+  roughly 400 light-years from Earth in the constellation Leo, CW Leonis is a carbon
+  star — a luminous type of red giant star with a carbon-rich atmosphere. The dense
+  clouds of sooty gas and dust engulfing this dying star were created as the outer
+  layers of CW Leonis itself were thrown out into the void.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2112a/L{1}X{2}Y{3}.png
+name: CW Leonis
+ra_hr: 9.7992838194804
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2112a/thumb.jpg
+zoom_level: 0.3609220885560922
+---
+_uuid: d2ebd28a-d988-4455-b9e5-b38ec550e530
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -56.10444752484732
+description: 'This Hubble Space Telescope image captures the beauty of the moth-like
+  planetary nebula NGC 2899. This object has a diagonal, bipolar, cylindrical outflow
+  of gas. This is propelled by radiation and stellar winds from a nearly 22 000 degree
+  Celsius white dwarf at the center. In fact, there may be two companion stars that
+  are interacting and sculpting the nebula, which is pinched in the middle by a fragmented
+  ring or torus – looking like a half-eaten donut. It has a forest of gaseous “pillars”
+  that point back to the source of radiation and stellar winds. The colours are from
+  glowing hydrogen and oxygen. The nebula lies approximately 4,500 light-years away
+  in the southern constellation Vela. [Image description: The planetary nebula NGC
+  2899 is shaped like a single macaroni noodle, with its edges pointed up, but its
+  edge-on central torus is semi-transparent in the middle. The top and bottom edges
+  are thick and orange. The center is semi-transparent blue and green. The wider central
+  region looks roughly like a moth, also filled with semi-transparent blue and green.
+  There are two pinpoint-like white stars with diffraction spikes toward the center.
+  Immediately below them, slightly toward the right, is a smaller blue orb, a central
+  star. The next layer of gas and dust is whiter, with some thicker pillars that look
+  like they are rising up at bottom center. The colour fades into reds and purples,
+  and then to orange ]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2505d/L{1}X{2}Y{3}.png
+name: Planetary nebula NGC 2899
+ra_hr: 9.451070258187816
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2505d/thumb.jpg
+zoom_level: 0.4371287592990717
+---
+_uuid: 3389e019-fd01-443c-9bc7-de0e4d32e0e0
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 33.12203432773409
+description: This Picture of the Week, taken by the NASA/ESA Hubble Space Telescope,
+  shows a close-up view of a galaxy named NGC 2770. NGC 2770 is intriguing, as over
+  time it has hosted four different observed supernovae (not visible here). Supernovae
+  form in a few different ways, but always involve a dying star. These stars become
+  unbalanced, lose control, and explode violently, briefly shining as brightly as
+  an entire galaxy before slowly fading away. One of the four supernovae observed
+  within this galaxy, SN 2015bh, is especially interesting. This particular supernova
+  initially had its identity called into question. When it was first discovered in
+  2015, astronomers classified SN 2015bh as a supernova imposter, believing it to
+  be not an exploding star but simply an unpredictable outburst from a massive star
+  in its final phase of life. Thankfully, astronomers eventually discovered the truth
+  and the object was given its correct classification as a Type II supernova, resulting
+  from the death of a star between eight and 50 times the mass of the Sun.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2001a/L{1}X{2}Y{3}.png
+name: Imposter or the Real Deal?
+ra_hr: 9.15954905621698
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2001a/thumb.jpg
+zoom_level: 0.4202001710537047
+---
+_uuid: 2d4387ec-c098-4484-89d4-f549e8b96877
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 8.442348588929866
+description: This image depicts a swirling spiral galaxy named NGC 2906. The blue
+  speckles seen scattered across this galaxy are massive young stars, which emit hot,
+  blue-tinged radiation as they burn through their fuel at an immense rate. The swathes
+  of orange are a mix of older stars that have swollen and cooled, and low-mass stars
+  that were never especially hot to begin with. Owing to their lower temperatures,
+  these stars emit a cooler, reddish, radiation. This image of NGC 2906 was captured
+  by the NASA/ESA Hubble Space Telescope’s Wide Field Camera 3, an instrument installed
+  on Hubble in 2009 during the telescope’s fourth servicing mission. Hubble observed
+  this galaxy on the hunt for fading light from recent, nearby occurrences of objects
+  known as supernovae.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2015a/L{1}X{2}Y{3}.png
+name: Hunting for Dead Stars
+ra_hr: 9.535066020249852
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2015a/thumb.jpg
+zoom_level: 0.2105837186616597
+---
+_uuid: 261601be-925e-4ca4-b0d1-adf9473b964f
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -22.354477373923412
+description: 'The twisting patterns created by the multiple spiral arms of NGC 2835
+  create the illusion of an eye. This is a fitting description, as this magnificent
+  galaxy resides near the head of the southern constellation of Hydra, the water snake.
+  This stunning barred spiral galaxy, with a width of just over half that of the Milky
+  Way, is brilliantly featured in this image taken by the NASA/ESA Hubble Space Telescope.
+  Although it cannot be seen in this image, a supermassive black hole with a mass
+  millions of times that of our Sun is known to nestle in the very centre of NGC 2835
+  . This galaxy was imaged as part of PHANGS-HST, a large galaxy survey with Hubble
+  that aims to study the connections between cold gas and young stars in a variety
+  of galaxies in the local Universe. Within NGC 2835, this cold, dense gas produces
+  large numbers of young stars within large star formation regions. The bright blue
+  areas, commonly observed in the outer spiral arms of many galaxies, show where near-ultraviolet
+  light is being emitted more strongly , indicating recent or ongoing star formation.
+  Expected to image over 100 000 gas clouds and star-forming regions outside our Milky
+  Way, this survey hopes to uncover and clarify many of the links between cold gas
+  clouds, star formation and the overall shape and morphology of galaxies. This initiative
+  is a collaboration with the international Atacama Large Millimeter/submillimeter
+  Array (ALMA) and the European Southern Observatory''s Very Large Telescope''s MUSE
+  instrument, through the greater PHANGS program (PI: E. Schinnerer).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2037a/L{1}X{2}Y{3}.png
+name: Eye of the Serpent
+ra_hr: 9.298081119970938
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2037a/thumb.jpg
+zoom_level: 0.44164118263026597
+---
+_uuid: 1ff3fc15-9a4c-4407-bd92-8747783e1ef9
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 41.99909696816358
+description: In this spectacular image captured by the NASA/ESA Hubble Space Telescope,
+  the galaxy NGC 2799 (on the left) is seemingly being pulled into the centre of the
+  galaxy NGC 2798 (on the right). Interacting galaxies, such as these, are so named
+  because of the influence they have on each other, which may eventually result in
+  a merger or a unique formation. Already, these two galaxies have seemingly formed
+  a sideways waterspout, with stars from NGC 2799 appearing to fall into NGC 2798
+  almost like drops of water. Galactic mergers can take place over several hundred
+  million to over a billion years. While one might think the merger of two galaxies
+  would be catastrophic for the stellar systems within, the sheer amount of space
+  between stars means that stellar collisions are unlikely and stars typically drift
+  past each other.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2042a/L{1}X{2}Y{3}.png
+name: Galactic Waterspout
+ra_hr: 9.290560653935644
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2042a/thumb.jpg
+zoom_level: 0.483216429546643
+---
+_uuid: d64362ae-455f-467b-9350-4a7ad6421d58
+classification: ''
+constellation: CNC
+data_set_type: Sky
+dec_deg: 18.24242170266964
+description: This NASA/ESA Hubble Space Telescope image features the galaxy LRG-3-817,
+  also known as SDSS J090122.37+181432.3. The galaxy, its image distorted by the effects
+  of gravitational lensing, appears as a long arc to the left of the central galaxy
+  cluster. Gravitational lensing occurs when a large distribution of matter, such
+  as a galaxy cluster, sits between Earth and a distant light source. As space is
+  warped by massive objects, the light from the distant object bends as it travels
+  to us and we see a distorted image of it. This effect was first predicted by Einstein’s
+  general theory of relativity. Strong gravitational lenses provide an opportunity
+  for studying properties of distant galaxies, since Hubble can resolve details within
+  the multiple arcs that are one of the main results of gravitational lensing. An
+  important consequence of lensing distortion is magnification, allowing us to observe
+  objects that would otherwise be too far away and too faint to be seen. Hubble makes
+  use of this magnification effect to study objects beyond the sensitivity of its
+  2.4-metre-diameter primary mirror, showing us the most distant galaxies humanity
+  has ever encountered. This lensed galaxy was found as part of the Sloan Bright Arcs
+  Survey, which discovered some of the brightest gravitationally lensed high-redshift
+  galaxies in the night sky.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2045a/L{1}X{2}Y{3}.png
+name: Contorting Giants
+ra_hr: 9.022848043117985
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2045a/thumb.jpg
+zoom_level: 0.19377772544743332
+---
+_uuid: 95b8e5c0-b275-45d3-9c65-093491fb7192
+classification: ''
+constellation: CNC
+data_set_type: Sky
+dec_deg: 14.593850088656527
+description: The mass of dust and bright swirls of stars in this image are the distant
+  galaxy merger IC 2431, which lies 681 million light-years from Earth in the constellation
+  Cancer. The NASA/ESA Hubble Space Telescope has captured what appears to be a triple
+  galaxy merger in progress, as well as a tumultuous mixture of star formation and
+  tidal distortions caused by the gravitational interactions of this galactic trio.
+  The centre of this image is obscured by a thick cloud of dust — though light from
+  a background galaxy can be seen piercing its outer extremities. This image is from
+  a series of Hubble observations investigating weird and wonderful galaxies found
+  by the Galaxy Zoo citizen science project. Using Hubble’s powerful Advanced Camera
+  for Surveys (ACS), astronomers took a closer look at some of the more unusual galaxies
+  that volunteers had identified. The original Galaxy Zoo project was the largest
+  galaxy census ever carried out, and relied on crowdsourcing time from more than
+  100 000 volunteers to classify 900 000 unexamined galaxies. The project achieved
+  what would have been years of work for a professional astronomer in only 175 days,
+  and has led to a steady stream of similar astronomical citizen science projects.
+  Later Galaxy Zoo projects have included the largest ever studies of galaxy mergers
+  and tidal dwarf galaxies, as well as the discovery of entirely new types of compact
+  star-forming galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2207a/L{1}X{2}Y{3}.png
+name: Tumultuous Galactic Trio
+ra_hr: 9.07640535983985
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2207a/thumb.jpg
+zoom_level: 0.2819275586140047
+---
+_uuid: 2e468f50-9893-43ef-8d8e-d53ed61ad2fe
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 64.25177038922277
+description: 'This Hubble Picture of the Week features NGC 2814, an irregular galaxy
+  that lies about 85 million light years from Earth. In this image, which was captured
+  using Hubble’s Advanced Camera for Surveys (ACS), the galaxy appears to be quite
+  isolated: visually, it looks a little like a loose stroke of bright paint across
+  a dark background. However, looks can be deceiving. NGC 2814 actually has three
+  close (in astronomical terms) galactic neighbours: a side-on spiral galaxy known
+  as NGC 2820; an irregular galaxy named IC 2458; and a face-on non-barred spiral
+  galaxy called NGC 2805. Collectively, the four galaxies make up a galaxy group known
+  as Holmberg 124. In some literature these galaxies are referred to as a group of
+  ‘late-type galaxies’. The terminology ‘late-type’ refers to spiral and irregular
+  galaxies, whilst ‘early-type’ refers to elliptical galaxies. This rather confusing
+  terminology has led to a common misconception within the astronomy community. It
+  is still quite widely believed that Edwin Hubble inaccurately thought that elliptical
+  galaxies were the evolutionary precursors to spiral and irregular galaxies, and
+  that that is the reason why ellipticals are classed as ‘early-type’ and spirals
+  and irregulars are classed as ‘late-type’. This misconception is due to the Hubble
+  ‘tuning fork’ of galactic classification, which visually shows galaxy types proceeding
+  from elliptical to spiral, in a sequence that could easily be interpreted as a temporal
+  evolution. However, Hubble actually adopted the terms ‘early-type’ and ‘late-type’
+  from much older astronomical terminology for stellar classifications, and did not
+  mean to state that ellipticals were literally evolutionary precursors to spiral
+  and irregular galaxies. In fact, he explicitly said in his 1927 paper that ‘the
+  nomenclature … [early and late] … refers to position in the sequence, and temporal
+  connotations are made at one’s peril’. Despite Hubble himself being quite emphatic
+  on this topic, the misunderstanding persists almost a hundred years later, and perhaps
+  provides an instructive example of why it is helpful to classify things with easy-to-interpret
+  terminology from the get-go! [Image Description: An irregular galaxy, a narrow streak
+  of stars crossed by faint dust lanes. It is surrounded by a bright glow, appearing
+  like a beam of light in the centre of a dark background. A scatter of small, distant
+  galaxies and a single, bright star surround the galaxy.] Links Pan: “Late-type”
+  galaxy?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2347a/L{1}X{2}Y{3}.png
+name: “Late-type” galaxy?
+ra_hr: 9.353063027006574
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2347a/thumb.jpg
+zoom_level: 0.3388956362600647
+---
+_uuid: 2fef13ca-f099-4acc-b7a6-02be90362e80
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -6.581769386221394
+description: 'This whirling image features a bright spiral galaxy known as MCG-01-24-014,
+  which is located about 275 million light-years from Earth. In addition to being
+  a well-defined spiral galaxy, MCG-01-24-014 has an extremely energetic core, known
+  as an active galactic nucleus (AGN), so it is referred to as an active galaxy. Even
+  more specifically, it is categorised as a Type-2 Seyfert galaxy. Seyfert galaxies
+  host one of the most common subclasses of AGN, alongside quasars. Whilst the precise
+  categorisation of AGNs is nuanced, Seyfert galaxies tend to be relatively nearby
+  ones where the host galaxy remains plainly detectable alongside its central AGN,
+  while quasars are invariably very distant AGNs whose incredible luminosities outshine
+  their host galaxies. There are further subclasses of both Seyfert galaxies and quasars.
+  In the case of Seyfert galaxies, the predominant subcategories are Type-1 and Type-2.
+  These are differentiated from one another by their spectra — the pattern that results
+  when light is split into its constituent wavelengths — where the spectral lines
+  that Type-2 Seyfert galaxies emit are particularly associated with specific so-called
+  ‘forbidden’ emission. To understand why emitted light from a galaxy could be considered
+  forbidden, it helps to understand why spectra exist in the first place. Spectra
+  look the way they do because certain atoms and molecules will absorb and emit light
+  very reliably at very specific wavelengths. The reason for this is quantum physics:
+  electrons (the tiny particles that orbit the nuclei of atoms and molecules) can
+  only exist at very specific energies, and therefore electrons can only lose or gain
+  very specific amounts of energy. These very specific amounts of energy correspond
+  to certain light wavelengths being absorbed or emitted. Forbidden emission lines,
+  therefore, are spectral emission lines that should not exist according to certain
+  rules of quantum physics. But quantum physics is complex, and some of the rules
+  used to predict it use assumptions that suit laboratory conditions here on Earth.
+  Under those rules, this emission is ‘forbidden’ — so improbable that it’s disregarded.
+  But in space, in the midst of an incredibly energetic galactic core, those assumptions
+  don’t hold anymore, and the ‘forbidden’ light gets a chance to shine out towards
+  us. [Image Description: A spiral galaxy. It appears to be almost circular and seen
+  face-on, with two prominent spiral arms winding out from a glowing core. It is centred
+  in the frame as if a portrait. Most of the background is black, with only tiny,
+  distant galaxies, but there are two large bright stars in the foreground, one blue
+  and one red, directly above the galaxy.] Links Pan: Sighting forbidden light'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2351a/L{1}X{2}Y{3}.png
+name: Sighting forbidden light
+ra_hr: 9.4073551040123
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2351a/thumb.jpg
+zoom_level: 0.49044511868607804
+---
+_uuid: 9bd83611-1d5c-4bb7-9c60-1898041182db
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 9.492150602763843
+description: 'This image features a relatively small galaxy known as UGC 5189A, which
+  is located about 150 million light-years away in the constellation Leo. This galaxy
+  was observed by Hubble to study a supernova explosion in 2010 known as SN 2010jl.
+  This particular supernova was notable for having been an exceptionally luminous
+  supernova event. In fact, over a period of three years, SN 2010jl released at least
+  2.5 billion times more visible energy alone than our Sun emitted over the same timeframe
+  across all wavelengths. Even after supernovae have faded to non-observable levels,
+  it can still be of interest to study the environments where they occurred. This
+  can provide astronomers with valuable information: supernovae can take place for
+  a variety of reasons, and understanding the environments in which they took place
+  can help improve our understanding of the conditions necessary for them to be triggered.
+  Furthermore, follow-up studies after supernovae can improve our understanding of
+  the immediate aftermath of such events, from their potent effects on the gas and
+  dust around them, to the stellar remnants they leave behind. To this end, UGC 5189A
+  has been observed many times by Hubble since 2010. This image is from data collected
+  in three of the latest Hubble studies of UGC 5189A, which also examined several
+  other relatively nearby galaxies that recently hosted supernovae — ‘relatively nearby’,
+  in this context, meaning roughly 100 million light years away. [Image Description:
+  A galaxy that is flat and misshapen. Above and on its right it is covered by plumes
+  of shining gas and dust, while its centre and left side are more dim and patchy.
+  A trail of dark, dim dust stretches from below the galaxy up and off to the left,
+  where there are three more bright patches. The background around the galaxy is quite
+  dark, with only a few small background galaxies and one star visible.] Links Pan:
+  Gone but not forgotten'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2403a/L{1}X{2}Y{3}.png
+name: Gone but not forgotten
+ra_hr: 9.714797552120363
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2403a/thumb.jpg
+zoom_level: 0.33815953623566697
+---
+_uuid: 667316e9-412a-481a-887d-b3a056669724
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -73.92189620818219
+description: 'This Picture of the Week features the barred spiral galaxy NGC 3059,
+  which lies about 57 million light-years from Earth. The data used to compose this
+  image were collected by Hubble in May 2024, as part of an observing programme that
+  studied a number of galaxies. All the observations were made using the same range
+  of filters: partially transparent materials that allow only very specific wavelengths
+  of light to pass through. Filters are used extensively in observational astronomy,
+  and can be calibrated to allow either extremely narrow or somewhat broader ranges
+  of light through. Narrow-band filters are invaluable from a scientific perspective
+  because certain light wavelengths are associated with specific physical and chemical
+  processes. For example, under particular conditions, hydrogen atoms are known to
+  emit red light with wavelength value of 656.46 nanometres. Red light at this wavelength
+  is known as H-alpha emission, or the ‘H-alpha line’. It is very useful to astronomers
+  because its presence acts as an indicator of certain physical processes and conditions;
+  it is often a tell-tale sign of new stars being formed, for example. Thus, narrow-band
+  filters calibrated to allow H-alpha emission through can be used to identify regions
+  of space where stars are forming. Such a filter was used for this image, the narrow-band
+  filter called F657N or the H-alpha filter. The F stands for filter, and the N stands
+  for narrow. The numerical value refers to the peak wavelength (in nanometres) that
+  the filter lets through. The eagle-eyed amongst you may have noticed that 657 is
+  very close to the 656.46 H-alpha line’s wavelength. Data collected using five other
+  filters contributed to this image as well, all of which were wide-band filters;
+  meaning that they allow a wider range of light wavelengths through. This is less
+  useful for identifying extremely specific lines (such as the H-alpha line) but still
+  enables astronomers to explore relatively specific parts of the electromagnetic
+  spectrum. In addition, collectively the information from multiple filters can be
+  used to make beautiful images such as this one. [Image Description: A spiral galaxy
+  seen face-on, so that its many arms and its glowing, bar-shaped core can be easily
+  seen. The arms are filled with bluish patches of older stars, pink patches where
+  new stars are forming, and dark threads of dust. A few bright stars with cross-shaped
+  diffraction spikes lie in the foreground.] Links Pan of NGC 3059'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2423a/L{1}X{2}Y{3}.png
+name: A broad and narrow galactic view
+ra_hr: 9.835678667970639
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2423a/thumb.jpg
+zoom_level: 0.42861724738925167
+---
+_uuid: 5150fa60-778f-4e13-a0b7-7328c5e5aa8f
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 69.68026341207177
+description: 'What lurks behind the dense, dusty clouds of this galactic neighbour?
+  There lies the star-powered heart of the galaxy Messier 82 (M82), also known as
+  the Cigar Galaxy. Located just 12 million light-years away in the constellation
+  Ursa Major (The Great Bear), the Cigar Galaxy is considered a nearby galaxy. As
+  this NASA/ESA Hubble Space Telescope Picture of the Week shows in great detail,
+  it’s home to brilliant stars whose light is shaded by sculptural clouds, clumps
+  and streaks of dust and gas. It’s no surprise that the Cigar Galaxy is so packed
+  with stars, obscured though they might be by the distinctive clouds pictured here.
+  Forming stars 10 times faster than the Milky Way, the Cigar Galaxy is what astronomers
+  call a starburst galaxy. The intense starburst period that grips this galaxy has
+  given rise to super star clusters in the galaxy’s heart. Each of these super star
+  clusters contains hundreds of thousands of stars and is more luminous than a typical
+  star cluster. Researchers used Hubble to home in on these massive clusters and reveal
+  how they form and evolve. Hubble’s views of the Cigar Galaxy have been featured
+  before, both as a previous Picture of the Week in 2012 and as an image released
+  in celebration of Hubble’s 16th birthday. The NASA/ESA/CSA James Webb Space Telescope
+  has also turned toward the Cigar Galaxy, producing infrared images in 2024 and earlier
+  this year. This image features something not seen in previously released Hubble
+  images of the galaxy: data from the High Resolution Channel of the Advanced Camera
+  for Surveys (ACS). The High Resolution Channel is one of three sub-instruments of
+  ACS, which was installed in 2002. In five years of operation, the High Resolution
+  Channel returned fantastically detailed observations of crowded, starry environments
+  like the centres of starburst galaxies. An electronics fault in 2007 unfortunately
+  left the High Resolution Channel disabled. [Image Description: A close-in view of
+  the centre of galaxy M82. Bright, bluish light radiating from the centre is due
+  to stars actively forming there. A thick lane of gas, black in the centre and red
+  around the edges, crosses the centre and blocks much of the light. Thinner strands
+  and clumps of reddish dust cover much of the rest of the view.] Links Location of
+  galaxy centre in Messier 82 Pan: Messier 82'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2537a/L{1}X{2}Y{3}.png
+name: The smouldering heart of a celestial cigar
+ra_hr: 9.931424982086074
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2537a/thumb.jpg
+zoom_level: 0.07742808068019086
+---
+_uuid: d4371fcf-8e12-4afc-bc11-43781a1d314b
+classification: ''
+constellation: CNC
+data_set_type: Sky
+dec_deg: 7.039963928536444
+description: 'Today’s NASA/ESA Hubble Space Telescope Picture of the Week features
+  a galaxy that’s hard to categorise. The galaxy in question is NGC 2775, which lies
+  67 million light-years away in the constellation Cancer (The Crab). NGC 2775 sports
+  a smooth, featureless centre that is devoid of gas, resembling an elliptical galaxy.
+  It also has a dusty ring with patchy star clusters, like a spiral galaxy. Which
+  is it, then: spiral or elliptical — or neither? Because we can only view NGC 2775
+  from one angle, it’s difficult to say for sure. Some researchers have classified
+  NGC 2775 as a spiral galaxy because of its feathery ring of stars and dust, while
+  others have classified it as a lenticular galaxy. Lenticular galaxies have features
+  common to both spiral and elliptical galaxies. It’s not yet known exactly how lenticular
+  galaxies come to be, and they might form in a variety of ways. Lenticular galaxies
+  might be spiral galaxies that have merged with other galaxies, or that have mostly
+  run out of star-forming gas and lost their prominent spiral arms. They also might
+  have started out more similar to elliptical galaxies, then collected gas into a
+  disk around them. Some evidence suggests that NGC 2775 has merged with other galaxies
+  in the past. Invisible in this Hubble image, NGC 2775 has a tail of hydrogen gas
+  that stretches almost 100 000 light-years around the galaxy. This faint tail could
+  be the remnant of one or more galaxies that wandered too close to NGC 2775 before
+  being stretched apart and absorbed. If NGC 2775 merged with other galaxies in the
+  past, it could explain the galaxy’s strange appearance today. A Hubble image of
+  NGC 2775 was previously released in 2020. The new version adds observations of a
+  specific wavelength of red light that is emitted by clouds of hydrogen gas surrounding
+  massive young stars. [Image Description: A galaxy seen face-on, with a slightly
+  elliptical disc that appears to have a hole in the centre like a doughnut. In the
+  hole, the core is a brightly glowing point that shines light out beyond the edge
+  of the disc. Around the hole is an inner ring of dust, and at the galaxy’s edge
+  is a thicker outer ring of dust, with a swirling web of dust strands in between.
+  Blue stars and red nebulae are visible behind the dust.] Links Pan: NGC 2775'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2538a/L{1}X{2}Y{3}.png
+name: Spiral, elliptical or neither?
+ra_hr: 9.172283597809821
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2538a/thumb.jpg
+zoom_level: 0.4349723829689628
+---
 _uuid: 943fa7ef-4113-4109-a626-691d6ffc5d75
 classification: ''
 constellation: UMA
@@ -2593,3 +3056,85 @@ name: M82 (Webb NIRCam image)
 ra_hr: 9.931948842466463
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2612e/thumb.jpg
 zoom_level: 1.049876132071117
+---
+_uuid: 9950a787-d0f5-4bac-8b8d-a4386543fca6
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 13.736336337622113
+description: This image, which looks a little like an enormous bubble in space, features
+  a planetary nebula known as EGB 6. It was imaged by the Nicholas U. Mayall 4-meter
+  Telescope at Kitt Peak National Observatory (KPNO), a Program of NSF NOIRLab. Planetary
+  nebulae, notoriously, have nothing to do with planets. They form during the dying
+  millennia of intermediate-mass stars, stars with masses between one and eight times
+  the mass of the Sun. “Dying millennia” might sound like a very long time, but compared
+  to the overall lifespan of a star, planetary nebulae are extremely short-lived.
+  Towards the end of their life cycle, intermediate-mass stars enter the red giant
+  phase, during which fusion reactions temporarily reignite in a dying star’s core.
+  Layers of gas, shed or ejected during the red giant phase, absorb vast amounts of
+  energy and create the gorgeous phenomena known as planetary nebulae. The dying millenia
+  only last about 20,000 years, a mere blink of an eye when you consider that intermediate-mass
+  stars shine steadily for between 30 million to 10 billion years (depending on their
+  mass) before they die.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2215a/L{1}X{2}Y{3}.png
+name: A Dead Star’s Shroud
+ra_hr: 9.883872585484827
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2215a/thumb.jpg
+zoom_level: 5.103173998310988
+---
+_uuid: 70e31cae-ee69-4253-97d0-4cb225aacff2
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.99804249704954
+description: This image, which is brimming with stars and dark dust clouds, is a small
+  extract — a mere pinprick — of the full Dark Energy Camera Plane Survey (DECaPS2)
+  of the Milky Way. The new dataset contains a staggering 3.32 billion celestial objects
+  — arguably the largest such catalog so far. The data for this unprecedented survey
+  were taken with the US Department of Energy-fabricated Dark Energy Camera at the
+  NSF’s Cerro Tololo Inter-American Observatory in Chile, a Program of NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2301c/L{1}X{2}Y{3}.png
+name: Deep Dive into Astronomical Data Tapestry of the Milky Way
+ra_hr: 9.483847372824473
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2301c/thumb.jpg
+zoom_level: 42.72660587339768
+---
+_uuid: d08e845f-eb6c-4b8b-847f-dc3b4249ae35
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.4144669255005929
+description: This image shows the field around the progenitor to supernova SN 2026gzf,
+  detected by the Einstein Probe on 21 March 2026. The supernova progenitor appears
+  as a bright blue dot within the galaxy located at the center of this image. View
+  a series of close-up images that show the evolving supernova here. This image was
+  captured with the 570-megapixel DOE-fabricated Dark Energy Camera (DECam), mounted
+  on the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) in Chile, a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2619b/L{1}X{2}Y{3}.png
+name: DECam image of the field around the progenitor to supernova SN 2026gzf
+ra_hr: 9.99493801555808
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2619b/thumb.jpg
+zoom_level: 1.1796657583922243
+---
+_uuid: eda99bef-2631-4171-aa8a-d910ee0b1c2d
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 69.0571705503038
+description: Hydrogen gas in the M81 Group of galaxies, 11.8 million light-years from
+  Earth. Hydrogen detected by the Green Bank Telescope is colored red, including five
+  newly discovered clouds; hydrogen detected earlier by the Very Large Array is green.
+  The galaxies are interacting gravitationally with each other, as shown clearly by
+  the gas streaming among them. The newly-discovered gas clouds, each containing from
+  14 to 57 million times the mass of our Sun, are likely remnants of earlier interactions
+  among the galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/{1}/{3}/{3}_{2}.png
+name: M81 Group in Radio
+ra_hr: 9.92497309126867
+thumbnail: https://data1.wwtassets.org/feeds/nrao/nrao20-m81-hi/thumb.jpg
+zoom_level: 30.669801145919557

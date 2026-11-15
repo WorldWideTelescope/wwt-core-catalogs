@@ -1618,6 +1618,219 @@ name: Helix Nebula
 ra_hr: 22.494444444444447
 zoom_level: 3.893333333333333
 ---
+_uuid: 048d8458-177a-44d2-8ec7-6c3eba5fd45e
+classification: ''
+constellation: CEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.59367982079934
+description: 'Normally found only in heavy metal bands or certain post-apocalyptic
+  films, a “flame-throwing guitar” has now been spotted moving through space. Astronomers
+  have captured movies of this extreme cosmic object using NASA’s Chandra X-ray Observatory
+  and Hubble Space Telescope.
+
+
+  The new movie of Chandra (red) and Palomar (blue) data helps break down what is
+  playing out in the Guitar Nebula. X-rays from Chandra show a filament of energetic
+  matter and antimatter particles, about two light-years or 12 trillion miles long,
+  blasting away from the pulsar (seen as the bright white dot connected to the filament).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-guitar/L{1}X{2}Y{3}.png
+name: Guitar Nebula
+ra_hr: 22.428699357255404
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-guitar/thumb.jpg
+zoom_level: 0.42530633030380227
+---
+_uuid: 3d41fa02-bb36-43f7-b04f-0400fbd60d3b
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -20.841245091660813
+description: 'A planet may have been destroyed by a white dwarf at the center of a
+  planetary nebula — the first time this has been seen. As described in our latest
+  press release , this would explain a mysterious X-ray signal that astronomers have
+  detected from the Helix Nebula for over 40 years. The Helix is a planetary nebula,
+  a late-stage star like our Sun that has shed its outer layers leaving a small dim
+  star at its center called a white dwarf.
+
+
+  This composite image contains X-rays from Chandra (magenta), optical light data
+  from Hubble (orange, light blue), infrared data from ESO (gold, dark blue), and
+  ultraviolet data from GALEX (purple) of the Helix Nebula. Data from Chandra indicates
+  that this white dwarf has destroyed a very closely orbiting planet.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-helix/L{1}X{2}Y{3}.png
+name: Helix Nebula
+ra_hr: 22.494444010447328
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-helix/thumb.jpg
+zoom_level: 3.008788479004416
+---
+_uuid: af2f0bf1-5b34-40e1-96f0-18cea4fa3dba
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 19.998289764672993
+description: 'This NASA/ESA Hubble Space Telescope image of the barred spiral galaxy
+  UGC 12158 looks like someone took a white marking pen to it. In reality it is a
+  combination of time exposures of a foreground asteroid moving through Hubble’s field
+  of view, photobombing the observation of the galaxy. Several exposures of the galaxy
+  were taken, which is evidenced by the dashed pattern. The asteroid appears as a
+  curved trail as a result of parallax: Hubble is not stationary, but orbiting Earth,
+  and this gives the illusion that the faint asteroid is swimming along a curved trajectory.
+  The uncharted asteroid is inside the asteroid belt in our Solar System, and hence
+  is 10 trillion times closer to Hubble than the background galaxy. Rather than being
+  a nuisance, this type of data is useful to astronomers for doing a census of the
+  asteroid population in our Solar System. [Image description: This is a Hubble Space
+  Telescope image of the barred spiral galaxy UGC 12158. The majestic galaxy has a
+  pinwheel shape made up of bright blue stars wound around a yellow-white hub of central
+  stars. The hub has a slash of stars across it, called a bar. The galaxy is tilted
+  face-on to our view from Earth. A slightly S-shaped white line across the top is
+  the Hubble image of an asteroid streaking across Hubble’s view. It looks dashed
+  because the image is a combination of several exposures of the asteroid flying by
+  like a race car.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2407a/L{1}X{2}Y{3}.png
+name: Asteroid photobombs Hubble snapshot of Galaxy UGC 12158
+ra_hr: 22.70306401100687
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2407a/thumb.jpg
+zoom_level: 0.2666773004970698
+---
+_uuid: 10e54a4a-69d8-42b9-90a5-192ada08f8be
+classification: ''
+constellation: PSA
+data_set_type: Sky
+dec_deg: -29.62233328831773
+description: 'This composite NASA/ESA Hubble Space Telescope image shows the debris
+  ring and dust clouds cs1 and cs2 around the star Fomalhaut. For comparison, dust
+  cloud cs1, imaged in 2012, is pictured with dust cloud cs2, imaged in 2023. The
+  dashed circles mark the location of these clouds. When dust cloud cs2 suddenly appeared,
+  astronomers quickly noticed they had witnessed the violent collision of two massive
+  objects. Previously thought to be a planet, cs1 is now classified as a similar debris
+  cloud. In this image, Fomalhaut itself is masked out to allow the fainter features
+  to be seen. This image was created from Hubble data from proposal #17139 (P. Kalas).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2512b/L{1}X{2}Y{3}.png
+name: Fomalhaut cs1 and cs2 (clean image)
+ra_hr: 22.96087419154748
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2512b/thumb.jpg
+zoom_level: 0.03432579976878945
+---
+_uuid: 618c23c0-17f2-429a-8fbd-7a9785c24589
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 0.9738889624685659
+description: This large expanse of space captured with the Hubble Space Telescope
+  features the galaxy SDSSJ225506.80+005839.9. Unlike many other extravagant galaxies
+  and stunning nebulae imaged by Hubble, this galaxy does not have a short popular
+  name, and is only known by its long SDSS name, which refers to its coordinates in
+  the sky. This galaxy - visible in the center right portion of the image - and its
+  many wondrous neighbouring galaxies lie in the constellation of Pisces (The Fish).
+  This is a post-starburst galaxy, which is a product of galaxies that have merged
+  within the past billion years. This merger event drove gas to the galaxy's center
+  and created an abundance of new stars, of which the brightest are visible in the
+  remnant galaxy's core. The visible shells and tails surrounding the galaxy are also
+  a result of this merger event. Residing far beyond our own Milky Way, it is almost
+  impossible to glimpse this galaxy without the assistance of Hubble, and, like thousands
+  of similar faint and very distant galaxies, it was only discovered and catalogued
+  in recent years. Many millions of galaxies still await our discovery as we build
+  a wondrous picture of our night sky.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2048a/L{1}X{2}Y{3}.png
+name: Cosmic Wonderland
+ra_hr: 22.918963399381756
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2048a/thumb.jpg
+zoom_level: 0.42009224197501893
+---
+_uuid: ee7dfd52-6b8a-4238-9bfd-69127f5c0fda
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -66.47985162125615
+description: This stellar whirlpool is a spiral galaxy named NCG 7329, which has been
+  imaged by Hubble’s Wide Field Camera 3 (WFC3). Creating a colourful image such as
+  this one using a telescope such as Hubble is not as straightforward as pointing
+  and clicking a camera. Commercial cameras will typically try to collect as much
+  light of all visible wavelengths as they can, in order to create the most vibrant
+  images possible. In contrast, raw images collected by Hubble are always monochromatic,
+  because astronomers typically want to capture very specific ranges of wavelengths
+  of light at any time, in order to do the best, most accurate science possible. In
+  order to control which wavelengths of light will be collected, Hubble’s cameras
+  are equipped with a wide variety of filters, which only allow certain wavelengths
+  of light to reach the cameras’ CCDs (a CCD is a camera’s light sensor — phone cameras
+  also have CCDs!). How are the colourful Hubble images possible given that the raw
+  Hubble images are monochromatic? This is accomplished by combining multiple different
+  observations of the same object, obtained using different filters. This image, for
+  example, was processed from Hubble observations made using four different filters,
+  each of which spans a different region of the light spectrum, from the ultraviolet
+  to optical and infrared. Specialised image processors and artists can make informed
+  judgements about which optical colours best correspond to each filter used. They
+  can then colour the images taken using that filter accordingly. Finally, the images
+  taken with different filters are stacked together, and voila! The colourful image
+  of a distant galaxy is complete, with colours as representative of reality as possible.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2149a/L{1}X{2}Y{3}.png
+name: Four Filter Fusion
+ra_hr: 22.673440760179783
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2149a/thumb.jpg
+zoom_level: 0.389530158290338
+---
+_uuid: 6ca47b1f-3480-4a22-91a5-e00799eb8fd9
+classification: ''
+constellation: PSA
+data_set_type: Sky
+dec_deg: -31.87160565887081
+description: 'Tendrils of dark dust can be seen threading across the heart of the
+  spiral galaxy NGC 7172 in this image from the NASA/ESA Hubble Space Telescope. The
+  galaxy lies approximately 110 million light-years from Earth in the constellation
+  Piscis Austrinus. The lane of dust threading its way across NGC 7172 — which is
+  viewed side-on in this image — is obscuring the luminous heart of the galaxy, making
+  NGC 7172 appear to be nothing more than a normal edge-on spiral galaxy. When astronomers
+  inspected NGC 7172 across the electromagnetic spectrum they quickly discovered that
+  there was more to it than meets the eye: NGC 7172 is a Seyfert galaxy — a type of
+  galaxy with an intensely luminous active galactic nucleus powered by matter accreting
+  onto a supermassive black hole. This image combines data from two sets of Hubble
+  observations, both of which were proposed to study nearby active galactic nuclei.
+  The image also combines data from two instruments — Hubble’s Advanced Camera for
+  Surveys (ACS) and Wide Field Camera 3 (WFCS).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2213a/L{1}X{2}Y{3}.png
+name: More Than Meets the Eye
+ra_hr: 22.03374121881992
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2213a/thumb.jpg
+zoom_level: 0.35524571065169797
+---
+_uuid: 751296cf-5a66-41db-8b3e-f2de3474ffc3
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 30.293197555272688
+description: 'The galaxy NGC 7292 billows across this image from the NASA/ESA Hubble
+  Space Telescope, accompanied by a handful of bright stars and the indistinct smudges
+  of extremely distant galaxies in the background. It lies around 44 million light-years
+  from Earth in the constellation Pegasus. This slightly dishevelled galaxy is irregular,
+  meaning that it lacks the distinct spiral arms of galaxies like the Whirlpool Galaxy
+  or the smooth elliptical shape of galaxies like Messier 59. Unusually, its core
+  is stretched out into a distinct bar, a feature seen in many spiral galaxies. Alongside
+  its hazy shape, NGC 7292 is remarkably faint. As a result, astronomers classify
+  NGC 7292 as a low surface brightness galaxy, barely distinguishable against the
+  backdrop of the night sky. Such galaxies are typically dominated by gas and dark
+  matter rather than stars. Astronomers directed Hubble to inspect NGC 7292 during
+  an observational campaign studying the aftermath of Type II supernovae. These colossal
+  explosions happen when a massive star collapses and then violently rebounds in a
+  catastrophic explosion that tears the star apart. Astronomers hope to learn more
+  about the diversity of Type II supernovae they have observed by scrutinising the
+  aftermath and remaining nearby stars of a large sample of historical Type II supernovae.
+  NGC 7292’s supernova was observed in 1964 and accordingly given the identifier SN
+  1964H. Studying the stellar neighbourhood of SN 1964H helps astronomers estimate
+  the initial mass of the star that went supernova, and could uncover surviving stellar
+  companions that once shared a system with the star that would become SN 1964H. [Image
+  Description: A galaxy fills up most of the frame from the right. It is fuzzy and
+  diffuse, but made up of numerous tiny stars. In the core, the stars merge into a
+  glowing bar shape. The gas and stars in the galaxy vary between warm and cool colours.
+  They are spread over a large area, the colours mixing like clouds. The glow of the
+  galaxy fades into a black background, with a few stars and small, distant galaxies.]
+  Links Pan: A dishevelled irregular galaxy'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2324a/L{1}X{2}Y{3}.png
+name: A dishevelled irregular galaxy
+ra_hr: 22.473585336655443
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2324a/thumb.jpg
+zoom_level: 0.3672484801569572
+---
 _uuid: 6b080033-7e21-4fff-9369-8dafc45e14a3
 classification: ''
 constellation: GRU
@@ -1854,3 +2067,50 @@ name: Abell S1063 galaxy cluster
 ra_hr: 22.81220916641503
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2610c/thumb.jpg
 zoom_level: 0.372036685432514
+---
+_uuid: 3c8ca989-d535-4475-b5f8-d6f54ce6aa69
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 34.41975901299828
+description: The magnificent spiral galaxy NGC 7331, located approximately 40 million
+  light-years away in the constellation Pegasus, is the brightest and closest galaxy
+  in the visual galaxy group that bears its name, the NGC 7331 Group. Revealed in
+  the details of this image are populations of hot stars and dark dust lanes winding
+  throughout the spiral arms. Also known as Caldwell 30, this galaxy is often thought
+  of as a twin to the Milky Way owing to its similar size and spiral structure. However,
+  there are a couple of features of its core that set it apart from our home galaxy.
+  For instance, astronomers have found evidence that the Milky Way has a central bar
+  of stars and dust cutting through its center, a feature common to many spiral galaxies.
+  But NGC 7331 lacks this feature. Additionally, NGC 7331’s central bulge rotates
+  in the opposite direction to its galactic disk — unusual behavior compared to other
+  galaxies and different from what we observe in the Milky Way. This image was taken
+  by Gemini North, one half of the International Gemini Observatory, supported in
+  part by the U.S. National Science Foundation and operated by NSF NOIRLab. You can
+  find other views of NGC 7331 captured at Kitt Peak National Observatory, a Program
+  of NSF NOIRLab, in 2014 and 1975 in the NOIRLab Image archive.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2451a/L{1}X{2}Y{3}.png
+name: The Milky Way’s Unusual Twin in Pegasus
+ra_hr: 22.61769784668275
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2451a/thumb.jpg
+zoom_level: 0.7057066554735454
+---
+_uuid: 2e80e224-e486-4b84-87b2-1d7ded86d46b
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 29.389126334706017
+description: Nā ʻUhane Māhoe Huki Pū i ke Ola is the Hawaiian name given to this image
+  of NGC 7253 — a pair of spiral galaxies caught in each other’s gravity. This image
+  was captured by the Gemini North telescope on Maunakea, one half of the International
+  Gemini Observatory, partly funded by the U.S. National Science Foundation (NSF)
+  and operated by NSF NOIRLab. The name of the image, which translates to “The Twin
+  Spirits Pulling Together Creating Life,” was chosen by the 2026 Project Hōkūlani
+  interns.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2621a/L{1}X{2}Y{3}.png
+name: Nā ʻUhane Māhoe Huki Pū i ke Ola
+ra_hr: 22.3245611704105
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2621a/thumb.jpg
+zoom_level: 0.7035309507222884

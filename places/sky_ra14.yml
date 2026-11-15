@@ -1904,6 +1904,371 @@ name: Pinwheel Galaxy
 ra_hr: 14.053333333333335
 zoom_level: 4.0
 ---
+_uuid: c4bfd6b3-36bd-42df-88b0-1be617202c4e
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 54.34293791702296
+description: 'Astronomers have discovered a new class of objects in multiple galaxies.
+  This result, made possible by NASA’s Chandra X-ray Observatory and outlined in our
+  latest press release , may help scientists solve two outstanding mysteries in astrophysics.
+
+
+  The face-on spiral galaxy M101, also known as the Pinwheel, is one of the galaxies
+  where the new type of object was found. This new M101 composite image contains X-ray
+  data from Chandra (purple) that have been combined with an optical image from the
+  Hubble Space Telescope (red, green, and blue). Circles in an annotated version of
+  the image show the location of the seven newly-discovered objects in M101.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-m101/L{1}X{2}Y{3}.png
+name: M101
+ra_hr: 14.054313578628815
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-m101/thumb.jpg
+zoom_level: 2.220053284312072
+---
+_uuid: acfa20a4-c013-4ab7-babe-c812189a8d55
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -41.39805583220495
+description: 'This image, taken with the Atacama Large Millimeter/submillimeter Array
+  (ALMA), in which ESO is a partner, shows the young planetary system PDS 70, located
+  nearly 400 light-years away from Earth. The system features a star at its centre,
+  around which the planet PDS 70b is orbiting. On the same orbit as PDS 70b, astronomers
+  have detected a cloud of debris that could be the building blocks of a new planet
+  or the remnants of one already formed. The ring-like structure that dominates the
+  image is a circumstellar disc of material, out of which planets are forming. There
+  is in fact another planet in this system: PDS 70c, seen at 3 o’clock right next
+  to the inner rim of the disc.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2311b/L{1}X{2}Y{3}.png
+name: A planet and its Trojan orbiting a star in the PDS 70 system
+ra_hr: 14.13614051113037
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2311b/thumb.jpg
+zoom_level: 0.008682622039836956
+---
+_uuid: 95a5f37f-7b58-45ae-b8c1-5b7f7c26ab19
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 15.524652078642793
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. This object was classified
+  by the research team as a “collisional ring” galaxy — one of only two that were
+  found. These are galaxies which are partly or wholly ring-shaped, but with a disrupted
+  or bent disc that is noticeably luminous. These ring formations arise when a galaxy
+  collides with another by crashing right through its centre, creating a roiling,
+  circular wave of star formation. Hubble has featured other collisional ring galaxies
+  before, but the precise alignment between colliding galaxies needed to create them
+  means they are quite rare, including in AI-assisted searches. This galaxy was not
+  previously recorded. Read more about this new research here. [Image description:
+  A small image of a mostly red galaxy. Unusually, it is ring-shaped with spots of
+  light around the ring, a protruding arm on one side and a dark hole in the centre.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603b/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Collisional ring galaxy
+ra_hr: 14.053082216151957
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603b/thumb.jpg
+zoom_level: 0.018287101255070208
+---
+_uuid: 8785260f-b171-4da5-b86d-0e830429e0a2
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -5.454370134860071
+description: 'Some of the most dramatic events in the Universe occur when certain
+  stars die — and explode catastrophically in the process. Such explosions, known
+  as supernovae, mainly occur in a couple of ways: either a massive star depletes
+  its fuel at the end of its life, become dynamically unstable and unable to support
+  its bulk, collapses inwards, and then violently explodes; or a white dwarf in an
+  orbiting stellar couple syphons more mass off its companion than it is able to support,
+  igniting runaway nuclear fusion in its core and beginning the supernova process.
+  Both types result in an intensely bright object in the sky that can rival the light
+  of a whole galaxy. In the last 20 years the galaxy NGC 5468, visible in this image,
+  has hosted a number of observed supernovae of both the aforementioned types: SN
+  1999cp, SN 2002cr, SN2002ed, SN2005P, and SN2018dfg. Despite being just over 130
+  million light-years away, the orientation of the galaxy with respect to us makes
+  it easier to spot these new ‘stars’ as they appear; we see NGC 5468 face on, meaning
+  we can see the galaxy’s loose, open spiral pattern in beautiful detail in images
+  such as this one from the NASA/ESA Hubble Space Telescope.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1948a/L{1}X{2}Y{3}.png
+name: A Dramatic Demise
+ra_hr: 14.10972422397959
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1948a/thumb.jpg
+zoom_level: 0.4369033432311099
+---
+_uuid: 4b68070d-1783-46a8-9817-771505e6df14
+classification: ''
+constellation: LIB
+data_set_type: Sky
+dec_deg: -17.252451373297465
+description: Meet NGC 5728, a spiral galaxy around 130 million light-years from Earth.
+  This image was captured using Hubble’s Wide Field Camera 3 (WFC3), which is extremely
+  sensitive to visible and infrared light. Therefore, this image beautifully captures
+  the regions of NGC 5728 that are emitting visible and infrared light. However, there
+  are many other types of light that galaxies such as NGC 5728 can emit, which WFC3
+  cannot see. In this image, NCG 5728 appears to be an elegant, luminous, barred spiral
+  galaxy. What this image does not show, however, is that NGC 5728 is also a monumentally
+  energetic type of galaxy, known as a Seyfert galaxy. This extremely energetic class
+  of galaxies are powered by their active cores, which are known as active galactic
+  nuclei (AGNs). There are many different types of AGNs, and only some of them power
+  Seyfert galaxies. NGC 5728, like all Seyfert galaxies, is distinguished from other
+  galaxies with AGNs because the galaxy itself can be seen clearly. Other types of
+  AGNs, such as quasars, emit so much radiation that it is almost impossible to observe
+  the galaxy that houses them. As this image shows, NGC 5728 is clearly observable,
+  and at optical and infrared wavelengths it looks quite normal. It is fascinating
+  to know that the galaxy’s centre is emitting vast amounts of light in parts of the
+  electromagnetic spectrum that WFC3 just isn’t sensitive to! Just to complicate things,
+  the AGN at NGC 5728’s core might actually be emitting some visible and infrared
+  light — but it may be blocked by the dust surrounding the galaxy’s core. Links Video
+  More than Meets the Eye
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2139a/L{1}X{2}Y{3}.png
+name: More than Meets the Eye
+ra_hr: 14.706589936342862
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2139a/thumb.jpg
+zoom_level: 0.3488585186405393
+---
+_uuid: 7cdb7e9c-2246-442c-ad80-049feea0b76b
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 59.33818345374663
+description: The lonely spiral galaxy UGC 9391 is shown in this image from the NASA/ESA
+  Hubble Space Telescope’s Wide Field Camera 3. This galaxy resides 130 million light-years
+  from Earth in the constellation Draco near the north celestial pole. The star-studded
+  spiral arms stand in splendid isolation against a backdrop of distant galaxies,
+  which are only visible as indistinct swirls or smudges thanks to their vast distances
+  from Earth. The image also features some much brighter foreground stars closer to
+  home. These bright nearby stars are ringed with diffraction spikes — prominent spikes
+  caused by light interacting with the inner workings of Hubble’s complicated optics.
+  This image is from a set of Hubble observations which astronomers used to construct
+  the “Cosmic Distance Ladder” — a set of connected measurements allowing the distances
+  to the most distant astronomical objects to be determined. Astronomical distances
+  are only directly measurable for relatively nearby objects — closer than 3000 light-years
+  or so. For distances beyond this, astronomers rely on a set of measured correlations
+  calibrated against nearby objects. UGC 9391 helped astronomers improve their distance
+  estimates by providing a natural laboratory in which to compare two measuring techniques
+  — supernova explosions and Cepheid variables. Improving the precision of distance
+  measurements helps astronomers quantify how quickly the Universe is expanding —
+  one of Hubble’s key science goals.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2152a/L{1}X{2}Y{3}.png
+name: Lonely Spiral
+ra_hr: 14.576976651661134
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2152a/thumb.jpg
+zoom_level: 0.36579586562713307
+---
+_uuid: 04eda83c-6918-4a03-a7e1-2c262157a4c3
+classification: ''
+constellation: BOO
+data_set_type: Sky
+dec_deg: 14.903284795925218
+description: This intriguing observation from the NASA/ESA Hubble Space Telescope
+  shows a gravitationally lensed galaxy with the long-winded identification SGAS J143845+145407.
+  Gravitational lensing has resulted in a mirror image of the galaxy at the centre
+  of this image, creating a captivating centrepiece. Gravitational lensing occurs
+  when a massive celestial body — such as a galaxy cluster — causes a sufficient curvature
+  of spacetime for the path of light around it to be visibly bent, as if by a lens.
+  Appropriately, the body causing the light to curve is called a gravitational lens,
+  and the distorted background object is referred to as being "lensed". Gravitational
+  lensing can result in multiple images of the original galaxy, as seen in this image,
+  or in the background object appearing as a distorted arc or even a ring. Another
+  important consequence of this lensing distortion is magnification, allowing astronomers
+  to observe objects that would otherwise be too far away or too faint to be seen.
+  Hubble has a special flair for detecting lensed galaxies. The telescope's sensitivity
+  and crystal-clear vision allow it to see faint and distant gravitational lenses
+  that cannot be detected with ground-based telescopes because of the blurring effect
+  of Earth's atmosphere. Hubble was the first telescope to resolve details within
+  lensed images of galaxies, and is capable of imaging both their shape and internal
+  structure. This particular lensed galaxy is from a set of Hubble observations that
+  take advantage of gravitational lensing to peer inside galaxies in the early Universe.
+  The lensing reveals details of distant galaxies that would otherwise be unobtainable,
+  and this allows astronomers to determine star formation in early galaxies. This
+  in turn gives scientists a better insight into how the overall evolution of galaxies
+  has unfolded. Links Video of Lens Flair
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2229a/L{1}X{2}Y{3}.png
+name: Lens Flair
+ra_hr: 14.645851026142612
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2229a/thumb.jpg
+zoom_level: 0.2641294345522364
+---
+_uuid: a76da56d-3254-4b87-a28d-bd3035d16029
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -27.107036500182637
+description: 'The stately sweeping spiral arms of the spiral galaxy NGC 5495 are revealed
+  by the NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 in this image. NGC
+  5495, which lies around 300 million light-years from Earth in the constellation
+  Hydra, is a Seyfert galaxy, a type of galaxy with a particularly bright central
+  region. These luminous cores — known to astronomers as active galactic nuclei —
+  are dominated by the light emitted by dust and gas falling into a supermassive black
+  hole. This image is drawn from a series of observations captured by astronomers
+  studying supermassive black holes lurking in the hearts of other galaxies. Studying
+  the central regions of galaxies can be challenging: as well as the light created
+  by matter falling into supermassive black holes, areas of star formation and the
+  light from existing stars all contribute to the brightness of galactic cores. Hubble’s
+  crystal-clear vision helped astronomers disentangle the various sources of light
+  at the core of NGC 5495, allowing them to precisely weigh its supermassive black
+  hole. As well as NGC 5495, two stellar interlopers are visible in this image. One
+  is just outside the centre of NGC 5495, and the other is very prominent alongside
+  the galaxy. While they share the same location on the sky, these objects are much
+  closer to home than NGC 5495: they are stars from our own Milky Way. The bright
+  stars are surrounded by criss-cross diffraction spikes, optical artefacts created
+  by the internal structure of Hubble interacting with starlight. Links Video of Hubble
+  Spies a Stately Spiral Galaxy'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2239a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Stately Spiral Galaxy
+ra_hr: 14.206710495169954
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2239a/thumb.jpg
+zoom_level: 0.17723732983914264
+---
+_uuid: 19201fb9-916c-4734-ae1b-53b7929ac180
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 55.09574764224355
+description: 'This image shows a wider view of the dim, distant galaxies around the
+  irregular spiral galaxy NGC 5486. The tenuous disc of the galaxy is threaded through
+  with pink wisps of star formation, which stand out from the diffuse glow of the
+  galaxy’s bright core. While this particular galaxy has indistinct, meandering spiral
+  arms it lies close to the much larger Pinwheel Galaxy, one of the best known examples
+  of ‘grand design’ spiral galaxies with prominent and well-defined spiral arms. In
+  2006 Hubble captured an image of the Pinwheel Galaxy which was — at the time — the
+  largest and most detailed photo of a spiral galaxy ever taken with Hubble. NGC 5486
+  lies 110 million light-years from Earth in the constellation Ursa Major. Constellations
+  are not only patterns of bright stars, but also a system that astronomers use to
+  divide the sky into regions. There are 88 of these regions, and each has an associated
+  constellation depicting a mythological figure, an animal, or even an item of scientific
+  equipment. This strange celestial menagerie contains everything from Ursa Major’s
+  great bear to a toucan, a sea monster, a telescope, and even a painter''s easel!
+  This observation comes from a selection of Hubble images exploring the detritus
+  left behind by Type II supernovae. As massive stars reach the end of their lives
+  they cast off huge amounts of gas and dust before ending their lives in titanic
+  supernova explosions. NGC 5486 hosted a supernova in 2004, and astronomers used
+  the keen vision of Hubble’s Advanced Camera for Surveys to explore the aftermath
+  in the hopes of learning more about these explosive events. [Image description:
+  A spiral galaxy dominates the foreground. It is irregularly-shaped and its spiral
+  arms are difficult to distinguish. The edges are faint and the core has a pale glow.
+  It is dotted with small, wispy, pink regions where stars are forming. The background
+  is scattered with a few stars and small galaxies in warm colours.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2310b/L{1}X{2}Y{3}.png
+name: Hubble spies a meandering spiral (wide field)
+ra_hr: 14.123858844370536
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2310b/thumb.jpg
+zoom_level: 0.49110183317722844
+---
+_uuid: 8fc4e9e0-9f57-4e9c-b868-3e31a730ed9b
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: 4.449905491101765
+description: 'The subject of this Hubble Picture of the Week is a spiral galaxy in
+  the constellation Virgo named NGC 5668. It is relatively near to us at 90 million
+  light-years from Earth and quite accessible for astronomers to study with both space-
+  and ground-based telescopes. At first blush, it doesn’t seem like a remarkable galaxy.
+  It is around 90 000 light-years across, similar in size and mass to our own Milky
+  Way galaxy, and its orientation nearly face-on to us shows open spiral arms made
+  of cloudy, irregular patches. One noticeable difference between the Milky Way galaxy
+  and NGC 5668 is that this galaxy is forming new stars 60% more quickly. This fact
+  belies a galaxy with churning clouds and flows of gas, inclement weather that forms
+  excellent conditions for the formation of new stars! Two main drivers of star formation
+  have been identified by astronomers. Firstly, this high-quality Hubble snapshot
+  reveals a bar at the centre; it might look more like a slight oval shape than a
+  real bar, but it appears to have impacted the galaxy’s star formation rate, as central
+  bars do in many spiral galaxies. Secondly, high-velocity clouds of hydrogen gas
+  have been tracked moving vertically between the disc of the galaxy and the spherical,
+  faint halo which surrounds it. These can be produced by the strong stellar winds
+  of hot, massive stars, and they contribute gas to new star-forming regions. The
+  enhanced star formation rate in NGC 5668 comes with a corresponding abundance of
+  supernova explosions. Three have been spotted in the galaxy, in 1952, 1954 and 2004.
+  In this image, Hubble was used to examine the surroundings of the Type II SN 2004G,
+  seeking to study the kinds of stars that end their lives as this kind of supernova.
+  [Image Description: A spiral galaxy, seen up close and face-on. It is coloured yellow
+  and glowing brightly at the oval-shaped centre, showing older and cooler stars,
+  and it becomes bluer out to the edge of the disc where the stars are younger and
+  hotter. It has a number of somewhat patchy spiral arms curling around, with sparkling
+  areas where stars form. The black background can just be seen at the corners.] Links
+  Pan of NGC 5668'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2437a/L{1}X{2}Y{3}.png
+name: Cloudy with a chance of explosions
+ra_hr: 14.556694302278434
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2437a/thumb.jpg
+zoom_level: 0.4575543762061991
+---
+_uuid: 7512593e-4f31-485f-b72d-ef6e94580e72
+classification: ''
+constellation: LUP
+data_set_type: Sky
+dec_deg: -44.17511713650952
+description: 'Today’s NASA/ESA Hubble Space Telescope Picture of the Week features
+  the glorious spiral galaxy NGC 5643, which is located roughly 40 million light-years
+  away in the constellation Lupus. NGC 5643 is what’s known as a grand design spiral,
+  referring to how the galaxy’s two large, winding spiral arms are clear to see. The
+  spiral arms are defined by bright blue stars, lacy reddish-brown dust clouds and
+  pink star-forming regions. As fascinating as the galaxy appears at visible wavelengths,
+  some of NGC 5643’s most interesting features are invisible to the human eye. Ultraviolet
+  and X-ray images and spectra of NGC 5643 show that the galaxy hosts an active galactic
+  nucleus: an especially bright galactic core powered by a feasting supermassive black
+  hole. When a supermassive black hole ensnares gas from its surroundings, the gas
+  collects in a disc that heats up to hundreds of thousands of degrees. The superheated
+  gas shines brightly across the electromagnetic spectrum, but especially at X-ray
+  wavelengths. NGC 5643’s active galactic nucleus isn’t the brightest source of X-rays
+  in the galaxy, though. Researchers using ESA’s XMM-Newton discovered an even brighter
+  X-ray-emitting object, called NGC 5643 X-1, on the galaxy’s outskirts. What could
+  be a more powerful source of X-rays than a supermassive black hole? Surprisingly,
+  the answer appears to be a much smaller black hole! While the exact identity of
+  NGC 5643 X-1 is not yet known, evidence points to a black hole that is about 30
+  times more massive than the Sun. Locked in an orbital dance with a companion star,
+  the black hole ensnares gas from its stellar companion, creating a superheated disc
+  that outshines the galactic centre. NGC 5643 was also the subject of a previous
+  Picture of the Week. The new image incorporates additional wavelengths of light,
+  including the red color that is characteristic of gas heated by massive young stars.
+  [Image Description: A close-up of a spiral galaxy, seen face-on. Its center is a
+  bright white point, surrounded by a large yellowish oval with thin lines of dust
+  swirling in it. From the sides of the oval emerge two bright spiral arms which wind
+  through the round disc of the galaxy, filled with shining pink spots where stars
+  are forming and more dark reddish dust. Many stars can be seen in the foreground,
+  over and around the galaxy.] Links Pan of NGC 5643'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2450a/L{1}X{2}Y{3}.png
+name: Hubble revisits a grand spiral
+ra_hr: 14.5446787582779
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2450a/thumb.jpg
+zoom_level: 0.4707078171101148
+---
+_uuid: 3174ba9e-1999-4c7d-9120-fccdaabd3e06
+classification: ''
+constellation: LUP
+data_set_type: Sky
+dec_deg: -43.388118160201834
+description: 'The subject of today’s NASA/ESA Hubble Space Telescope Picture of the
+  Week is the stunning spiral galaxy NGC 5530. NGC 5530 is situated 40 million light-years
+  away in the constellation Lupus (The Wolf). This galaxy is classified as a ‘flocculent’
+  spiral, meaning that its spiral arms are patchy and indistinct. While some galaxies
+  have extraordinarily bright centres where they host a feasting supermassive black
+  hole, the bright source near the centre of NGC 5530 is not an active black hole
+  but instead a star within our own galaxy, only 10 thousand light-years from Earth.
+  This chance alignment gives the appearance that the star is at the dense heart of
+  NGC 5530. If you had pointed a backyard telescope at NGC 5530 on the evening of
+  13 September 2007, you would have seen another bright point of light adorning the
+  galaxy. That night, Australian amateur astronomer Robert Evans discovered a supernova,
+  named SN 2007IT, by comparing NGC 5530’s appearance through the telescope to a reference
+  photo of the galaxy. While it’s remarkable to discover even one supernova using
+  this painstaking method, Evans has in fact discovered more than 40 supernovae this
+  way! This particular discovery was truly serendipitous: it’s likely that the light
+  from the supernova had completed its 40-million-year journey to Earth just days
+  before the explosion was discovered. [Image Description: A spiral galaxy, seen tilted
+  at a slight angle, on a dark background of space. It glows softly from its centre,
+  throughout its disc out to the edge. The disc is a broad swirl of webs of dark reddish
+  dust and sparkling blue patches where stars have formed. Atop the centre of the
+  galaxy there is a star that appears very large and bright with four spikes emanating
+  from it, because it is relatively close to Earth.] Links Pan of NGC 5530'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2512a/L{1}X{2}Y{3}.png
+name: A chance alignment in Lupus
+ra_hr: 14.30757120942472
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2512a/thumb.jpg
+zoom_level: 0.42374906748223845
+---
 _uuid: ae44f04d-0b24-4e33-8612-311026992ab2
 classification: ''
 constellation: BOO
@@ -1974,6 +2339,104 @@ name: Galaxy cluster MACS J1423 (NIRCam image)
 ra_hr: 14.396520153174713
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2429a/thumb.jpg
 zoom_level: 0.40855690059927596
+---
+_uuid: c271ebf0-0394-4c65-87cd-bb7b6e0533a5
+classification: ''
+constellation: CEN
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -62.651471870523515
+description: The SMARTS 0.9-meter Telescope at Cerro-Tololo International Observatory
+  (CTIO), a Program of NSF NOIRLab, has captured an echo of the past in this gorgeous
+  Image of the Week. RCW 86 is a literal shell of its former self, the gaseous remnant
+  of a supernova. Some 11,000 years ago a white dwarf, itself the core of a former
+  star, became too massive and spectacularly exploded in a Type Ia supernova. Shockwaves
+  reverberated through space, pushing the gas outward, whereupon it formed the multi-layered
+  “bubble” we see today. Besides being a spectacular stellar object, the remnant may
+  have been created by the earliest recorded supernova, observed by Chinese astronomers
+  in 185 AD in the same area between the constellations Circinus and Centaurus. This
+  image was obtained by NOIRLab’s Communication, Education & Engagement team as part
+  of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2236a/L{1}X{2}Y{3}.png
+name: Dynastic Vibes
+ra_hr: 14.676726176835388
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2236a/thumb.jpg
+zoom_level: 2.320228642957177
+---
+_uuid: 85dd58fb-0b7d-49ed-b21b-c9bb7f2a3343
+classification: ''
+constellation: BOO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 27.889170572965863
+description: This Gemini North image, superimposed on an image taken with the Hubble
+  Space Telescope, shows the telltale near-infrared afterglow of a kilonova produced
+  by a long GRB (GRB 211211A). This discovery challenges the prevailing theory that
+  long GRBs exclusively come from supernovae, the end-of-life explosions of massive
+  stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2228c/L{1}X{2}Y{3}.png
+name: Gemini North and Hubble image of GRB afterglow (unannotated)
+ra_hr: 14.152911836892962
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2228c/thumb.jpg
+zoom_level: 0.1391484049149067
+---
+_uuid: 3c51a76c-dcdc-483e-ba95-ccf3ab4eb281
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -62.56931144292395
+description: The tattered shell of the first-ever recorded supernova was captured
+  by the US Department of Energy-fabricated Dark Energy Camera, which is mounted on
+  the National Science Foundation’s (NSF) Víctor M. Blanco 4-meter Telescope at Cerro
+  Tololo Inter-American Observatory in Chile, a Program of NSF NOIRLab. A ring of
+  glowing debris is all that remains of a white dwarf star that exploded more than
+  1800 years ago when it was recorded by Chinese astronomers as a ‘guest star’. This
+  special image, which covers an impressive 45 arcminutes on the sky, gives a rare
+  view of the entirety of this supernova remnant.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2307a/L{1}X{2}Y{3}.png
+name: DECam Images RCW 86, Remains of Supernova Witnessed in 185
+ra_hr: 14.716589691865194
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2307a/thumb.jpg
+zoom_level: 8.144718277082491
+---
+_uuid: c98c3822-abfd-4f10-99de-b1a56a99f12e
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 54.31814483807507
+description: Gemini North, part of the International Gemini Observatory operated by
+  NSF NOIRLab, is back observing the night sky following the repair and refurbishment
+  of its primary mirror. The telescope’s debut observation captured the supernova
+  dubbed SN 2023ixf (lower left), which was discovered on 19 May by Japanese astronomer
+  Koichi Itagaki. This dazzling point of light, the closest supernova seen in the
+  past five years, is located along one of the spiral arms of the Pinwheel Galaxy
+  (Messier 101).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2315a/L{1}X{2}Y{3}.png
+name: Gemini North Back On Sky With Dazzling Image of Supernova in the Pinwheel Galaxy
+ra_hr: 14.05418076354201
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2315a/thumb.jpg
+zoom_level: 0.9104310121605221
+---
+_uuid: 0086033e-3475-4839-be18-94791d72aa8c
+classification: ''
+constellation: CIR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.339222957464244
+description: A celestial shadow known as the Circinus West molecular cloud creeps
+  across this image taken with the Department of Energy-fabricated 570-megapixel Dark
+  Energy Camera (DECam) — one of the most powerful digital cameras in the world. Within
+  this stellar nursery's opaque boundaries, infant stars ignite from cold, dense gas
+  and dust, while outflows hurtle leftover material into space. DECam is mounted on
+  the U.S. National Science Foundation Víctor M. Blanco 4-meter telescope at Cerro
+  Tololo Inter-American Observatory in Chile, a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2515a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Captures Circinus West Molecular Cloud
+ra_hr: 14.998402786533335
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2515a/thumb.jpg
+zoom_level: 13.12008390821178
 ---
 _uuid: f758b9f4-333b-4513-824a-aee8fc190ede
 classification: ''

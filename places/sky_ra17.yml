@@ -3229,6 +3229,815 @@ name: Messier 92
 ra_hr: 17.285
 zoom_level: 4.876666666666667
 ---
+_uuid: aefed2e4-a44a-4160-96ea-b4966a5566aa
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.002905589271
+description: 'Astronomers have discovered evidence for thousands of black holes located
+  near the center of our Milky Way galaxy using data from NASA''s Chandra X-ray Observatory
+  .
+
+
+  This black hole bounty consists of stellar-mass black holes, which typically weigh
+  between five to 30 times the mass of the Sun. These newly identified black holes
+  were found within three light years — a relatively short distance on cosmic scales
+  — of the supermassive black hole at our Galaxy''s center known as Sagittarius A*
+  (Sgr A*).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-sgra_swarm/L{1}X{2}Y{3}.png
+name: Sagittarius A* Swarm
+ra_hr: 17.76114885820313
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-sgra_swarm/thumb.jpg
+zoom_level: 1.0034948284398104
+---
+_uuid: ffe076ac-4e5e-47db-b57a-37171cd9a0c6
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 57.41097288517171
+description: 'As the holiday season approaches, people in the northern hemisphere
+  will gather indoors to stay warm. In keeping with the season, astronomers have studied
+  two groups of galaxies that are rushing together and producing their own warmth.
+
+
+  The majority of galaxies do not exist in isolation. Rather, they are bound to other
+  galaxies through gravity either in relatively small numbers known as "galaxy groups,"
+  or much larger concentrations called " galaxy clusters " consisting of hundreds
+  or thousands of galaxies. Sometimes, these collections of galaxies are drawn toward
+  one another by gravity and eventually merge.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-ngc6338/L{1}X{2}Y{3}.png
+name: NGC 6338
+ra_hr: 17.25639952726244
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-ngc6338/thumb.jpg
+zoom_level: 1.9733231476954738
+---
+_uuid: edee2e8e-45cb-4f41-a142-601e6422320f
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 32.132033040165496
+description: 'The mystery surrounding the whereabouts of a supermassive black hole
+  has deepened.
+
+
+  Despite searching with NASA''s Chandra X-ray Observatory and Hubble Space Telescope,
+  astronomers have no evidence that a distant black hole estimated to weigh between
+  3 billion and 100 billion times the mass of the Sun is anywhere to be found.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-a2261/L{1}X{2}Y{3}.png
+name: Abell 2261
+ra_hr: 17.374139846343805
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-a2261/thumb.jpg
+zoom_level: 0.5104075642501065
+---
+_uuid: a89d17a0-0050-4d7a-a509-97b200be3c48
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -21.493914519529362
+description: 'Astronomers have used NASA''s Chandra X-ray Observatory to record material
+  blasting away from the site of an exploded star at speeds faster than 20 million
+  miles per hour. This is about 25,000 times faster than the speed of sound on Earth.
+
+
+  Kepler''s supernova remnant is the debris from a detonated star that is located
+  about 20,000 light years away from Earth in our Milky Way galaxy. In 1604 early
+  astronomers, including Johannes Kepler who became the object''s namesake, saw the
+  supernova explosion that destroyed the star.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-kepler/L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant (2020)
+ra_hr: 17.511348909499883
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-kepler/thumb.jpg
+zoom_level: 1.179147661152142
+---
+_uuid: e7068e24-6a72-4d64-ab77-0aa7036cc810
+classification: ''
+constellation: UMI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 78.70738081683083
+description: 'Astronomers have captured a spectacular, ongoing collision between at
+  least three galaxy clusters . Data from NASA’s Chandra X-ray Observatory , ESA’s
+  (European Space Agency’s) XMM-Newton, and a trio of radio telescopes is helping
+  astronomers sort out what is happening in this jumbled scene. Collisions and mergers
+  like this are the main way that galaxy clusters can grow into the gigantic cosmic
+  edifices seen today. These also act as the largest particle accelerators in the
+  universe.
+
+
+  The giant galaxy cluster forming from this collision is Abell 2256, located 780
+  million light-years from Earth. This composite image of Abell 2256 combines X-rays
+  from Chandra and XMM in blue with radio data collected by the Giant Metrewave Radio
+  Telescope (GMRT), the Low Frequency Array (LOFAR), and the Karl G. Jansky Very Large
+  Array (VLA) all in red, plus optical and infrared data from Pan-STARRs in white
+  and pale yellow.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-a2256/L{1}X{2}Y{3}.png
+name: Abell 2256
+ra_hr: 17.054178964341315
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-a2256/thumb.jpg
+zoom_level: 3.219842967174632
+---
+_uuid: 54aabebe-d813-425e-b5af-28912e857bc2
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 28.837449310903587
+description: 'Astronomers have discovered a black hole has torn apart a star (a phenomenon
+  called a tidal disruption event, or TDE) in a surprising location, as described
+  in this press release . This event occurred about 2,600 light-years away from the
+  center of the black hole’s host galaxy, indicating the presence of a second large
+  black hole. Most TDEs have been detected at the centers of galaxies where supermassive
+  black holes are usually found.
+
+
+  A TDE happens when an infalling star is stretched or “spaghettified” by a black
+  hole’s immense gravitational tidal forces. The shredded stellar remnants are pulled
+  into a circular orbit around the black hole. This generates shocks and outflows
+  with high temperatures that can be seen in ultraviolet and visible light. X-rays
+  are produced when material from the destroyed star falls toward the black hole and
+  is heated to millions of degrees.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-bhtde/L{1}X{2}Y{3}.png
+name: AT2024tvd
+ra_hr: 17.178480423197737
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-bhtde/thumb.jpg
+zoom_level: 0.047956532127620494
+---
+_uuid: ae66964b-74f0-4895-91d2-f5aebc265acc
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.006908423703305
+description: 'Like a recording artist who has had a long career, NASA’s Chandra X-ray
+  Observatory has a “back catalog” of cosmic recordings that is impossible to replicate.
+  To access these X-ray tracks, or observations, the mission has developed the ultimate
+  compendium: the Chandra Source Catalog.
+
+
+  The Chandra Source Catalog contains the X-ray data detected by Chandra, the world’s
+  premier X-ray telescope and one of NASA’s “Great Observatories,” from its launch
+  in 1999 up to the end of 2021. [AF2.1]The latest version of the Chandra Source Catalog,
+  known as CSC 2.1, contains over 400,000 unique compact and extended sources and
+  over 1.3 million individual detections in X-ray light.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-csc/L{1}X{2}Y{3}.png
+name: Sagittarius A*
+ra_hr: 17.761178768552632
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-csc/thumb.jpg
+zoom_level: 1.6848934068661827
+---
+_uuid: 56a84519-5599-49e7-a884-5d1ddeb84521
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -21.491272074415356
+description: 'A new video shows changes in Kepler’s Supernova Remnant using data from
+  NASA’s Chandra X-ray Observatory captured over more than two and a half decades
+  with observations taken in 2000, 2004, 2006, 2014, and 2025. In this video , which
+  is the longest-spanning one ever released by Chandra, X-rays (blue) from the telescope
+  have been combined with an optical image (red, green, and blue) from Pan-STARRS.
+
+
+  Kepler’s Supernova Remnant, named after the German astronomer Johannes Kepler, was
+  first spotted in the night sky in 1604. Today, astronomers know that a white dwarf
+  star exploded when it exceeded a critical mass, after pulling material from a companion
+  star, or merging with another white dwarf. This kind of supernova is known as a
+  Type Ia and scientists use it to measure the expansion of the Universe.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-kepler/L{1}X{2}Y{3}.png
+name: Kepler's Supernova Remnant (2026)
+ra_hr: 17.511522687997168
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-kepler/thumb.jpg
+zoom_level: 1.2092244036525224
+---
+_uuid: b345e588-4801-4137-8332-82e0b7efab1e
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.456786785869784
+description: 'Using data from NASA’s Chandra X-ray Observatory, astronomers may have
+  found a supernova remnant in an intriguing neighborhood in the middle of our galaxy.
+  A paper describing these new findings published in The Astrophysical Journal.
+
+
+  Supernova remnants are the expanding remains of exploded stars and provide elements
+  — like iron, oxygen, and silicon — that are critical for the formation of planets
+  and for life as we know it to form and flourish.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-sgrc/L{1}X{2}Y{3}.png
+name: Sagittarius C
+ra_hr: 17.741174862130833
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-sgrc/thumb.jpg
+zoom_level: 2.943250739044409
+---
+_uuid: fef9d561-cd59-4d57-b8d9-876f2e9ccf75
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -28.834065294119256
+description: 'This image shows the complex distribution of molecular gas in the Central
+  Molecular Zone (CMZ) of the Milky Way. It was obtained with the Atacama Large Millimeter/submillimeter
+  Array (ALMA), in which ESO is a partner. This map is as long as three full Moons
+  side-by-side in the sky, and it is in fact the largest ALMA image ever obtained.
+
+  This map is part of ACES — the ALMA CMZ Exploration Survey — a project designed
+  to understand how gas condenses into stars in the extreme and chaotic environment
+  at the heart of our galaxy. The survey has charted the distribution of dozens of
+  different molecules, five of which are shown here in different colours: sulphur
+  monoxide (cyan), silicon monoxide (green), isocyanic acid (red), cyanoacetylene
+  (blue), and carbon monosulphide (magenta).
+
+  The stars in the foreground of this image were observed at infrared wavelengths
+  (Y, Z and J filters) with ESO’s VISTA telescope as part of a different project.
+  The actual density of stars in the CMZ is much higher than what is shown here, where
+  we have opted to highlight the details in the molecular cloud. Note that the edges
+  of the ALMA map appear somewhat sharp because the ALMA observations do not cover
+  the entire rectangular area here.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2603a/L{1}X{2}Y{3}.png
+name: Largest ALMA image ever shows the molecular gas in the centre of the Milky Way
+ra_hr: 17.767638722848705
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2603a/thumb.jpg
+zoom_level: 5.779996300799999
+---
+_uuid: cd1cd8e0-3fea-4152-9393-eced593b2bb0
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.0097685722683
+description: View of the Galactic centre captured with ESO's VISTA infrared survey
+  telescope, as part of the Variables in the Via Lactea (VVV) ESO public survey.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/galactic-centre-e/L{1}X{2}Y{3}.png
+name: View of the galactic centre
+ra_hr: 17.761228564650654
+thumbnail: https://data1.wwtassets.org/feeds/eso/galactic-centre-e/thumb.jpg
+zoom_level: 0.1412254396849136
+---
+_uuid: 84299878-e9ed-4add-a35f-2780945f7ed0
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.99985852820062
+description: 'This is Euclid’s Deep Field North. After only one observation, the space
+  telescope has already spotted more than ten million galaxies in this field. It is
+  also very rich in Milky Way stars, as it is close to the Galactic plane. In the
+  coming years, Euclid will make 32 observations of this field to reach its full depth.
+
+
+  Below the center-left of the image lies the Cat’s Eye Nebula, around 3000 light-years
+  away. Also known as NGC 6543, this nebula is a visual ‘fossil record’ of the dynamics
+  and late evolution of a dying star. This dying star is shedding its outer colorful
+  shells.
+
+  A bit higher to the right of the center of the image, a large group of galaxies
+  can be spotted, dominated by the large galaxy NGC 6505. This galaxy hosts the first
+  Einstein Ring that Euclid discovered, and is located 590 million light-years away.
+
+
+  The faint blue structures in the image are dim clouds in between the stars in our
+  own galaxy. They are a mix of gas and dust, also called ‘galactic cirrus’ because
+  they look like cirrus clouds. Euclid is able to see these clouds with its very sensitive
+  visible light camera because they reflect optical light from the Milky Way.
+
+
+  Euclid’s Deep Field North has an area of 22.9 square degrees and is located very
+  close to the north ecliptic pole, in the constellation Draco, the dragon. The proximity
+  to the ecliptic pole ensures maximum coverage throughout the year; the exact position
+  was chosen to obtain maximum overlap with one of the deep fields surveyed by NASA''s
+  infrared workhorse, the Spitzer Space Telescope.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/L{1}X{2}Y{3}.png
+name: Euclid Deep Field North – Preview
+ra_hr: 17.953348345445658
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319g/thumb.jpg
+zoom_level: 65.7992210598179
+---
+_uuid: 6e39c3e4-cb87-41d2-bad8-488bc15c1001
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 66.6326638694858
+description: 'This is a zoom-in of Euclid’s Deep Field North, showing the Cat’s Eye
+  Nebula in the center of the image, around 3000 light-years away. Also known as NGC
+  6543, this nebula is a visual ‘fossil record’ of the dynamics and late evolution
+  of a dying star. This dying star is shedding its outer colorful shells.
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/L{1}X{2}Y{3}.png
+name: Euclid’s view of the Cat’s Eye Nebula
+ra_hr: 17.976335571686377
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20250319l/thumb.jpg
+zoom_level: 4.309676707363904
+---
+_uuid: bcb85039-c3d6-4ae0-a56d-836607a44f3a
+classification: ''
+constellation: DRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 65.53068962338794
+description: 'The ring of light surrounding the centre of the galaxy NGC 6505, captured
+  by ESA’s Euclid telescope, is a stunning example of an Einstein ring. NGC 6505 is
+  acting as a gravitational lens, bending light from a galaxy far behind it. The almost
+  perfect alignment of NGC 6505 and the background galaxy has bent and magnified the
+  light from the background galaxy into a spectacular ring. This rare phenomenon was
+  first theorised to exist by Einstein in his general theory of relativity.
+
+
+  This wide field shows the extended stellar halo of NGC 6505 and showcases the Einstein
+  ring, surrounded by colourful foreground stars and background galaxies.
+
+
+  Image processing by J.-C. Cuillandre, G. Anselmi, T. Li'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/L{1}X{2}Y{3}.png
+name: Euclid image of a bright Einstein ring around galaxy NGC 6505
+ra_hr: 17.852104226682872
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20251002a/thumb.jpg
+zoom_level: 0.6957064224
+---
+_uuid: 43d07179-2650-44f9-917a-5170538577c0
+classification: ''
+constellation: ARA
+data_set_type: Sky
+dec_deg: -59.48996623393881
+description: 'Archival data from the NASA/ESA Hubble Space Telescope reveal that the
+  nebula Hen 3-1357, nicknamed the Stingray nebula, has faded precipitously over just
+  the past two decades. Witnessing such a swift rate of change in a planetary nebula
+  is exceedingly rare, say researchers.
+
+
+  This image captured by Hubble in 2016 shows how the nebula has drastically dimmed
+  in brightness and changed shape. The young nebula no longer pops against the black
+  velvet background of the distant Universe.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2020c/L{1}X{2}Y{3}.png
+name: Hubble’s Observation of the Stingray Nebula in 2016
+ra_hr: 17.272514751012093
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2020c/thumb.jpg
+zoom_level: 0.0172627922952972
+---
+_uuid: 80680cba-c870-407d-919e-f3b8fef4a05f
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 28.837449297903284
+description: 'Lurking 600 million light-years away, within the inky black depths between
+  stars, there is an invisible monster gulping down any wayward star that plummets
+  toward it. The black hole revealed its presence in a newly identified tidal disruption
+  event (TDE) where a hapless star was ripped apart and swallowed in a spectacular
+  burst of radiation. These disruption events are powerful probes of black hole physics,
+  revealing the conditions necessary for launching jets and winds when a black hole
+  is in the midst of consuming a star, and are seen as bright objects by telescopes.
+  The new TDE, called AT2024tvd, allowed astronomers to pinpoint a wandering supermassive
+  black hole using the NASA/ESA Hubble Space Telescope, with similar supporting observations
+  from NASA’s Chandra X-Ray Observatory, and the NRAO Very Large Array telescope that
+  also showed that the black hole is offset from the center of the galaxy. Surprisingly,
+  this one million-solar-mass black hole doesn’t reside exactly in the center of the
+  host galaxy, where supermassive black holes are typically found, and actively gobble
+  up surrounding material. Out of approximately 100 TDE events recorded by optical
+  sky surveys so far, this is the first time an offset TDE has been identified. The
+  rest are associated with the central black holes of galaxies. In fact, at the center
+  of the host galaxy there is a different supermassive black hole weighing 100 million
+  times the mass of the Sun. Hubble’s optical precision shows the TDE was only 2,600
+  light-years from the more massive black hole at the galaxy’s center. That’s just
+  one-tenth the distance between our Sun and the Milky Way’s central supermassive
+  black hole. Above is a NASA/ESA Hubble Space Telescope image of the galaxy located
+  that is host to the roaming supermassive black hole. The TDE appears as an isolated
+  blue point source of ultraviolet light, while the galaxy is colored orange in visible
+  light. The source is one of the first examples of a TDE significantly offset from
+  the host galaxy’s core by 2,600 light years – where an even more massive active
+  black resides. Hubble’s precise angular resolution clearly shows this offset and
+  confirms independent observations made with NASA’s Chandra X-ray observatory. The
+  Hubble data was captured on 16 January 2025, with Hubble’s WFC3 detector in UV and
+  visible light wavelengths. The paper will be published in an upcoming issue of the
+  Astrophysical Journal Letters. [Image description: A fuzzy orange-yellow oval occupies
+  the middle fourth of the image. It extends from 10 o’clock to 4 o’clock. A bright
+  white spot is located within the oval but offset to the upper left from the core.
+  An additional smaller, grainy, orange disk is located at lower right. A couple of
+  additional orange points are in the frame. The background of space is black.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2515/L{1}X{2}Y{3}.png
+name: Hubble observes new tidal disruption event (January 2025 image)
+ra_hr: 17.17848042128988
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2515/thumb.jpg
+zoom_level: 0.047957660260959115
+---
+_uuid: dc7c9e5e-95bd-4f75-984c-2da760941120
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 66.6330644343523
+description: 'For this month’s ESA/Hubble Picture of the Month, we turn our gaze to
+  one of the most visually intricate remnants of a dying star: the Cat’s Eye Nebula,
+  also known as NGC 6543. This extraordinary planetary nebula has captivated astronomers
+  for decades with its elaborate and multilayered structure. Observations with ESA’s
+  Gaia mission place the nebula at a distance of 4 400 light years away. Planetary
+  nebulae, so-called because of their round shape when viewed through early telescopes,
+  are in fact expanding gas thrown off by stars in their final stages of evolution.
+  It was the Cat’s Eye Nebula itself where this fact was first discovered in 1864
+  — examining the spectrum of its light reveals the emission from individual molecules
+  that’s characteristic of a gas, distinguishing planetary nebulae from stars and
+  galaxies. The NASA/ESA Hubble Space Telescope also revolutionised our understanding
+  of planetary nebulae; its detailed images showed that the simple, circular appearance
+  of a planetary nebula seen from the ground belies a very complex morphology. This
+  was particularly true of the Cat’s Eye Nebula, where Hubble’s images in 1995 revealed
+  never-before-seen structures that broadened our understanding of how planetary nebulae
+  come to be. In this new image, Hubble captures the very core of the billowing gas
+  with the High Resolution Channel sub-instrument on its Advanced Camera for Surveys
+  (ACS). This instrument is optimised for capturing very sharp images of fine details
+  in a small area, such as the complex features at the heart of the Cat’s Eye Nebula.
+  The data reveal a tapestry of concentric shells, jets of high-speed gas and dense
+  knots sculpted by shock interactions, features that appear almost surreal in their
+  intricacy. These structures are believed to record episodic mass loss from the dying
+  star at the nebula’s centre, creating a kind of cosmic “fossil record” of its final
+  evolutionary stages. Part of these data were also used in a previous image of the
+  Cat’s Eye Nebula, released in 2004. Previously unused data from ACS is combined
+  with state-of-the-art image processing to create this new image, the sharpest yet
+  taken of this nebula. [Image Description: An image of the centre of a planetary
+  nebula. A blue star sits at the centre within a series of overlapping, translucent
+  bubbles of gas. The bubbles have a complex, filamentary structure. The two largest
+  bubbles overlap halfway, creating an eye-like shape with the star at the centre.
+  Jets of high-speed gas point out of the top and bottom of the nebula. Faint, concentric
+  circles of gas also surround the star, out beyond the bubbles.] Links Hubble+Euclid
+  image of the Cat’s Eye Nebula Euclid wide field of the Cat’s Eye Nebula Pan video:
+  Cat''s Eye Nebula (Hubble image) Pan video: Cat''s Eye Nebula (Hubble and Euclid
+  image) Pullout video: Cat''s Eye Nebula (Hubble and Euclid images) Zoom Video: Cat''s
+  Eye Nebula Space Sparks episode 25: Two observatories, one cosmic eye Image on ESA
+  website'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potm2602b/L{1}X{2}Y{3}.png
+name: Looking at the Cat’s Eye Nebula with Hubble
+ra_hr: 17.97595429127585
+thumbnail: https://data1.wwtassets.org/feeds/hst/potm2602b/thumb.jpg
+zoom_level: 0.11382710154287934
+---
+_uuid: ed84c90c-f5f9-4573-80ee-c9100ac425cc
+classification: ''
+constellation: ARA
+data_set_type: Sky
+dec_deg: -60.882334213208516
+description: This image from the NASA/ESA Hubble Space Telescope shows IC 4653, a
+  galaxy just above 80 million light-years from Earth. That may sound like quite a
+  distance, but it’s not that far on a cosmic scale. At these kinds of distances,
+  the types and structures of the objects we see are similar to those in our local
+  area. Thie galaxy's whirling arms tells us a story about what’s happening inside
+  this galaxy. Stars are generally brighter and bluer when they are younger, so the
+  blue patches mark sites of new star formation. Studying the structures of other
+  galaxies is a key way to learn about the structure of our own, given that humans
+  can’t leave the Milky Way to look back and see what it looks like from the outside.
+  It helps to compare our observations of our home galaxy with those of nearby galaxies
+  we can see in their entirety.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1942a/L{1}X{2}Y{3}.png
+name: A Familiar Sight
+ra_hr: 17.451983704226347
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1942a/thumb.jpg
+zoom_level: 0.42096444469902605
+---
+_uuid: b4d87931-f5f6-45a9-8cd7-bd6e6beff3e1
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -37.05141884827561
+description: Almost like snowflakes, the stars of the globular cluster NGC 6441 sparkle
+  peacefully in the night sky, about 13 000 light-years from the Milky Way’s galactic
+  centre. Like snowflakes, the exact number of stars in such a cluster is difficult
+  to discern. It is estimated that together the stars weigh 1.6 million times the
+  mass of the Sun, making NGC 6441 one of the most massive and luminous globular clusters
+  in the Milky Way. NGC 6441 is host to four pulsars that each complete a single rotation
+  in a few milliseconds. Also hidden within this cluster is JaFu 2, a planetary nebula.
+  Despite its name, this has little to do with planets. A phase in the evolution of
+  intermediate-mass stars, planetary nebulae last for only a few tens of thousands
+  of years, the blink of an eye on astronomical timescales. There are about 150 known
+  globular clusters in the Milky Way. Globular clusters contain some of the first
+  stars to be produced in a galaxy, but the details of their origins and evolution
+  still elude astronomers.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2022a/L{1}X{2}Y{3}.png
+name: Stellar Snowflakes
+ra_hr: 17.836987305985065
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2022a/thumb.jpg
+zoom_level: 0.4107431794154759
+---
+_uuid: 6dd9bedf-9e95-46af-b2c7-1f71b2eed080
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -31.018251930859076
+description: The lives of planetary nebulae are often chaotic, from the death of their
+  parent star to the scattering of its contents far out into space. Captured here
+  by the NASA/ESA Hubble Space Telescope, ESO 455-10 is one such planetary nebula,
+  located in the constellation of Scorpius (The Scorpion). The oblate shells of ESO
+  455-10, previously held tightly together as layers of its central star, not only
+  give this planetary nebula its unique appearance, but also offer information about
+  the nebula. Seen in a field of stars, the distinct asymmetrical arc of material
+  over the north side of the nebula is a clear sign of interactions between ESO 455-10
+  and the interstellar medium. The interstellar medium is the material — consisting
+  of matter and radiation — between star systems and galaxies. The star at the centre
+  of ESO 455-10 allows Hubble to see the interaction with the gas and dust of the
+  nebula, the surrounding interstellar medium, and the light from the star itself.
+  Planetary nebulae are thought to be crucial in galactic enrichment as they distribute
+  their elements, particularly the heavier metal elements produced inside a star,
+  into the interstellar medium which will in time form the next generation of stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2104a/L{1}X{2}Y{3}.png
+name: An Interstellar Distributor
+ra_hr: 17.516348356239234
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2104a/thumb.jpg
+zoom_level: 0.051601799321271596
+---
+_uuid: 9d309613-a428-40ee-aa7c-62879e19aacb
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -39.06597457999652
+description: This image shows the globular cluster NGC 6380, which lies around 35
+  000 light-years from Earth, in the constellation Scorpio (The Scorpion). The very
+  bright star at the top of the image is HD 159073, which is only around 4000 light-years
+  from Earth, making it a much nearer neighbour to Earth than NGC 6380. This image
+  was taken with Hubble’s Wide Field Camera 3 (WFC3), which, as its name suggests,
+  has a wide field of view, meaning that it can image relatively large areas of the
+  sky in enormous detail. NGC 6380 is not a particularly exciting name, but it indicates
+  that this cluster is catalogued in the New General Catalogue (NGC), which was originally
+  compiled in 1888. This cluster has, however, been known by many other names. It
+  was originally discovered by James Dunlop in 1826, and he rather immodestly named
+  it Dun 538. Eight years later, in 1834, it was independently rediscovered by John
+  Herschel and he (similarly immodestly) went on to name it H 3688. The cluster was
+  re-rediscovered in 1959 in Paris by Pişmiş, who catalogued it as Tonantzintla 1
+  — and who, to continue the pattern, also referred to it as Pişmiş 25. In addition
+  to its colourful history of rediscovery, up until the 1950s NGC 6380 was thought
+  to be an open cluster. It was A. D. Thackeray who realised that it was in fact a
+  globular cluster. Nowadays, this cluster is reliably recognised in widely available
+  catalogues as a globular cluster, and referred to simply as NGC 6380. Links Video
+  of Rediscovered, Renamed, Reclassified
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2128a/L{1}X{2}Y{3}.png
+name: Rediscovered, Renamed, Reclassified
+ra_hr: 17.57428847792114
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2128a/thumb.jpg
+zoom_level: 0.3360789774579649
+---
+_uuid: 503bb555-0266-402c-9f70-496de6bfc0fa
+classification: ''
+constellation: OPH
+data_set_type: Sky
+dec_deg: -26.221924416172644
+description: This sparkling starfield, captured by the NASA/ESA Hubble Space Telescope’s
+  Wide Field Camera 3 and Advanced Camera for Surveys, contains the globular cluster
+  ESO 520-21 (also known as Palomar 6). A densely packed, roughly spherical collection
+  of stars, it lies close to the centre of the Milky Way, where interstellar gas and
+  dust absorb starlight and make observations more challenging. This absorption by
+  interstellar material affects some wavelengths of light more than others, changing
+  the colours of astronomical objects and causing them to appear redder than they
+  actually are. Astronomers call this process “reddening”, and it makes determining
+  the properties of globular clusters close to the galactic centre — such as ESO 520-21
+  — particularly difficult. ESO 520-21 lies in the constellation Ophiuchus, near the
+  celestial equator. Ophiuchus was one of the 48 constellations which appeared in
+  the writings of the second-century Egyptian astronomer Ptolemy, all of which are
+  among the 88 constellations officially recognised by the International Astronomical
+  Union today. Not all the constellations proposed by astronomers throughout history
+  have survived, however — forgotten or obsolete constellations include Felis (the
+  Cat), Rangifer (the Reindeer), and even Officina Typographica (the Printer’s Workshop).
+  Links Video On Clusters and Constellations
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2138a/L{1}X{2}Y{3}.png
+name: On Clusters and Constellations
+ra_hr: 17.72851087539607
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2138a/thumb.jpg
+zoom_level: 0.40671892273234034
+---
+_uuid: 48426d25-8aaf-4f2a-96cb-235bb0091dad
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -33.38960329539817
+description: 'The muted red tones of the globular cluster Liller 1 are partially obscured
+  in this image by a dense scattering of piercingly blue stars. In fact, it is thanks
+  to Hubble’s Wide Field Camera 3 (WFC3) that we are able to see Liller 1 so clearly
+  in this image, because the WFC3 is sensitive to wavelengths of light that the human
+  eye cannot detect. Liller 1 is only 30 000 light-years from Earth — relatively neighbourly
+  in astronomical terms — but it lies within the Milky Way’s ‘bulge’, the dense and
+  dusty region at our galaxy’s centre. Because of that, Liller 1 is heavily obscured
+  from view by interstellar dust, which scatters visible light (particularly blue
+  light) very effectively. Fortunately, some infrared and red visible light are able
+  to pass through these dusty regions. WFC3 is sensitive to both visible and near-infrared
+  (infrared that is close to the visible) wavelengths, allowing us to see through
+  the obscuring clouds of dust, and providing this spectacular view of Liller 1. Liller
+  1 is a particularly interesting globular cluster, because unlike most of its kind,
+  it contains a mix of very young and very old stars. Globular clusters typically
+  house only old stars, some nearly as old as the Universe itself. Liller1 instead
+  contains at least two distinct stellar populations with remarkably different ages:
+  the oldest one is 12 billion years old and the youngest component is just 1-2 billion
+  years old. This led astronomers to conclude that this stellar system was able to
+  form stars over an extraordinary long period of time. Links Video of A Hiding in
+  Plain Sight'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2221a/L{1}X{2}Y{3}.png
+name: Hiding in Plain Sight
+ra_hr: 17.556789793405372
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2221a/thumb.jpg
+zoom_level: 0.25778605747925504
+---
+_uuid: 07df2e7a-fcda-4c43-b03f-d98bbac9b2cd
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -30.80196672833082
+description: The globular cluster Terzan 2 in the constellation Scorpio features in
+  this observation from the NASA/ESA Hubble Space Telescope. Globular clusters are
+  stable, tightly gravitationally bound clusters of tens of thousands to millions
+  of stars found in a wide variety of galaxies. The intense gravitational attraction
+  between the closely packed stars gives globular clusters a regular, spherical shape.
+  As a result, images of the hearts of globular clusters, such as this observation
+  of Terzan 2, are crowded with a multitude of glittering stars. Hubble used both
+  its Advanced Camera for Surveys and its Wide Field Camera 3 in this observation,
+  taking advantage of the complementary capabilities of these instruments. Despite
+  having only one primary mirror, Hubble’s design allows multiple instruments to be
+  used to inspect astronomical objects. Light from distant astronomical objects enters
+  Hubble and is collected by the telescope's 2.4-metre primary mirror; it is then
+  reflected off the secondary mirror into the depths of the telescope, where smaller
+  mirrors can direct light into individual instruments. Each of the four operational
+  instruments on Hubble is a masterpiece of astronomical engineering in its own right,
+  and contains an intricate array of mirrors and other optical elements to remove
+  any aberrations or optical imperfections from observations, as well as filters which
+  allow astronomers to observe specific wavelength ranges. The mirrors inside each
+  instrument also correct for the slight imperfection of Hubble's primary mirror.
+  The end result is a crystal-clear observation, such as this glittering portrait
+  of Terzan 2. Links Video of Portrait of a Globular Cluster
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2228a/L{1}X{2}Y{3}.png
+name: Portrait of a Globular Cluster
+ra_hr: 17.459047213546512
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2228a/thumb.jpg
+zoom_level: 0.41023628934850853
+---
+_uuid: a195e827-34af-4b4e-9e04-9e3e4b1444b3
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -31.595389871401437
+description: A glittering multitude of stars in the globular cluster Terzan 4 fill
+  this image from the NASA/ESA Hubble Space Telescope. Globular clusters are collections
+  of stars bound together by their mutual gravitational attraction, and can contain
+  millions of individual stars. As this image shows, the heart of a globular cluster
+  such as Terzan 4 is a densely packed, crowded field of stars — which makes for spectacular
+  images! The launch of Hubble in 1990 revolutionised the study of globular clusters.
+  The individual stars in these dense crowds are almost impossible to distinguish
+  from one another with ground-based telescopes, but can be picked apart using space
+  telescopes. Astronomers have taken advantage of Hubble’s crystal-clear vision to
+  study the stars making up globular clusters, as well as how these systems change
+  over time. This particular observation comes from astronomers using Hubble to explore
+  Terzan 4 and other globular clusters to understand the shape, density, age, and
+  structure of globular clusters close to the centre of the Milky Way. Unlike globular
+  clusters elsewhere in the sky, these globular clusters have evaded detailed observation
+  because of the clouds of gas and dust swirling around the galactic core. These clouds
+  blot out starlight in a process that astronomers refer to as ‘extinction’, and complicate
+  astronomical observations. Astronomers took advantage of the sensitivity of two
+  of Hubble’s instruments — the Advanced Camera for Surveys and Wide Field Camera
+  3 — to overcome the impact of extinction on Terzan 4. By combining Hubble imagery
+  with sophisticated data processing, astronomers were able to determine the ages
+  of galactic globular clusters to within a billion years — a relatively accurate
+  measurement in astronomical terms!
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2237a/L{1}X{2}Y{3}.png
+name: Starstruck in Terzan 4
+ra_hr: 17.510609835023626
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2237a/thumb.jpg
+zoom_level: 0.4093725917816925
+---
+_uuid: fc6b357f-f23a-46d1-b710-e54aa48ded7d
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -30.47985606860273
+description: Terzan 1 is a globular cluster that lies about 22,000 light-years from
+  Earth in the constellation Scorpius. It is one of 11 globular clusters that were
+  discovered by the Turkish-Armenian astronomer Agop Terzan between 1966 and 1971
+  when he was working in France, based mostly at Lyon Observatory. Somewhat confusingly,
+  the 11 Terzan globular clusters are numbered from Terzan 1 to Terzan 12. This is
+  due to an error made by Terzan in 1971, when he rediscovered Terzan 5 — a cluster
+  he had already discovered and reported back in 1968 — and named it Terzan 11. He
+  published its discovery alongside those of Terzan 9, 10 and 12. He quickly realised
+  his mistake, and attempted to have Terzan 12 renamed as Terzan 11. Unfortunately,
+  he did not make it clear that Terzan 5 and Terzan 11 were one and the same, although
+  another astronomer, Ivan Robert King, did publish a note to try and clear up the
+  confusion. Nowadays, most papers recognise the original Terzan 5 and Terzan 12,
+  and accept the oddity that there is no Terzan 11. There have, however, been instances
+  of confusion in the scientific literature over the past few decades. Terzan 1 is
+  not a new target for Hubble — an image of the cluster was released back in 2015,
+  taken by Hubble’s Wide Field Planetary Camera 2 (WFPC2). That instrument was replaced
+  by the Wide Field Camera 3 (WFC3) during the 2009 Hubble servicing mission. WFC3
+  has both superior resolving power and a wider field of view than WFPC2, and the
+  improvement is obvious in this fantastically detailed image. Links Video of Terzan
+  1, Take 2
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2241a/L{1}X{2}Y{3}.png
+name: Terzan 1, Take 2
+ra_hr: 17.5965856157308
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2241a/thumb.jpg
+zoom_level: 0.3255353220859557
+---
+_uuid: 92210e01-715c-4b2c-9139-0ffd367d5d13
+classification: ''
+constellation: OPH
+data_set_type: Sky
+dec_deg: -26.35466354725312
+description: 'The scattered stars of the globular cluster NGC 6355 are strewn across
+  this image from the NASA/ESA Hubble Space Telescope. This globular cluster lies
+  less than 50,000 light-years from Earth in the Ophiuchus constellation. NGC 6355
+  is a galactic globular cluster that resides in our Milky Way galaxy''s inner regions.
+  Globular clusters are stable, tightly bound clusters of tens of thousands to millions
+  of stars, and can be found in all types of galaxies. Their dense populations of
+  stars and mutual gravitational attraction give these clusters a roughly spherical
+  shape, with a bright concentration of stars surrounded by an increasingly sparse
+  sprinkling of stars. The dense, bright core of NGC 6355 was picked out in crystal-clear
+  detail by Hubble in this image, and is the crowded area of stars towards the centre
+  of this image. With its vantage point above the distortions of the atmosphere, Hubble
+  has revolutionised the study of globular clusters. It is almost impossible to distinguish
+  the stars in globular clusters from one another with ground-based telescopes, but
+  astronomers have been able to use Hubble to study the constituent stars of globular
+  clusters in detail. This Hubble image of NGC 6355 contains data from both the Advanced
+  Camera for Surveys and Wide Field Camera 3. [Image description: A dense collection
+  of stars covers the view. Towards the centre the stars become even more dense in
+  a circular region, and also more blue. Around the edges there are some redder foreground
+  stars, and many small stars in the background.] Links Video of Stargazing in NGC
+  6355'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2301a/L{1}X{2}Y{3}.png
+name: Stargazing in NGC 6355
+ra_hr: 17.39964865140196
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2301a/thumb.jpg
+zoom_level: 0.3145867992050499
+---
+_uuid: 0a2c9acf-f5ec-468e-9e78-e2fadf24cb9e
+classification: ''
+constellation: OPH
+data_set_type: Sky
+dec_deg: -23.757622589563123
+description: 'The densely packed globular cluster NGC 6325 glistens in this image
+  from the NASA/ESA Hubble Space Telescope. This concentrated group of stars lies
+  around 26 000 light years from Earth in the constellation Ophiuchus. Globular clusters
+  like NGC 6325 are tightly bound collections of stars with anywhere from tens of
+  thousands to millions of members. They can be found in all types of galaxies, and
+  act as natural laboratories for astronomers studying star formation. This is because
+  the constituent stars of globular clusters tend to form at roughly the same time
+  and with similar initial composition, meaning that astronomers can use them to fine-tune
+  their theories of how stars evolve. Astronomers inspected this particular cluster
+  not to understand star formation, but to search for a hidden monster. Though it
+  might look peaceful, astronomers suspect this cluster could contain an intermediate-mass
+  black hole that is subtly affecting the motion of surrounding stars. Previous research
+  found that the distribution of stars in some highly concentrated globular clusters
+  — those with stars packed relatively tightly together — was slightly different from
+  what astronomers expected. This discrepancy suggested that at least some of these
+  densely packed globular clusters — including perhaps NGC 6325 — could have a black
+  hole lurking at the centre. To explore this hypothesis further, astronomers turned
+  to Hubble’s Wide Field Camera 3 to observe a larger sample of densely populated
+  globular clusters, which included this star-studded image of NGC 6325. Additional
+  data from Hubble’s Advanced Camera for Surveys were also incorporated into this
+  image. [Image Description: A dense cluster of bright stars. The core of the cluster
+  is to the left and has a distinct group of blue stars. Surrounding the core are
+  a multitude of stars in warmer colours. These stars are very numerous near the core
+  and become more and more sparse, and more small and distant, out to the sides of
+  the image. A few larger stars also stand in the foreground near the edges of the
+  image.] Links Pan: Scrutinising a star-studded cluster'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2320a/L{1}X{2}Y{3}.png
+name: Scrutinising a star-studded cluster
+ra_hr: 17.299369589544728
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2320a/thumb.jpg
+zoom_level: 0.4517406036651925
+---
+_uuid: 77b4f75e-7ca1-4166-83ae-a84ed53b5dfc
+classification: ''
+constellation: APS
+data_set_type: Sky
+dec_deg: -77.53744224651177
+description: 'The subject of this week’s Picture of the Week from Hubble is the spiral
+  galaxy IC 4633, located 100 million light-years away from us in the constellation
+  Apus. IC 4633 is a galaxy rich in star-forming activity, as well as hosting an active
+  galactic nucleus at its core. From our point of view, the galaxy is tilted mostly
+  towards us, giving astronomers a fairly good view of its billions of stars. However,
+  we can’t fully appreciate the features of this galaxy — at least in visible light
+  — because it’s partially concealed by a stretch of dark dust. This dark nebula is
+  part of the Chamaeleon star-forming region, itself located only around 500 light-years
+  from us, in a nearby part of the Milky Way galaxy. The dark clouds in the Chamaeleon
+  region occupy a large area of the southern sky, covering their namesake constellation
+  but also encroaching on nearby constellations, like Apus. The cloud is well-studied
+  for its treasury of young stars, particularly the cloud Cha I, which has been imaged
+  by Hubble and also by the NASA/ESA/CSA James Webb Space Telescope. The cloud overlapping
+  IC 4633 lies east of the well-known Cha I, II and III, and has been called MW9 or
+  the South Celestial Serpent. A vast, narrow trail of faint gas that snakes over
+  the southern celestial pole, it’s much more subdued-looking than its neighbours.
+  It’s classified as an integrated flux nebula (IFN) — a cloud of gas and dust in
+  the Milky Way galaxy that’s not near to any single star, and is only faintly lit
+  by the total light of all the galaxy’s stars. Hubble has no problem making out the
+  South Celestial Serpent, though this image captures only a tiny part of it. For
+  a showy astronomical object like IC 4633, among the South Celestial Serpent’s coils
+  clearly isn’t a bad place to hide. [Image Description: A spiral galaxy seen nearly
+  face-on. The disc is made up of many tightly wound spiral arms. They contain small
+  strands of reddish dust, near the centre. On the left side, the disc features glowing
+  patches of star formation. The whole right side, and part of the centre, is obscured
+  by a large cloud of dark grey gas which crosses the image.] Links Pan: Hidden in
+  a dark cloud'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2415a/L{1}X{2}Y{3}.png
+name: Hidden in a dark cloud
+ra_hr: 17.230711934024264
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2415a/thumb.jpg
+zoom_level: 0.5593766029684224
+---
 _uuid: aad5a6df-c455-4ec1-8fe7-d9f9dceaf05d
 classification: ''
 constellation: SGR
@@ -3696,3 +4505,81 @@ name: IRS 3 Field (MIRI image)
 ra_hr: 17.761134468105396
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2617d/thumb.jpg
 zoom_level: 0.5784301123063338
+---
+_uuid: 1095031e-b504-4d86-9e06-85ca94763617
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -38.46904647739045
+description: RCW 120, also known as Sharpless 2-3, is an emission nebula and star-forming
+  region located in the constellation Scorpius, about 4300 light-years away from Earth.
+  The glowing nebula was captured here by the SMARTS 0.9-meter Telescope at Cerro
+  Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. This HII region
+  shines in the red color of ionized hydrogen gas. Immense heat generated from young,
+  massive stars within energizes the gas, that then releases light in deep red and
+  infrared wavelengths. The dark lanes in the nebula are less energized areas and
+  thus do not appear to glow despite being made of the same material. Within the gas,
+  bright stars are a common sight in emission nebulae, and are responsible for fusing
+  together light elements to form many of the heavier elements in the cosmos, such
+  as silicon and iron. RCW 120, however, houses an unusual embryonic star – one that
+  is expected to become one of the brightest in our galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2230a/L{1}X{2}Y{3}.png
+name: A Crimson Nursery
+ra_hr: 17.206363647309608
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2230a/thumb.jpg
+zoom_level: 2.189162350560309
+---
+_uuid: 687b19b0-ef8b-442a-b25a-3d44e1f8dc8f
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.673698361503398
+description: The sinuous young stellar jet, MHO 2147, meanders lazily across a field
+  of stars in this image captured from Chile by the international Gemini Observatory,
+  a Program of NSF's NOIRLab. The stellar jet is the outflow from a young star that
+  is embedded in an infrared dark cloud. Astronomers suspect its sidewinding appearance
+  is caused by the gravitational attraction of companion stars. These crystal-clear
+  observations were made using the Gemini South telescope’s adaptive optics system,
+  which helps astronomers counteract the blurring effects of atmospheric turbulence.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2204d/L{1}X{2}Y{3}.png
+name: Young stellar jet MHO 2147 (wider crop)
+ra_hr: 17.930137538727106
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2204d/thumb.jpg
+zoom_level: 0.2646195071247641
+---
+_uuid: 9060efc4-40f2-4102-8b44-f4b8fba8a7b5
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -34.20759969514152
+description: This image, taken by astronomers using the US Department of Energy-fabricated
+  Dark Energy Camera on the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American
+  Observatory, a Program of NSF NOIRLab, captures the star-forming nebula NGC 6357,
+  which is located 8000 light-years away in the direction of the constellation Scorpius.
+  This image reveals bright, young stars surrounded by billowing clouds of dust and
+  gas inside NGC 6357, which is also known as the Lobster Nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2221a/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Captures Bright, Young Stars Blazing Inside Glowing Nebula
+ra_hr: 17.416813849687745
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2221a/thumb.jpg
+zoom_level: 13.415015509456937
+---
+_uuid: 89d5c911-3179-453b-b1e5-676a81c3fc11
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -37.101555831340995
+description: To celebrate 25 years since the completion of the International Gemini
+  Observatory, students in Chile voted for the Gemini South telescope to image the
+  NGC 6302 — a billowing planetary nebula that resembles a cosmic butterfly. The International
+  Gemini Observatory is partly funded by the U.S. National Science Foundation (NSF)
+  and operated by NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2530a/L{1}X{2}Y{3}.png
+name: Gemini South Images the Butterfly Nebula
+ra_hr: 17.227734427800605
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2530a/thumb.jpg
+zoom_level: 0.6850262505267232

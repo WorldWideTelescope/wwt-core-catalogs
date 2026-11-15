@@ -3075,6 +3075,712 @@ name: NGC 3311 in Hydra Cluster of Galaxies
 ra_hr: 10.6118225
 zoom_level: 0.871831403894357
 ---
+_uuid: d890af84-23f1-4ccd-a919-2b478b89b9e1
+classification: ''
+constellation: LMI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 35.04835130385784
+description: 'Hidden in a distant galaxy cluster collision are wisps of gas resembling
+  the starship Enterprise — an iconic spaceship from the "Star Trek" franchise.
+
+
+  Galaxy clusters — cosmic structures containing hundreds or even thousands of galaxies
+  — are the largest objects in the Universe held together by gravity. Multi-million-degree
+  gas fills the space in between the individual galaxies. The mass of the hot gas
+  is about six times greater than that of all the galaxies combined. This superheated
+  gas is invisible to optical telescopes, but shines brightly in X-rays , so an X-ray
+  telescope like NASA''s Chandra X-ray Observatory is required to study it.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-a1033/L{1}X{2}Y{3}.png
+name: Abell 1033
+ra_hr: 10.529717325738895
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-a1033/thumb.jpg
+zoom_level: 1.283094536246348
+---
+_uuid: 66864403-5bd4-4b67-ad29-3ed35d84ea43
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 55.67567857576622
+description: 'We all know bubbles from soapy baths or sodas. These bubbles of everyday
+  experience on Earth are up to a few inches across, and consist of a thin film of
+  liquid enclosing a small volume of air or other gas. In space, however, there are
+  very different bubbles — composed of a lighter gas inside a heavier one — and they
+  can be huge.
+
+
+  The galaxy NGC 3079, located about 67 million light years from Earth, contains two
+  "superbubbles" unlike anything here on our planet. A pair of balloon-like regions
+  stretch out on opposite sides of the center of the galaxy: one is 4,900 light years
+  across and the other is only slightly smaller, with a diameter of about 3,600 light
+  years. For context, one light year is about 6 trillion miles, or 9 trillion kilometers.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-ngc3079/L{1}X{2}Y{3}.png
+name: NGC 3079
+ra_hr: 10.03323613176791
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-ngc3079/thumb.jpg
+zoom_level: 0.20450488888713308
+---
+_uuid: 00950e56-2060-468f-96aa-50afed3b3a1a
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -58.22121584631543
+description: 'Astronomers have made the most extensive study yet of how magnetically
+  active stars are when they are young. This gives scientists a window into how X-rays
+  from stars like the Sun, but billions of years younger, could partially or completely
+  evaporate the atmospheres of planets orbiting them.
+
+
+  Many stars begin their lives in “ open clusters ,” loosely packed groups of stars
+  with up to a few thousand members, all formed roughly at the same time. This makes
+  open clusters valuable for astronomers investigating the evolution of stars and
+  planets, because they allow the study of many stars of similar ages forged in the
+  same environment.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-ngc3293/L{1}X{2}Y{3}.png
+name: NGC 3293
+ra_hr: 10.596865007876666
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-ngc3293/thumb.jpg
+zoom_level: 4.152467638757931
+---
+_uuid: 2e420814-3ff1-4900-a05a-95e9a105f6ab
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.6837276727433
+description: 'A new movie made from over two decades of data from NASA’s Chandra X-ray
+  Observatory shows a famous star system changing with time, as described in our latest
+  press release . Eta Carinae contains two massive stars (one is about 90 times the
+  mass of the Sun and the other is believed to be about 30 times the Sun’s mass).
+
+
+  In the middle of the 19th century, skywatchers observed as Eta Carinae experienced
+  a huge explosion that was dubbed the “Great Eruption.” During this event, Eta Carinae
+  ejected between 10 and 45 times the mass of the Sun. This material became a dense
+  pair of spherical clouds of gas, now called the Homunculus nebula, on opposite sides
+  of the two stars. The Homunculus is clearly seen in a composite image of the Chandra
+  data with optical light from the Hubble Space Telescope (blue, purple, and white).'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-etacar/L{1}X{2}Y{3}.png
+name: Eta Carinae
+ra_hr: 10.751094883285079
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-etacar/thumb.jpg
+zoom_level: 0.19591286471655034
+---
+_uuid: b5f56a0d-2241-45af-88cb-e5fd16bc8844
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.2199131865084087
+description: 'Scientists have discovered an oddly-shaped galaxy that may contain the
+  first newborn supermassive black hole ever spotted, as described in our latest blog
+  post . If confirmed, this result implies that black holes can form remarkably quickly,
+  not just soon after the Big Bang but throughout cosmic time.
+
+
+  This composite image of the so-called Infinity Galaxy shows X-rays from NASA’s Chandra
+  X-ray Observatory (purple) and infrared data from NASA''s James Webb Space Telescope
+  (red, green and blue). The Webb data shows two rings of stars and gas seen in the
+  Infinity Galaxy, which astronomers think were likely formed from the collision of
+  two galaxies. The centers of these two galaxies are the white-orange sources in
+  the middle of the two rings, in the lower left and upper right of the galaxy.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-infinity/L{1}X{2}Y{3}.png
+name: Infinity Galaxy
+ra_hr: 10.003941395190578
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-infinity/thumb.jpg
+zoom_level: 0.011196039686648618
+---
+_uuid: e03c565d-1a83-413f-9d19-dca06240bf5d
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -59.683906807120366
+description: Telescopes, including Hubble, have monitored the Eta Carinae star system
+  for more than two decades. It has been prone to violent outbursts, including an
+  episode in the 1840s during which ejected material formed the bipolar bubbles seen
+  here. Now, using Hubble’s Wide Field Camera 3 to probe the nebula in ultraviolet
+  light, astronomers have uncovered the glow of magnesium embedded in warm gas (shown
+  in blue) in places they had not seen it before. The luminous magnesium resides in
+  the space between the dusty bipolar bubbles and the outer shock-heated nitrogen-rich
+  filaments (shown in red). The streaks visible in the blue region outside the lower-left
+  lobe are a striking feature of the image. These streaks are created when the star’s
+  light rays poke through the dust clumps scattered along the bubble’s surface. Wherever
+  the ultraviolet light strikes the dense dust, it leaves a long, thin shadow that
+  extends beyond the lobe into the surrounding gas. Eta Carinae resides 7500 light-years
+  away.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic1912a/L{1}X{2}Y{3}.png
+name: Cosmic Fireworks in Ultraviolet
+ra_hr: 10.751015856846596
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic1912a/thumb.jpg
+zoom_level: 0.11622788733762722
+---
+_uuid: 287ddb78-1029-4506-ba2e-18179fe2b718
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 73.40048466853753
+description: The shape and structure of this Spiral galaxy are plainly visible thanks
+  to this perspective. Galaxy NGC 3147 galaxy is relatively close by, at a distance
+  of roughly 130 million light-years, and can be found in the constellation of Draco
+  (The Dragon).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic1913c/L{1}X{2}Y{3}.png
+name: Galaxy NGC 3147
+ra_hr: 10.281591434546177
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic1913c/thumb.jpg
+zoom_level: 0.44964810177521786
+---
+_uuid: a6cc5348-7159-4cba-a09d-738b92cbf25d
+classification: ''
+constellation: CAR
+data_set_type: Sky
+dec_deg: -60.45326529714245
+description: In celebration of the 31st anniversary of the launch of the NASA/ESA
+  Hubble Space Telescope, astronomers aimed the celebrated observatory at one of the
+  brightest stars seen in our galaxy to capture its beauty. The giant star featured
+  in this latest Hubble Space Telescope anniversary image is waging a tug-of-war between
+  gravity and radiation to avoid self-destruction. The star, called AG Carinae, is
+  surrounded by an expanding shell of gas and dust. The nebula is about five light-years
+  wide, which equals the distance from here to our nearest star, Alpha Centauri.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2105a/L{1}X{2}Y{3}.png
+name: Hubble Celebrates its 31st anniversary with a magnificent view of AG Carinae
+ra_hr: 10.936620234220097
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2105a/thumb.jpg
+zoom_level: 0.25579319892
+---
+_uuid: cbc52bce-c1eb-4816-a68b-5b42ee760209
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -33.16028682543546
+description: 'Contrary to what you might think, galaxy collisions do not destroy stars.
+  In fact, the rough-and-tumble dynamics trigger new generations of stars, and presumably
+  accompanying planets. Now the NASA/ESA Hubble Space Telescope has homed in on twelve
+  interacting galaxies that have long, tadpole-like tidal tails of gas, dust, and
+  a plethora of stars. Hubble''s exquisite sharpness and sensitivity to ultraviolet
+  light have uncovered 425 clusters of newborn stars along these tails — each cluster
+  contains as many as one million blue, newborn stars. Clusters in tidal tails have
+  been known about for decades. When galaxies interact, gravitational tidal forces
+  pull out long streamers of gas and dust. Two popular examples are the Antennae and
+  Mice galaxies with their long, narrow, finger-like projections. This image depicts
+  another example: galaxy Arp-Madore 1054-325. A team of astronomers used a combination
+  of new observations and archival data to get ages and masses of tidal tail star
+  clusters. They found that these clusters are very young — only 10 million years
+  old. And they seem to be forming at the same rate along tails stretching for thousands
+  of light-years. "It''s a surprise to see lots of the young objects in the tails.
+  It tells us a lot about cluster formation efficiency," said lead author Michael
+  Rodruck of Randolph-Macon College in Ashland, Virginia. Before the mergers, the
+  galaxies were rich in dusty clouds of molecular hydrogen that may have simply remained
+  inert. But the clouds got jostled and bumped into each other during the encounters.
+  This compressed the hydrogen to the point where it precipitated a firestorm of star
+  birth. The fate of these strung-out star clusters is uncertain. They may stay gravitationally
+  intact and evolve into globular star clusters — like those that orbit outside the
+  plane of our Milky Way galaxy. Or they may disperse to form a halo of stars around
+  their host galaxy, or get cast off to become wandering intergalactic stars. This
+  string-of-pearls star formation may have been more common in the early universe,
+  when galaxies collided with each other more frequently. [Image description: A Hubble
+  Space Telescope image of galaxy AM 1054-325. It has been distorted into an S-shape
+  from a normal pancake, spiral shape by the gravitational pull of a neighboring galaxy.
+  Newborn star clusters have formed along a stretched-out tidal tail for thousands
+  of light-years, resembling a string of pearls.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2404a/L{1}X{2}Y{3}.png
+name: Hubble traces 'string-of-pearls' star clusters in galaxy collisions
+ra_hr: 10.949561384932254
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2404a/thumb.jpg
+zoom_level: 0.1700525285654923
+---
+_uuid: dc9e8290-bfd9-41e8-b29c-b137ad3599f2
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 3.467910365060296
+description: Every now and then, the NASA/ESA Hubble Space Telescope glimpses a common
+  object — say, a spiral galaxy — in an interesting or unusual way. A sharply angled
+  perspective, such as the one shown in this Picture of the Week, can make it seem
+  as if we, the viewers, are craning our necks to see over a barrier into the galaxy's
+  bright centre. In the case of NGC 3169, this barrier is the thick dust embedded
+  within the galaxy's spiral arms. Cosmic dust comprises a potpourri of particles,
+  including water ice, hydrocarbons, silicates, and other solid material. It has many
+  origins and sources, from the leftovers of star and planet formation to molecules
+  modified over millions of years by interactions with starlight. NGC 3169 is located
+  about 70 million light-years away in the constellation of Sextans (The Sextant).
+  It is part of the Leo I Group of galaxies, which, like the Local Group that houses
+  our home galaxy, the Milky Way, is part of a larger galactic congregation known
+  as the Virgo Supercluster.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1929a/L{1}X{2}Y{3}.png
+name: Up and Over
+ra_hr: 10.237276447135574
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1929a/thumb.jpg
+zoom_level: 0.3578403657061114
+---
+_uuid: 8bba13b0-2970-49a7-8718-6abee3ccae8b
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 67.82938525042816
+description: As beautiful as the surrounding space may be, the sparkling galaxy in
+  the foreground of this image from the NASA/ESA Hubble Space Telescope undeniably
+  steals the show. This spotlight-hogging galaxy, seen set against a backdrop of more
+  distant galaxies of all shapes and sizes, is known as PGC 29388. Although it dominates
+  in this image, this galaxy is a small player on the cosmic stage, and is known as
+  a dwarf elliptical galaxy. As the “dwarf” moniker suggests, the galaxy is on the
+  smaller side, and boasts a “mere” 100 million to a few billion stars — a very small
+  number indeed when compared to the Milky Way's population of around 250 to 400 billion
+  stellar residents.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2016a/L{1}X{2}Y{3}.png
+name: Stealing the Show
+ra_hr: 10.11755204776666
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2016a/thumb.jpg
+zoom_level: 0.2778298266927624
+---
+_uuid: 8b5a37c9-b64a-48eb-908a-b2127d1dc67a
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: -6.01751308827757
+description: The galaxy UGCA 193, seen here by the NASA/ESA Hubble Space Telescope,
+  is a galaxy in the constellation of Sextans (The Sextant). Looking rather like a
+  waterfall, UGCA 193 appears to host many young stars, especially in its lower portion,
+  creating a striking blue haze and the sense that the stars are falling from “above”.
+  The blue colour of UGCA 193 indicates the stars that we see are hot — some with
+  temperatures exceeding 6 times that of our Sun. We know that cooler stars appear
+  to our eyes more red, and hotter stars appear more blue. As the mass and surface
+  temperature of a star, and therefore its colour, are linked, heavier stars are able
+  to “burn” at higher temperatures resulting in a blue glow from their surface.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2044a/L{1}X{2}Y{3}.png
+name: A Waterfall of Stars
+ra_hr: 10.043281638987184
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2044a/thumb.jpg
+zoom_level: 0.5619562306197055
+---
+_uuid: 33595d01-8210-4ea4-9b43-299b79e74b7e
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 29.501866126019866
+description: This image shows the spiral galaxy NGC 3254, observed using Hubble's
+  Wide Field Camera 3 (WFC3). WFC3 has the capacity to observe ultraviolet, visible
+  and near-infrared light, and this image is a composite of observations taken in
+  the visible and infrared. In this image, NGC 3254 looks like a typical spiral galaxy,
+  viewed side-on. However, NGC 3254 has a fascinating secret that it is hiding in
+  plain sight — it is a Seyfert galaxy, meaning that it has an extraordinarily active
+  core, known as an active galactic nucleus, which releases as much energy as the
+  rest of the galaxy put together. Seyfert galaxies are not rare — about 10% of all
+  galaxies are thought to be Seyfert galaxies. They belong to the class of “active
+  galaxies” — galaxies that have supermassive black holes at their centres that are
+  actively accreting material, which releases vast amounts of radiation as it is accreted.
+  There is a second, far more active, type of active galaxy that is known as a quasar.
+  The active cores of Seyfert galaxies, such as NGC 3254, are brightest when observed
+  in light outside the visible spectrum. At other wavelengths, this image would look
+  very different, with the galaxy’s core shining extremely brightly. Links Video of
+  A Galactic Powerhouse
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2124a/L{1}X{2}Y{3}.png
+name: A Galactic Powerhouse
+ra_hr: 10.48995357467
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2124a/thumb.jpg
+zoom_level: 0.345745753675954
+---
+_uuid: 322ed195-c911-4a75-8a32-8f924cd8cf41
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -41.62752364710206
+description: The spiral arms of the galaxy NGC 3318 are lazily draped across this
+  image from the NASA/ESA Hubble Space Telescope. This spiral galaxy lies in the constellation
+  Vela and is roughly 115 million light-years away from Earth. Vela was originally
+  part of a far larger constellation, known as Argo Navis after the fabled ship Argo
+  from Greek mythology, but this unwieldy constellation proved to be impractically
+  large. Argo Navis was split into three separate parts called Carina, Puppis, and
+  Vela — each named after part of the Argo. As befits a galaxy in a nautically inspired
+  constellation, the outer edges of NGC 3318 almost resemble a ship’s sails billowing
+  in a gentle breeze.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2203a/L{1}X{2}Y{3}.png
+name: Sail of Stars
+ra_hr: 10.621173968974627
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2203a/thumb.jpg
+zoom_level: 0.29505336840953433
+---
+_uuid: 9f8457b6-f9b3-4ab4-9a3e-dbd8412b8a5b
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 19.796986680259785
+description: Two merging galaxies in the VV689 system — nicknamed the Angel Wing —feature
+  in this image from the NASA/ESA Hubble Space Telescope. Unlike chance alignments
+  of galaxies which only appear to overlap as seen from our vantage point on Earth,
+  the two galaxies in VV689 are in the midst of a collision. The galactic interaction
+  has left the VV689 system almost completely symmetrical, giving the impression of
+  a vast set of galactic wings. This angelic image comes from a set of Hubble observations
+  inspecting the highlights of the Galaxy Zoo citizen science project. This crowdsourced
+  astronomy project relied on hundreds of thousands of volunteers to classify galaxies
+  and help astronomers wade through a deluge of data from robotic telescopes. In the
+  process, volunteers discovered a rogues’ gallery of weird and wonderful galaxy types,
+  some of which had not previously been studied. A similar, ongoing project called
+  Radio Galaxy Zoo is using the same crowdsourcing approach to locate supermassive
+  black holes in distant galaxies. Noteworthy objects from both projects were chosen
+  for detailed follow-up observations with Hubble’s Advanced Camera for Surveys. In
+  keeping with the crowdsourced nature of the Galaxy Zoo project, the targets for
+  follow-up observations with Hubble were chosen via roughly 18 000 votes cast by
+  the public. The selected targets include ring-shaped galaxies, unusual spirals,
+  and a striking selection of galaxy mergers such as VV689. Links Hubble Inspects
+  a Set of Galactic Wings (Cropped image)
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2216a/L{1}X{2}Y{3}.png
+name: Hubble Inspects a Set of Galactic Wings
+ra_hr: 10.026731281178984
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2216a/thumb.jpg
+zoom_level: 0.3754921512451068
+---
+_uuid: f0f52d18-1c12-431a-88a3-423c478f00a8
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: -0.9130799907034788
+description: 'Here we see JO204, a ‘jellyfish galaxy’ so named for the bright tendrils
+  of gas that appear in this image to be drifting lazily below JO204’s bright central
+  bulk. The galaxy lies almost 600 million light-years away in the constellation Sextans.
+  This image was captured by the NASA/ESA Hubble Space Telescope, and it is the third
+  of a series of Pictures of the Week featuring jellyfish galaxies. This series of
+  images is possible thanks to a survey in which observations were made of six of
+  these fascinating galaxies, including JO204. This survey was performed with the
+  intention of better understanding star formation under extreme conditions. Given
+  the dreamy appearance of this image, it would be understandable to wonder why jellyfish
+  galaxies should be such a crucible for star formation. The answer is that — as is
+  often the case with astronomy — first appearances can be deceiving. Whilst the delicate
+  ribbons of gas beneath JO204 may look like floating jellyfish tentacles, they are
+  in fact the outcome of an intense astronomical process known as ram pressure stripping.
+  Ram pressure is a particular type of pressure exerted on a body when it moves relative
+  to a fluid. An intuitive example is the sensation of pressure you experience when
+  you are standing in an intense gust of wind — the wind is a moving fluid, and your
+  body feels pressure from it. An extension of this analogy is that your body will
+  remain whole and coherent, but the more loosely bound things — like your hair and
+  your clothes — will flap in the wind. The same is true for jellyfish galaxies. They
+  experience ram pressure because of their movement against the intergalactic medium
+  that fills the spaces between galaxies in a galaxy cluster. The galaxies experience
+  intense pressure from that movement, and as a result their more loosely bound gas
+  is stripped away. This gas is mostly the colder and denser gas in the galaxy — gas
+  which, when stirred and compressed by the ram pressure, collapses and forms new
+  stars in the jellyfish’s beautiful tendrils. [Image Description: A spiral galaxy
+  in the centre is tilted almost edge-on. The bright core and spiral arms can just
+  be seen from the top. A slight glow surrounds it. Below, strands made of bright
+  blue patches trail down like tentacles. On the left it is just touched by a second,
+  faint and dim galaxy. The background is very dark, with only a few other stars and
+  tiny galaxies visible.] Links First science paper in the Astrophysical Journal Second
+  science paper in the Astrophysical Journal Pan: A jellyfish and the ram'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2315a/L{1}X{2}Y{3}.png
+name: A jellyfish and the ram
+ra_hr: 10.229737934031025
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2315a/thumb.jpg
+zoom_level: 0.21408476929226622
+---
+_uuid: 3d27130d-1c49-439f-b53d-f544aa9b4405
+classification: ''
+constellation: SEX
+data_set_type: Sky
+dec_deg: 3.1293435298991445
+description: 'This dream-like Picture of the Week features the galaxy known as NGC
+  3156. It is a lenticular galaxy, meaning that it falls somewhere between an elliptical
+  and a spiral galaxy. It lies about 73 million light-years from Earth, in the minor
+  equatorial constellation Sextans. Sextans is a small constellation that belongs
+  to the Hercules family of constellations. It itself is a constellation with an astronomical
+  theme, being named for the instrument known as the sextant. Sextants are often thought
+  of as navigational instruments that were invented in the 18th century. However,
+  the sextant as an astronomical tool has been around for much longer than that: Islamic
+  scholars developed astronomical sextants many hundreds of years earlier in order
+  to measure angles in the sky. A particularly striking example is the enormous sextant
+  with a radius of 36 metres that was developed by Ulugh Beg of the Timurid dynasty
+  in the fifteenth century, located in Samarkand in present-day Uzbekistan. These
+  early sextants may have been a development of the quadrant, a measuring device proposed
+  by Ptolemy. A sextant, as the name suggests, is shaped like one-sixth of a circle,
+  approximately the shape of the constellation. Sextants are no longer in use in modern
+  astronomy, having been replaced by instruments that are capable of measuring the
+  positions of stars and astronomical objects much more accurately and precisely.
+  NGC 3156 has been studied in many ways other than determining its precise position
+  — from its cohort of globular clusters, to its relatively recent star formation,
+  to the stars that are being destroyed by the supermassive black hole at its centre.
+  [Image Description: A large lenticular galaxy. It appears to be formed of faint,
+  grey, concentric ovals that grow progressively brighter towards the core, where
+  there is a very bright point, and fade away at the edge. Two threads of dark red
+  dust cross the galaxy’s disc, near the centre. The background is black and mostly
+  empty, with only a few point stars and small galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2337a/L{1}X{2}Y{3}.png
+name: Measure of a great galactic disc
+ra_hr: 10.211503554930088
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2337a/thumb.jpg
+zoom_level: 0.4099299919783089
+---
+_uuid: 84832460-dc53-412e-8133-5547a1dd545f
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 30.066742759992206
+description: 'This Hubble Picture of the Week — taken using the NASA/ESA Hubble Space
+  Telescope’s Advanced Camera for Surveys (ACS) — shows Arp 107, a celestial object
+  that comprises a pair of galaxies in the midst of a collision. The larger galaxy
+  (on the left of this image) is an extremely energetic galaxy of a type known as
+  a Seyfert galaxy, which house active galactic nuclei at their cores. Seyfert galaxies
+  are notable because, despite the immense brightness of the active core, radiation
+  from the entire galaxy can be observed. This is evident in this image, where the
+  spiraling whorls of the whole galaxy are readily visible. The smaller companion
+  is connected to the larger by a seemingly tenuous ‘bridge’, composed of dust and
+  gas. The colliding galactic duo lies about 465 million light-years from Earth. Arp
+  107 is included in a catalogue of 338 galaxies known as the Atlas of Peculiar Galaxies,
+  which was compiled in 1966 by Halton Arp. It was observed by Hubble as part of an
+  observing programme that specifically sought to fill in an observational ‘gap’,
+  by taking limited observations of members of the Arp catalogue. Part of the intention
+  of the observing programme was to provide the public with images of these spectacular
+  and not-easily-defined galaxies, and it has provided a rich source for Hubble Pictures
+  of the Week. In fact, several recent releases, including this one and this one,
+  have made use of observations from the same observing programme. [Image Description:
+  A pair of merging galaxies. The galaxy on the left has a single, large spiral arm
+  curving out from the core and around to below it, with very visible glowing dust
+  and gas. The right-hand galaxy has a bright core but only a bit of very faint material.
+  A broad curtain of gas connects the two galaxies’ cores and hangs beneath them.
+  A few small stars and galaxies are scattered around the black background.] Links
+  Pan: A peculiar proceeding'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2338a/L{1}X{2}Y{3}.png
+name: A peculiar proceeding
+ra_hr: 10.871339303304937
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2338a/thumb.jpg
+zoom_level: 0.48859289278635454
+---
+_uuid: 032ef791-6ae7-44f9-b572-69c22d183fe7
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 46.23743825000796
+description: 'This Hubble Picture of the Week includes the pithily-named galaxy SDSS
+  J103512.07+461412.2, visible in the centre of this image as a dispersed sweep of
+  dust and stars with a denser, brighter core. SDSS J103512.07+461412.2 is located
+  23 million light-years from Earth in the constellation Ursa Major. The seemingly
+  rambling name is because this galaxy was observed as part of the Sloan Digital Sky
+  Survey (SDSS), a massive survey that began in 2000 with the aim of observing and
+  cataloguing vast numbers of astronomical objects. So far, it has recorded several
+  hundred million astronomical objects. In the early days of astronomy catalogues,
+  astronomers painstakingly recorded individual objects one by one. As an example,
+  the Messier catalogue includes only 110 objects, identified by the astronomer Charles
+  Messier because they were all getting in the way of his comet-hunting efforts. As
+  the Messier catalogue is so limited, it is sufficient to simply refer to those objects
+  as M1 to M110. In contrast, when a survey as massive in scope as the SDSS is involved,
+  and when huge volumes of data need to be processed in an automated manner, the names
+  assigned to objects need to be both longer, and more informative. To that end, every
+  SDSS object has a designation that follows the format of: ‘SDSS J’, followed by
+  the right ascension (RA), and then the declination (Dec). RA and Dec define the
+  position of an astronomical object in the night sky. RA is analogous to longitude
+  here on Earth, whilst the Dec corresponds to latitude. To be more exact, RA measures
+  the longitudinal distance of an astronomical object from the point where the celestial
+  equator (the mid-point between the north and south celestial poles) intersects with
+  the ecliptic (the plane in which Earth orbits around the Sun). The entire night
+  sky is then carved into 24 slices, known as ‘hours’, measured eastwards from that
+  starting point (which is designated as zero hour). This means that the RA can be
+  expressed in ‘hours’, ‘minutes’ and ‘seconds’. Dec is the angle north or south of
+  the celestial equator, and is expressed in degrees. The RA and Dec of the objects
+  featured in each Hubble Picture of the Week can be found on the lower right side
+  of the webpage! Thus, the SDSS J103512.07+461412.2 name simply tells us that the
+  galaxy can be found 10 hours, 35 minutes and 12 seconds east of the zero-hour point
+  on the celestial equator, and just over 46 degrees to the north of the celestial
+  equator. So that lengthy name is really an identifier and a detailed location in
+  one! [Image Description: A galaxy in the centre of a wide view of space. It is surrounded
+  by a variety of differently-shaped small galaxies. A wide and very flat spiral galaxy,
+  and one star with four prominent diffraction spikes, are noticeable. The galaxy
+  itself is a broad horizontal streak of tiny stars, extending left and right from
+  a dense and bright core of stars in the centre.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2339a/L{1}X{2}Y{3}.png
+name: What’s in a name?
+ra_hr: 10.586777858508869
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2339a/thumb.jpg
+zoom_level: 0.2690574865174598
+---
+_uuid: 8ee3aac2-8f24-4aa8-8920-0f9872be2df5
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 34.446168705186565
+description: 'This gauzy-looking celestial body is UGC 5829, an irregular galaxy that
+  lies about 30 million light-years away. Despite there not being many observations
+  of this relatively faint galaxy, it has the distinction of having a descriptive
+  soubriquet: the Spider Galaxy. Perhaps the distorted galactic arms with their glowing,
+  star-forming tips bring to mind the clawed legs of an arachnid. Somewhat confusingly,
+  there is another, very similarly nicknamed but otherwise entirely distinct, galaxy
+  known as the Spiderweb Galaxy. This galaxy has also been more extensively imaged
+  (notably by Hubble), despite the fact that it lies about 300 times further from
+  Earth than the Spider Galaxy does. Fortunately, correct galaxy identification does
+  not depend on casual given names. Rather, known galaxies are recorded in at least
+  one catalogue — and often in several — such as the Uppsala General Catalogue of
+  Galaxies, which gives the Spider Galaxy its more formal title of UGC 5829. This
+  same galaxy also has several different designations in various other catalogues:
+  it is, for example, LEDA 31923 in the Lyon-Meudon Extragalactic Database; MCG+06-24-006
+  in the Morphological Catalogue of Galaxies; and SDSS J104242.78+342657.3 in the
+  Sloan Digital Sky Survey Catalogue. The Spiderweb Galaxy isn’t recorded in all of
+  the same catalogues — each is necessarily limited in scope — but it is included
+  in the LEDA catalogue as LEDA 2826829. It is evidently simpler to not conflate the
+  dull but distinct names LEDA 31923 and LEDA 2826829, than the fun but easily confused
+  Spider and Spiderweb! [Image Description: An irregular galaxy, consisting of a large
+  central body of dull-coloured stars, with distorted arms around it. The arms are
+  spotted with brightly glowing pink areas where stars are forming, and bluish gas
+  that is brighter than the galactic core. Two large arms flank the left and right
+  of the body, and smaller streams of stars emerge from the top. Other, distant, galaxies
+  can be seen on the edges of the image.] Links Pan of UGC 5829'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2412a/L{1}X{2}Y{3}.png
+name: The Spider (and not its web)
+ra_hr: 10.71168481514641
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2412a/thumb.jpg
+zoom_level: 0.493052697377492
+---
+_uuid: fbd44450-7d11-442f-9f28-f79776f57ab3
+classification: ''
+constellation: LMI
+data_set_type: Sky
+dec_deg: 32.95654334821362
+description: 'In this week’s Hubble Picture of the Week we are treated to a wonderfully
+  detailed snapshot of NGC 3430. A spiral galaxy, it lies 100 million light-years
+  from Earth in the constellation Leo Minor. Several other galaxies are located relatively
+  nearby to this one, just out of frame; one is close enough that gravitational interaction
+  is driving some star formation in NGC 3430. That NGC 3430 is such a fine example
+  of a galactic spiral may be why it ended up as part of the sample that Edwin Hubble
+  used to define his classification of galaxies. Namesake of the Hubble Space Telescope,
+  in 1926 he authored a paper which classified some four hundred galaxies by their
+  appearance — as either spiral, barred spiral, lenticular, elliptical or irregular.
+  This straightforward typology proved immensely influential, and the modern, more
+  detailed schemes that astronomers use today are still based on it. NGC 3430 itself
+  is an SAc galaxy, a spiral lacking a central bar with open, clearly-defined arms.
+  At the time of Hubble’s paper, the study of galaxies in their own right was in its
+  infancy. With the benefit of Henrietta Leavitt’s work on Cepheid variable stars,
+  Hubble had only a couple of years before settled the debate about whether these
+  ‘nebulae’, as they were called then, were situated within our galaxy or were distant
+  and independent. He himself referred to ‘extragalactic nebulae’ in his paper, indicating
+  that they lay beyond the Milky Way galaxy. Once it became clear that these distant
+  objects were very different from actual nebulae, the favoured term for a while was
+  the quite poetic ‘island universe’. While NGC 3430 may look as if it still deserves
+  this moniker, today we simply call it and the objects like it a ‘galaxy’. [Image
+  Description: A spiral galaxy with three prominent arms wrapping around it, and plenty
+  of extra gas and dark dust between the arms. There are shining blue points throughout
+  the arms and some patches of gas out beyond the galaxy’s edge, where stars are forming.
+  The centre of the galaxy also shines brightly. It is on a dark background where
+  some small orange dots mark distant galaxies.] Links Pan of NGC 3430'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2430a/L{1}X{2}Y{3}.png
+name: An island universe
+ra_hr: 10.8702586167591
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2430a/thumb.jpg
+zoom_level: 0.3782367779467425
+---
+_uuid: db063bca-5b3a-4517-b617-674d75981935
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 51.84606525541368
+description: 'The sparkling spiral galaxy gracing this NASA/ESA Hubble Space Telescope
+  Picture of the Week is UGC 5460, which sits about 60 million light-years away in
+  the constellation Ursa Major. This image combines four different wavelengths of
+  light to reveal UGC 5460’s central bar of stars, winding spiral arms and bright
+  blue star clusters. Also captured in the upper left-hand corner of this image is
+  a far closer object: a star just 577 light-years away in our own galaxy. UGC 5460
+  has hosted two recent supernovae named SN 2011ht and SN 2015as. It’s because of
+  these two stellar explosions that Hubble targeted this galaxy, collecting data for
+  three observing programmes that aim to study various kinds of supernovae. SN 2015as
+  was what’s known as a core-collapse supernova: a cataclysmic explosion that happens
+  when the core of a star far more massive than the Sun runs out of fuel and collapses
+  under its own gravity, initiating a rebound of material outside the core. Hubble
+  observations of SN 2015as will help researchers understand what happens when the
+  expanding shockwave of a supernova collides with the gas that surrounds the exploded
+  star. SN 2011ht might have been a core-collapse supernova as well, but it could
+  also be an impostor called a luminous blue variable. Luminous blue variables are
+  rare stars that experience eruptions so large that they can mimic supernovae. Crucially,
+  luminous blue variables emerge from these eruptions unscathed, while stars that
+  go supernova do not. Hubble will search for a stellar survivor at SN 2011ht’s location,
+  and the explosion’s identity may be revealed at last. [Image Description: A spiral
+  galaxy seen close to face-on. The centre of its disc is a bright, pale yellowish
+  oval shape. Spiral arms extend from either side of the oval through the disc on
+  irregular paths. They are marked throughout by bright bluish-white patches of stars.
+  Distant background galaxies appear as small orangish blobs around the spiral galaxy.
+  In the top-left corner a nearby star shines brightly, spikes radiating from it.]
+  Links Pan of UGC 5460'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2507a/L{1}X{2}Y{3}.png
+name: A spiral hiding an impostor
+ra_hr: 10.136064504805198
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2507a/thumb.jpg
+zoom_level: 0.4308682665487805
+---
+_uuid: f841907c-d22a-430e-ac89-3e77f35aee22
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -27.64844527763132
+description: 'The swirling spiral galaxy in this NASA/ESA Hubble Space Telescope Picture
+  of the Week is NGC 3285B, which resides 137 million light-years away in the constellation
+  Hydra (The Water Snake). Hydra has the largest area of the 88 constellations that
+  cover the entire sky in a celestial patchwork. It’s also the longest constellation,
+  stretching 100 degrees across the sky. It would take nearly 200 full Moons, placed
+  side by side, to reach from one side of the constellation to the other. NGC 3285B
+  is a member of the Hydra I cluster, one of the largest galaxy clusters in the nearby
+  Universe. Galaxy clusters are collections of hundreds to thousands of galaxies that
+  are bound to one another by gravity. The Hydra I cluster is anchored by two giant
+  elliptical galaxies at its centre. Each of these galaxies is about 150,000 light-years
+  across, making them about 50% larger than our home galaxy, the Milky Way. NGC 3285B
+  sits on the outskirts of its home cluster, far from the massive galaxies at the
+  centre. This galaxy drew Hubble’s attention because it hosted a Type Ia supernova
+  in 2023. Type Ia supernovae happen when a type of condensed stellar core called
+  a white dwarf detonates, igniting a sudden burst of nuclear fusion that briefly
+  shines about 5 billion times brighter than the Sun. The supernova, named SN 2023xqm,
+  is visible here as a blue-ish dot on the left edge of the galaxy’s disc. Hubble
+  observed NGC 3285B as part of an observing programme that targeted 100 Type Ia supernovae.
+  By viewing each of these supernovae in ultraviolet, optical, and near-infrared light,
+  researchers aim to disentangle the effects of distance and dust, both of which can
+  make a supernova appear redder than it actually is. This programme will help refine
+  cosmic distance measurements that rely on observations of Type Ia supernovae. [Image
+  Description: A spiral galaxy with a disc made up of several swirling arms. Patchy
+  blue clouds of gas are speckled over the disc, where stars are forming and lighting
+  up the gas around them. The core of the galaxy is large and shines brightly gold,
+  while the spiral arms are a paler and faint reddish colour. Neighbouring galaxies
+  - from small, elongated spots to larger swirling spirals - can be seen across the
+  black background.] Links Pan: NGC 3285B'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2529a/L{1}X{2}Y{3}.png
+name: Swirling spiral in Hydra
+ra_hr: 10.576810215348296
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2529a/thumb.jpg
+zoom_level: 0.3342488696914247
+---
+_uuid: 47e8f17f-5f00-4081-a3ed-abd7a53a7f94
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 17.27848444625193
+description: 'Today’s ESA/Hubble Picture of the Week features a galaxy that Hubble
+  has captured multiple times over more than 20 years. The galaxy is called NGC 3370,
+  and it is a spiral galaxy located nearly 90 million light-years away in the constellation
+  Leo (The Lion). What is it about this galaxy that makes it a popular target for
+  researchers? NGC 3370 is home to two kinds of objects that astronomers prize for
+  their usefulness in determining distances to faraway galaxies: Cepheid variable
+  stars and Type Ia supernovae. Cepheid variable stars change in both size and temperature
+  as they pulsate. As a result, the luminosity of these stars varies over a period
+  of days to months. It does so in a way that reveals something important: the more
+  luminous a Cepheid variable star is, the more slowly it pulsates. By measuring how
+  long a Cepheid variable’s brightness takes to complete one cycle, astronomers can
+  determine how bright the star actually is. Paired with how bright the star appears
+  from Earth, this information gives the distance to the star and its home galaxy.
+  Type Ia supernovae provide a way to measure distances in a single explosive burst
+  rather than through regular brightness variations. Type Ia supernovae happen when
+  the dead core of a star ignites in a sudden flare of nuclear fusion. These explosions
+  peak at very similar luminosities, and much like for a Cepheid variable star, knowing
+  the intrinsic brightness of a supernova explosion allows for its distance to be
+  measured. Observations of Cepheid variable stars and Type Ia supernovae are both
+  critical for precisely measuring how fast our Universe is expanding. A previous
+  Hubble image of NGC 3370 was released in 2003. The image released today zooms in
+  on the galaxy, presenting a richly detailed view that incorporates wavelengths of
+  light that were not included in the previous version. NGC 3370 is a member of the
+  NGC 3370 group of galaxies along with other Hubble targets NGC 3447 and NGC 3455.
+  [Image Description: A spiral galaxy occupies most of the image. It is a slightly
+  tilted disc of stars, yellow-white in the centre and blue in the outskirts, showing
+  light from different stars in the galaxy. Its spiral arms curl outwards from the
+  centre, speckled with blue star clusters. Dark reddish threads of dust swirl around
+  the galaxy’s centre. The backdrop is four medium-sized and many small, distant galaxies
+  on a black background.] Links Main image of NGC 3370'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2542b/L{1}X{2}Y{3}.png
+name: NGC 3370 (wide view)
+ra_hr: 10.78520364450984
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2542b/thumb.jpg
+zoom_level: 0.568357231896618
+---
 _uuid: 14f3b789-b3fe-45ac-81ea-47d200dfabe9
 classification: ''
 constellation: LEO
@@ -3811,6 +4517,111 @@ name: Cat’s Head Nebula (Webb MIRI image)
 ra_hr: 10.766517280031877
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2622d/thumb.jpg
 zoom_level: 0.6144770348530347
+---
+_uuid: f30f6814-af5f-4de0-a774-47b4ba21230a
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -26.1625847488253
+description: This galaxy, NGC 3109, is a somewhat nondescript — but fascinating —
+  member of our Local Group of galaxies. Located around four million light-years from
+  Earth in the constellation Hydra, it’s about 40,000 light-years across. Despite
+  its beautiful blue hues, this irregular dwarf galaxy appears featureless with no
+  central bulge or picturesque arms. However, spectroscopic analysis has shown that
+  NGC 3109 is one of the most metal-poor galaxies in the Local Group. For most of
+  us, metals are conductive, malleable elements like aluminum or copper, but to astronomers
+  metals are all elements other than hydrogen and helium — such as carbon, nitrogen
+  and oxygen. Stars consume hydrogen and helium to produce heavier elements. These
+  metals are released into the interstellar medium when a star dies and are found
+  in successive generations of stars. Metal-poor galaxies like NGC 3109 have a similar
+  composition to the stars — and therefore the galaxies — in the early Universe, so
+  they may provide insight into the chemical evolution of early galaxies. This Image
+  of the Week was taken by the Dark Energy Camera (DECam), which was built by the
+  U.S. Department of Energy and is mounted on the U.S. National Science Foundation
+  Víctor M. Blanco 4-meter Telescope at NSF Cerro Tololo Inter-American Observatory
+  (CTIO), a Program of NSF NOIRLab, in Chile.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2508a/L{1}X{2}Y{3}.png
+name: The Value of Being Metal-Poor
+ra_hr: 10.052312765353784
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2508a/thumb.jpg
+zoom_level: 2.9728586999216913
+---
+_uuid: 76134ffd-6449-43c1-bf73-75dd77c41e68
+classification: ''
+constellation: ANT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -35.36804526407724
+description: The Antlia Cluster (Abell S636) is a group of at least 230 galaxies located
+  about 130 million light-years away in the direction of the constellation Antlia
+  (the Air Pump). It hosts a rich variety of galaxy types, including lenticular galaxies,
+  irregular galaxies and ultra-compact dwarfs. The cluster is dominated by two massive
+  elliptical galaxies — NGC 3268 (center) and NGC 3258 (lower right). This image was
+  taken with the 570-megapixel Department of Energy-fabricated Dark Energy Camera
+  (DECam), mounted on the U.S. National Science Foundation (NSF) Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile, a Program
+  of NSF NOIRLab. It captures only a portion of the 230 of galaxies that so far have
+  been found to make up the Antlia Cluster. DECam’s ultra-deep view showcases the
+  variety of galaxies within and beyond the cluster in incredible detail.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2501a/L{1}X{2}Y{3}.png
+name: DECam Deep View of the Antlia Cluster
+ra_hr: 10.499234999457189
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2501a/thumb.jpg
+zoom_level: 5.935253376799686
+---
+_uuid: e4f57137-877b-4fd1-80b8-ef6dbb041acd
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 11.819831922822214
+description: 'Among the nearly four billion objects in the DESI Legacy Imaging Surveys’
+  map is Messier 96 (NGC 3368), a majestic spiral galaxy nestled in the constellation
+  Leo approximately 35 million light-years from Earth. Spanning 100,000 light-years,
+  slightly larger than our own Milky Way in size, it’s the brightest member of the
+  Messier 96 Group, the closest grouping of galaxies to our own Local Group. The Messier
+  96 data were extracted from the DESI Legacy Survey and captured by the U.S. Department
+  of Energy-fabricated Dark Energy Camera (DECam), a powerful CCD camera affixed to
+  the U.S. National Science Foundation (NSF) Víctor M. Blanco 4-meter Telescope at
+  NSF Cerro Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. The
+  asymmetrical appearance of Messier 96 hints at its history of gravitational interactions:
+  dark dust trails are distributed unevenly throughout the spiral arms, which appear
+  smeared in certain areas. Though it’s not obvious in this image, scientists agree
+  that the bright core is not exactly at the center of the galaxy where they would
+  expect it to be. These distorted spiral patterns and the misplaced central core
+  point to disruption caused by the gravitational pull exerted by other galaxies in
+  the Messier 96 Group that have drifted farther away from this preeminent group member.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2620a/L{1}X{2}Y{3}.png
+name: Messier 96 as Seen with DESI Legacy Survey
+ra_hr: 10.779995641510796
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2620a/thumb.jpg
+zoom_level: 2.227104282483854
+---
+_uuid: 66c37ec0-fa90-4995-a51b-6f7ba3a76130
+classification: ''
+constellation: SEX
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.6682492028990925
+description: Captured within this image is the newly discovered galaxy proto-supercluster
+  named COSMOS-z3.1-A. A proto-supercluster is a loose collection of galaxies that
+  will one day coalesce into a stable ‘cluster-of-clusters’ of galaxies. Having been
+  observed when the Universe was only 2.1 billion years old, COSMOS-z3.1-A is the
+  earliest, most distant proto-supercluster ever found, and it boasts an impressive
+  mass 5000 times that of the Milky Way Galaxy. COSMOS-z3.1-A was discovered using
+  data from the One-hundred-deg2 DECam Imaging in Narrowbands (ODIN) survey. This
+  survey is conducted with the DOE-fabricated Dark Energy Camera (DECam), mounted
+  on the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) in Chile, a program of NSF NOIRLab. The members of the proto-supercluster
+  are difficult to see in this image due to their expansive distribution against a
+  crowded background. View this annotated version of the image to see the members
+  of COSMOS-z3.1-A. See an animated 3D model of COSMOS-z3.1-A here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2622a/L{1}X{2}Y{3}.png
+name: Most distant galaxy proto-supercluster (unannotated)
+ra_hr: 10.053331620504306
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2622a/thumb.jpg
+zoom_level: 9.038432317417586
 ---
 _uuid: 34066141-80a6-4b72-9be6-1d656d316a43
 classification: ''

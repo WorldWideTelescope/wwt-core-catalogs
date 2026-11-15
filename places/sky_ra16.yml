@@ -2238,6 +2238,340 @@ name: Massive Young Stars Trigger Stellar Birth;RCW 108
 ra_hr: 16.6663888888889
 zoom_level: 4.5
 ---
+_uuid: ca590800-9b34-4877-a28b-908ea919a003
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.071545912209718
+description: 'On Earth, amethysts can form when gas bubbles in lava cool under the
+  right conditions. In space, a dying star with a mass similar to the Sun is capable
+  of producing a structure on par with the appeal of these beautiful gems.
+
+
+  As stars like the Sun run through their fuel, they cast off their outer layers and
+  the core of the star shrinks. Using NASA''s Chandra X-ray Observatory , astronomers
+  have found a bubble of ultra-hot gas at the center of one of these expiring stars,
+  a planetary nebula in our galaxy called IC 4593. At a distance of about 7,800 light
+  years from Earth, IC 4593 is the most distant planetary nebula yet detected with
+  Chandra.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2020-ic4593/L{1}X{2}Y{3}.png
+name: IC 4593
+ra_hr: 16.19571248122389
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2020-ic4593/thumb.jpg
+zoom_level: 0.05424972032833971
+---
+_uuid: 964618d9-9fb8-4aba-9734-07c12900145c
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -10.544860218725326
+description: 'Zeta Ophiuchi is a star with a complicated past, having likely been
+  ejected from its birthplace by a powerful stellar explosion. A new look by NASA''s
+  Chandra X-ray Observatory helps tell more of the story of this runaway star.
+
+
+  Located about 440 light-years from Earth, Zeta Ophiuchi is a hot star that is 20
+  times more massive than the Sun. Previous observations have provided evidence that
+  Zeta Ophiuchi was once in close orbit with another star, before being ejected at
+  about 100,000 miles per hour when this companion was destroyed in a supernova explosion
+  over a million years ago. Previously released infrared data from NASA''s now-retired
+  Spitzer Space Telescope, seen in this new composite image, reveals a spectacular
+  shock wave (red and green) that was formed by matter blowing away from the star''s
+  surface and slamming into gas in its path. Data from Chandra shows a bubble of X-ray
+  emission (blue) located around the star, produced by gas that has been heated by
+  the effects of the shock wave to tens of millions of degrees.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-zetaoph/L{1}X{2}Y{3}.png
+name: Zeta Ophiuchi
+ra_hr: 16.62043462815019
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-zetaoph/thumb.jpg
+zoom_level: 6.149525794395171
+---
+_uuid: f983bcfa-ae00-4e79-bc44-afec0a4fda5e
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.213311681401706
+description: This image shows the L1688 region in the Ophiuchus constellation. New
+  stars are born in the colourful clouds of gas and dust seen here. The infrared observations
+  underlying this image reveal new details in the star-forming regions that are usually
+  obscured by the clouds of dust. The image was produced with data collected by the
+  VIRCAM instrument, which is attached to the VISTA telescope at ESO’s Paranal Observatory
+  in Chile. The observations were done as part of the VISIONS survey, which will allow
+  astronomers to better understand how stars form in these dust-enshrouded regions.
+  This 520-million-pixel image can be explored in more detail with this zoomable version.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307a/L{1}X{2}Y{3}.png
+name: An infrared view of the L1688 region in Ophiuchus
+ra_hr: 16.48110176855313
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307a/thumb.jpg
+zoom_level: 16.75542617993637
+---
+_uuid: cdab766d-8d86-4eb9-a5e0-150e55bceca5
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.12809903189787
+description: This image shows the region Lupus 3. New stars are born in the colourful
+  clouds of gas and dust seen here. The infrared observations underlying this image
+  reveal new details in the star-forming regions that are usually obscured by the
+  clouds of dust. The image was produced with data collected by the VIRCAM instrument,
+  which is attached to the VISTA telescope at ESO’s Paranal Observatory in Chile.
+  The observations were done as part of the VISIONS survey, which will allow astronomers
+  to better understand how stars form in these dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307c/L{1}X{2}Y{3}.png
+name: An infrared view of the Lupus 3 region
+ra_hr: 16.158090795268176
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307c/thumb.jpg
+zoom_level: 5.856951141012168
+---
+_uuid: 408b7462-dbe2-4877-9a86-1e0ea1cf17e3
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.213311681401706
+description: This image shows the environment around the L1688 star-forming region
+  in visible light. This area, located in the Ophiuchus constellation, features prominent
+  dark lanes and glowing nebulae. This image was taken from ESO’s Paranal Observatory
+  with a 10-cm Takahashi FSQ106Ed f/3.6 telescope and a SBIG STL CCD camera, as part
+  of the Gigagalaxy Zoom project.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307g/L{1}X{2}Y{3}.png
+name: The L1688 region in visible light
+ra_hr: 16.48110176855313
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307g/thumb.jpg
+zoom_level: 16.75542617993637
+---
+_uuid: 302a34ab-dfca-4676-afc2-e93f909bdca7
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.38611
+description: Fittingly nicknamed the Dark Wolf Nebula, this cosmic cloud was captured
+  in a 283-million-pixel image by the VLT Survey Telescope (VST) at ESO’s Paranal
+  Observatory in Chile. Located around 5300 light-years from Earth, the cold clouds
+  of cosmic dust create the illusion of a wolf-like silhouette against a colourful
+  backdrop of glowing gas clouds.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2416a/L{1}X{2}Y{3}.png
+name: The Dark Wolf Nebula
+ra_hr: 16.902778
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2416a/thumb.jpg
+zoom_level: 10.2002694024
+---
+_uuid: 922dfc58-9c73-463c-b4cf-59e705ec3793
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 26.885156897254813
+description: 'There are several galaxies in this Picture of the Week, but the most
+  fascinating is probably the one surrounded by four light-blue dots, resembling a
+  flower with blue petals. But, are these dots real? Yes and no… Taken with ESO’s
+  Very Large Telescope (VLT), this image shows a so-called Einstein Cross. The four
+  ‘petals’ are images of a distant galaxy hidden behind the orange galaxy at the centre.
+  Something very fascinating happens to allow us to detect the light from this hidden
+  object: the galaxy at the centre acts as a gravitational lens, bending the light
+  emitted from the distant galaxy around it. As a result, we see several images of
+  the distant galaxy, distorted and magnified. In the special configuration of these
+  two galaxies, the hidden one appears as four images around the central ‘lens’ galaxy,
+  forming a cross-like (or flower-like) pattern dubbed an Einstein Cross. Gravitational
+  lensing thus allows us to discover hidden galaxies that would be otherwise invisible
+  to us. The observations of this system were conducted with the Multi Unit Spectroscopic
+  Explorer (MUSE) instrument at ESO’s VLT in Chile. MUSE splits the light coming from
+  every point within the area being observed into a rainbow or spectrum, which provides
+  astronomers with a wealth of information about the objects within the field of view.
+  The results of these observations, presented in a new paper led by Aleksandar Cikota
+  at the Gemini Observatory in Chile, show that the distant galaxy is forming stars
+  at a rapid rate[1]. Since light left the galaxy when the Universe was about 20%
+  of its current age, studying it provides clues about how galaxies formed in the
+  early Universe. Note [1] The expansion of the Universe makes distant galaxies appear
+  redder than if they were closer to us. That being said, the four images of the distant
+  galaxy here look blue due to the presence of young stars. The lens galaxy at the
+  centre is closer to us, but it looks red as it’s largely composed of old stars.
+  Link Closeup of the Einstein Cross.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2337b/L{1}X{2}Y{3}.png
+name: A flower with four petals (full field of view)
+ra_hr: 16.883578079434375
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2337b/thumb.jpg
+zoom_level: 0.17139804427005145
+---
+_uuid: 5caa6566-3360-4dee-8585-9e07299b7b02
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 58.94583762546869
+description: Some galaxies are closer friends than others. While many live their own
+  separate, solitary lives, others stray a little too close to a near neighbour and
+  take their relationship to the next level. The two galaxies featured in this Picture
+  of the Week, named NGC 6285 (left) and NGC 6286 (right), have done just that! Together,
+  the duo is named Arp 293 and they are interacting, their mutual gravitational attraction
+  pulling wisps of gas and streams of dust from them, distorting their shapes, and
+  gently smudging and blurring their appearances on the sky — to Earth-based observers,
+  at least. The NASA/ESA Hubble Space Telescope has viewed a number of interacting
+  pairs. These can have distinctive, beautiful, and downright odd shapes, ranging
+  from sheet music to a spaceship entering a sci-fi-esque wormhole, a bouquet of celestial
+  blooms, and a penguin fiercely guarding its precious egg. Arp 293 is located in
+  the constellation of Draco (The Dragon), and lies over 250 million light-years from
+  Earth.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1947a/L{1}X{2}Y{3}.png
+name: A Close Relationship
+ra_hr: 16.97422744796094
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1947a/thumb.jpg
+zoom_level: 0.3100258756872283
+---
+_uuid: eafbf8e1-fe16-40dc-970f-7a85c0476d50
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 43.96149821852638
+description: 'This luminescent image features multiple galaxies, perhaps most noticeably
+  LEDA 58109, the lone galaxy in the upper right. LEDA 58109 is flanked by two further
+  galactic objects to its lower left — an active galactic nucleus (AGN) called SDSS
+  J162558.14+435746.4 that partially obscures the galaxy SDSS J162557.25+435743.5,
+  which appears to poke out to the right behind the AGN. Galaxy classification is
+  sometimes presented as something of a dichotomy: spiral and elliptical. However,
+  the diversity of galaxies in this image alone highlights the complex web of galaxy
+  classifications that exist, including galaxies that house extremely luminous AGNs
+  at their cores, and galaxies whose shapes defy the classification of either spiral
+  or elliptical. The sample of galaxies here also illustrates the wide variety of
+  names that galaxies have: some relatively short, like LEDA 58109, and some very
+  long and challenging to remember, such as the two galaxies to the left. This is
+  due to the variety of cataloguing systems that chart the celestial objects in the
+  night sky. No one catalogue is exhaustive, and they cover overlapping regions of
+  the sky, so that many galaxies belong to several different catalogues. For example,
+  the galaxy on the right is LEDA 58109 in the LEDA galaxy database, but is also known
+  as MCG+07-34-030 in the MCG galaxy catalogue, and SDSS J162551.50+435747.5 in the
+  SDSS galaxy catalogue — the same catalogue that also lists the two galaxies to the
+  left. Links Video of Follow the LEDA'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2230a/L{1}X{2}Y{3}.png
+name: Follow the LEDA
+ra_hr: 16.431741731437715
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2230a/thumb.jpg
+zoom_level: 0.40580654815521267
+---
+_uuid: cfdd23e3-3187-401e-ab4b-1e13cf95692f
+classification: ''
+constellation: ARA
+data_set_type: Sky
+dec_deg: -46.143909284233814
+description: 'The protostellar object OH 339.88-1.26, which lies 8 900 light-years
+  from Earth in the constellation Ara, lurks in this dust-filled image from the NASA/ESA
+  Hubble Space Telescope. Winding lanes of dark dust thread through this image, which
+  is also studded with bright stars crowned with criss-crossing diffraction spikes.
+  The dark vertical streak at the centre of this image hides OH 339.88-1.26, which
+  is an astrophysical maser. A maser — which is an acronym for “microwave amplification
+  by stimulated emission of radiation” — is essentially a laser that produces coherent
+  light at microwave wavelengths. Such objects can occur naturally in astrophysical
+  situations, in environments ranging from the north pole of Jupiter to star-forming
+  regions such as the one pictured here. This image comes from a set of Hubble observations
+  that peer into the hearts of regions where massive stars are born to constrain the
+  nature of massive protostars and test theories of their formation. Astronomers turned
+  to Hubble’s Wide Field Camera 3 to explore the massive protostar G339.88-1.26, which
+  is estimated to be about 20 times the mass of the Sun and is lurking in the dusty
+  clouds in the center of the image. The Hubble observations were supported by other
+  state-of-the-art observatories including ALMA, the Atacama Large Millimeter/submillimeter
+  Array. ALMA is composed of 66 moveable high-precision antennas which can be arranged
+  over distances of up to 16 kilometres on a plateau perched high in the Chilean Andes.
+  Further data were contributed by the Stratospheric Observatory For Infrared Astronomy
+  (SOFIA), which is a telescope that — until recently — operated out of a converted
+  747 aircraft. [Image Description: The field is filled with hundreds of bright stars.
+  They are primarily blue in colour, with scattered smaller stars visible in yellow/orange.
+  The background is dominated by cloudy grey dust, with permeating regions of dark
+  black and orange.] Links Pan: Stellar cradle'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2335a/L{1}X{2}Y{3}.png
+name: Stellar cradle
+ra_hr: 16.867774704979986
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2335a/thumb.jpg
+zoom_level: 0.349978660464591
+---
+_uuid: 2cf84e17-baec-478d-8dfe-f9a24b50d2e3
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 17.7492271578706
+description: 'This Hubble Picture of the Week features Arp 122, a peculiar galaxy
+  that in fact comprises two galaxies — NGC 6040, the tilted, warped spiral galaxy
+  and LEDA 59642, the round, face-on spiral — that are in the midst of a collision.
+  This dramatic cosmic encounter is located at the very safe distance of roughly 570
+  million light-years from Earth. Peeking in at the corner is the elliptical galaxy
+  NGC 6041, a central member of the galaxy cluster that Arp 122 resides in, but otherwise
+  not participating in this monster merger. Galactic collisions and mergers are monumentally
+  energetic and dramatic events, but they take place on a very slow timescale. For
+  example, the Milky Way is on track to collide with its nearest galactic neighbour,
+  the Andromeda Galaxy (M31), but these two galaxies have a good four billion years
+  to go before they actually meet. The process of colliding and merging will not be
+  a quick one either: it might take hundreds of millions of years to unfold. These
+  collisions take so long because of the truly massive distances involved. Galaxies
+  are composed of stars and their solar systems, dust and gas. In galactic collisions,
+  therefore, these constituent components may experience enormous changes in the gravitational
+  forces acting on them. In time, this completely changes the structure of the two
+  (or more) colliding galaxies, and sometimes ultimately results in a single, merged
+  galaxy. That may well be what results from the collision pictured in this image.
+  Galaxies that result from mergers are thought to have a regular or elliptical structure,
+  as the merging process disrupts more complex structures (such as those observed
+  in spiral galaxies). It would be fascinating to know what Arp 122 will look like
+  once this collision is complete . . . but that will not happen for a long, long
+  time. [Image Description: Two spiral galaxies are merging together at the right
+  side of the image. One is seen face-on and is circular in shape. The other seems
+  to lie in front of the first one. This galaxy is seen as a disc tilted away from
+  the viewer and it is partially warped. In the lower-left corner, cut off by the
+  frame, a large elliptical galaxy appears as light radiating from a point. Various
+  small galaxies cover the background.] Links Pan: When one plus one (eventually)
+  equals one'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2402a/L{1}X{2}Y{3}.png
+name: When one plus one (eventually) equals one
+ra_hr: 16.075184477980063
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2402a/thumb.jpg
+zoom_level: 0.5272872228644399
+---
+_uuid: b122709e-bc4b-4785-b9a5-b6af6e1b378c
+classification: ''
+constellation: SCO
+data_set_type: Sky
+dec_deg: -40.062586176678835
+description: 'If the Hubble Picture of the Week from two weeks ago was somewhat dim
+  and subtle in appearance, then this week’s image is a veritable riot of colour and
+  activity! It features a relatively close-by star-forming region known as IRAS 16562-3959
+  that lies within the Milky Way in the constellation Scorpius, about 5900 light-years
+  from Earth. This image was compiled using observations from Hubble’s Wide Field
+  Camera 3 (WFC 3). The detailed nuances of colour are possible because of the four
+  separate filters that were used to collect the data. Filters are thin slivers of
+  highly specialised material that only allow very specific wavelengths of light through.
+  They can be slid in front of the part of the telescope that is sensitive to light,
+  letting astronomers control which wavelengths of light the telescope collects with
+  each observation. This is useful not only for specific scientific research, but
+  also for the creation of images like this one. Raw telescope observations are always
+  monochrome, regardless of which filter was used. However, specially trained artists
+  and image specialists can select colours that match the wavelength range covered
+  by individual filters. Or, in the case where a direct match is not possible — such
+  as for the data used in this image, which are all in the infrared regime, which
+  human eyes are not sensitive to — the artist can select a colour that sensibly represents
+  what is taking place. For example, they might assign bluer colours to shorter wavelengths
+  and redder colours to longer wavelengths, as is the case in the visible light range.
+  Then, data from multiple filters can be combined to build up a multi-colour image,
+  that both looks beautiful and has scientific meaning. At the centre of the image,
+  IRAS 16562-3959 is thought to host a massive star — about 30 times the mass of our
+  Sun — that is still in the process of forming. At the near-infrared wavelengths
+  to which Hubble is sensitive, the central region appears dark because there is so
+  much obscuring dust in the way. However near-infrared light leaks out mainly on
+  two sides — upper left and lower right — where a powerful jet from the massive protostar
+  has cleared away the dust. Multi-wavelength images including this incredible Hubble
+  scene will help us gain a better understanding of how the most massive, brightest
+  stars in our galaxy are born. [Image Description: A nebula with stars. The centre
+  of the image from top-left to bottom-right glows brightly with light from where
+  new stars are being formed, and is partially covered by dark dust. Coloured layers
+  of gas and dust billow out across the rest of the image. The nebula is speckled
+  with foreground stars with large diffraction spikes.] Links Pan: Colouring what
+  human eyes can’t see'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2407a/L{1}X{2}Y{3}.png
+name: Colouring what human eyes can’t see
+ra_hr: 16.994680083490447
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2407a/thumb.jpg
+zoom_level: 0.37876686123608094
+---
 _uuid: 34142258-3c86-4a67-b1b0-779c2b7e68d9
 classification: ''
 constellation: OPH
@@ -2365,3 +2699,144 @@ name: Wolf-Rayet Apep (MIRI Image)
 ra_hr: 16.014016711779075
 thumbnail: https://data1.wwtassets.org/feeds/jwst/wolf-rayet-apep/thumb.jpg
 zoom_level: 0.1987192047475505
+---
+_uuid: 3aa757b0-21bc-4a49-9a48-2826bfc53176
+classification: ''
+constellation: OPH
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 2.4014215969738086
+description: A detailed image of NGC 6240 taken by the Dark Energy Camera (DECam).
+  DECam was made by the U.S. Department of Energy (DOE) and is mounted on the Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2342c/L{1}X{2}Y{3}.png
+name: NGC 6240 taken by the Dark Energy Camera
+ra_hr: 16.883002573910527
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2342c/thumb.jpg
+zoom_level: 1.2567247677054563
+---
+_uuid: 7e739e60-97ed-4b18-8600-0ccd64ed2e27
+classification: ''
+constellation: ARA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -48.709707121366776
+description: The Fighting Dragons of Ara, formally designated NGC 6188, is an emission
+  nebula located about 4000 light-years away near the edge of a large molecular cloud
+  in the constellation Ara (the Altar). The nebula was given its name for its resemblance
+  to two ‘dragons’ emerging from within the ominous dark dust clouds to face off with
+  one another. This image is of their ‘profiles’ pointed squarely at each other, captured
+  by the DOE-built Dark Energy Camera (DECam) mounted on the Víctor M. Blanco 4-meter
+  Telescope at the U.S. National Science Foundation Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab. The reddish glow of the dragons’ backs is ionized hydrogen,
+  ‘lit up’ by light from the bright young stars — only a few million years old — in
+  the nebula. Of these young stars, 27 form the beaming open cluster NGC 6193 (in
+  the upper left quadrant of the image, left of the image’s centerline), which gives
+  a background glow that further defines the outline of the dragons. These young stars
+  have also been blowing off intense stellar winds since they ignited, sculpting and
+  shaping the gas and dust into the mythical ‘duel’ that we see today. This image
+  was obtained by NOIRLab’s Communication, Education & Engagement team as part of
+  the NOIRLab Legacy Imaging Program. You can view a close-up of this shot here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2528b/L{1}X{2}Y{3}.png
+name: Dueling Dust Dragons (in Space!)
+ra_hr: 16.67257181997701
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2528b/thumb.jpg
+zoom_level: 4.880312982167362
+---
+_uuid: 12a338a0-872d-424c-b004-527a3d84613f
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -23.07549938988762
+description: This image shows a small region of the sky in the direction of the Upper
+  Scorpius constellation. It zooms in on a recently discovered free-floating planet,
+  meaning a planet that does not orbit a star but instead roams freely on its own.
+  The free-floating planet is the tiny, bright red dot at the very centre of the image.
+  The image was created by combining data from the OmegaCam instrument on VLT Survey
+  Telescope (VST) and from the VIRCAM instrument on the Visible and Infrared Survey
+  Telescope for Astronomy (VISTA), both located at ESO’s Paranal Observatory in Chile.
+  Observations with these and other instruments helped the scientists tell the planets
+  apart from stars, brown dwarfs and other objects in this region of the sky. Lurking
+  far away from any star illuminating them, free-floating planets would normally be
+  impossible to image, but shortly after formation they emit a faint glow that can
+  be detected by sensitive cameras on powerful telescopes.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2131b/L{1}X{2}Y{3}.png
+name: The faint red glow of a free-floating planet
+ra_hr: 16.136944360679074
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2131b/thumb.jpg
+zoom_level: 1.2355028644797237
+---
+_uuid: 492fcee0-1891-446a-ab1f-894e09a9986a
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -22.48518101611762
+description: The dusty disk around HD 145718 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212h/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 145718
+ra_hr: 16.219886668149577
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212h/thumb.jpg
+zoom_level: 0.007172331669374256
+---
+_uuid: e2c7d446-d1cb-42b6-9658-24830e80578c
+classification: ''
+constellation: LUP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.156063241480034
+description: The two young, low-mass proto-stars HR 5999 and HR 6000 illuminate nearby
+  dust, creating the reflection nebula Bernes 149. These stars grew out of the dusty
+  dark cloud of Lupus 3, part of a larger complex of as many as nine dark clouds.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2313a/L{1}X{2}Y{3}.png
+name: Reflection Nebula Bernes 149 in Dark Cloud Lupus 3
+ra_hr: 16.13960034740264
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2313a/thumb.jpg
+zoom_level: 9.896132736045367
+---
+_uuid: 2eb509c2-72be-4b1e-8e8e-ac5a4edbf79d
+classification: ''
+constellation: CRB
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 31.034500491135958
+description: Using a combination of telescopes, astronomers have discovered the largest
+  radio jet ever found in the early Universe. The jet was first identified using the
+  international Low Frequency Array (LOFAR) Telescope, a network of radio telescopes
+  throughout Europe. Follow-up observations in the near-infrared with the Gemini Near-Infrared
+  Spectrograph (GNIRS), and in the optical with the Hobby Eberly Telescope, were obtained
+  to paint a complete picture of the radio jet and the quasar producing it. GNIRS
+  is mounted on the Gemini North telescope, one half of the International Gemini Observatory,
+  funded in part by the U.S. National Science Foundation and operated by NSF NOIRLab.
+  A portion of this image was taken as part of the DECam Legacy Survey (DECaLS), one
+  of three public surveys that jointly imaged 14,000 square degrees of sky to provide
+  targets for the ongoing Dark Energy Spectroscopic Instrument (DESI) Survey. DECals
+  was conducted using the 570-megapixel Department of Energy-fabricated Dark Energy
+  Camera (DECam), mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO) in Chile, a
+  Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/L{1}X{2}Y{3}.png
+name: Quasar J1601+3102
+ra_hr: 16.030443806624508
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2506c/thumb.jpg
+zoom_level: 0.044811441583180345
+---
+_uuid: a6bf0aaf-35f1-467d-90b9-eaab3b9f2a51
+classification: ''
+constellation: SCO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.287632653289412
+description: VLA image of Fast Radio Burst FRB 190520 (red), combined with optical
+  image, when the FRB is bursting.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/nrao/nrao21df05b/{1}/{3}/{3}_{2}.png
+name: FRB 20190520B and its host galaxy
+ra_hr: 16.034286371948873
+thumbnail: https://data1.wwtassets.org/feeds/nrao/nrao21df05b/thumb.jpg
+zoom_level: 0.0910022464818149

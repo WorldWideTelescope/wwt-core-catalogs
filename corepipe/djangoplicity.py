@@ -62,6 +62,23 @@ def fix_djangoplicity_json(obj):
     return obj
 
 
+_RUN_ON_ACK = re.compile(r"([^\s>'\"])((?:Acknowledge?ments?|Image [Pp]rocessing):)")
+
+
+def _separate_acknowledgement(text):
+    """
+    The sites show "Acknowledgement: ..." (and NOIRLab "Image processing: ...") on
+    its own line, but the API drops the
+    line break: "J. DalcantonAcknowledgement: Judy Schmidt". Put a separator back.
+    """
+
+    def rep(m):
+        prev = m.group(1)
+        return prev + (" " if prev in ".;:," else ". ") + m.group(2)
+
+    return _RUN_ON_ACK.sub(rep, text or "")
+
+
 class DjangoplicityImageSource(ImageSource):
     """
     An ImageSource that obtains its inputs from a query to a Djangoplicity website.
@@ -321,8 +338,8 @@ class DjangoplicityImageSource(ImageSource):
 
         builder.set_name(info["Title"])
         builder.imgset.credits_url = info["ReferenceURL"]
-        builder.imgset.credits = html.escape(info["Credit"])
-        builder.place.description = html.escape(info["Description"])
+        builder.imgset.credits = html.escape(_separate_acknowledgement(info["Credit"]))
+        builder.place.description = html.escape(_separate_acknowledgement(info["Description"]))
 
         # Annotation metadata
 

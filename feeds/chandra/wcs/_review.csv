@@ -1,0 +1,229 @@
+id,decision,why,where,size,src,rms_arcsec,fit_fov_arcmin,fact_fov_arcmin,min_offset_arcmin
+2018-a1033,tile-registered,,_hold_nowcs,2400x2395,legacy:r,0.77,7.54,7.4,3.19
+2018-a2142,hold,no registration,_hold_nowcs,3000x1351,,,,33.5,
+2018-a2597,hold,no registration,_hold_nowcs,2400x2406,,,,15.0,
+2018-alphacen,hold,no registration,_hold_nowcs,2400x1297,,,,2.0,
+2018-archives,hold,no registration,_hold_nowcs,3630x2400,,,,,
+2018-cdfs_bh,hold,no registration,_hold_nowcs,4400x4400,,,,0.15,
+2018-crab,keep-avm,AVM agrees with fact sheet,cache_done,3600x2338,AVM (TAN) from image.tif,,5.44,5.0,0.85
+2018-e0102,tile-registered,,cache_done,6292x6287,cda-hips,0.277,1.14,2.85,0.15
+2018-gcenter360,hold,no registration,_hold_nowcs,8640x4320,,,,,
+2018-gw170817,hold,no registration,_hold_nowcs,2400x2400,,,,0.5,
+2018-imbhs,tile-registered,,_hold_nowcs,2333x2400,hips:2mass,1.417,93.98,,0.69
+2018-j1354,hold,no registration,_hold_nowcs,3888x2917,,,,0.62,
+2018-j2150,hold,no registration,_hold_nowcs,2415x2414,,,,0.6,
+2018-kes75,tile-registered,,cache_done,2400x2400,ps1:r,0.275,5.64,6.5,0.66
+2018-kilonova,hold,no registration,_hold_nowcs,3600x3600,,,,41.0,
+2018-m16,tile-registered,,_hold_nowcs,2562x2550,press:heic1501a,0.043,4.16,2.5,0.29
+2018-m51,tile-registered,,_hold_nowcs,2200x2200,press:heic0506a,0.104,6.18,6.0,1.99
+2018-mrk1216,hold,no registration,_hold_nowcs,2400x1297,,,,0.65,
+2018-ngc6231,unpublish,unverified AVM disagrees with fact sheet,cache_done,2200x1080,AVM (TAN) from image.tif,,30.94,300.0,7.18
+2018-perseus,keep-avm,AVM agrees with fact sheet,cache_done,4400x4450,AVM (TAN) from image.tif,,29.53,42.0,8.06
+2018-ring,tile-registered,,cache_done,3600x3600,press:opo0415a,0.018,3.21,3.25,0.84
+2018-rwaur,hold,no registration,_hold_nowcs,7200x5100,,,,,
+2018-sgra_swarm,tile-registered,,cache_done,2400x2400,cda-hips,0.914,5.89,6.0,0.16
+2018-wdac,hold,no registration,_hold_nowcs,5100x3300,,,,,
+2019-20th,hold,no registration,_hold_nowcs,6850x4650,,,,4.0,
+2019-3blackholes,hold,no registration,_hold_nowcs,3300x3300,,,,0.6,
+2019-a1758,tile-registered,,_hold_nowcs,2400x2400,legacy:r,0.25,16.36,16.7,4.33
+2019-archives,hold,no registration,_hold_nowcs,3634x2400,,,,1.75,
+2019-bhfeedback,hold,no registration,_hold_nowcs,3432x1830,,,,2.0,
+2019-bhspin,hold,no registration,_hold_nowcs,5100x3300,,,,,
+2019-black_hole,hold,no registration,_hold_nowcs,2484x2317,,,,1.75,
+2019-cloaked,hold,no registration,_hold_nowcs,3683x2417,,,,13.3,
+2019-cluster_merge,hold,no registration,_hold_nowcs,2492x2396,,,,30.0,
+2019-cme,hold,no registration,_hold_nowcs,5100x2869,,,,,
+2019-coma,tile-registered,,_hold_nowcs,2700x1800,legacy:r,3.012,35.52,25.0,0.52
+2019-cyga,hold,no registration,_hold_nowcs,2400x1928,,,,2.5,
+2019-dark,hold,no registration,_hold_nowcs,5100x3300,,,,,
+2019-firstlight,tile-registered,,_hold_nowcs,3600x2686,press:heic0609a,0.105,8.13,8.4,0.21
+2019-fornax,hold,no registration,_hold_nowcs,3600x3600,,,,23.0,
+2019-gcenter,hold,no registration,_hold_nowcs,5400x2700,,,,,
+2019-gsn069,tile-registered,,_hold_nowcs,3279x3300,skyview:DSS2 Red,1.272,23.81,24.0,0.14
+2019-mrk1216,hold,no registration,_hold_nowcs,3300x1682,,,,1.0,
+2019-ngc3079,tile-registered,,_hold_nowcs,3281x1755,press:opo0128b,0.072,2.25,3.2,0.36
+2019-ngc6338,tile-registered,,cache_done,3600x3600,legacy:r,0.351,11.6,12.0,0.01
+2019-phoenix,tile-registered,,_hold_nowcs,3600x3600,legacy:r,0.151,0.74,0.75,0.48
+2019-quasars,hold,no registration,_hold_nowcs,2475x2475,,,,0.3,
+2019-teacup,hold,no registration,_hold_nowcs,2400x2400,,,,0.27,
+2019-tycho,tile-registered,,_hold_nowcs,2700x2702,skyview:DSS2 Red,0.559,12.13,12.0,0.63
+2019-whim,hold,no registration,_hold_nowcs,3300x2550,,,,,
+2019-xt2,hold,no registration,_hold_nowcs,3354x3025,,,,0.25,
+2020-3dmodels,hold,no registration,_hold_nowcs,4265x2400,,,,,
+2020-a2261,tile-registered,,_hold_nowcs,3600x3600,hips:2mass,0.861,3.01,3.0,1.33
+2020-a2384,tile-registered,,_hold_nowcs,3726x2755,skyview:DSS2 Red,1.806,51.27,50.0,3.91
+2020-archives,hold,no registration,_hold_nowcs,3634x2400,,,,12.75,
+2020-barnards,hold,no registration,_hold_nowcs,7200x5100,,,,,
+2020-bhjets,hold,no registration,_hold_nowcs,7200x5100,,,,1.7,
+2020-cdfsagn,hold,no registration,_hold_nowcs,8640x3939,,,,16.0,
+2020-crab3d,tile-registered,,_hold_nowcs,3300x3300,ps1:r,0.296,7.17,4.6,0.2
+2020-gcenter,hold,no registration,_hold_nowcs,4500x2531,,,,,
+2020-gsn069,hold,no registration,_hold_nowcs,5100x2736,,,,0.18,
+2020-hops383,hold,no registration,_hold_nowcs,3600x2550,,,,0.15,
+2020-ic4593,tile-registered,,_hold_nowcs,3300x3300,press:opo0733d,0.065,0.32,0.42,0.14
+2020-isotropic,hold,no registration,_hold_nowcs,3909x2847,,,,15.0,
+2020-j1049,hold,no registration,_hold_nowcs,2400x2400,,,,0.83,
+2020-kepler,tile-registered,,_hold_nowcs,3598x3603,cda-hips,0.694,6.94,7.0,0.01
+2020-lmxb,hold,no registration,_hold_nowcs,6720x4364,,,,,
+2020-m87,hold,no registration,_hold_nowcs,3215x2400,,,,0.75,
+2020-maxij1820,hold,no registration,_hold_nowcs,4376x2734,,,,2670.0,
+2020-ophiuchus,hold,no registration,_hold_nowcs,3000x3000,,,,25.2,
+2020-perseus,hold,no registration,_hold_nowcs,2845x2396,,,,8.0,
+2020-sonify,hold,no registration,_hold_nowcs,3300x3300,,,,32.0,
+2020-sonify2,tile-registered,,_hold_nowcs,3300x3810,legacy:r,0.5,7.44,7.5,1.86
+2020-terzan5,tile-registered,,_hold_nowcs,3926x2697,ps1:r,0.238,3.27,3.1,0.82
+2021-a1775,hold,no registration,_hold_nowcs,3600x3600,,,,19.4,
+2021-casa,hold,no registration,_hold_nowcs,7620x5743,,,,8.9,
+2021-dualagn,hold,no registration,_hold_nowcs,3300x3300,,,,0.21,
+2021-g344,hold,no registration,_hold_nowcs,2561x2561,,,,17.6,
+2021-gcenter,unpublish,unverified AVM disagrees with fact sheet,cache_done,3600x6982,AVM (TAN) from image.tif,,129.89,132.0,5585.85
+2021-ic443,hold,no registration,_hold_nowcs,4267x2400,,,,,
+2021-j1818,tile-registered,,_hold_nowcs,3600x3600,hips:wise,2.569,27.4,28.0,6.83
+2021-jet,hold,no registration,_hold_nowcs,5100x3300,,,,0.42,
+2021-m51,hold,no registration,_hold_nowcs,8624x4094,,,,6.0,
+2021-m87,hold,no registration,_hold_nowcs,4968x2702,,,,,
+2021-mgb2016,hold,no registration,_hold_nowcs,6816x6368,,,,0.17,
+2021-msh1552,tile-registered,,_hold_nowcs,4321x3961,cda-hips,1.208,21.68,6.64,5.44
+2021-nclump,tile-registered,,cache_done,6000x5994,hips:2mass,0.709,8.76,8.75,0.26
+2021-pne,hold,no registration,_hold_nowcs,3623x2408,,,,2.25,
+2021-pwn1987a,hold,no registration,_hold_nowcs,3972x1668,,,,0.07,
+2021-rbs797,hold,no registration,_hold_nowcs,6020x3000,,,,1.0,
+2021-sgrae,tile-registered,,_hold_nowcs,3091x2497,hips:2mass,0.945,2.36,5.0,3.46
+2021-sonify3,tile-registered,,_hold_nowcs,3968x3968,cda-hips,0.349,17.04,16.0,4.29
+2021-sonify4,tile-registered,,_hold_nowcs,3640x4557,skyview:DSS2 Red,1.223,7.5,7.5,2.34
+2021-superflares,hold,no registration,_hold_nowcs,8359x3697,,,,27.1,
+2021-uranus,hold,no registration,_hold_nowcs,4572x4572,,,,0.18,
+2021-v404cyg,tile-registered,,_hold_nowcs,6227x3532,skyview:DSS2 Red,1.727,33.47,35.0,2.59
+2022-a2146,hold,no registration,_hold_nowcs,4500x2532,,,,7.2,
+2022-a98,tile-registered,,cache_done,2009x4364,press:noao-abell98,0.061,6.14,6.14,3.22
+2022-archives,hold,no registration,_hold_nowcs,4840x2440,,,,4.2,
+2022-casa_streams,tile-registered,,_hold_nowcs,7483x5610,press:heic0609a,0.098,8.1,8.91,0.22
+2022-chandrawebb,hold,no registration,_hold_nowcs,4064x3971,,,,7.4,
+2022-etacar,hold,no registration,_hold_nowcs,3300x2550,,,,1.1,
+2022-g292,tile-registered,,_hold_nowcs,3600x3600,hips:wise,1.66,11.44,11.4,0.2
+2022-gw170817,hold,no registration,_hold_nowcs,5400x7200,,,,0.5,
+2022-h1821,hold,no registration,_hold_nowcs,3600x2564,,,,6.4,
+2022-hotjupiters,hold,no registration,_hold_nowcs,4800x2700,,,,0.5,
+2022-imbhs,hold,no registration,_hold_nowcs,6140x6140,,,,2.68,
+2022-j2030,hold,multi-panel suspect,_hold_nowcs,4800x1998,press:iotw2530a,0.134,10.15,5.8,4.14
+2022-mrk462,hold,no registration,_hold_nowcs,3526x1800,,,,0.25,
+2022-ngc3293,tile-registered,,_hold_nowcs,2548x2553,press:eso1422a,0.092,24.38,22.0,0.3
+2022-ngc4424,tile-registered,,_hold_nowcs,3911x2400,press:potw1713a,0.012,2.39,2.9,0.08
+2022-rcw36,hold,no registration,_hold_nowcs,3600x3593,,,,17.0,
+2022-sgra,tile-registered,,_hold_nowcs,3600x3600,press:sci26006a,0.033,0.88,0.92,0.06
+2022-snr0519,tile-registered,,_hold_nowcs,2056x1475,press:potw1317a,0.005,1.32,1.9,0.04
+2022-sonify5,hold,no registration,_hold_nowcs,2580x1300,,,,8.0,
+2022-sonify6,tile-registered,,_hold_nowcs,6073x6123,skyview:DSS2 Red,1.147,32.65,35.0,0.86
+2022-spiderweb,tile-registered,,_hold_nowcs,4093x2324,legacy:r,0.232,6.83,6.8,0.26
+2022-zetaoph,tile-registered,,_hold_nowcs,3600x3261,hips:wise,6.384,39.91,36.0,1.65
+2023-30dor,tile-registered,,_hold_nowcs,6137x3549,press:weic2212a,0.067,7.28,7.24,0.6
+2023-3c297,hold,no registration,_hold_nowcs,11281x6858,,,,0.4,
+2023-4snr,hold,no registration,_hold_nowcs,7200x5100,,,,0.77,
+2023-a2256,tile-registered,,_hold_nowcs,3076x2406,hips:sdss,0.813,24.22,22.5,1.52
+2023-archives,hold,no registration,_hold_nowcs,14112x9000,,,,96.0,
+2023-bh_pairs,hold,no registration,_hold_nowcs,4222x2228,,,,0.23,
+2023-cena,tile-registered,,_hold_nowcs,3600x3600,press:eso1221a,0.46,9.99,16.7,0.03
+2023-chandrawebb2,hold,no registration,_hold_nowcs,4200x3106,,,,3.8,
+2023-elgordo,tile-registered,,_hold_nowcs,4393x4397,press:elgordo1,0.019,2.2,2.3,0.32
+2023-etacar,tile-registered,,_hold_nowcs,3000x1957,cda-hips,0.232,1.76,2.2,0.03
+2023-gcenter,hold,no registration,_hold_nowcs,4200x4966,,,,13.0,
+2023-m84,tile-registered,,_hold_nowcs,3600x3257,cda-hips,0.419,5.84,9.0,0.32
+2023-msh1552,tile-registered,,_hold_nowcs,3000x2884,skyview:DSS2 Red,1.056,20.9,20.0,1.38
+2023-music,hold,no registration,_hold_nowcs,2701x3300,,,,32.0,
+2023-ngc2264,tile-registered,,_hold_nowcs,3000x3000,hips:2mass,2.929,76.52,77.0,6.53
+2023-ngc253,hold,multi-panel suspect,_hold_nowcs,7189x2342,press:noao-ngc253,0.39,60.6,30.0,15.53
+2023-ngc4839,hold,no registration,_hold_nowcs,6975x3202,,,,10.0,
+2023-sn1006,tile-registered,,_hold_nowcs,3012x3000,hips:2mass,1.074,39.81,34.0,0.81
+2023-sonify7,hold,no registration,_hold_nowcs,3300x2964,,,,4.2,
+2023-spiders,tile-registered,,_hold_nowcs,3600x3600,press:heic2409a,0.135,15.94,16.0,0.29
+2023-spt2215,hold,no registration,_hold_nowcs,3600x3600,,,,0.42,
+2023-tde,hold,no registration,_hold_nowcs,7200x5400,,,,,
+2023-tycho,tile-registered,,_hold_nowcs,2502x1878,skyview:DSS2 Red,0.717,18.03,16.0,0.62
+2023-uhz1,tile-registered,,_hold_nowcs,3000x2282,legacy:r,0.19,5.89,6.7,0.48
+2023-xbongs,hold,no registration,_hold_nowcs,2740x2740,,,,,
+2024-25th,hold,no registration,_hold_nowcs,3298x2550,,,,6.4,
+2024-30dorb,hold,no registration,_hold_nowcs,6000x6000,,,,5.0,
+2024-3c58,tile-registered,,_hold_nowcs,4403x1479,hips:sdss,0.434,11.84,12.0,0.09
+2024-ar,hold,no registration,_hold_nowcs,6300x6300,,,,4.8,
+2024-bcgs,hold,no registration,_hold_nowcs,7237x7237,,,,1.7,
+2024-beads,hold,no registration,_hold_nowcs,4803x3599,,,,1.5,
+2024-bhsim,hold,no registration,_hold_nowcs,3404x2334,,,,,
+2024-bhsnack,hold,no registration,_hold_nowcs,5100x3300,,,,0.17,
+2024-casa,tile-registered,,_hold_nowcs,4200x3386,press:heic0609a,0.134,7.69,8.0,0.14
+2024-cena,tile-registered,,_hold_nowcs,6000x5143,cda-hips,0.385,2.87,3.0,0.2
+2024-chandrawebb3,hold,no registration,_hold_nowcs,6303x6303,,,,6.4,
+2024-cygob2,hold,no registration,_hold_nowcs,3300x3404,,,,1.5,
+2024-deathstars,hold,no registration,_hold_nowcs,7336x3350,,,,2.0,
+2024-exoplanets,hold,no registration,_hold_nowcs,4000x2250,,,,,
+2024-football,hold,no registration,_hold_nowcs,3600x2700,,,,,
+2024-guitar,tile-registered,,_hold_nowcs,3600x2891,hips:2mass,0.655,3.11,2.6,0.94
+2024-h1821,hold,no registration,_hold_nowcs,2400x2400,,,,1.1,
+2024-lid568,hold,no registration,_hold_nowcs,4166x2691,,,,,
+2024-ngc602,tile-registered,,_hold_nowcs,5332x4622,press:weic2425b,0.05,2.75,3.0,0.09
+2024-snr1181,tile-registered,,_hold_nowcs,4350x4090,hips:2mass,0.595,6.61,5.6,0.17
+2024-sonify8,tile-registered,,_hold_nowcs,3600x2400,skyview:DSS2 Red,2.068,74.42,46.5,15.33
+2024-sonify9,hold,no registration,_hold_nowcs,6762x6942,,,,8.0,
+2024-ss433,hold,no registration,_hold_nowcs,3600x2572,,,,110.0,
+2024-tde,hold,no registration,_hold_nowcs,2690x3600,,,,5.0,
+2024-timelapse,tile-registered,,_hold_nowcs,3300x2550,cda-hips,0.692,6.51,8.0,1.71
+2024-vent,hold,no registration,_hold_nowcs,5140x5580,,,,120.0,
+2024-wd1,hold,no registration,_hold_nowcs,3012x2742,,,,6.6,
+2024-z8338,tile-registered,,_hold_nowcs,3300x2958,skyview:DSS2 Red,2.321,14.87,20.0,2.53
+2025-30dor,tile-registered,,_hold_nowcs,3798x2553,press:heic1206a,0.252,29.25,30.0,2.78
+2025-3dmodels,hold,no registration,_hold_nowcs,5333x3000,,,,8.0,
+2025-baby,hold,no registration,_hold_nowcs,4950x3300,,,,0.33,
+2025-bhtde,tile-registered,,cache_done,2506x1718,press:opo2515,0.002,0.41,0.42,0.01
+2025-bone,hold,no registration,_hold_nowcs,8240x7922,,,,26.0,
+2025-bullet,tile-registered,,_hold_nowcs,11235x4714,legacy:r,0.28,5.85,5.8,1.47
+2025-casa,tile-registered,,_hold_nowcs,4184x4040,cda-hips,0.384,9.49,12.2,1.41
+2025-champagne,tile-registered,,_hold_nowcs,4064x4064,legacy:r,0.296,4.18,4.2,0.74
+2025-cloud,hold,no registration,_hold_nowcs,4236x1596,,,,142.2,
+2025-cosmic,hold,no registration,_hold_nowcs,4500x4500,,,,2.1,
+2025-fall,hold,no registration,_hold_nowcs,5251x4347,,,,72.0,
+2025-fbot,tile-registered,,_hold_nowcs,3600x3600,legacy:r,0.188,0.9,0.9,0.11
+2025-filaments,hold,no registration,_hold_nowcs,7280x3658,,,,6.4,
+2025-g181,tile-registered,,_hold_nowcs,4193x4223,legacy:r,1.099,16.08,16.0,1.06
+2025-g287,hold,no registration,_hold_nowcs,3600x3590,,,,,
+2025-helix,tile-registered,,_hold_nowcs,3086x2100,legacy:r,3.997,26.11,25.0,0.4
+2025-holidays,hold,no registration,_hold_nowcs,6135x6964,,,,1.4,
+2025-infinity,keep-avm,AVM agrees with fact sheet,cache_done,4800x4800,AVM (TAN) from image.tif,,0.07,0.07,0.0
+2025-j1610,hold,no registration,_hold_nowcs,3000x2000,,,,0.18,
+2025-j1655,hold,no registration,_hold_nowcs,3600x2700,,,,,
+2025-lprt,hold,no registration,_hold_nowcs,5738x5516,,,,53.0,
+2025-m31,hold,no registration,_hold_nowcs,7500x6442,,,,192.0,
+2025-msh1552,tile-registered,,_hold_nowcs,3000x2884,skyview:DSS2 Red,0.571,20.93,22.0,1.38
+2025-ngc6099,unpublish,unverified AVM disagrees with fact sheet,cache_done,2278x1822,AVM (TAN) from image.tif,,1.5,1.5,16.61
+2025-red6,hold,no registration,_hold_nowcs,6000x4000,,,,0.35,
+2025-smbhs,hold,no registration,_hold_nowcs,6298x3224,,,,2.3,
+2025-sonify10,hold,no registration,_hold_nowcs,2612x2612,,,,2.2,
+2025-wolf359,hold,no registration,_hold_nowcs,3600x2700,,,,0.17,
+2025-xa,hold,no registration,_hold_nowcs,11367x7658,,,,4.0,
+2026-250th,tile-registered,,_hold_nowcs,4500x4772,hips:2mass,0.59,8.61,8.0,1.85
+2026-30dor,tile-registered,,_hold_nowcs,8999x8965,press:weic2212a,0.109,9.15,10.0,0.71
+2026-a2029,tile-registered,,_hold_nowcs,4031x4007,legacy:r,0.932,25.58,25.0,1.02
+2026-arms,hold,no registration,_hold_nowcs,6000x4000,,,,22.0,
+2026-astrosphere,hold,no registration,_hold_nowcs,7200x4658,,,,0.5,
+2026-at2016blu,tile-registered,,cache_done,4220x4220,legacy:r,0.447,7.93,12.0,1.62
+2026-bhgrowth,hold,no registration,_hold_nowcs,6150x3100,,,,0.72,
+2026-csc,tile-registered,,_hold_nowcs,3600x3600,cda-hips,0.4,9.94,8.4,0.85
+2026-dimming,hold,no registration,_hold_nowcs,7968x3466,,,,20.0,
+2026-galaxies,hold,no registration,_hold_nowcs,6000x4364,,,,4.4,
+2026-heart,tile-registered,,_hold_nowcs,4500x4534,hips:wise,1.738,23.04,23.0,0.41
+2026-kepler,tile-registered,,_hold_nowcs,7199x7199,hips:wise,1.399,7.11,7.2,0.33
+2026-lighthouse,tile-registered,,_hold_nowcs,3000x2510,hips:2mass,0.52,22.06,22.0,6.75
+2026-m101,tile-registered,,cache_done,8999x9011,legacy:r,0.582,13.05,14.0,0.57
+2026-m83,tile-registered,,_hold_nowcs,3000x3000,press:opo0929c,0.248,9.61,9.5,0.11
+2026-m87,hold,no registration,_hold_nowcs,3661x1921,,,,0.75,
+2026-nsmerger,hold,no registration,_hold_nowcs,4879x3267,,,,0.08,
+2026-protoc,hold,no registration,_hold_nowcs,2220x2069,,,,0.9,
+2026-rcw86,tile-registered,,_hold_nowcs,5400x5261,skyview:DSS2 Red,1.668,46.93,43.5,3.06
+2026-reaper,unpublish,unverified AVM disagrees with fact sheet,cache_done,3000x4034,AVM (TAN) from image.tif,,4.19,4.3,7193.87
+2026-redpotato,hold,no registration,_hold_nowcs,4500x3000,,,,0.33,
+2026-sgrae,hold,no registration,_hold_nowcs,3600x3600,,,,7.0,
+2026-sgrawind,hold,no registration,_hold_nowcs,3900x3890,,,,0.95,
+2026-sgrc,tile-registered,,_hold_nowcs,6000x5284,skyview:DSS2 Red,1.202,19.66,19.2,2.79
+2026-sonify11,hold,no registration,_hold_nowcs,4016x5014,,,,0.62,
+2026-spring,hold,no registration,_hold_nowcs,8021x4908,,,,2.1,
+2026-swift,hold,no registration,_hold_nowcs,5869x4504,,,,329.0,
+2026-trebleclef,keep-avm,AVM agrees with fact sheet,cache_done,7200x5361,AVM (TAN) from image.tif,,13.91,14.5,0.33
+2026-xraydot,hold,no registration,_hold_nowcs,1800x1800,,,,0.33,

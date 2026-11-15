@@ -6,6 +6,119 @@
   Searchable="True"
 >
   <ImageSet
+    BandPass="HydrogenAlpha"
+    BaseDegreesPerTile="0.5414452806071914"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="13.6951773805"
+    CenterY="-37.6858028314"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Spiral galaxy NGC 300 (H-alpha band)"
+    OffsetX="0.00042700541269350003"
+    OffsetY="0.007116756878225014"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="1.5702789260789576"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="5"
+    Url="http://data1.wwtassets.org/feeds/eso/eso0221c/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="eso|eso0221c"
+    Xcxstatus="in:6585a23519f6c100f1f685d1"
+  >
+    <Credits>ESO</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso0221c/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/eso0221c/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="HydrogenAlpha"
+    BaseDegreesPerTile="0.0568485888"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="5.382111"
+    CenterY="-48.625021"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 92 in H-alpha"
+    OffsetX="-0.009554712011265665"
+    OffsetY="-0.0059608856853830714"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="0.27749563431"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://data1.wwtassets.org/feeds/eso/eso0535b/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="eso|eso0535b"
+    Xcxstatus="in:661fef74befbe21fbdf49bbd"
+  >
+    <Credits>ESO</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso0535b/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/eso0535b/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="HydrogenAlpha"
+    BaseDegreesPerTile="0.1620713472"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="53.401355"
+    CenterY="-36.141181"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="NGC 1365 - H-alpha"
+    OffsetX="0.004630716698009685"
+    OffsetY="0.00042063534860461863"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-0.21430995564999997"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="4"
+    Url="http://data1.wwtassets.org/feeds/eso/eso9920g/L{1}X{2}Y{3}.png"
+    WidthFactor="2"
+    Xastropix_ids="eso|eso9920g"
+    Xcxstatus="queue:eso"
+  >
+    <Credits>ESO</Credits>
+    <CreditsUrl>https://www.eso.org/public/images/eso9920g/</CreditsUrl>
+    <ThumbnailUrl>http://data1.wwtassets.org/feeds/eso/eso9920g/thumb.jpg</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
+    BandPass="HydrogenAlpha"
+    BaseDegreesPerTile="2.13177763712908"
+    BaseTileLevel="0"
+    BottomsUp="False"
+    CenterX="94.2837748818337"
+    CenterY="22.5596775057159"
+    DataSetType="Sky"
+    ElevationModel="False"
+    FileType=".png"
+    Generic="False"
+    Name="Jellyfish Nebula (H-Alpha);IC 443"
+    Projection="Tan"
+    QuadTreeMap=""
+    Rotation="-4.14459999999999"
+    Sparse="True"
+    StockSet="False"
+    TileLevels="3"
+    Url="http://www.worldwidetelescope.org/wwtweb/tiles.aspx?q={1},{2},{3},1156276697"
+    WidthFactor="2"
+    Xcxstatus="in:649ceb6e1e6961df10c194a2"
+  >
+    <Credits>Don J. McCrady.</Credits>
+    <CreditsUrl>http://www.flickr.com/photos/djmccrady/377266975/</CreditsUrl>
+    <ThumbnailUrl>http://www.worldwidetelescope.org/wwtweb/thumbnail.aspx?name=1156276697</ThumbnailUrl>
+  </ImageSet>
+  <ImageSet
     AltUrl="http://r{S:0}.ortho.tiles.virtualearth.net/tiles/wts0000000120{Q}?g=131"
     BandPass="HydrogenAlpha"
     BaseDegreesPerTile="180"

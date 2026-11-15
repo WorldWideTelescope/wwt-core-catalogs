@@ -3344,6 +3344,754 @@ name: Ring Nebula
 ra_hr: 18.893333333333334
 zoom_level: 1.0
 ---
+_uuid: 288701b5-8a51-4a05-bb39-68bef2a4826a
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -2.9847239769038016
+description: 'Scientists have confirmed the identity of the youngest known pulsar
+  in the Milky Way galaxy using data from NASA''s Chandra X-ray Observatory . This
+  result could provide astronomers new information about how some stars end their
+  lives.
+
+
+  After some massive stars run out of nuclear fuel, then collapse and explode as supernovas
+  , they leave behind dense stellar nuggets called " neutron stars ". Rapidly rotating
+  and highly magnetized neutron stars produce a lighthouse-like beam of radiation
+  that astronomers detect as pulses as the pulsar''s rotation sweeps the beam across
+  the sky.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-kes75/L{1}X{2}Y{3}.png
+name: Kes 75
+ra_hr: 18.773969918201768
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-kes75/thumb.jpg
+zoom_level: 0.9584499809030802
+---
+_uuid: 3bb5744b-99f6-4219-8177-ad9e2368b162
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -13.835397755228799
+description: 'The Eagle Nebula, also known as Messier 16, contains the young star
+  cluster NGC 6611. It also the site of the spectacular star-forming region known
+  as the Pillars of Creation, which is located in the southern portion of the Eagle
+  Nebula.
+
+
+  Using Chandra, researchers detected over 1,700 individual sources of X-rays in the
+  Eagle Nebula.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-m16/L{1}X{2}Y{3}.png
+name: The Eagle Nebula (M16)
+ra_hr: 18.314622548887538
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-m16/thumb.jpg
+zoom_level: 0.7038786152107885
+---
+_uuid: a4850402-712c-4720-8498-cd88f6331604
+classification: ''
+constellation: HER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 49.9362725630396
+description: 'Astronomers using NASA’s Chandra X-ray Observatory have found a galaxy
+  cluster has two streams of superheated gas crossing one another. This result shows
+  that crossing the streams may lead to the creation of new structure.
+
+
+  Researchers have discovered an enormous, comet-like tail of hot gas — spanning over
+  1.6 million light-years long — trailing behind a galaxy within the galaxy cluster
+  called Zwicky 8338 (Z8338 for short). This tail, spawned as the galaxy had some
+  of its gas stripped off by the hot gas it is hurtling through, has split into two
+  streams.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-z8338/L{1}X{2}Y{3}.png
+name: Zwicky 8338
+ra_hr: 18.180236408339233
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-z8338/thumb.jpg
+zoom_level: 2.2770447215087857
+---
+_uuid: ec0484ec-3b61-43ba-aced-378716c2b389
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.736729631925392
+description: This image of the spectacular Sh2-54 nebula was taken in infrared light
+  using ESO’s VISTA telescope at Paranal Observatory in Chile. The clouds of dust
+  and gas that are normally obvious in visible light are less evident here, and in
+  this light we can see the light of the stars behind the nebulae now piercing through.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2301a/L{1}X{2}Y{3}.png
+name: The Sh2-54 nebula in the infrared with VISTA
+ra_hr: 18.29820627605409
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2301a/thumb.jpg
+zoom_level: 2.2065196502273006
+---
+_uuid: 2f4d8416-942a-4fae-965e-e064f591b826
+classification: ''
+constellation: SER2
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -11.736729631925392
+description: A visible-light image of the Sh2-54 nebula, captured by the VLT Survey
+  Telescope at ESO’s Paranal Observatory in Chile. At these wavelengths the structure
+  of the nebula is clear and the clouds of dust and gas block the light of stars within
+  and behind it.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2301b/L{1}X{2}Y{3}.png
+name: The Sh2-54 nebula in visible light with the VST
+ra_hr: 18.29820627605409
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2301b/thumb.jpg
+zoom_level: 2.2065196502273006
+---
+_uuid: 52858b84-4cc7-46c1-b9a5-536d254a18ef
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -16.672782661862787
+description: In this Picture of the Week, we take a deep plunge into the ocean of
+  stars in the IC4701 nebula. This nebula is located in the Sagittarius constellation,
+  and it is twice as wide as the full Moon in the sky. The energetic light from newly-born
+  stars ionizes the hydrogen gas in the nebula, causing it to emit the intense reddish
+  hue seen in this picture. The dark clouds in this image contain large amounts of
+  interstellar dust, too dense for the light of the background stars to pierce through
+  it. The IC4701 nebula is part of a rich and vast complex of dust and gas within
+  which new stars spring to life. When stars are born, most of them are cooler, redder,
+  and less massive than our own Sun. Hotter, more massive stars are much rarer, and
+  they quickly burn through all their fuel and die. This makes these brilliant blue
+  and massive stars, and their surrounding glowing gas, beacons of recent star formation.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2310a/L{1}X{2}Y{3}.png
+name: Plunge into a stellar ocean
+ra_hr: 18.276390184342556
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2310a/thumb.jpg
+zoom_level: 10.200188788869909
+---
+_uuid: cb59f986-b09c-40d8-a21b-d750d1e0e2c3
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: 1.2397815612164989
+description: This image shows only the feature which was nicknamed the Bat Shadow.
+  It is the shadow of a protoplanetary disc orbiting the star in the centre of the
+  image.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2012a/L{1}X{2}Y{3}.png
+name: Bat Shadow (2018 Observation)
+ra_hr: 18.49969697184502
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2012a/thumb.jpg
+zoom_level: 0.29629292134837343
+---
+_uuid: 33b80a6b-3da3-448f-99a3-912cb06f9546
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -22.74136448526472
+description: 'The glittering globular cluster Terzan 12 — a vast, tightly bound collection
+  of stars — fills the frame of this image from the NASA/ESA Hubble Space Telescope.
+  This star-studded stellar census comes from a string of observations that aim to
+  systematically explore globular clusters located towards the centre of our galaxy,
+  such as this one in the constellation Sagittarius. The locations of these globular
+  clusters — deep in the Milky Way galaxy — mean that they are shrouded in gas and
+  dust, which can block or alter the wavelengths of starlight emanating from the clusters.
+  Here, astronomers were able to sidestep the effect of gas and dust by comparing
+  the new observations made with the razor-sharp vision of Hubble''s Advanced Camera
+  for Surveys and Wide-Field Camera 3 with pre-existing images. Their observations
+  should shed light on the relation between age and composition in the Milky Way’s
+  innermost globular clusters. [Image Description: The frame is completely filled
+  with bright stars, ranging from tiny dots to large, shining stars with prominent
+  spikes. In the lower-right the stars come together in the core of the star cluster,
+  making the brightest and densest area of the image. The background varies from darker
+  and warmer in colour, to brighter and paler where there are more stars.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2308a/L{1}X{2}Y{3}.png
+name: Glittering globular cluster Terzan 12
+ra_hr: 18.204554728648823
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2308a/thumb.jpg
+zoom_level: 0.4088127674564122
+---
+_uuid: 47cf1119-7055-4166-944e-9f0096540d50
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -13.756574054389773
+description: 'This towering structure of billowing gas and dark, obscuring dust might
+  only be a small portion of the Eagle Nebula, but it is no less majestic in appearance
+  for it. 9.5 light-years tall and 7000 light-years distant from Earth, this dusty
+  sculpture is refreshed with the use of new processing techniques. The new Hubble
+  image is part of ESA/Hubble’s 35th anniversary celebrations. The cosmic cloud shown
+  here is made of cold hydrogen gas, like the rest of the Eagle Nebula. In such regions
+  of space new stars are born among the collapsing clouds. Hot, energetic and formed
+  in great numbers, the stars unleash an onslaught of ultraviolet light and stellar
+  winds that sculpt the gas clouds around them. This produces fantastical shapes like
+  the narrow pillar with blossoming head that we see here. The material in the pillar
+  is thick and opaque to light; it is highlighted at its edges by the glow of more
+  distant gas behind it. The blue colours of the background are dominated by emission
+  from ionised oxygen; the red colours lower down, glowing hydrogen. Orange colours
+  indicate starlight that has managed to break through the dust: bluer wavelengths
+  are blocked more easily by dust, leaving the redder light to pass through. The stars
+  responsible for carving this particular structure out of the stellar raw material
+  lie just out of view, at the Eagle Nebula’s centre. As the pressure of their intense
+  radiation batters and compresses the gas in this tower of clouds, it’s possible
+  that further star formation is being ignited within. While the starry pillar has
+  withstood these forces well so far, cutting an impressive shape against the background,
+  eventually it will be totally eroded by the multitude of new stars that form in
+  the Eagle Nebula. [Image Description: A tall, thin structure of dark gas clouds.
+  It is darker and broader at the base and broadens out again at the top, with spikes,
+  fingers and wisps of gas protruding in all directions from its head. Some parts
+  are illuminated, but most is dark, lit only at the edges from behind. A wall of
+  colourful gas lies behind it, bluish at the top and redder towards the bottom. Several
+  blue and gold stars are scattered across it.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2507a/L{1}X{2}Y{3}.png
+name: Eagle Nebula
+ra_hr: 18.32121139474559
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2507a/thumb.jpg
+zoom_level: 1.10332774223553
+---
+_uuid: 644c4fdc-d83f-4d65-a444-ec831a4cde9a
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -23.07417416182024
+description: 'The colours in this image from the NASA/ESA Hubble Space Telescope tell
+  a story about density in the Trifid Nebula, a star-forming region about 5000 light-years
+  from Earth. The top left, where it is bright blue, has the smallest amount of dust.
+  Here, powerful ultraviolet light stripped electrons from nearby gas, creating a
+  glow, with winds creating a bubble by clearing out surrounding dust. An example
+  of active cloud destruction is toward the top of the head-shaped area with two “horns.”
+  Bright yellow gas streams upward where gas and dust are being destroyed. Thicker
+  dust appears dark brown, like mud. In the far-right corner, which is nearly pitch
+  black, the dust is the densest. Fully formed stars (bright orange orbs) are scattered
+  across the scene. Their light and stellar winds have also cleared the immediate
+  areas around them. Over millions of years, the gas and dust that make up this nebula
+  (also known as Messier 20 or M20) will disappear and only stars will remain. [Image
+  description: A tightly cropped Hubble view of a vast star-forming region known as
+  the Trifid Nebula. The top left is bright blue. Brown and amber colours run from
+  top right through the center in irregular, overlapping lines to the bottom-center.
+  At bottom right, the view is almost black. Tiny, amber-coloured stars appear throughout
+  the scene. Toward the left there is a prominent brown shape that looks like a head
+  with two horns. The left horn points left and is wavy. The right horn is triangular
+  and points up. The brown dust continues, flowing down, as if along a back, and up
+  toward the top right. A prominent line, about the same length as the left horn,
+  appears below the middle of the body, and changes from orange to red. A small, separate
+  semi-transparent pillar is left of the head. A few slightly larger, blue foreground
+  stars with four diffraction spikes appear in the bottom half.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2608a/L{1}X{2}Y{3}.png
+name: Trifid Nebula (Wide Field Camera 3 Image)
+ra_hr: 18.041291581956486
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2608a/thumb.jpg
+zoom_level: 0.44266113452263833
+---
+_uuid: 1b176f45-a7ee-484b-a040-f4921fcf4c8c
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -22.70119562667286
+description: This star-studded image from the NASA/ESA Hubble Space Telescope depicts
+  NGC 6717, which lies more than 20 000 light-years from Earth in the constellation
+  Sagittarius. NGC 6717 is a globular cluster, a roughly spherical collection of stars
+  tightly bound together by gravity. Globular clusters contain more stars in their
+  centres than their outer fringes, as this image aptly demonstrates; the sparsely
+  populated edges of NGC 6717 are in stark contrast to the sparkling collection of
+  stars at its centre. The centre of the image also contains some interlopers from
+  closer to home. Bright foreground stars close to Earth are surrounded by criss-cross
+  diffraction spikes formed by starlight interacting with the structures supporting
+  Hubble’s secondary mirror. The area of the night sky which contains the constellation
+  Sagittarius also contains the centre of the Milky Way, which is filled with light-absorbing
+  gas and dust. This absorption of light — which astronomers refer to as extinction
+  — makes studying globular clusters near the Galactic centre a challenging endeavour.
+  To determine the properties of NGC 6717, astronomers relied on a combination of
+  Hubble’s Wide Field Camera 3 and the Advanced Camera for Surveys. Links Video of
+  A Glittering Globular Cluster
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2136a/L{1}X{2}Y{3}.png
+name: A Glittering Globular Cluster
+ra_hr: 18.91828938393176
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2136a/thumb.jpg
+zoom_level: 0.3289173577051653
+---
+_uuid: fe9fa0a7-6e27-4029-a93d-cd1687e3c9e0
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -31.764691195433137
+description: This glittering gathering of stars is the globular cluster NGC 6558,
+  and it was captured by the NASA/ESA Hubble Space Telescope’s Advanced Camera for
+  Surveys. NGC 6558 is closer to the centre of the Milky Way than Earth is, and lies
+  about 23 000 light years away in the constellation Sagittarius. Globular clusters
+  like NGC 6558 are tightly bound collections of tens of thousands to millions of
+  stars, and they can be found in a wide range of galaxies. As this observation shows,
+  the stars in globular clusters can be densely packed; this image is thronged with
+  stars in a rich variety of hues. Some of the brightest inhabitants of this globular
+  cluster are surrounded by prominent diffraction spikes, which are imaging artefacts
+  caused by starlight interacting with the inner workings of Hubble. Globular clusters
+  equip astronomers with interesting natural laboratories in which to test their theories,
+  as all the stars in a globular cluster formed at approximately the same time with
+  similar initial composition. These stellar clusters therefore provide unique insights
+  into how different stars evolve under similar conditions. This image comes from
+  a set of observations investigating globular clusters in the inner Milky Way. Astronomers
+  were interested in studying these globular clusters to gain greater insight into
+  how globular clusters in the inner Milky Way form and evolve. Links Video of Hubble
+  Spies a Glittering Gathering of Stars
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2220a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Glittering Gathering of Stars
+ra_hr: 18.17037723597907
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2220a/thumb.jpg
+zoom_level: 0.5264622887616408
+---
+_uuid: 70115b6a-ef15-4f20-a566-ca56f90a7bc3
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -26.839317020089577
+description: This star-studded image shows the globular cluster Terzan 9 in the constellation
+  Sagittarius, towards the centre of the Milky Way. The NASA/ESA Hubble Space Telescope
+  captured this glittering scene using its Wide Field Camera 3 and Advanced Camera
+  for Surveys. Globular clusters are stable, tightly bound groupings of tens of thousands
+  to millions of stars. As this image demonstrates, the hearts of globular clusters
+  can be densely packed with stars; the night sky in this image is strewn with so
+  many stars that it resembles a sea of sequins or a vast treasure chest crammed with
+  gold. This starry snapshot is from a Hubble programme investigating globular clusters
+  located towards the heart of the Milky Way. The central region of our home galaxy
+  contains a tightly packed group of stars known as the Galactic bulge, which is also
+  rich in interstellar dust. This dust has made globular clusters near the Galactic
+  centre difficult to study, as it absorbs starlight and can even change the apparent
+  colours of the stars in these clusters. Hubble's sensitivity at both visible and
+  infrared wavelengths has allowed astronomers to measure how the colours of these
+  globular clusters have been changed by interstellar dust, and thereby to establish
+  their ages. Links Video of A Cosmic Treasure Chest
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2224a/L{1}X{2}Y{3}.png
+name: Cosmic Treasure Chest
+ra_hr: 18.02749525754133
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2224a/thumb.jpg
+zoom_level: 0.3459182174254023
+---
+_uuid: 1edf513c-cff2-438a-973c-160464a192fe
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -31.827084453814113
+description: This image from the NASA/ESA Hubble Space Telescope captures the sparkling
+  globular cluster NGC 6569 in the constellation Sagittarius. Hubble explored the
+  heart of this cluster with both its Wide Field Camera 3 and Advanced Camera for
+  Surveys, revealing a glittering hoard of stars in this astronomical treasure trove.
+  Globular clusters are stable, tightly bound clusters containing tens of thousands
+  to millions of stars, and are associated with all types of galaxies. The intense
+  gravitational attraction of these closely packed clusters of stars means that globular
+  clusters have a regular spherical shape with a densely populated centre — as can
+  be seen in the heart of this star-studded image. This observation comes from an
+  investigation of globular clusters which lie close to the centre of the Milky Way.
+  These objects have been avoided in previous surveys, as the dust spread throughout
+  the centre of our galaxy blocks light from these globular clusters and alters the
+  colours of the stars residing in them. The last factor is particularly important
+  for astronomers studying stellar evolution, as the colours of stars can give astronomers
+  insights into their ages, compositions, and temperatures. The astronomers who proposed
+  these observations combined data from Hubble with data from astronomical archives,
+  allowing them to measure the ages of globular clusters including NGC 6569. Their
+  research also provided insights into the structure and density of globular clusters
+  towards the centre of the Milky Way. Links Video of A Delving into an Astronomical
+  Treasure Trove
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2226a/L{1}X{2}Y{3}.png
+name: Delving into an Astronomical Treasure Trove
+ra_hr: 18.227317631273287
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2226a/thumb.jpg
+zoom_level: 0.35822812566743545
+---
+_uuid: 1ff7c153-3126-4f2e-a6d6-c0a6cad0de34
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -25.49776370254756
+description: 'This star-studded image from the NASA/ESA Hubble Space Telescope shows
+  the heart of the globular cluster NGC 6638 in the constellation Sagittarius. The
+  star-strewn observation highlights the density of stars at the heart of globular
+  clusters, which are stable, tightly bound clusters of tens of thousands to millions
+  of stars. To capture the data in this image, Hubble used two of its cutting-edge
+  astronomical instruments: Wide Field Camera 3 and the Advanced Camera for Surveys.
+  Hubble revolutionised the study of globular clusters, as it is almost impossible
+  to clearly distinguish the stars in globular clusters with ground-based telescopes.
+  The blurring caused by Earth’s atmosphere makes it impossible to tell one star from
+  another, but from Hubble’s location in low Earth orbit the atmosphere no longer
+  poses a problem. As a result, Hubble has been used to study what kind of stars globular
+  clusters are made up of, how they evolve, and the role of gravity in these dense
+  systems. The NASA/ESA/CSA James Webb Space Telescope will further our understanding
+  of globular clusters by peering into those globular clusters that are currently
+  obscured by dust. Webb will predominantly observe at infrared wavelengths, which
+  are less affected by the gas and dust surrounding newborn stars. This will allow
+  astronomers to inspect star clusters that are freshly formed, providing insights
+  into stellar populations before they have a chance to evolve. Links Video of A Star-Studded
+  Skyfield'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2231a/L{1}X{2}Y{3}.png
+name: Star-Studded Skyfield
+ra_hr: 18.515667693102014
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2231a/thumb.jpg
+zoom_level: 0.3565857025963368
+---
+_uuid: 3cf09d1b-918c-4927-9978-38edd377d93e
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -27.764673645535716
+description: This scintillating image showcases the globular cluster NGC 6540 in the
+  constellation Sagittarius, which was captured by the NASA/ESA Hubble Space Telescope’s
+  Wide Field Camera 3 and Advanced Camera for Surveys. These two instruments have
+  slightly different fields of view — which determines how large an area of sky each
+  instrument captures. This composite image shows the star-studded area of sky that
+  was captured in both instruments’ field of view. NGC 6540 is a globular cluster,
+  a stable, tightly bound multitude of stars. The populations of these clusters can
+  range from tens of thousands to millions of stars, all of which are trapped in a
+  closely-packed group by their mutual gravitational attraction. The brightest stars
+  in this image are adorned with prominent cross-shaped patterns of light known as
+  diffraction spikes. These astronomical embellishments are a type of imaging artefact,
+  meaning that they are caused by the structure of Hubble rather than the stars themselves.
+  The path taken by the starlight as it enters the telescope is slightly disturbed
+  by its internal structure, causing bright objects to be surrounded by spikes of
+  light. Hubble peered into the heart of NGC 6540 to help astronomers measure the
+  ages, shapes, and structures of globular clusters towards the centre of the Milky
+  Way. The gas and dust shrouding the centre of our galaxy block some of the light
+  from these clusters, as well as subtly changing the colours of their stars. Globular
+  clusters contain insights into the earliest history of the Milky Way, and so studying
+  them can help astronomers understand how our galaxy has evolved. Links Video of
+  Hubble Spies a Scintillating Globular Cluster
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2233a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Scintillating Globular Cluster
+ra_hr: 18.10257303681457
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2233a/thumb.jpg
+zoom_level: 0.3668405548744123
+---
+_uuid: 30b0bfd3-20cd-42f8-88b5-23947415e16b
+classification: ''
+constellation: SER2
+data_set_type: Sky
+dec_deg: -2.5435199175414382
+description: 'A small, dense cloud of gas and dust called CB 130-3 blots out the centre
+  of this image from the NASA/ESA Hubble Space Telescope. CB 130-3 is an object known
+  as a dense core, a compact agglomeration of gas and dust. This particular dense
+  core is in the constellation Serpens, and seems to billow across a field of background
+  stars. Dense cores like CB 130-3 are the birthplaces of stars, and as such are of
+  particular interest to astronomers. During the collapse of these cores enough mass
+  can accumulate in one place to reach the temperatures and densities required to
+  ignite hydrogen fusion, marking the birth of a new star. While it may not be obvious
+  from this image, a compact object teetering on the brink of becoming a fully fledged
+  star is embedded deep within CB 130-3. Astronomers used Hubble’s Wide Field Camera
+  3 to better understand the environment surrounding this fledgling star. As this
+  image shows, the density of CB 130-3 isn’t constant; the outer edges of the cloud
+  consist of only tenuous wisps, whereas at its core CB 130-3 blots out background
+  light entirely. The gas and dust making up CB 130-3 affect not only the brightness
+  but also the colour of background stars, with stars towards the centre the cloud
+  appearing redder than their counterparts at the outskirts of this image. Astronomers
+  used Hubble to measure this reddening effect and chart out the density of CB 130-3,
+  providing insights into the inner structure of this stellar nursery. [Image description:
+  The image shows an irregularly-shaped bright orange object composed of dense gas
+  and dust, which appears darker and more compact at the centre. This dense cloud,
+  called CB 130-3, is outlined by thinner gas and dust in light shades of blue. The
+  background shows a multitude of bright stars against a black background.] Links
+  Video of Clouded Vision'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2246a/L{1}X{2}Y{3}.png
+name: Clouded Vision
+ra_hr: 18.271184204894666
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2246a/thumb.jpg
+zoom_level: 0.3967847062832245
+---
+_uuid: f68966cc-b784-44db-99c5-1a93bacfc1b1
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -24.332162312919444
+description: 'A portion of the open cluster NGC 6530 appears as a roiling wall of
+  smoke studded with stars in this image from the NASA/ESA Hubble Space Telescope.
+  NGC 6530 is a collection of several thousand stars lying around 4350 light-years
+  from Earth in the constellation Sagittarius. The cluster is set within the larger
+  Lagoon Nebula, a gigantic interstellar cloud of gas and dust. It is the nebula that
+  gives this image its distinctly smokey appearance; clouds of interstellar gas and
+  dust stretch from one side of this image to the other.Astronomers investigated NGC
+  6530 using Hubble’s Advanced Camera for Surveys and Wide Field Planetary Camera
+  2. They scoured the region in the hope of finding new examples of proplyds, a particular
+  class of illuminated protoplanetary discs surrounding newborn stars. The vast majority
+  of proplyds have been found in only one region, the nearby Orion Nebula. This makes
+  understanding their origin and lifetimes in other astronomical environments challenging.Hubble’s
+  ability to observe at infrared wavelengths — particularly with Wide Field Camera
+  3— have made it an indispensable tool for understanding starbirth and the origin
+  of exoplanetary systems. In particular, Hubble was crucial to investigations of
+  the proplyds around newly born stars in the Orion Nebula. The new NASA/ESA/CSA James
+  Webb Space Telescope’s unprecedented observational capabilities at infrared wavelengths
+  will complement Hubble observations by allowing astronomers to peer through the
+  dusty envelopes around newly born stars and investigate the faintest, earliest stages
+  of starbirth.[Image description: Clouds of gas cover the entire view, in a variety
+  of bold colours. In the centre the gas is brighter and very textured, resembling
+  dense smoke. Around the edges it is more sparse and faint. Several small, bright
+  blue stars are scattered over the nebula.] Links Video of A Cosmic Smokescreen'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2250a/L{1}X{2}Y{3}.png
+name: Cosmic Smokescreen
+ra_hr: 18.063359747317655
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2250a/thumb.jpg
+zoom_level: 0.5442925835420862
+---
+_uuid: 58018ee8-f667-4a6f-8e3b-c7ed453bc298
+classification: ''
+constellation: DRA
+data_set_type: Sky
+dec_deg: 78.38645559850768
+description: 'A vast galaxy cluster lurks in the centre of this image from the NASA/ESA
+  Hubble Space Telescope. Like a submerged sea monster causing waves on the surface,
+  this cosmic leviathan can be identified by the distortions in spacetime around it.
+  The mass of the cluster has caused the images of background galaxies to be gravitationally
+  lensed; the galaxy cluster has caused a sufficient curvature of spacetime to bend
+  the path of light and cause background galaxies to appear distorted into streaks
+  and arcs of light. A host of other galaxies can be seen surrounding the cluster,
+  and a handful of foreground stars with tell-tale diffraction spikes are scattered
+  throughout the image. This particular galaxy cluster is called eMACS J1823.1+7822,
+  and lies almost nine billion light-years away in the constellation Draco. It is
+  one of five exceptionally massive galaxy clusters explored by Hubble in the hopes
+  of measuring the strengths of these gravitational lenses and providing insights
+  into the distribution of dark matter in galaxy clusters. Strong gravitational lenses
+  like eMACS J1823.1+7822 can help astronomers study distant galaxies by acting as
+  vast natural telescopes which magnify objects that would otherwise be too faint
+  or distant to resolve. This multiwavelength image layers data from eight different
+  filters and two different instruments: Hubble’s Advanced Camera for Surveys and
+  Wide Field Camera 3. Both instruments have the ability to view astronomical objects
+  in just a small slice of the electromagnetic spectrum using filters, which allow
+  astronomers to image objects at precisely selected wavelengths. The combination
+  of observations at different wavelengths lets astronomers develop a more complete
+  picture of the structure, composition and behaviour of an object than visible light
+  alone would reveal. [Image description: A cluster of large galaxies, surrounded
+  by various stars and smaller galaxies on a dark background. The central cluster
+  is mostly made of bright elliptical galaxies that are surrounded by a warm glow.
+  Close to the cluster core is the stretched, distorted arc of a galaxy, gravitationally
+  lensed by the cluster.] Links Pan: Cosmic leviathan'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2319a/L{1}X{2}Y{3}.png
+name: Cosmic leviathan
+ra_hr: 18.389498901606597
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2319a/thumb.jpg
+zoom_level: 0.33878966329200133
+---
+_uuid: 7b20ffe2-d697-463a-b07f-f6d6f8a6296c
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -25.000705484253544
+description: 'The teeming stars of the globular cluster NGC 6544 glisten in this image
+  from the NASA/ESA Hubble Space Telescope. This cluster of tightly bound stars lies
+  more than 8000 light-years away from Earth and is — like all globular clusters —
+  a densely populated region of tens of thousands of stars. This image of NGC 6544
+  combines data from two of Hubble’s instruments — the Advanced Camera for Surveys
+  and Wide Field Camera 3 — as well as two separate astronomical observations. The
+  first observation was designed to find a visible counterpart to the radio pulsar
+  discovered in NGC 6544. A pulsar is the rapidly spinning remnant of a dead star,
+  emitting twin beams of electromagnetic radiation like a vast astronomical lighthouse.
+  This pulsar rotates particularly quickly, and astronomers turned to Hubble to help
+  determine how this object evolved in NGC 6544. The second observation which contributed
+  data to this image was also designed to find the visible counterparts of objects
+  detected at other electromagnetic wavelengths. Instead of matching up sources to
+  a pulsar, however, astronomers used Hubble to search for the counterparts of faint
+  X-ray sources. Their observations could help explain how clusters like NGC 6544
+  change over time. NGC 6544 lies in the constellation Sagittarius, close to the vast
+  Lagoon Nebula, a hazy labyrinth of gas and dust sculpted by the fierce winds of
+  newly born stars. The Lagoon Nebula is truly colossal — even by astronomical standards
+  — and measures 55 light-years across and 20 light-years from top to bottom. Previous
+  Hubble images of the nebula incorporated infrared observations to reveal young stars
+  and intricate structures that would be obscured at visible wavelengths by clouds
+  of gas and dust. [Image Description: A cluster of stars in warm and cool colours.
+  The whole view is filled with small stars, which become much denser and brighter
+  around a core just right of centre. Most of the stars are small, but some are larger
+  with a round, brightly-coloured glow and four sharp diffraction spikes. Behind the
+  stars, a dark background can be seen.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2325a/L{1}X{2}Y{3}.png
+name: On the edge of the Lagoon
+ra_hr: 18.122685882390517
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2325a/thumb.jpg
+zoom_level: 0.42937848152041125
+---
+_uuid: 32df56af-cfe2-4046-889b-4cd692b3c505
+classification: ''
+constellation: SGR
+data_set_type: Sky
+dec_deg: -32.99143760792951
+description: 'The glittering, glitzy contents of the globular cluster NGC 6652 sparkle
+  in this star-studded image from the NASA/ESA Hubble Space Telescope. The core of
+  the cluster is suffused with the pale blue light of countless stars, and a handful
+  of particularly bright foreground stars are adorned with criss-crossing diffraction
+  spikes. NGC 6652 lies in our own Milky Way galaxy in the constellation Sagittarius,
+  just under 30 000 light-years from Earth and only 6500 light-years from the Galactic
+  centre. Globular clusters are stable, tightly gravitationally bound clusters containing
+  anywhere between tens of thousands and millions of stars. The intense gravitational
+  attraction between the closely packed stars in globular clusters is what gives these
+  star-studded objects their regular, spherical shape. This image combines data from
+  two of Hubble’s third-generation instruments; the Advanced Camera for Surveys and
+  Wide Field Camera 3. As well as two instruments, this image draws on two different
+  observing programmes from two different teams of astronomers. The first team set
+  out to survey globular clusters in the Milky Way galaxy in the hope of shedding
+  light on topics ranging from the ages of these objects to the gravitational potential
+  of the galaxy as a whole. The second team of astronomers used a trio of exquisitely
+  sensitive filters in Hubble’s Wide Field Camera 3 to disentangle the proportions
+  of carbon, nitrogen, and oxygen in globular clusters such as NGC 6652. [Image Description:
+  A dense spherical cluster of stars. The stars merge into a bright core in the centre,
+  and spread out to the edges gradually, giving way to an empty, dark background.
+  Most of the stars are small points of light. A few stars with cross-shaped diffraction
+  spikes appear larger, and stand out in front.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2331a/L{1}X{2}Y{3}.png
+name: NGC 6652
+ra_hr: 18.596034002237026
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2331a/thumb.jpg
+zoom_level: 0.42771960911811346
+---
+_uuid: c7ae5e0e-e761-4d3e-b6d8-c05bbe96fcc2
+classification: ''
+constellation: PAV
+data_set_type: Sky
+dec_deg: -65.17151930533471
+description: 'The lenticular galaxy NGC 6684 bathes this image from the NASA/ESA Hubble
+  Space Telescope in a pale light. Captured with Hubble’s Advanced Camera for Surveys,
+  this lenticular galaxy is around 44 million light-years from Earth in the constellation
+  Pavo. Pavo — whose name is Latin for peacock — is a constellation in the southern
+  sky and one of four constellations collectively known as the Southern Birds. Lenticular
+  galaxies like NGC 6684 (lenticular means lens-shaped) possess a large disc but lack
+  the prominent spiral arms of galaxies like the Andromeda Galaxy. This leaves them
+  somewhere between elliptical galaxies and spiral galaxies, and lends these galaxies
+  a diffuse, ghostly experience. NGC 6684 also lacks the dark dust lanes that thread
+  through other galaxies, adding to its spectral, insubstantial appearance. The data
+  in this image were captured during a census of the nearby Universe entitled Every
+  Known Nearby Galaxy which aims to observe all galaxies within 10 megaparsecs (32.6
+  million light-years) that the telescope has not already visited. Before this programme
+  began Hubble had observed roughly 75% of these nearby galaxies, and completing this
+  census will reveal insights into the stars making up a wide variety of galaxies,
+  in a wide variety of environments. [Image Description: A galaxy, large and occupying
+  most of the view from the centre. The whole galaxy is made of smooth, diffuse light.
+  The galaxy is surrounded by a smoky grey halo. Many stars shine around the galaxy,
+  on a black background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2332a/L{1}X{2}Y{3}.png
+name: Portrait of a Ghostly Galactic Peacock
+ra_hr: 18.816712807790687
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2332a/thumb.jpg
+zoom_level: 0.5539132396442634
+---
+_uuid: 167d2212-581b-4abb-ab2e-6ded64a246cd
+classification: ''
+constellation: AQL
+data_set_type: Sky
+dec_deg: 1.67675323577647
+description: 'This spectacular image shows a region called G35.2-0.7N, which is known
+  as a hotbed of high-mass star formation. The kind of stars that form here are so
+  massive that they will end their lives as destructive supernovae. However, even
+  as they form they greatly impact their surroundings. At least one B-type star —
+  the second most massive type — lurks within the region pictured here, and a powerful
+  protostellar jet that it is launching towards us is the source of the spectacular
+  light show. The image was taken with the Wide Field Camera 3 (WFC3), which is mounted
+  on the NASA/ESA Hubble Space Telescope, and the region G35.2-0.7N lies around 7200
+  light-years from Earth in the constellation Aquila. This beautiful picture was assembled
+  using data that were collected primarily for very specific research purposes, as
+  are many of the Hubble Pictures of the Week. The research conducted using these
+  data included measuring the extent of ionisation in the jets being blasted out of
+  the protostar buried within G35.2-0.7N. Ionisation is a process by which atoms or
+  molecules become charged, often because they are in such a high-energy environment
+  that they have lost some of their electrons (the tiny negatively charged particles
+  that orbit nuclei in atoms and molecules). Protostellar jets are enormous collimated
+  beams of matter that are ejected from protostars. Collimated simply means that the
+  matter is ejected in parallel (column-like) streams, which in turn means that the
+  jets do not spread out much, but extend out very far in relatively straight lines.
+  The visual result of the ejected matter is the glorious display visible in this
+  image. Much of the nebula is dark, with light being blocked from Hubble’s view by
+  the rich dust clouds that produce these massive stars. Near the very centre can
+  be seen the location of the star and the jet of material it is emitting. The small,
+  bright orange streak there is a cavity in the dust carved out by the ferocity of
+  the jet as it streams towards us. By breaking through its dusty cocoon, the jet
+  reveals light from the protostar, but there is still so much dust that the light
+  is “reddened” to a fiery orange. The massive protostar lies at the very lower-left
+  tip of this cavity. [Image Description: A nebula with stars. Dense clouds of dust
+  and gas cover the left-hand side and a filament crosses the centre horizontally.
+  Billowing streams of gas and dust in various colours emerge from around the centre.
+  The very centre of the image is permeated with glowing orange regions. Many blue
+  stars with cross-shaped spikes lie in the foreground, and small point-like stars
+  are visible beyond the clouds.] Links Pan: Leaving on a jet'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2340a/L{1}X{2}Y{3}.png
+name: Leaving on a jet
+ra_hr: 18.970133325966014
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2340a/thumb.jpg
+zoom_level: 0.38335550422536374
+---
+_uuid: 7e6dc953-3f45-4ed4-b9c5-79a544a038fb
+classification: ''
+constellation: HER
+data_set_type: Sky
+dec_deg: 21.641790026243577
+description: 'This image of the spiral galaxy UGC 11105 is not as bright and vivid
+  as some other Hubble Pictures of the Week. This softly luminous galaxy — lying in
+  the constellation Hercules, about 110 million light-years from Earth — seems outshone
+  by the sparkling foreground stars that surround it. The type II supernova which
+  took place in this galaxy in 2019, while no longer visible in this image, definitely
+  outshone the galaxy at the time! To be more precise, UGC 11105 has an apparent magnitude
+  of around 13.6 in the optical light regime (this image was created using data that
+  covers the heart of the optical regime, in addition to ultraviolet data). Astronomers
+  have different ways of quantifying how bright celestial objects are, and apparent
+  magnitude is one of them. Firstly, the ‘apparent’ part of this quantity refers to
+  the fact that apparent magnitude only describes how bright objects appear to be
+  from Earth, which is not the same thing as measuring how bright they actually are.
+  For example, in reality the variable star Betelgeuse is about 21 000 times brighter
+  than our Sun, but because the Sun is much, much closer to Earth, Betelgeuse appears
+  to be vastly less bright than it. The ‘magnitude’ part is a little harder to describe,
+  because the magnitude scale does not have a unit associated with it, unlike, for
+  example, mass, which we measure in kilograms, or length, which we measure in metres.
+  Magnitude values only have meaning relative to other magnitude values. Furthermore,
+  the scale is not linear, but is a type of mathematical scale known as ‘reverse logarithmic’,
+  which also means that lower-magnitude objects are brighter than higher-magnitude
+  objects. As an example, UGC 11105 has an apparent magnitude of around 13.6 in the
+  optical, whereas the Sun has an apparent magnitude of about -26.8. Accounting for
+  the reverse logarithmic scale, this means that the Sun appears to be about 14 thousand
+  trillion times brighter than UGC 11105 from our perspective here on Earth, even
+  though UGC 11105 is an entire galaxy! The faintest stars that humans can see with
+  the naked eye come in at about sixth magnitude, with most galaxies being much dimmer
+  than this. Hubble, however, has been known to detect objects with apparent magnitudes
+  up to the extraordinary value of 31, so UGC 11105 does not really present much of
+  a challenge. [Image Description: A spiral galaxy, with two prominent arms that are
+  tightly wound around the brighter core. The arms disperse into a wide halo of stars
+  and dust at their ends, giving the galaxy an oval shape. It is flanked by a number
+  of bright stars in the foreground, each with a little cross over it due to light
+  diffraction, and some distant background galaxies as well.] Links Pan: Dim, but
+  still distinct'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2405a/L{1}X{2}Y{3}.png
+name: Dim, but still distinct
+ra_hr: 18.076914181645652
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2405a/thumb.jpg
+zoom_level: 0.22944681217934593
+---
+_uuid: 68b41557-0af1-4e24-a05b-ffe691611a86
+classification: ''
+constellation: TEL
+data_set_type: Sky
+dec_deg: -56.37371738097966
+description: 'The Hubble Space Telescope has a lot to show in this week’s Picture
+  of the Week. Its view here is studded with stars, many of which appear particularly
+  large and bright thanks to their nearby locations in our own galaxy, and which feature
+  the characteristic diffraction patterns caused by Hubble’s optics. Much further
+  away — around 240 million light-years distant in fact, in the southern constellation
+  Telescopium — is the spiral galaxy IC 4709. Its swirling disc filled with stars
+  and dust bands is beautifully captured, as is the faint halo surrounding it. The
+  compact region at its core might be the most remarkable sight, however: this is
+  an active galactic nucleus (AGN). If IC 4709’s core were just filled with stars,
+  it would not be nearly so bright. Instead it hosts a gargantuan black hole, 65 million
+  times the mass of our Sun. A disc of gas spirals around and eventually into this
+  black hole, with the gas crashing together and heating up as it spins. It reaches
+  such high temperatures that it emits vast quantities of electromagnetic radiation,
+  from infrared to visible to ultraviolet light and beyond — in this case including
+  X-rays. The AGN in IC 4709 is obscured by a lane of dark dust, just visible at the
+  centre of the galaxy in this image, which blocks any optical emission from the nucleus
+  itself. Hubble’s spectacular resolution, however, gives astronomers a detailed view
+  of the interaction between the quite small AGN and its host galaxy. This is essential
+  to understanding supermassive black holes in galaxies much more distant than IC
+  4709, where resolving such fine details is not possible. This image incorporates
+  data from two Hubble surveys of nearby AGNs that were identified by the Swift X-ray/UV
+  telescope, as does the image from last week. Swift will collect new data on these
+  galaxies — with an X-ray telescope, it’s possible to directly see the X-rays from
+  IC 4709’s AGN breaking through the obscuring dust. ESA’s Euclid telescope — currently
+  surveying the dark Universe in optical and infrared light — will also image IC 4709
+  and other local AGNs. The complementary use of space telescopes across the electromagnetic
+  spectrum is key to fully researching black holes and their impact on their host
+  galaxies. [Image Description: A spiral galaxy is situated right of centre. It has
+  a white, brightly-shining core, a glowing disc which is thick with swirling patterns
+  of dark dust, and a faint halo around the disc. It is on a black background with
+  some small, distant galaxies and some foreground stars around it. Six stars along
+  the left side appear particularly large and bright, with two opposing sets of spikes
+  surrounding each one.] Links Pan of IC 4709'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2436a/L{1}X{2}Y{3}.png
+name: Power across the spectrum
+ra_hr: 18.40527220397513
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2436a/thumb.jpg
+zoom_level: 0.27720567349783143
+---
 _uuid: c5d804c6-dd6c-4d27-b2a5-da11aa2cfc64
 classification: ''
 constellation: SGR
@@ -3701,6 +4449,78 @@ name: Actively forming star system Lynds 483 (NIRCam image)
 ra_hr: 18.292104161851608
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2503a/thumb.jpg
 zoom_level: 0.39873413738998986
+---
+_uuid: dfec2dbb-269d-486c-be15-12b8924b656d
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -29.780380225520755
+description: The dusty disk around HD 169142 is part of a survey of 44 young massive
+  stars to investigate planet formation in dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212d/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 169142
+ra_hr: 18.40827191897511
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212d/thumb.jpg
+zoom_level: 0.007430656980417739
+---
+_uuid: 7df6d452-f3c8-4ca1-81b0-96490cca9999
+classification: ''
+constellation: SGR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -18.66763346017609
+description: Comet 3I/ATLAS streaks across a dense star field in this image captured
+  by the Gemini North telescope's Gemini Multi-Object Spectrograph (GMOS-N). The left
+  panel captures the comet’s colorful trail as it moves through the Solar System.
+  The image was composed of exposures taken through three filters, shown here as red,
+  green, and blue. See a close-up image of the comet here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2522c/L{1}X{2}Y{3}.png
+name: Comet 3I/ATLAS Seen With Gemini North
+ra_hr: 18.04896306020519
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2522c/thumb.jpg
+zoom_level: 0.41277453404358944
+---
+_uuid: 31d3c782-9e92-4273-a337-6754a4e0c15e
+classification: ''
+constellation: SCT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.8739632486182405
+description: The stellar field around the host galaxy of GRB 250702B — the longest
+  gamma-ray burst that astronomers have ever observed. It comprises observations from
+  the Gemini North telescope, one half of the International Gemini Observatory, funded
+  in part by the U.S. National Science Foundation and operated by NSF NOIRLab, as
+  well as the U.S. Department of Energy-fabricated Dark Energy Camera, mounted on
+  the NSF Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory,
+  a Program of NSF NOIRLab. The DECam data were acquired on 3 July 2025. The Gemini
+  North data were acquired on 20 July 2025.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2531c/L{1}X{2}Y{3}.png
+name: Field around GRB 250702B
+ra_hr: 18.97932574222667
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2531c/thumb.jpg
+zoom_level: 0.4552868089518675
+---
+_uuid: 3335186a-ea7e-4c34-b8d8-42f447f03954
+classification: ''
+constellation: SCT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.873902647854351
+description: The faint oval at the center of this image is the host galaxy of GRB
+  250702B — the longest gamma-ray burst that astronomers have ever observed. This
+  image was taken on 20 July 2025 by the Gemini North telescope, one half of the International
+  Gemini Observatory, funded in part by the U.S. National Science Foundation and operated
+  by NSF NOIRLab. It is the result of over two hours of observation, yet the host
+  galaxy appears extremely faint due to the large amount of dust surrounding it.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2531d/L{1}X{2}Y{3}.png
+name: GRB 250702B host galaxy
+ra_hr: 18.979314330619104
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2531d/thumb.jpg
+zoom_level: 0.026919878012204457
 ---
 _uuid: 8adfa1f1-65c6-4b6e-9b90-7673f6e4d925
 classification: ''

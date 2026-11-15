@@ -1,0 +1,15 @@
+feed_id: chandra
+source_type: chandra
+default_copyright: Public domain (NASA/CXC/SAO); composites may include third-party layers, see Credits
+default_license_id: CC-PDDC
+default_constellations_handle: chandra
+default_prepend_catfile: chandra
+publish_url_prefix: https://data1.wwtassets.org/feeds/chandra/
+
+# The Chandra photo album is not a Djangoplicity site. Releases since ~2018
+# mostly lack AVM: images without full AVM WCS need a registered sidecar WCS
+# in `wcs/<id>.fits` (see _assessment/README.md) before process-todos.
+chandra:
+  base_url: https://chandra.harvard.edu/photo/
+  first_year: 2018
+  wcs_dir: wcs

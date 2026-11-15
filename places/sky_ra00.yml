@@ -3080,6 +3080,745 @@ name: NGC 246
 ra_hr: 0.7841666666666667
 zoom_level: 4.0
 ---
+_uuid: 173cf059-ce87-4b77-88a7-4c1388127d40
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.13486716423363
+description: 'In 1572, Danish astronomer Tycho Brahe was among those who noticed a
+  new bright object in the constellation Cassiopeia. Adding fuel to the intellectual
+  fire that Copernicus started, Tycho showed this "new star" was far beyond the Moon,
+  and that it was possible for the Universe beyond the Sun and planets to change.
+
+
+  Astronomers now know that Tycho''s new star was not new at all. Rather it signaled
+  the death of a star in a supernova , an explosion so bright that it can outshine
+  the light from an entire galaxy. This particular supernova was a Type Ia , which
+  occurs when a white dwarf star pulls material from, or merges with, a nearby companion
+  star until a violent explosion is triggered. The white dwarf star is obliterated,
+  sending its debris hurtling into space.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-tycho/L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant (2019)
+ra_hr: 0.42228256980628825
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-tycho/thumb.jpg
+zoom_level: 2.0590119695033007
+---
+_uuid: be81b767-be20-4f0d-903d-db45aa51ecd1
+classification: ''
+constellation: PSC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 20.554280733740974
+description: 'This image features Abell 98, a system of galaxy clusters that includes
+  a pair in the early stages of a collision. Astronomers have used data from NASA’s
+  Chandra X-ray Observatory (shown as blue and purple with optical data from the WIYN
+  telescope on Kitt Peak in Arizona appearing white and red) to identify key structures
+  and look for “missing” matter in the Universe.
+
+
+  This missing material is not dark matter, which is invisible, of an unknown nature,
+  and thought to constitute most of the matter in the universe, but “normal” matter
+  found in familiar objects like stars, planets, and humans. About a third of this
+  matter that was created in the first billion years or so after the Big Bang has
+  yet to be detected by observations of the local universe, that is, in regions less
+  than a few billion light-years from Earth.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-a98/L{1}X{2}Y{3}.png
+name: Abell 98
+ra_hr: 0.7740409912385513
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-a98/thumb.jpg
+zoom_level: 2.273207654238621
+---
+_uuid: a6606c87-923c-4ff8-abcb-dfb56d04ee8d
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.13492439906642
+description: 'This image provides a new look at the Tycho supernova remnant, named
+  for Danish astronomer Tycho Brahe who noticed the bright glow of this new “star”
+  in the constellation Cassiopeia more than 450 years ago. Astronomers used NASA’S
+  Imaging X-ray Polarimetry Explorer (IXPE) to study polarized light from Tycho, the
+  debris from an exploded star, as described in IXPE’s latest press release . IXPE
+  revealed, for the first time, the geometry of the magnetic fields close to the supernova’s
+  blast wave, which is still propagating from the initial explosion and forms a boundary
+  around the ejected material. Understanding the magnetic field geometry allows scientists
+  to further investigate how particles are accelerated there.
+
+
+  In this composite image, data from IXPE (dark purple and white) have been combined
+  with those from NASA’s Chandra X-ray Observatory (red and blue), which were overlaid
+  with the stars in the field of view seen by the Digitized Sky Survey.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-tycho/L{1}X{2}Y{3}.png
+name: Tycho's Supernova Remnant (2023)
+ra_hr: 0.4222807048095915
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-tycho/thumb.jpg
+zoom_level: 2.294405967723435
+---
+_uuid: 81b5473f-e56b-4238-85bb-129196becd63
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 67.49776487371646
+description: 'In the year 1181 a rare supernova explosion appeared in the night sky,
+  staying visible for 185 consecutive days. Historical records show that the supernova
+  looked like a temporary ‘star’ in the constellation Cassiopeia shining as bright
+  as Saturn.
+
+
+  Ever since, scientists have tried to find the supernova’s remnant. At first it was
+  thought that this could be the nebula around the pulsar — the dense core of a collapse
+  star — named 3C 58. However closer investigations revealed that the pulsar is older
+  than supernova 1181.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-snr1181/L{1}X{2}Y{3}.png
+name: SNR 1181
+ra_hr: 0.8864127343803115
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-snr1181/thumb.jpg
+zoom_level: 1.052211259051628
+---
+_uuid: 9b293a80-eb1c-4655-b0cb-2965f681d92e
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -71.82477003453782
+description: The Small Magellanic Cloud and globular cluster 47 Tucanae.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/brammer_5598/L{1}X{2}Y{3}.png
+name: SMC and 47 Tuc
+ra_hr: 0.8055994710910993
+thumbnail: https://data1.wwtassets.org/feeds/eso/brammer_5598/thumb.jpg
+zoom_level: 45.878397690115584
+---
+_uuid: d9c6996b-e2f5-441f-8012-0bcb5df88c8f
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.71628178840805
+description: 'Around 500 million light-years away in the constellation Sculptor lies
+  a rather peculiar looking galaxy, known as the Cartwheel galaxy. It was once a normal
+  spiral galaxy that underwent a head-on interaction with a smaller companion galaxy
+  several million years ago, giving it its signature cartwheel appearance. But there
+  are other curious things about this object. Something interesting is taking place
+  in the lower left corner of this image, captured in December 2021 with ESO’s New
+  Technology Telescope (NTT): a supernova. Compare it with this image, taken in August
+  2014 by the Multi Unit Spectroscopic Explorer (MUSE) mounted on ESO’s Very Large
+  Telescope (VLT), shows the galaxy before this supernova took place. This event,
+  called SN2021afdx, is a type II supernova, which occurs when a massive star reaches
+  the end of its evolution. Supernovae can cause a star to shine brighter than its
+  entire host galaxy and can be visible to observers for months, or even years — a
+  blink of an eye on astronomical timescales. Supernovae are one of the reasons astronomers
+  say we are all made of stardust: they sprinkle the surrounding space with heavy
+  elements forged by the progenitor star, which may end up being part of later generations
+  of stars, the planets around them and life that may exist in those planets. Detecting
+  and studying these unpredictable events requires international collaboration. The
+  first time SN2021afdx was spotted was in November 2021 by the ATLAS survey, and
+  it was then followed up by ePESSTO+, the Public ESO Spectroscopic Survey for Transient
+  Objects. ePESSTO+ is designed to study objects that are only in the night sky for
+  very short periods of time, such as this supernova. It does this by using the EFOSC2
+  and SOFI instruments on the NTT, located at ESO''s La Silla Observatory in Chile.
+  EFOSC2 not only took this beautiful image, but also spectra that allowed the PESSTO
+  team to identify this event as a type II supernova. Links Comparison video alternating
+  between the MUSE and NTT images. Side-by-side comparison Individual MUSE image'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2210b/L{1}X{2}Y{3}.png
+name: Something new in the sky
+ra_hr: 0.6278600068865862
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2210b/thumb.jpg
+zoom_level: 0.4933511827381855
+---
+_uuid: 4b5f93e0-aed3-4e8b-8a9f-07010a9bcb96
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.71469204090947
+description: 'Around 500 million light-years away in the constellation Sculptor lies
+  a rather peculiar looking galaxy, known as the Cartwheel galaxy. It was once a normal
+  spiral galaxy that underwent a head-on interaction with a smaller companion galaxy
+  several million years ago, giving it its signature cartwheel appearance. This image
+  was taken in August 2014 by the Multi Unit Spectroscopic Explorer (MUSE) mounted
+  on ESO’s Very Large Telescope (VLT). Compare it with this image, captured in December
+  2021 with ESO’s New Technology Telescope (NTT), where you can see a supernova in
+  the lower left corner. This event, called SN2021afdx, is a type II supernova, which
+  occurs when a massive star reaches the end of its evolution. Supernovae can cause
+  a star to shine brighter than its entire host galaxy and can be visible to observers
+  for months, or even years — a blink of an eye on astronomical timescales. Supernovae
+  are one of the reasons astronomers say we are all made of stardust: they sprinkle
+  the surrounding space with heavy elements forged by the progenitor star, which may
+  end up being part of later generations of stars, the planets around them and life
+  that may exist in those planets. Detecting and studying these unpredictable events
+  requires international collaboration. The first time SN2021afdx was spotted was
+  in November 2021 by the ATLAS survey, and it was then followed up by ePESSTO+, the
+  Public ESO Spectroscopic Survey for Transient Objects. ePESSTO+ is designed to study
+  objects that are only in the night sky for very short periods of time, such as this
+  supernova. It does this by using the EFOSC2 and SOFI instruments on the NTT, located
+  at ESO''s La Silla Observatory in Chile. EFOSC2 not only took a beautiful image,
+  but also spectra that allowed the PESSTO team to identify this event as a type II
+  supernova. Links Comparison video alternating between the MUSE and NTT images. Side-by-side
+  comparison Individual NTT image'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2210c/L{1}X{2}Y{3}.png
+name: The Cartwheel galaxy seen by MUSE
+ra_hr: 0.6278645541860146
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2210c/thumb.jpg
+zoom_level: 0.24983709939036197
+---
+_uuid: 307bcb5e-2e7d-4afc-8be9-2396715460d9
+classification: ''
+constellation: PHE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.2692297544797
+description: 'This new view shows the galaxy cluster Abell 2764 (top right), a very
+  dense region of space containing hundreds of galaxies orbiting within a halo of
+  dark matter. This image is released as part of the Early Release Observations from
+  ESA’s Euclid space mission.
+
+
+  Euclid captures a range of objects in this patch of sky, including many background
+  galaxies, more distant galaxy clusters, interacting galaxies that have thrown off
+  streams and shells of stars, and a pretty edge-on spiral that allows us to see the
+  ‘thinness’ of its disk.
+
+
+  This complete view of Abell 2764 and surroundings – obtained thanks to Euclid’s
+  impressively wide field-of-view – allows scientists to ascertain the radius of the
+  cluster and study its outskirts with faraway galaxies still in frame. Euclid''s
+  observations of Abell 2764, as with Abell 2390 (another target depicted in the images
+  released today from the space telescope), are also allowing scientists to witness
+  some of the most distant galaxies that lived in a mysterious period known as the
+  cosmic dark ages. Euclid enables us to see these galaxies back when the Universe
+  was only 700 million years old, just 5% of its current age. Viewing their light
+  is a specialty of Euclid, and allows us to witness how the first galaxies formed.
+
+
+  Also seen here is a bright foreground star that lies within our own galaxy (lower
+  left: V*BP-Phoenicis/HD 1973, a star within our galaxy and in the southern hemisphere
+  that’s nearly bright enough to be seen by the human eye). When we look at a star
+  through a telescope, its light is scattered outwards into the typical spiked shape
+  due to the telescope’s optics. Euclid was designed to make this scatter as small
+  as possible. As a result, we can measure the star very accurately, and capture galaxies
+  that lie nearby without being blinded by the star’s brightness.
+
+
+  Abell 2764 lies around 1 billion light-years away in the direction of the Phoenix
+  constellation.
+
+
+  Technical details: The data in this image were taken in about three hours of observation.
+  This colour image was obtained by combining VIS data and NISP photometry in Y and
+  H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical
+  sources in four different wavelength ranges. Aesthetics choices led to the selection
+  of three out of these four bands to be cast onto the traditional Red-Green-Blue
+  colour channels used to represent images on our digital screens (RGB). The blue,
+  green, red channels capture the Universe seen by Euclid around the wavelength 0.7,
+  1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette:
+  hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel,
+  and regions rich in dust and molecular gas have a clear red hue. Distant redshifted
+  background galaxies appear very red. In the image, the stars have six prominent
+  spikes due to how light interacts with the optical system of the telescope in the
+  process of diffraction. Another signature of Euclid special optics is the presence
+  of a few, very faint and small round regions of a fuzzy blue colour. These are normal
+  artefacts of complex optical systems, so-called ‘optical ghost’; easily identifiable
+  during data analysis, they do not cause any problem for the science goals.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/L{1}X{2}Y{3}.png
+name: Euclid’s view of galaxy cluster Abell 2764
+ra_hr: 0.3786530624379347
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523a/thumb.jpg
+zoom_level: 6.969202632
+---
+_uuid: cb010cf0-8499-47a9-9a29-f391602df5bc
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 7.0802352114866745
+description: 'High-resolution imagery from the NASA/ESA Hubble Space Telescope has
+  allowed researchers to hone in on more of the Bullseye galaxy’s rings — and helped
+  confirm which galaxy dove through its core. LEDA 1313424, aptly nicknamed the Bullseye,
+  is two and a half times the size of our Milky Way and has nine rings — six more
+  than any other known galaxy. Hubble has confirmed eight rings, and data from the
+  W. M. Keck Observatory in Hawaii confirmed a ninth. Hubble and Keck also confirmed
+  which galaxy dove through the Bullseye, creating these rings: the blue dwarf galaxy
+  that sits to its immediate center-left. This relatively tiny interloper traveled
+  like a dart through the core of the Bullseye about 50 million years ago, leaving
+  rings in its wake like ripples in a pond. A thin trail of gas now links the pair,
+  though they are currently separated by 130,000 light-years. The team’s paper was
+  published on 4 February 2025 in The Astrophysical Journal Letters.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2506/L{1}X{2}Y{3}.png
+name: Galaxy LEDA 1313424
+ra_hr: 0.16094135715867133
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2506/thumb.jpg
+zoom_level: 0.5110759933220663
+---
+_uuid: 9a34efd0-e6be-4e66-ba9a-6e2d82b332c6
+classification: ''
+constellation: AND
+data_set_type: Sky
+dec_deg: 41.696224591614374
+description: Many of the best-loved galaxies in the cosmos are remarkably large, close,
+  massive, bright, or beautiful, often with an unusual or intriguing structure or
+  history. However, it takes all kinds to make a Universe — as demonstrated by this
+  Hubble Picture of the Week of Messier 110. Messier 110 may not look like much, but
+  it is a fascinating near neighbour of our home galaxy, and an unusual example of
+  its type. It is a member of the Local Group, a gathering of galaxies comprising
+  the Milky Way and a number of the galaxies closest to it. Specifically, Messier
+  110 is one of the many satellite galaxies encircling the Andromeda Galaxy, the nearest
+  major galaxy to our own, and is classified as a dwarf elliptical galaxy, meaning
+  that it has a smooth and almost featureless structure. Elliptical galaxies lack
+  arms and notable pockets of star formation — both characteristic features of spiral
+  galaxies. Dwarf ellipticals are quite common in groups and clusters of galaxies,
+  and are often satellites of larger galaxies. Because they lack stellar nurseries
+  and contain mostly old stars, elliptical galaxies are often considered ‘dead’ when
+  compared to their spiral relatives. However, astronomers have spotted signs of a
+  population of young, blue stars at the centre of Messier 110 — hinting that it may
+  not be so dead after all.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1937a/L{1}X{2}Y{3}.png
+name: Not So Dead After All
+ra_hr: 0.6734434925988269
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1937a/thumb.jpg
+zoom_level: 0.30055026258019324
+---
+_uuid: 1a7c44e2-1473-44ab-81f6-9cd7775054c4
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -12.105149196570707
+description: Appearing within the boundless darkness of space, the NASA/ESA Hubble
+  Space Telescope’s snapshot of NGC 34 looks more like an otherworldly, bioluminescent
+  creature from the deep oceans than a galaxy. Lying in the constellation Cetus (The
+  Sea Monster), the galaxy’s outer region appears almost translucent, pinpricked with
+  stars and strange wispy tendrils. The main cause for this galaxy’s odd appearance
+  lies in its past. If we were able to reverse time by a few million years, we would
+  see two beautiful spiral galaxies on a direct collision course. When these galaxies
+  collided into one another, their intricate patterns and spiral arms were permanently
+  disturbed. This image shows the galaxy's bright centre, a result of this merging
+  event that has created a burst of new star formation and lit up the surrounding
+  gas. As the galaxies continue to intertwine and become one, NGC 34’s shape will
+  become more like that of an peculiar galaxy, devoid of any distinct shape. In the
+  vastness of space, collisions between galaxies are quite rare events, but they can
+  be numerous in mega-clusters containing hundreds or even thousands of galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2043a/L{1}X{2}Y{3}.png
+name: Beauty From Chaos
+ra_hr: 0.1855064536765218
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2043a/thumb.jpg
+zoom_level: 0.4304126307948841
+---
+_uuid: edb11d43-7c0f-4bd5-ae2d-742b8047e456
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -20.621681316398494
+description: 'This extraordinary image from the NASA/ESA Hubble Space Telescope of
+  the galaxy cluster Abell 2813 (also known as ACO 2813) has an almost delicate beauty,
+  which also illustrates the remarkable physics at work within it. The image spectacularly
+  demonstrates the concept of gravitational lensing. In amongst the tiny dots, spirals
+  and ovals that are the galaxies that belong to the cluster, there are several distinct
+  crescent shapes. These curved arcs of light are strong examples of a phenomenon
+  known as gravitational lensing. The image was compiled using observations taken
+  with the Hubble Space Telescope’s Advanced Camera for Surveys (ACS) and Wide Field
+  Camera 3 (WFC3). Gravitational lensing occurs when an object’s mass causes light
+  to bend. The curved crescents and s-shapes of light in this image are not curved
+  galaxies, but are light from galaxies that actually lie beyond Abell 2813. The galaxy
+  cluster has so much mass that it acts as a gravitational lens, causing light from
+  more distant galaxies to bend around it. These distortions can appear as many different
+  shapes, such as long lines or arcs. This very visual evidence that mass causes light
+  to bend has been famously used as a proof of one of the most famous scientific theories:
+  Einstein’s theory of general relativity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2115a/L{1}X{2}Y{3}.png
+name: Light Bends from the Beyond
+ra_hr: 0.7234743007652488
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2115a/thumb.jpg
+zoom_level: 0.35682846502705223
+---
+_uuid: cc05eabf-0b0b-44c3-89b3-10d55a04fa3f
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.46621740420147
+description: This Picture of the Week depicts the open star cluster NGC 330, which
+  lies around 180,000 light-years away inside the Small Magellanic Cloud. The cluster
+  — which is in the constellation Tucana (The Toucan) — contains a multitude of stars,
+  many of which are scattered across this striking image. The most stunning object
+  in this image is actually the very small star cluster in the lower left corner of
+  the image, surrounded by a nebula of ionised hydrogen (red) and dust (blue). Named
+  GALFOR 1, the cluster was discovered in 2018 in Hubble's archival data, which was
+  used to create this latest image from Hubble. To better understand this star cluster,
+  specifically whether the nebula surrounding the cluster also contains a bow shock,
+  scientists will need high resolution infrared imagery from the upcoming NASA/ESA/CSA
+  James Webb Space Telescope. This image also contains clues about the inner workings
+  of Hubble itself. The criss-cross patterns surrounding the stars in this image —
+  known as diffraction spikes — were created when starlight interacted with the four
+  thin vanes supporting Hubble’s secondary mirror. As star clusters form from a single
+  primordial cloud of gas and dust, all the stars they contain are roughly the same
+  age. This makes them useful natural laboratories for astronomers to learn how stars
+  form and evolve. This image uses observations from Hubble’s Wide Field Camera 3,
+  and incorporates data from two very different astronomical investigations. The first
+  aimed to understand why stars in star clusters appear to evolve differently from
+  stars elsewhere, a peculiarity first observed by the Hubble Space Telescope. The
+  second aimed to determine how large stars can be before they become doomed to end
+  their lives in cataclysmic supernova explosions. Links Video of A Scattering of
+  Stars
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2126a/L{1}X{2}Y{3}.png
+name: A Scattering of Stars
+ra_hr: 0.938813944034025
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2126a/thumb.jpg
+zoom_level: 0.413496431082609
+---
+_uuid: 7a09177a-03c0-40f2-8eab-62db7b1d735c
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 2.7143527057444023
+description: 'This star- and galaxy-studded image was captured by Hubble’s Wide Field
+  Camera 3 (WFC3), using data that were collected for scientific purposes. The object
+  of interest was a galaxy that is visible in the bottom right corner of the image,
+  named SGAS 0033+02. What makes this particular galaxy interesting is a little unusual
+  — it appears not just once in this image, but three times. The thrice-visible galaxy
+  is a little difficult to spot: it appears once as a curved arc and twice more as
+  small round dots around the star. SGAS 0033+02’s multiple appearances in the same
+  image are not the result of an error, but instead are due to a remarkable phenomenon
+  known as gravitational lensing. Gravitational lensing occurs when the light from
+  a very distant galaxy — such as SGAS 0033+02 — is curved (or ‘lensed’) by the gravity
+  of a massive celestial object that lies in the foreground, between the distant galaxy
+  and the Earth. SGAS 0033+02 was discovered by its namesake, the Sloan Giant Arcs
+  Survey (SGAS), which aimed to identify highly magnified galaxies that were gravitationally
+  lensed by foreground galaxy clusters. SGAS 0033+02 is of special interest because
+  of its highly unusual proximity in the sky to a very bright star. The star is useful,
+  because it can be used to calibrate and correct observations of the lensed SGAS
+  0033+02. Links Video of One Galaxy, Three Times'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2147a/L{1}X{2}Y{3}.png
+name: One Galaxy, Three Times
+ra_hr: 0.5611001243618048
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2147a/thumb.jpg
+zoom_level: 0.3475504652191372
+---
+_uuid: f8f158b6-8fce-4366-82ec-d8f021d46510
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 12.88419990861573
+description: 'This image from the NASA/ESA Hubble Space Telescope captures the spiral
+  galaxy NGC 105, which lies roughly 215 million light-years away in the constellation
+  Pisces. While it looks like NGC 105 is plunging edge-on into a collision with a
+  neighbouring galaxy, this is just the result of the chance alignment of the two
+  objects in the night sky. NGC 105’s elongated neighbour is actually far more distant
+  and remains relatively unknown to astronomers. These misleading conjunctions occur
+  frequently in astronomy — for example, the stars in constellations are at vastly
+  different distances from Earth, and only appear to form patterns thanks to the chance
+  alignment of their component stars. The Wide Field Camera 3 observations in this
+  image are from a vast collection of Hubble measurements examining nearby galaxies
+  which contain two fascinating astronomical phenomena — Cepheid variables and cataclysmic
+  supernova explosions. Whilst these two phenomena may appear to be unrelated — one
+  is a peculiar class of pulsating stars and the other is the explosion caused by
+  the catastrophic final throes of a massive star’s life — they are both used by astronomers
+  for a very particular purpose: measuring the vast distances to astronomical objects.
+  Both Cepheids and supernovae have very predictable luminosities, meaning that astronomers
+  can tell precisely how bright they are. By measuring how bright they appear when
+  observed from Earth, these “standard candles” can provide reliable distance measurements.
+  NGC 105 contains both supernovae and Cepheid variables, giving astronomers a valuable
+  opportunity to calibrate the two distance measurement techniques against one another.
+  Astronomers recently carefully analysed the distances to a sample of galaxies including
+  NGC 105 to measure how fast the Universe is expanding — a value known as the Hubble
+  constant. Their results don’t agree with the predictions of the most widely-accepted
+  cosmological model, and their analysis shows that there is only a 1-in-a-million
+  chance that this discrepancy was caused by measurement errors. This discrepancy
+  between galaxy measurements and cosmological predictions has been a long-standing
+  source of consternation for astronomers, and these recent findings provide persuasive
+  new evidence that something is either wrong or lacking in our standard model of
+  cosmology.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2201a/L{1}X{2}Y{3}.png
+name: Galactic Conjunction
+ra_hr: 0.42115275099556265
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2201a/thumb.jpg
+zoom_level: 0.2295788133704214
+---
+_uuid: 212a5e9c-903b-4f40-9fd3-14702f9c3675
+classification: ''
+constellation: AND
+data_set_type: Sky
+dec_deg: 23.991913148224363
+description: It is now widely accepted amongst astronomers that an important aspect
+  of how galaxies evolve is the way they interact with one another. Galaxies can merge,
+  collide, or brush past one another — each of which has a significant impact on their
+  shapes and structures. As common as these interactions are thought to be in the
+  Universe, it is rare to capture an image of two galaxies interacting in such a visibly
+  dynamic way. This image, from the NASA/ESA Hubble Space Telescope, feels incredibly
+  three-dimensional for a piece of deep-space imagery. The subject of this image is
+  named Arp 282, an interacting galaxy pair that is composed of the Seyfert galaxy
+  NGC 169 (bottom) and the galaxy IC 1559 (top). If you’re interested in learning
+  more about Seyfert galaxies, you can read about the Seyfert galaxy NGC 5728 here.
+  Interestingly, both of the galaxies comprising Arp 282 have monumentally energetic
+  cores, known as active galactic nuclei (AGN), although it is difficult to tell that
+  from this image. This is actually rather fortunate, because if the full emission
+  of two AGNs was visible in this image, then it would probably obscure the beautifully
+  detailed tidal interactions occurring between NGC 169 and IC 1559. Tidal forces
+  occur when an object’s gravity causes another object to distort or stretch. The
+  direction of the tidal forces will be away from the lower-mass object and towards
+  the higher mass object. When two galaxies interact, gas, dust and even entire solar
+  systems will be drawn away from one galaxy towards the other by these tidal forces.
+  This process can actually be seen in action in this image — delicate streams of
+  matter have formed, visibly linking the two galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2206a/L{1}X{2}Y{3}.png
+name: A Cosmic Draw
+ra_hr: 0.6149520883673546
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2206a/thumb.jpg
+zoom_level: 0.47071043804785634
+---
+_uuid: 7f728755-dcf6-4e64-a811-4da730ac9055
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -23.955717027933535
+description: 'Right in the middle of this image, nestled amongst a smattering of distant
+  stars and even more distant galaxies, lies the newly discovered dwarf galaxy known
+  as Donatiello II. If you cannot quite distinguish the clump of faint stars that
+  is all we can see of Donatiello II in this image, then you are in good company.
+  Donatiello II is one of three newly discovered galaxies that were so difficult to
+  spot that they were all missed by an algorithm designed to search astronomical data
+  for potential galaxy candidates. Even the best algorithms have their limitations
+  when it comes to distinguishing very faint galaxies from individual stars and background
+  noise. In these most challenging identification cases, discovery has to be done
+  the old-fashioned way — by a dedicated human trawling through the data themselves.
+  The data that enabled these discoveries was collected by the Dark Energy Survey
+  (DES), an intense observation effort that spanned six years, and was carried out
+  using the Dark Energy Camera (DECam), which is mounted on the Víctor M. Blanco 4-metre
+  Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF’s NOIRLab.
+  As is the case for most major telescopes that receive public funding, the DES data
+  were made available to the public. That is when the experienced amateur astronomer
+  Giuseppe Donatiello stepped in. He laboriously processed and analysed chunks of
+  the DES data, and made his discovery — three very faint galaxies, now named Donatiello
+  II, III and IV respectively. All three are satellites of the well known Sculptor
+  galaxy (otherwise known as NGC 253), meaning that they are all bound gravitationally
+  to their much more massive companion. This image comes from an observing programme
+  from the NASA/ESA Hubble Space Telescope. Based on their own independent search,
+  a team led by Burçin Mutlu-Pakdil used Hubble to obtain long-exposure images of
+  several faint galaxies, including Donatiello II. With the Hubble images, they were
+  able to confirm their target galaxies’ association with NGC 253 — thereby providing
+  both an independent confirmation of Donatiello’s discovery, and this new Picture
+  of the Week. [Image description: A black, mostly empty field with a variety of stars
+  and galaxies spread across it. Most are very small. A couple of galaxies and stars
+  are larger with visible details. In the centre is a relatively small, irregularly-shaped
+  galaxy; it is formed of many very small stars and a few slightly larger, bright
+  stars, all surrounded by a very faint glow that marks the borders of the galaxy.]
+  Links Hubble paper in the Astrophysical Journal Video of Can You Spot It?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2306a/L{1}X{2}Y{3}.png
+name: Can You Spot It?
+ra_hr: 0.7853317838826807
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2306a/thumb.jpg
+zoom_level: 0.2737807130265333
+---
+_uuid: 26cd3f48-0669-4e1d-b620-3c8b822e3065
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -20.441622410683507
+description: 'A massive galaxy cluster in the constellation Cetus dominates the centre
+  of this image from the NASA/ESA Hubble Space Telescope. This image is populated
+  with a serene collection of elliptical and spiral galaxies, but galaxies surrounding
+  the central cluster — which is named SPT-CL J0019-2026 — appear stretched into bright
+  arcs, as if distorted by a gargantuan magnifying glass. This cosmic contortion is
+  called gravitational lensing, and it occurs when a massive object like a galaxy
+  cluster has a sufficiently powerful gravitational field to distort and magnify the
+  light from background objects. Gravitational lenses magnify light from objects that
+  would usually be too distant and faint to observe, and so these lenses can extend
+  Hubble’s view even deeper into the Universe. This observation is part of an ongoing
+  project to fill short gaps in Hubble’s observing schedule by systematically exploring
+  the most massive galaxy clusters in the distant Universe, in the hopes of identifying
+  promising targets for further study with both Hubble and the NASA/ESA/CSA James
+  Webb Space Telescope. This particular galaxy cluster lies at a vast distance of
+  4.6 billion light years from Earth. Each year, the Space Telescope Science Institute
+  is inundated with observing proposals for Hubble, in which astronomers suggest targets
+  for observation. Even after selecting only the very best proposals, scheduling observations
+  of all of Hubble’s targets for a year is a formidable task. There is sometimes a
+  small fraction of observing time left unused in Hubble’s schedule, so in its ‘spare
+  time’ the telescope has a collection of objects to explore — including the lensing
+  galaxy cluster shown in this image. [Image description: A cluster of large galaxies,
+  surrounded by various stars and smaller galaxies on a dark background. The central
+  cluster is mostly made of bright elliptical galaxies that are surrounded by a warm
+  glow. Nearby the cluster is the stretched, distorted arc of a galaxy, gravitationally
+  lensed by the cluster.] Links Video of Cosmic Contortions'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2308a/L{1}X{2}Y{3}.png
+name: Cosmic Contortions
+ra_hr: 0.3191630502091184
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2308a/thumb.jpg
+zoom_level: 0.4715640055043825
+---
+_uuid: 2554f719-69e2-436b-910f-816d236715a4
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -9.265672271046459
+description: 'A jellyfish galaxy with trailing tentacles of stars hangs in inky blackness
+  in this image from the NASA/ESA Hubble Space Telescope. As Jellyfish galaxies move
+  through intergalactic space they are slowly stripped of gas, which trails behind
+  the galaxy in tendrils illuminated by clumps of star formation. These blue tendrils
+  are visible drifting below the core of this galaxy, and give it its jellyfish-like
+  appearance. This particular jellyfish galaxy — known as JO201 — lies in the constellation
+  Cetus, which is named after a sea monster from ancient Greek mythology. This sea-monster-themed
+  constellation adds to the nautical theme of this image. The tendrils of jellyfish
+  galaxies extend beyond the bright disc of the galaxy core. This particular observation
+  comes from an investigation into the sizes, masses and ages of the clumps of star
+  formation in the tendrils of jellyfish galaxies. Astronomers hope that this will
+  provide a breakthrough in understanding the connection between ram-pressure stripping
+  — the process that creates the tendrils of jellyfish galaxies — and star formation.
+  This galactic seascape was captured by Wide Field Camera 3 (WFC3), a versatile instrument
+  that captures images at ultraviolet and visible wavelengths. WFC3 is the source
+  of some of Hubble’s most spectacular images, from a view of Jupiter and Europa to
+  a revisit to the Pillars of Creation. [Image description: A spiral galaxy lies just
+  off-centre. It has large, faint, reddish spiral arms and a bright, reddish core.
+  These lie over two brighter blue spiral arms. These are patchy, with blotches of
+  star formation. Long trails of these bright blotches trail down from the lower spiral
+  arm, resembling tendrils. The background is black, lightly scattered with small
+  galaxies and stars, and a larger elliptical galaxy in one corner.] Links First science
+  paper in the Astrophysical Journal Second science paper in the Astrophysical Journal
+  Zoom: Galactic Seascape'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2309a/L{1}X{2}Y{3}.png
+name: Galactic Seascape
+ra_hr: 0.6919180992638295
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2309a/thumb.jpg
+zoom_level: 0.30611622283578593
+---
+_uuid: f1cae7f9-55bf-4b16-b778-75b0eac9a010
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -7.34189009934798
+description: 'The spiral galaxy NGC 298 basks in this image from the NASA/ESA Hubble
+  Space Telescope. NGC 298 lies around 89 million light-years away in the constellation
+  Cetus, and appears isolated in this image — only a handful of distant galaxies and
+  foreground stars accompany the lonely galaxy. While NGC 298 seems peaceful, in 1986
+  it was host to one of astronomy''s most extreme events: a catastrophic stellar explosion
+  known as a Type II supernova. Hubble’s Advanced Camera for Surveys captured NGC
+  298 as part of an investigation into the origins of Type II supernovae. All Type
+  II supernovae are produced by the collapse and subsequent explosion of young, massive
+  stars, but they can produce a spectacular diversity of brightnesses and spectral
+  features. Astronomers suspect that the diversity of this cosmic firework show might
+  be due to gas and dust being stripped from the stars that will eventually produce
+  Type II supernovae. Observing the region surrounding supernova explosions can reveal
+  traces of the progenitor star’s history preserved in this lost mass, as well as
+  revealing any companion stars that survived the supernova. Hubble used the brief
+  periods between scheduled observations to explore the aftermath of a number of Type
+  II supernovae, hoping to piece together the relationship between Type II supernovae
+  and the stellar systems which give rise to them. [Image description: A spiral galaxy.
+  It is tilted diagonally, and slightly towards the viewer, making its core and disc
+  separately visible. Its disc is speckled by small stars, has threads of dark reddish
+  dust and bubbles of bright, glowing gas. The core shines brightly in a warmer colour.
+  Several tiny stars and small galaxies are included in the black background.] Links
+  Pan: Hubble explores explosive aftermath in NGC 298'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2322a/L{1}X{2}Y{3}.png
+name: Hubble explores explosive aftermath in NGC 298
+ra_hr: 0.917387911909294
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2322a/thumb.jpg
+zoom_level: 0.4055939790015713
+---
+_uuid: 5d4d6825-280c-4d16-a5ea-9d88911bd85b
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -7.575395706198804
+description: 'The subject of this NASA/ESA Hubble Space Telescope Picture of the Week
+  is the spiral galaxy NGC 337, located about 60 million light-years away in the constellation
+  Cetus (The Whale). This image combines observations made at two wavelengths, highlighting
+  the galaxy’s golden centre and blue outskirts. The golden central glow comes from
+  older stars, while the sparkling blue edges get their colour from young stars. If
+  Hubble had observed NGC 337 about a decade ago, the telescope would have spotted
+  something remarkable among the hot blue stars along the galaxy’s edge: a brilliant
+  supernova. The supernova, named SN 2014cx, is remarkable for having been discovered
+  nearly simultaneously in two vastly different ways: by a prolific supernova hunter,
+  Koichi Itagaki, and by the All Sky Automated Survey for SuperNovae (ASAS-SN). ASAS-SN
+  is a worldwide network of robotic telescopes that scans the sky for sudden events
+  like supernovae. Researchers have determined that SN 2014cx was a Type IIP supernova.
+  The “Type II” classification means that the exploding star was a supergiant at least
+  eight times as massive as the Sun. The “P” stands for plateau, meaning that after
+  the light from the supernova began to fade, the level reached a plateau, remaining
+  at the same brightness for several weeks or months before fading further. This type
+  of supernova occurs when a massive star can no longer produce enough energy in its
+  core to stave off the crushing pressure of gravity. SN 2014cx’s progenitor star
+  is estimated to have been ten times more massive than the Sun and hundreds of times
+  as wide. Though it has long since dimmed from its initial brilliance, researchers
+  are still keeping tabs on this exploded star, not least through the Hubble observing
+  programme which produced this image. [Image Description: A barred spiral galaxy
+  on a dark background. The galaxy’s central region is a pale colour due to older
+  stars, contains some pale reddish threads of dust, and is brighter along a broad
+  horizontal bar through the very centre. Off the bar come several stubby spiral arms,
+  merging into the outer region of the disc. It is a cool blue colour and contains
+  some bright sparkling blue spots, both indicating young hot stars.] Links Pan of
+  NGC 337'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2452a/L{1}X{2}Y{3}.png
+name: A supernova checkup
+ra_hr: 0.9970053891239131
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2452a/thumb.jpg
+zoom_level: 0.5644672507307404
+---
+_uuid: 3b280c0b-0c74-4cb8-9912-3e5d96811d56
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -72.17392820216064
+description: 'Say hello to one of the Milky Way’s neighbours! Today’s NASA/ESA Hubble
+  Space Telescope Picture of the Week features a scene from one of the closest galaxies
+  to the Milky Way, the Small Magellanic Cloud (SMC). The SMC is a dwarf galaxy located
+  about 200 000 light-years away. Most of the galaxy resides in the constellation
+  Tucana, but a small section crosses over into the neighbouring constellation Hydrus.
+  Thanks to its proximity, the SMC is one of only a few galaxies that can be seen
+  from Earth without the help of a telescope or binoculars. For viewers in the southern
+  hemisphere and some latitudes in the northern hemisphere, the SMC resembles a piece
+  of the Milky Way that has broken off, though in reality it’s much farther away than
+  any part of our own galaxy. With its 2.4-metre ‘eye’ and sensitive instruments,
+  Hubble’s view of the SMC is far more detailed and vivid than what humans can see.
+  Researchers used Hubble’s Wide Field Camera 3 instrument to observe this scene through
+  four different filters. Each filter admits different wavelengths of light, creating
+  a multicoloured view of dust clouds drifting across a field of stars. Hubble’s view,
+  however, is much more zoomed-in than our eyes, the better for it to observe very
+  distant objects. This image captures a small region of the SMC near the centre of
+  NGC 346, a star cluster that is home to dozens of massive young stars. [Image Description:
+  An area of space that is filled with stars. Most of the stars are small, distant
+  dots in orange colours; closer stars shine with a bright glow and four thin spikes
+  around them. These closer stars appear in both bluish and reddish colours. Clouds
+  from a nebula cover the left half of the scene, giving it a blue-greenish cast.
+  More pieces of cloud drift over the black background of space on the right.] Links
+  Pan of NGC 346'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2511a/L{1}X{2}Y{3}.png
+name: Colourful clouds of a nearby neighbour
+ra_hr: 0.9954624775797019
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2511a/thumb.jpg
+zoom_level: 0.4577660637590686
+---
+_uuid: a156b206-a3f7-4dc2-8855-444037ef610b
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -23.16808676237109
+description: 'This NASA/ESA Hubble Space Telescope Picture of the Week zooms in on
+  the feathery spiral arms of the galaxy NGC 45, which lies just 22 million light-years
+  away in the constellation Cetus (The Whale). The data used to create this portrait
+  were drawn from two complementary observing programmes. The first took a broad view
+  of 50 nearby galaxies, leveraging Hubble’s ability to observe light from the ultraviolet
+  to the near-infrared in order to study star formation in these galaxies. The second
+  programme examined many of the same nearby galaxies as the first, narrowing in on
+  a particular wavelength of red light called H-alpha. Star-forming nebulae are powerful
+  producers of H-alpha light, and several of these regions can be identified across
+  NGC 45 by their bright pink-red colour. These observing programmes aimed to study
+  star formation in galaxies of different sizes, structures, and degrees of isolation
+  — and NGC 45 makes for a particularly interesting target. Though it may appear to
+  be a regular spiral galaxy, NGC 45 is actually a remarkable type called a low surface
+  brightness galaxy. Low surface brightness galaxies are fainter than the night sky
+  itself, making them incredibly difficult to detect. They appear unexpectedly faint
+  because they have relatively few stars for the amount of gas and dark matter they
+  carry. In the decades since the first low surface brightness galaxy was serendipitously
+  discovered in 1986, researchers have learned that 30–60% of all galaxies may fall
+  into this category. Studying these hard-to-detect galaxies is key to understanding
+  how galaxies form and evolve, and Hubble’s sensitive instruments are equal to the
+  task. [Image Description: This Hubble image features a close-up view of the outer
+  arms of the spiral galaxy NGC 45. These spiral arms are filled with tiny blue dots
+  - stars - and glowing pink clouds - star-forming nebulae. This is shown against
+  a dark background.] Links Pan: NGC 45'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2532a/L{1}X{2}Y{3}.png
+name: Low brightness, high interest
+ra_hr: 0.2334529660718714
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2532a/thumb.jpg
+zoom_level: 0.44353150131543645
+---
 _uuid: f1d18669-b5e2-408c-800b-6e4175312b64
 classification: ''
 constellation: CET
@@ -3227,3 +3966,148 @@ name: NGC 346 (Webb)
 ra_hr: 0.9849520310740464
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2301d/thumb.jpg
 zoom_level: 0.7769725615461543
+---
+_uuid: 5f1fbcb7-6598-4c7d-9780-5de61ec4e124
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -23.954620134925534
+description: The smudge in the center of this image from the Dark Energy Camera (DECam),
+  built by the US Department of Energy, is the elusive dwarf galaxy Donatiello II.
+  It is one of six dwarf galaxies discovered by Italian amateur astronomer Giuseppe
+  Donatiello. Three of them — Donatiello II, III and IV — were tucked away in the
+  DECam images, and are now known to be satellites of the Sculptor Galaxy (NGC 253)
+  (outside the field, to the far right). DECam is an instrument on the Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO), a Program of
+  NSF NOIRLab. It combines a wide field of view with high sensitivity, meaning that
+  it can scan large swathes of the night sky and also pick out the faint stars making
+  up neighboring dwarf galaxies such as this one. The Milky Way shares its patch of
+  the Universe with a whole host of small galaxies and star clusters, which help astronomers
+  shed light on the yet-to-be-understood physics of dark matter.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2306a/L{1}X{2}Y{3}.png
+name: Recently Discovered Dwarf Galaxy Donatiello II
+ra_hr: 0.7855029206726687
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2306a/thumb.jpg
+zoom_level: 1.300216372002157
+---
+_uuid: 668aaefc-80f7-48d7-b623-1a35db27c915
+classification: ''
+constellation: SCL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -31.204942836599216
+description: In the constellation Sculptor lies this large extended spiral galaxy
+  called NGC 289. Despite being around 75 million light-years away, the light of NGC
+  289 is stunningly captured here by the Dark Energy Camera (DECam) on the Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory (CTIO), a
+  Program of NSF NOIRLab. The galaxy’s bluish arms reach through the expanse of space
+  over 100,000 light-years, larger than the size of our own Milky Way. It’s classified
+  as a Type II Seyfert galaxy with its ripe collections of star formation and bright
+  core, but it’s also relatively faint. Studies have found that the galaxy contains
+  large amounts of dark matter, which is a common feature of all galaxies with a low
+  surface brightness. Dark matter is yet to be directly observed, which led the US
+  Department of Energy to build the DECam in order to study the nature of dark matter.
+  Since the conclusion of its survey, DECam has been available to other scientists
+  for use, such as for this image of NGC 289.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2332a/L{1}X{2}Y{3}.png
+name: Gentle Giant Galaxy
+ra_hr: 0.8783989125837935
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2332a/thumb.jpg
+zoom_level: 2.226256454466158
+---
+_uuid: 9929a202-b1d3-4050-8fd6-81b85c1fb0c8
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -73.2353784899182
+description: Orbiting around the Milky Way about 210,000 light-years away is the Small
+  Magellanic Cloud (SMC). This satellite galaxy is a dwarf galaxy, about a twentieth
+  the size of our own galaxy. Sitting among its hundred million stars is a 'bauble'
+  of hydrogen gas, captured here with the 4.1-meter Southern Astrophysical Research
+  (SOAR) Telescope, one of the telescopes at Cerro Tololo Inter-American Observatory
+  (CTIO), operated by NSF NOIRLab. This HII (pronounced H two) region is a cloud ripe
+  with star formation. Young, hot, blue stars formed from the material in the molecular
+  cloud, and now emit highly energetic ultraviolet radiation. The photons of the radiation
+  field bombard the remaining hydrogen gas with energy that ionizes the atoms, or,
+  in other words, excites them to a higher energy level. Astronomers use the term
+  HII to refer to this ionized state of the hydrogen. Ionized hydrogen emits light
+  at a specific wavelength called H-alpha. For researchers down on Earth, this wavelength
+  is a unique identity marker for ionized hydrogen, and is responsible for the characteristic
+  red color of HII regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2350a/L{1}X{2}Y{3}.png
+name: Glowing Hydrogen Bauble in the Small Magellanic Cloud
+ra_hr: 0.8022414670092863
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2350a/thumb.jpg
+zoom_level: 0.5228153887944672
+---
+_uuid: 64fa8709-77c2-44da-b4e9-154c9bb5c9e8
+classification: ''
+constellation: TUC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -72.79622471670001
+description: This NOIRLab Image of the Week of the Small Magellanic Cloud (SMC) was
+  not taken with a telescope! It was instead captured using a camera and a wide-aperture
+  telephoto lens. It was taken by Petr Horálek, a NOIRLab Audiovisual Ambassador.
+  Petr captured this special image for almost four hours during a night spent under
+  clear skies on Cerro Pachón in Chile. Cerro Pachón is a mountain in the foothills
+  of Chile’s Andes range. Northern Chile offers some of the clearest, driest, and
+  darkest skies in the world. These conditions create ample opportunities for astrophotography
+  and for addressing some of our biggest questions about the Universe. The summit
+  of Cerro Pachón is home to several telescopes operated by NSF NOIRLab including
+  the SOAR Telescope, a part of the U.S. National Science Foundation (NSF) Cerro Tololo
+  Inter-American Observatory (CTIO), a Program of NSF NOIRLab; Gemini South, one half
+  of the International Gemini Observatory, funded in part by the NSF; and NSF–DOE
+  Vera C. Rubin Observatory, which is jointly funded by the NSF and the U.S. Department
+  of Energy Office of Science (DOE/SC). The Small Magellanic Cloud and Large Magellanic
+  Cloud (LMC) are the largest of the 60+ satellite galaxies of the Milky Way. Satellite
+  galaxies orbit around a host galaxy and are usually smaller than their host galaxy.
+  The SMC was once even a satellite galaxy of the LMC! Unlike most of the other satellite
+  galaxies of the Milky Way, the SMC is actively forming stars at a rapid pace, a
+  process revealed by the blue light in this image. Petr similarly captured the LMC
+  from Cerro Pachón as an earlier NSF NOIRLab Image of the Week.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2615a/L{1}X{2}Y{3}.png
+name: The Small Magellanic Cloud from Cerro Pachón
+ra_hr: 0.8863640054866667
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2615a/thumb.jpg
+zoom_level: 63.085471509437355
+---
+_uuid: 5f23796b-708f-41f6-9b0b-74f405602b47
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 23.485517468525106
+description: The Gemini North telescope, one half of the International Gemini Observatory,
+  operated by NSF NOIRLab, captured this dazzling image of the so-called Taffy Galaxies
+  — UGC 12914 and UGC 12915. Their twisted appearance is the result of a head-on collision
+  that occurred about 25 million years prior to their appearance in this image. A
+  bridge of highly turbulent gas devoid of significant star formation spans the gap
+  between the two galaxies. This image was obtained by NOIRLab’s Communication, Education
+  & Engagement team as part of the NOIRLab Legacy Imaging Program.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2308a/L{1}X{2}Y{3}.png
+name: ‘Taffy Galaxies’ Collide, Leave Behind Bridge of Star-Forming Material
+ra_hr: 0.027659556826583005
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2308a/thumb.jpg
+zoom_level: 0.7191336914694506
+---
+_uuid: 8cdd500f-ee20-4531-9822-91f7262e083d
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 67.50119191337217
+description: No, this is not a firework display. This is Pa 30 — the likely remnant
+  of the historic supernova witnessed in the year 1181, now captured here in unprecedented
+  detail by the Gemini North telescope, one half of the International Gemini Observatory,
+  partly funded by the U.S. National Science Foundation (NSF) and operated by NSF
+  NOIRLab. This image was captured with the Gemini Multi-Object Spectrograph (GMOS),
+  and it shows that the remnant’s unmistakable firework-shaped ejecta take on a cascading
+  knot-like structure.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2624a/L{1}X{2}Y{3}.png
+name: Supernova remnant Pa 30
+ra_hr: 0.88645596278787
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2624a/thumb.jpg
+zoom_level: 0.7783288644823422

@@ -1,0 +1,14 @@
+corepipe-storage.yaml
+_localstore/
+candidates/
+rejects/
+cache_todo/
+cache_done/
+cache_failed/
+processed/
+on-hold/
+_triage/
+_dl/
+_merge/
+_*.log
+prep.txt

@@ -1359,6 +1359,602 @@ name: Rosette Nebula
 ra_hr: 6.533055555555555
 zoom_level: 32.0
 ---
+_uuid: 1f4233a0-a58c-497f-9122-381b5009980a
+classification: ''
+constellation: VOL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -74.23789507382874
+description: 'Astronomers have used NASA''s Chandra X-ray Observatory to discover
+  a ring of black holes or neutron stars in a galaxy 300 million light years from
+  Earth.
+
+
+  This ring, while not wielding power over Middle Earth, may help scientists better
+  understand what happens when galaxies smash into one another in catastrophic impacts.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2018-ring/L{1}X{2}Y{3}.png
+name: AM 0644-741
+ra_hr: 6.721662921331885
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2018-ring/thumb.jpg
+zoom_level: 0.5447234967662655
+---
+_uuid: 01f008db-11f3-45ca-9ac8-9d8439107765
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 9.77463174022742
+description: 'This new image of NGC 2264, also known as the “Christmas Tree Cluster,”
+  shows the shape of a cosmic tree with the glow of stellar lights. NGC 2264 is, in
+  fact, a cluster of young stars — with ages between about one and five million years
+  old — in our Milky Way about 2,500 light-years away from Earth. The stars in NGC
+  2264 are both smaller and larger than the Sun, ranging from some with less than
+  a tenth the mass of the Sun to others containing about seven solar masses.
+
+
+  This new composite image enhances the resemblance to a Christmas tree through choices
+  of color and rotation. The blue and white lights (which blink in the animated version
+  of this image ) are young stars that give off X-rays detected by NASA’s Chandra
+  X-ray Observatory . Optical data from the National Science Foundation-supported
+  WIYN 0.9-meter telescope on Kitt Peak shows a nebula of gas in the cluster in green,
+  corresponding to the “pine needles” of the tree. Finally infrared data from the
+  Two Micron All Sky Survey shows foreground and background stars in white. This image
+  has been rotated clockwise by 160 degrees from the astronomer’s standard of North
+  pointing upward, so that it appears like the top of the tree is toward the top of
+  the image.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2023-ngc2264/L{1}X{2}Y{3}.png
+name: NGC 2264
+ra_hr: 6.68359191561394
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2023-ngc2264/thumb.jpg
+zoom_level: 13.005145029201477
+---
+_uuid: 2961d0a1-fe13-4c9f-b509-5b5b92fe12b6
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -55.94820712828469
+description: 'New data has created a spectacular new image of the Bullet Cluster using
+  NASA’s James Webb Space Telescope (JWST) and Chandra X-ray Observatory . The Bullet
+  Cluster, otherwise known as 1E 0657-56, is iconic, having provided the first direct
+  proof of dark matter through observations from Chandra, NASA’s Hubble Space Telescope
+  and ground-based telescopes in 2006 .
+
+
+  Now, Webb data is delivering highly detailed images that show extremely faint and
+  distant galaxies in the cluster and the background in greater detail than ever before.
+  Astronomers used Webb to completely map the contents of the Bullet Cluster, which
+  gets its nickname because of its distinctive shape in X-rays . Galaxy clusters are
+  the largest structures in the universe held together by gravity and they contain
+  thousands of individual galaxies, huge reservoirs of superheated gas, and vast amounts
+  of dark matter.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-bullet/L{1}X{2}Y{3}.png
+name: Bullet Cluster
+ra_hr: 6.974293308950493
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-bullet/thumb.jpg
+zoom_level: 0.416542458417416
+---
+_uuid: 2e95ebd6-ecb9-456d-83b1-9890684f6527
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 9.40112512783896
+description: The Cone Nebula is part of a star-forming region of space, NGC 2264,
+  about 2500 light-years away. Its pillar-like appearance is a perfect example of
+  the shapes that can develop in giant clouds of cold molecular gas and dust, known
+  for creating new stars. This dramatic new view of the nebula was captured with the
+  FOcal Reducer and low dispersion Spectrograph 2 (FORS2) instrument on ESO’s Very
+  Large Telescope (VLT), and released on the occasion of ESO’s 60th anniversary.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2215a/L{1}X{2}Y{3}.png
+name: 'ESO’s 60th anniversary image: the Cone Nebula as seen by the VLT'
+ra_hr: 6.6870554786578005
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2215a/thumb.jpg
+zoom_level: 1.2010407423978022
+---
+_uuid: 2fa7c690-9cd1-43d9-8f4d-6b4ff96bef8e
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: At the centre of this image is the young star V960 Mon, located over
+  5000 light-years away in the constellation Monoceros. Dusty material with potential
+  to form planets surrounds the star. Observations obtained using the Spectro-Polarimetric
+  High-contrast Exoplanet REsearch (SPHERE) instrument on ESO’s VLT, represented in
+  yellow in this image, show that the dusty material orbiting the young star is assembling
+  together in a series of intricate spiral arms extending to distances greater than
+  the entire Solar System. Meanwhile, the blue regions represent data obtained with
+  the Atacama Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner.
+  The ALMA data peers deeper into the structure of the spiral arms, revealing large
+  dusty clumps that could contract and collapse to form giant planets roughly the
+  size of Jupiter via a process known as “gravitational instability”.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312a/L{1}X{2}Y{3}.png
+name: Combined SPHERE and ALMA image of material orbiting V960 Mon
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312a/thumb.jpg
+zoom_level: 0.01690230285983502
+---
+_uuid: ca7f49f9-be3a-4793-b133-fc3002422084
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: This image of the young star V960 Mon and its surrounding material was
+  taken with the Spectro-Polarimetric High-contrast Exoplanet REsearch (SPHERE) instrument
+  on ESO’s VLT. The material orbiting the young star is assembling together in a series
+  of intricate spiral arms that extend to distances greater than the entire Solar
+  System.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312c/L{1}X{2}Y{3}.png
+name: Intricate spiral arms around V960 Mon captured with SPHERE
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312c/thumb.jpg
+zoom_level: 0.01690230285983502
+---
+_uuid: e693936d-9e76-423f-9c16-3ea1d2778edd
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -4.091055465267735
+description: This image of the young star V960 Mon and surrounding dusty material
+  was obtained with the Atacama Large Millimeter/submillimeter Array (ALMA), in which
+  ESO is a partner. Large dusty clumps with masses similar to that of planets are
+  visible here as blue blobs. These clumps could contract and collapse via a process
+  known as “gravitational instability” to form giant planets roughly the size of Jupiter.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2312d/L{1}X{2}Y{3}.png
+name: Large dusty clumps orbiting V960 Mon captured by ALMA
+ra_hr: 6.9921088134435685
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2312d/thumb.jpg
+zoom_level: 0.01690230285983502
+---
+_uuid: ac3e7e46-a89a-41f2-80d9-bc5c730c1485
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -39.79232163887707
+description: 'This mosaic made by ESA’s Euclid space telescopes contains 260 observations
+  collected between 25 March and 8 April 2024. This is 1% of the wide survey that
+  Euclid will capture during six years. In just two weeks, Euclid covered 132 square
+  degrees of the Southern Sky, more than 500 times the area of the full Moon as seen
+  from Earth. The full mosaic is 208 gigapixels. Until the first official data release
+  from the mission, the highest resolution for download is 11Kx4K.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  The empty regions within the mosaic were intentionally avoided during the survey
+  due to the presence of very bright stars, which would ‘blind’ Euclid’s sensitive
+  instrumentation.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/L{1}X{2}Y{3}.png
+name: Mosaic of Euclid observations in the Southern Sky
+ra_hr: 6.148648164355929
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015a/thumb.jpg
+zoom_level: 102.85625872585655
+---
+_uuid: a1072e42-ecc5-4e5d-8e27-5000195178a4
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -35.21424715257454
+description: 'This image displays an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in three times compared to the
+  large mosaic. This patch of the Southern Sky shows numerous stars in our own Milky
+  Way, and many galaxies beyond. Thanks to its visible and infrared cameras, Euclid
+  captures the stars in their various colours: red stars are colder, and white/blue
+  stars are hotter. On the right of the image, galaxy cluster Abell 3381 is visible
+  as a string of galaxies.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/L{1}X{2}Y{3}.png
+name: Euclid’s extragalactic view in Southern Sky patch
+ra_hr: 6.214612741372387
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015b/thumb.jpg
+zoom_level: 29.323020374569275
+---
+_uuid: 8a2d284b-8a35-4e38-9d6b-95f5126514a5
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.82678737836347
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in twelve times compared to the
+  large mosaic. In the middle left, spiral galaxy NGC 2188 is visible edge-on at a
+  distance of 25 million light-years. In the top right corner, galaxy cluster Abell
+  3381 is now clearly noticeable, 678 million light-years away from us.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/L{1}X{2}Y{3}.png
+name: Euclid sees spiral galaxy NGC 2188 and galaxy cluster Abell 3381
+ra_hr: 6.167065024984624
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015c/thumb.jpg
+zoom_level: 7.341933911248356
+---
+_uuid: c84551e4-0716-49a9-a1cf-e3691600d73b
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.51996369453204
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 36 times compared to the large
+  mosaic. In this image, the core of galaxy cluster Abell 3381 is visible, 678 million
+  light-years away from us. The image shows many different galaxies of various shapes
+  and sizes, from massive elliptical to modest spiral galaxies, down to tiny and dim
+  dwarf galaxies.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/L{1}X{2}Y{3}.png
+name: Euclid captures core of Abell 3381 galaxy cluster
+ra_hr: 6.1680867670360415
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015d/thumb.jpg
+zoom_level: 2.448814890633436
+---
+_uuid: 1f003973-eaca-48cc-a499-0f74d573a90c
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.63735781884573
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 150 times compared to the large
+  mosaic. On the left of the image, Euclid captured two galaxies (called ESO 364-G035
+  and G036) that are interacting with each other, 420 million light-years from us.
+  On the right of the image, galaxy cluster Abell 3381 is visible, 678 million light-years
+  away from us.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/L{1}X{2}Y{3}.png
+name: Euclid spots interacting galaxies
+ra_hr: 6.16518595573597
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015e/thumb.jpg
+zoom_level: 0.6120241619570638
+---
+_uuid: 344694dc-050c-43c4-b317-8134d578aaaf
+classification: ''
+constellation: COL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -33.6370843376252
+description: 'This image shows an area of the mosaic released by ESA’s Euclid space
+  telescope on 15 October 2024. The area is zoomed in 600 times compared to the large
+  mosaic. In this image, a single spiral galaxy (called ESO 364-G036) is visible in
+  great detail, 420 million light-years from us. This image shows 0.0003% of the initial
+  image of 208 gigapixels, that is 1/330 000 of the area of the main Euclid mosaic.
+
+
+  Technical details: This colour image was obtained by combining VIS data and NISP
+  photometry in Y and H bands. VIS and NISP enable observing astronomical sources
+  in four different wavelength ranges. Aesthetics choices led to the selection of
+  three out of these four bands to be cast onto the traditional Red-Green-Blue colour
+  channels used to represent images on our digital screens (RGB). The blue, green,
+  red channels capture the Universe seen by Euclid around the wavelength 0.7, 1.1,
+  and 1.7 micron respectively. In the image, the stars have six prominent spikes due
+  to how light interacts with the optical system of the telescope in the process of
+  diffraction.
+
+
+  Image processing by J.-C. Cuillandre, E. Bertin, G. Anselmi'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/L{1}X{2}Y{3}.png
+name: Euclid beholds a distant swirling spiral galaxy
+ra_hr: 6.1667315377184755
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20241015f/thumb.jpg
+zoom_level: 0.14828817998943306
+---
+_uuid: dfcf8a6e-a80d-4bbc-9457-319c1127fe9e
+classification: ''
+constellation: MON
+data_set_type: Sky
+dec_deg: 4.997845215418282
+description: 'This is a Hubble Space Telescope photo of a small portion of the Rosette
+  Nebula, a huge star-forming region spanning 100 light-years across and located 5,200
+  light-years away. Hubble zooms into a small portion of the nebula that is only 4
+  light-years across (the approximate distance between our Sun and the neighbouring
+  Alpha Centauri star system.) Dark clouds of hydrogen gas laced with dust are silhouetted
+  across the image. The clouds are being eroded and shaped by the seething radiation
+  from the cluster of larger stars in the center of the nebula (NGC 2440). An embedded
+  star seen at the tip of a dark cloud in the upper right portion of the image is
+  launching jets of plasma that are crashing into the cold cloud around it. The resulting
+  shock wave is causing a red glow. The colours come from the presence of hydrogen,
+  oxygen, and nitrogen. [Image description: A tiny portion of the Rosette Nebula.
+  Very dark gray material shaped like a V extends from just below top left all the
+  way down to the lower right corner and back up toward the top right. It looks like
+  thick smoke that has billowed out irregularly, thicker along the line from top left
+  to bottom right, and looser on the piece that goes toward the top right. Behind
+  the dark gray on the left side, from the bottom left to top center, there is dust
+  that looks like arced claw marks that appears in light orange and yellow. The background
+  at top left is hazier and some blues are covered in semi-transparent orange wisps,
+  which makes sections take on green hues. In the bottom right, the background is
+  bluer. There are a few bright red and purple stars scattered along the right half,
+  most toward the bottom. The largest star is at right-center, just at the edge. It
+  is red and has four diffraction spikes.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2505f/L{1}X{2}Y{3}.png
+name: Rosette Nebula
+ra_hr: 6.511652611953924
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2505f/thumb.jpg
+zoom_level: 0.45058269453485494
+---
+_uuid: 5383dd3b-cf16-4b7b-9397-bddbea19b5b5
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -26.75462098086136
+description: What looks like two glowing eyes and a crooked carved smile in this new
+  NASA/ESA Hubble Space Telescope snapshot is the early stages of a collision between
+  two galaxies. Residing in the constellation Canis Major, the entire view is 109,000
+  light-years across, approximately the diameter of our Milky Way. The overall pumpkin-ish
+  color corresponds to the glow of aging red stars in two galaxies, cataloged as NGC
+  2292 and NGC 2293, which only have a hint of spiral structure. The ghostly arm making
+  the “smile” may be just the beginning of the process of rebuilding a spiral galaxy,
+  say researchers. The arm embraces both galaxies. It most likely formed when interstellar
+  gas was compressed as the two galaxies began to merge. The higher density precipitates
+  new star formation. Link NASA Press Release
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2032a/L{1}X{2}Y{3}.png
+name: Hubble Finds Halloween Pumpkin Pair
+ra_hr: 6.794618623979024
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2032a/thumb.jpg
+zoom_level: 0.5018305666827069
+---
+_uuid: 6036ebc8-1503-4a77-988c-54f19b0dd17d
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 60.85091150103241
+description: 'At first glance, the subject of this NASA/ESA Hubble Space Telescope
+  image looks to be a simple spiral galaxy, with two pinwheeling arms emerging from
+  a central bar of stars and material that cuts through the galactic centre. In fact,
+  there are rings within these spiral arms, too: spirals within a spiral. This kind
+  of morphology is known as a multiring structure. As this description suggests, this
+  galaxy, named NGC 2273, hosts an inner ring and two outer “pseudorings” — having
+  so many distinct rings is rare, and makes NGC 2273 unusual. Rings are created when
+  a galaxy’s spiral arms appear to loop around to nearly close upon one another, combined
+  with a trick of cosmic perspective. NGC 2273’s two pseudorings are formed by two
+  swirling sets of spiral arms coming together, and the inner ring by two arcing structures
+  nearer to the galactic centre, which seem to connect in a similar way. These rings
+  are not the only unique feature of this galaxy. NGC 2273 is also a Seyfert galaxy,
+  a galaxy with an extremely luminous core. In fact, the centre of a galaxy such as
+  this is powered by a supermassive black hole, and can glow brightly enough to outshine
+  an entire galaxy like the Milky Way.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2014a/L{1}X{2}Y{3}.png
+name: Rings Upon Rings
+ra_hr: 6.835559854010792
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2014a/thumb.jpg
+zoom_level: 0.3423080470789256
+---
+_uuid: 3dc9a821-0530-4388-ad99-f9d761a5503d
+classification: ''
+constellation: MEN
+data_set_type: Sky
+dec_deg: -75.43346164740977
+description: Looking its best ever is the star cluster NGC 2203, here imaged by the
+  NASA/ESA Hubble Space Telescope. Aside from its dazzling good looks, this cluster
+  of stars contains lots of astronomical treats that have helped astronomers puzzle
+  together the lifetimes of stars. A main sequence star, like our Sun, is the term
+  applied to a star during the longest period of its life, when it burns fuel steadily.
+  Our Sun’s fuel will run out in approximately 6 billion years, and it will then move
+  on to the next stage of its life when it will turn into a red giant. Astronomers
+  studying NGC 2203, which contains stars that are roughly twice as massive as our
+  Sun, found that their rotation might be a factor as to why some of the stars stay
+  longer than usual in this main-sequence phase of their life. This is the best resolution
+  obtained of the star cluster to date.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2030a/L{1}X{2}Y{3}.png
+name: Stellar Sweet Shop
+ra_hr: 6.077506767696675
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2030a/thumb.jpg
+zoom_level: 0.45316349186817695
+---
+_uuid: 2792b669-37d5-4b9a-98bd-3d8bb0c00751
+classification: ''
+constellation: COL
+data_set_type: Sky
+dec_deg: -34.103755209634365
+description: The blue and orange stars of the faint galaxy named NGC 2188 sparkle
+  in this image taken with the NASA/ESA Hubble Space Telescope. Although NGC 2188
+  appears at first glance to consist solely of a narrow band of stars, it is classified
+  by astronomers as a barred-spiral galaxy. It appears this way from our viewpoint
+  on Earth as the centre and spiral arms of the galaxy are tilted away from us, with
+  only the very narrow outer edge of the galaxy’s disc visible to us. Astronomers
+  liken this occurrence to turning a dinner plate in your hands so you see only its
+  outer edge. The true shape of the galaxy was identified by studying the distribution
+  of the stars in the inner central bulge and outer disc and by observing the stars’
+  colours. NGC 2188 is estimated to be just half the size of our Milky Way, at 50
+  000 light-years across, and it is situated in the constellation of Columba (The
+  Dove). Named in the late 1500s after Noah’s dove in biblical stories, the small
+  constellation consists of many faint yet beautiful stars and astronomical objects.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2035a/L{1}X{2}Y{3}.png
+name: A Tilted Wonder
+ra_hr: 6.169612889728937
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2035a/thumb.jpg
+zoom_level: 0.58078668758181
+---
+_uuid: 03df1a40-83f3-494b-865f-a414a72a5dc1
+classification: ''
+constellation: CMA
+data_set_type: Sky
+dec_deg: -27.23668344732177
+description: The magnificent central bar of NGC 2217 (also known as AM 0619-271) shines
+  bright in the constellation of Canis Major (The Greater Dog), in this new image
+  taken by the NASA/ESA Hubble Space Telescope. Roughly 65 million light-years from
+  Earth, this barred spiral galaxy is a similar size to our Milky Way at 100 thousand
+  light-years across. Many stars are concentrated in its central region forming the
+  luminous bar, surrounded by a set of tightly wound spiral arms. The central bar
+  in these types of galaxies plays an important role in their evolution, helping to
+  funnel gas from the disc into the middle of the galaxy. The transported gas and
+  dust are then either formed into new stars or fed to the supermassive black hole
+  at the galaxy's centre. Weighing from a few hundred to over a billion times the
+  mass of our Sun, supermassive black holes are present in almost all large galaxies.
+  This image was colourised with data from the Panoramic Survey Telescope and Rapid
+  Response System (Pan-STARRS).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2052a/L{1}X{2}Y{3}.png
+name: A Bright Bar of Light
+ra_hr: 6.361264576108385
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2052a/thumb.jpg
+zoom_level: 0.5684044985247728
+---
+_uuid: 0c551a3a-df4a-4b4e-804a-7aab388728e8
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 21.64214003806726
+description: Nestled amongst the vast clouds of star-forming regions like this one
+  lie potential clues about the formation of our own Solar System. This week’s NASA/ESA
+  Hubble Space Telescope Picture of the Week features AFGL 5180, a beautiful stellar
+  nursery located in the constellation of Gemini (The Twins). At the centre of the
+  image, a massive star is forming and blasting cavities through the clouds with a
+  pair of powerful jets, extending to the top right and bottom left of the image.
+  Light from this star is mostly escaping and reaching us by illuminating these cavities,
+  like a lighthouse piercing through the storm clouds. Stars are born in dusty environments
+  and although this dust makes for spectacular images, it can prevent astronomers
+  from seeing stars embedded in it. Hubble’s Wide Field Camera 3 (WFC3) instrument
+  is designed to capture detailed images in both visible and infrared light, meaning
+  that the young stars hidden in vast star-forming regions like AFGL 5180 can be seen
+  much more clearly.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2110a/L{1}X{2}Y{3}.png
+name: Through the Clouds
+ra_hr: 6.148327103734972
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2110a/thumb.jpg
+zoom_level: 0.3326674581649276
+---
+_uuid: a300b9c2-a5f2-4a5c-8442-85cc959e5f77
+classification: ''
+constellation: DOR
+data_set_type: Sky
+dec_deg: -69.12202716437244
+description: 'This striking image shows the densely packed globular cluster known
+  as NGC 2210, which is situated in the Large Magellanic Cloud (LMC). The LMC lies
+  about 157 000 light-years from Earth, and is a so-called satellite galaxy of the
+  Milky Way, meaning that the two galaxies are gravitationally bound. Globular clusters
+  are very stable, tightly bound clusters of thousands or even millions of stars.
+  Their stability means that they can last a long time, and therefore globular clusters
+  are often studied in order to investigate potentially very old stellar populations.
+  In fact, 2017 research that made use of some of the data that were also used to
+  build this image revealed that a sample of LMC globular clusters were incredibly
+  close in age to some of the oldest stellar clusters found in the Milky Way’s halo.
+  They found that NGC 2210 specifically probably clocks in at around 11.6 billion
+  years of age. Even though this is only a couple of billion years younger than the
+  Universe itself, it made NGC 2210 by far the youngest globular cluster in their
+  sample. All other LMC globular clusters studied in the same work were found to be
+  even older, with four of them over 13 billion years old. This is interesting, because
+  it tells astronomers that the oldest globular clusters in the LMC formed contemporaneously
+  with the oldest clusters in the Milky Way, even though the two galaxies formed independently.
+  As well as being a source of interesting research, this old-but-relatively-young
+  cluster is also extremely beautiful, with its highly concentrated population of
+  stars. The night sky would look very different from the perspective of an inhabitant
+  of a planet orbiting one of the stars in a globular cluster’s centre: the sky would
+  appear to be stuffed full of stars, in a stellar environment that is thousands of
+  times more crowded than our own. Links Science paper in the Monthly Notices of the
+  Royal Astronomical Society Pan video: Cluster in the cloud [Image Description: A
+  dense cluster of stars. It is brightest and most crowded in the centre, where the
+  stars are mostly a cool white colour. Moving out towards the edges the stars become
+  more spread out and reddish until a noticeable ‘edge’ to the cluster is reached.
+  Beyond that edge there are still many stars, more disorganised and seen on a black
+  background. Some stars appear to be in front of the cluster.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2349a/L{1}X{2}Y{3}.png
+name: Cluster in the cloud
+ra_hr: 6.19208818997906
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2349a/thumb.jpg
+zoom_level: 0.3737341809870761
+---
+_uuid: 2c72c6f3-75c9-4d80-9cc9-1c8ad3ecc86c
+classification: ''
+constellation: CAM
+data_set_type: Sky
+dec_deg: 63.67543176216951
+description: 'Looking past its long spiral arms filled with stars and the dark threads
+  of dust crossing it, your eye might be caught by the shining point at the centre
+  of UGC 3478, the spiral galaxy starring in this Hubble Picture of the Week. This
+  point is the galaxy’s nucleus, and indeed there is something special about it: it
+  is a growing giant black hole which astronomers call an active galactic nucleus,
+  or AGN. UGC 3478, located in the constellation Camelopardalis, is what is known
+  as a Seyfert galaxy. This is a type of galaxy with an AGN at its core. Like all
+  such ‘active galaxies’, the brightness that you see here hides a supermassive black
+  hole at the centre of the galaxy. A disc of gas spirals into this black hole, and
+  as the material crashes together and heats up it emits very strong radiation. The
+  spectrum of this radiation includes hard X-ray emission, which clearly mark it out
+  from the stars in the galaxy. Despite the strong brightness of the compact central
+  region, we can still clearly see the disc of the galaxy around it, which is a defining
+  factor of a Seyfert galaxy. Many active galaxies are known to astronomers at vast
+  distances from Earth, thanks to the great brightness of their nuclei highlighting
+  them next to other, dimmer galaxies. At 128 million light-years from Earth, UGC
+  3478 is positively neighbourly to us. The data used to make this image come from
+  a Hubble survey of nearby powerful AGNs identified by their output of relatively
+  high-energy X-rays, like this one, which it is hoped can help astronomers to understand
+  how the galaxies interact with the supermassive black holes at their hearts. [Image
+  Description: A spiral galaxy, with two glowing spiral arms. They are filled with
+  thin lines of dark dust, and surrounded by a faint cloud. One arm stretches further
+  from the galaxy than the other. The point at the centre of the spiral is particularly
+  bright. It is on a black background, mostly empty, except for some distant galaxies
+  and a few bright stars in the foreground.] Links Pan of UGC 3478'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2435a/L{1}X{2}Y{3}.png
+name: Hiding a bright secret
+ra_hr: 6.546757493899023
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2435a/thumb.jpg
+zoom_level: 0.262494042164916
+---
 _uuid: a3ab6b78-670f-44e5-9130-2e77519fa078
 classification: ''
 constellation: CAR
@@ -1582,3 +2178,129 @@ name: Stellar jet in Sh2-284 (NIRCam image)
 ra_hr: 6.771048458623323
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2519a/thumb.jpg
 zoom_level: 0.2532511344200943
+---
+_uuid: 7a95f253-e26e-4600-8e66-e9afc8f7e802
+classification: ''
+constellation: LEP
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -20.11675744400368
+description: The galaxy cluster MACS J0060.1-2008 (MACS0060) is well known for its
+  strong gravitational lensing effect. This means the cluster is massive enough to
+  curve the space-time around it and bend the path of light from more distant objects.
+  The galaxy cluster acts like a giant magnifying glass, boosting the reach of our
+  telescopes and allowing us to see farther and fainter objects in space. When researchers
+  analyzed a Hubble Space Telescope (HST) image of the MACS0600 cluster, they realized
+  that the cluster's mass as determined from the image was too small to account for
+  the strength of its gravitational lensing effect. The researchers observed the area
+  just east of where the HST image was taken using the Gemini Multi-Object Spectrograph
+  (GMOS) on Gemini North, one half of the International Gemini Observatory, supported
+  in part by the U.S. National Science Foundation and operated by NSF NOIRLab. They
+  found that the HST image only captured a small part of a massive, sprawling cluster.
+  As a result, the researchers have given MACS0600 the nickname ‘Anglerfish cluster,’
+  in reference to the deep-sea creature that is often only partially visible while
+  the bulk of it remains hidden. Further research will be needed to find the spatial
+  limits of the cluster’s mass, and astronomers are already planning to use this cluster’s
+  magnification powers to study galaxies in the early Universe.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2535a/L{1}X{2}Y{3}.png
+name: Delimiting a Cosmic Magnifying Glass
+ra_hr: 6.0048152265159755
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2535a/thumb.jpg
+zoom_level: 0.8662063125300596
+---
+_uuid: eb94a8f4-aca9-45c9-a696-2b9158c3f150
+classification: ''
+constellation: MON
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -6.966513674115323
+description: The dusty disk around HD 50138 is part of a survey of 44 young massive
+  stars to investigate planet formation in dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212e/L{1}X{2}Y{3}.png
+name: Dusty disk around HD 50138
+ra_hr: 6.859277524709873
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212e/thumb.jpg
+zoom_level: 0.007214161342638095
+---
+_uuid: c35551e1-2815-4221-91a7-7a7c99df08ae
+classification: ''
+constellation: ORI
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 16.515754679616208
+description: The dusty disk around MWC 789 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212g/L{1}X{2}Y{3}.png
+name: Dusty disk around MWC 789
+ra_hr: 6.033330333528768
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212g/thumb.jpg
+zoom_level: 0.007274319429717608
+---
+_uuid: 4ac31f36-7c96-46e2-9e31-165bc37d01ec
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -55.961021571193115
+description: The Bullet Cluster is made up of two galaxy clusters that are colliding,
+  one moving through the other, about 3.7 billion light-years away in the constellation
+  Carina. These galaxy clusters act as gravitational lenses, magnifying the light
+  of background galaxies. This phenomenon makes the Bullet Cluster a compelling piece
+  of evidence supporting the existence of dark matter. This image was taken with the
+  570-megapixel U.S. Department of Energy-fabricated Dark Energy Camera (DECam), mounted
+  on the U.S. National Science Foundation Víctor M. Blanco 4-meter Telescope at Cerro
+  Tololo Inter-American Observatory (CTIO), a Program of NSF NOIRLab. View the Zoomable
+  image to explore this stunning galaxyscape in more detail.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2603a/L{1}X{2}Y{3}.png
+name: Bullet Cluster with DECam
+ra_hr: 6.975304593640096
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2603a/thumb.jpg
+zoom_level: 7.976506619045834
+---
+_uuid: a84395bb-4600-4315-bb85-06a46a1a3915
+classification: ''
+constellation: PIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -59.91305220619296
+description: This image shows stars in the ultra-faint dwarf galaxy, Pictor II. Pictor
+  II is a satellite galaxy of the Large Magellanic Cloud, which is a satellite galaxy
+  of the Milky Way, and is located in the constellation Pictor. The system is made
+  up of several thousand stars and is more than ten billion years old. Within this
+  small, ancient galaxy, astronomers discovered a star, PicII-503, with the lowest
+  iron content ever measured outside of the Milky Way. With less than 1/40,000th the
+  amount of iron as the Sun, PicII-503 is the clearest example of a star within a
+  primordial system that preserves the chemical enrichment of the Universe’s first
+  stars. PicII-503 also has an extreme overabundance of carbon, providing the missing
+  link to connect carbon-enhanced stars observed in the Milky Way halo to an origin
+  in ancient dwarf galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2607a/L{1}X{2}Y{3}.png
+name: Pictor II ultra-faint dwarf galaxy
+ra_hr: 6.7453005566
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2607a/thumb.jpg
+zoom_level: 4.796544776483525
+---
+_uuid: daba0160-8eff-4bf3-bdf6-4af529a17f46
+classification: ''
+constellation: PIC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -60.13995705181635
+description: This image shows the star PicII-503, with the lowest iron content ever
+  measured outside of the Milky Way. With less than 1/40,000th the amount of iron
+  as the Sun, PicII-503 is the clearest example of a star within a primordial system
+  that preserves the chemical enrichment of the Universe’s first stars. PicII-503
+  also has an extreme overabundance of carbon, providing the missing link to connect
+  carbon-enhanced stars observed in the Milky Way halo to an origin in ancient dwarf
+  galaxies.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2607c/L{1}X{2}Y{3}.png
+name: Star PicII-503 in Pictor II ultra-faint dwarf galaxy
+ra_hr: 6.733073222610093
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2607c/thumb.jpg
+zoom_level: 0.12602529618119387

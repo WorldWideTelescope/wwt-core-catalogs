@@ -446,7 +446,7 @@ description: '  Squint or you’ll miss it! At the very centre of this image, ta
   are typically smaller and host a relatively small number of stars. Gravitational
   tugs from nearby galaxies can often distort the spherical and disc-like shapes of
   these fragile galaxies — this very process may be responsible for the slightly rectangular
-  shape of this particular dwarf galaxy.Acknowledgement: M. Bellazzini et al. '
+  shape of this particular dwarf galaxy. Acknowledgement: M. Bellazzini et al. '
 foreground_image_set_url: http://data1.wwtassets.org/feeds/eso/potw1805a/L{1}X{2}Y{3}.png
 name: A diamond in the rough
 ra_hr: 19.499979719030144
@@ -2111,6 +2111,251 @@ name: Dumbbell Nebula
 ra_hr: 19.9925
 zoom_level: 4.0
 ---
+_uuid: 4724aa54-cfd1-401f-b22d-0463342aec7f
+classification: ''
+constellation: CRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -36.95357396207955
+description: This image shows the regions around the Coronet star cluster in the Corona
+  Australis constellation. New stars are born in the colourful clouds of gas and dust
+  seen here. The infrared observations underlying the image reveal new details in
+  the star-forming regions that are usually obscured by the clouds of dust. The image
+  was produced with data collected by the VIRCAM instrument, which is attached to
+  the VISTA telescope at ESO’s Paranal Observatory in Chile. The observations were
+  done as part of the VISIONS survey, which will allow astronomers to better understand
+  how stars form in these dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307f/L{1}X{2}Y{3}.png
+name: An infrared view of the region around the Coronet star cluster
+ra_hr: 19.03060190278874
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307f/thumb.jpg
+zoom_level: 3.724389051986205
+---
+_uuid: 2eebb1ed-3343-4d94-82fd-981d51cd313f
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -7.681963890000006
+description: What appears to be a ripple in space, is today’s Picture of the Week
+  depicting a newborn planet eating its way through its dusty cradle as it orbits
+  its host star. This image, taken with ESO’s Very Large Telescope (VLT) in Chile,
+  is the first clear detection of a baby planet in a disc with multiple rings. These
+  so-called protoplanetary discs surround young stars and appear as disc-shaped structures
+  of gas and dust, often with rings like the one in this image. They are the birthplace
+  of planets, and the rings are thought to indicate the presence of (hungry) planets
+  in the disc. Initially, little particles in the spinning disc begin to accumulate
+  and grow as gravity takes over, stealing more material from the native disc until
+  they evolve into embryo planets. The clear detection of the planet WISPIT 2b in
+  this image is an important step forward in our understanding of how planets form.
+  It’s about 5 times the mass of Jupiter, and its host star is a younger version of
+  our Sun. It also reinforces the idea that gaps can be created by newly formed planets
+  — a prediction only made in theory that has now been verified observationally. While
+  looking for stars hosting young planets, the team of researchers were lucky enough
+  to find a planet so young that is still embedded in its birth disc. This discovery
+  was published in a paper led by Richelle van Capelleveen at the University of Leiden,
+  Netherlands, in collaboration with an international team of astronomers from the
+  University of Galway and the University of Arizona. It was made possible through
+  the precise observations of the planet-hunting SPHERE instrument on the VLT. SPHERE
+  blocks the light of the central star and corrects atmospheric turbulence with adaptive
+  optics, delivering crisp images of the surroundings of the star. The University
+  of Arizona's MagAO-X AO system on the 6.5m Magellan telescope in Chile detected
+  hydrogen gas falling onto the planet, confirming that it is accreting matter from
+  its surroundings. Further observations of this system might reveal new insights
+  about how our own Solar System may have looked in its early days. Links VLT paper
+  by R. F. van Capelleveen et al., accepted for publication in Astrophysical Journal
+  Letters. Magellan paper by L. M. Close, accepted for publication in Astrophysical
+  Journal Letters.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2534a/L{1}X{2}Y{3}.png
+name: A very hungry planet
+ra_hr: 19.388063888866668
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2534a/thumb.jpg
+zoom_level: 0.01851912
+---
+_uuid: 093eae83-7f9d-4d88-9001-20bbadf9a951
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.85793046471393
+description: 'Here, Euclid captures NGC 6744, one of the largest spiral galaxies beyond
+  our local patch of space. It’s a typical example of the type of galaxy currently
+  forming most of the stars in the nearby Universe, making it a wonderful archetype
+  to study with Euclid. This image is released as part of the Early Release Observations
+  from ESA’s Euclid space mission.
+
+
+  Euclid’s large field-of-view covers the entire galaxy, revealing not only spiral
+  structure on larger scales but also capturing exquisite detail on small spatial
+  scales, and at a combination of wavelengths. This detail includes feather-like lanes
+  of dust emerging as ‘spurs’ from the spiral arms, which Euclid is able to image
+  with incredible clarity. Euclid’s observations will allow scientists to not only
+  count individual stars within NGC 6744 but also trace the wider distribution of
+  stars and dust in the galaxy, as well as mapping the dust associated with the gas
+  that fuels new star formation. Forming stars is the main way by which galaxies grow
+  and evolve, so these investigations are central to understanding galaxy evolution
+  – and why our Universe looks the way it does today.
+
+
+  Euclid scientists are using this dataset to understand how dust and gas are linked
+  to star formation; map how different stellar populations are distributed throughout
+  galaxies and where stars are currently forming; and unravel the physics behind the
+  structure of spiral galaxies, something that’s still not fully understood after
+  decades of study. Spiral structure is important in galaxies, as spiral arms move
+  and compress gas to foster star formation (most of which occurs along these arms).
+  However, the exact role of spirals in coordinating ongoing star formation remains
+  unclear. As the aforementioned ‘spurs’ along NGC 6744’s arms are only able to form
+  in a strong enough spiral, these features therefore provide important clues as to
+  why galaxies look and behave as they do.
+
+
+  The dataset will also allow scientists to identify clusters of old stars (globular
+  clusters) and hunt for new dwarf galaxies around NGC 6744. In fact, Euclid has already
+  found a new dwarf ‘satellite galaxy’ of NGC 6744 – a surprise given that this galaxy
+  has been intensively studied in the past.
+
+
+  NGC 6744 lies 30 million light-years away in the constellation of Pavo.
+
+
+  Technical details: The data in this image were taken in just about one hour of observation.
+  This colour image was obtained by combining VIS data and NISP photometry in Y and
+  H bands; its size is 8200 x 8200 pixels. VIS and NISP enable observing astronomical
+  sources in four different wavelength ranges. Aesthetics choices led to the selection
+  of three out of these four bands to be cast onto the traditional Red-Green-Blue
+  colour channels used to represent images on our digital screens (RGB). The blue,
+  green, red channels capture the Universe seen by Euclid around the wavelength 0.7,
+  1.1, and 1.7 micron respectively. This gives Euclid a distinctive colour palette:
+  hot stars have a white-blue hue, excited hydrogen gas appears in the blue channel,
+  and regions rich in dust and molecular gas have a clear red hue. Distant redshifted
+  background galaxies appear very red. In the image, the stars have six prominent
+  spikes due to how light interacts with the optical system of the telescope in the
+  process of diffraction. Another signature of Euclid special optics is the presence
+  of a few, very faint and small round regions of a fuzzy blue colour. These are normal
+  artifacts of complex optical systems, so-called ‘optical ghost’; easily identifiable
+  during data analysis, they do not cause any problem for the science goals.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/L{1}X{2}Y{3}.png
+name: Euclid’s view of spiral galaxy NGC 6744
+ra_hr: 19.162686900170673
+thumbnail: https://data1.wwtassets.org/feeds/euclid/ensci_euclid20240523e/thumb.jpg
+zoom_level: 6.969202632
+---
+_uuid: 5524d2a3-f952-4844-bcba-e74e690f55a1
+classification: ''
+constellation: SGE
+data_set_type: Sky
+dec_deg: 16.74435578632233
+description: This is a NASA/ESA Hubble Space Telescope image of the symbiotic star
+  Mira HM Sge. Located 3,400 light-years away in the constellation Sagitta, it consists
+  of a red giant and a white dwarf companion. The stars are too close together to
+  be resolved by Hubble. Material bleeds off the red giant and falls onto the dwarf,
+  making it extremely bright. This system first flared up as a nova in 1975. The red
+  nebulosity is evidence of the stellar wind. The nebula is about one-quarter light-year
+  across. Astronomers have used new data from Hubble and the retired NASA SOFIA observatory
+  (Stratospheric Observatory for Infrared Astronomy) as well as archival data from
+  other missions to revisit the binary star system. Between April and September 1975,
+  the binary system HM Sagittae (HM Sge) grew 250 times brighter. Even more unusual,
+  it did not rapidly fade away as novae commonly do, but has maintained its luminosity
+  for decades. Recently, observations show that the system has gotten hotter, but
+  paradoxically faded a little. The 2021 ultraviolet data from Hubble showed a strong
+  emission line of highly ionised magnesium that was not present in earlier published
+  spectra from 1990. Its presence shows that the estimated temperature of the white
+  dwarf and accretion disk increased from less than 220,000 degrees Celsius in 1989
+  to greater than 250,000 degrees Celsius now. The highly ionised magnesium line is
+  one of many seen in the UV spectrum, which analysed together will reveal the energetics
+  of the system, and how it has changed in the last three decades. With data from
+  NASA's flying telescope SOFIA, which retired in 2022, the team was able to detect
+  the water, gas, and dust flowing in and around the system. Infrared spectral data
+  shows that the giant star, which produces copious amounts of dust, returned to its
+  normal behaviour within only a couple years of the explosion, but also that it has
+  dimmed in recent years, which is another puzzle to be explained. With SOFIA astronomers
+  were able to see water moving at around 28 kilometres per second, which they suspect
+  is the speed of the sizzling accretion disk around the white dwarf. The bridge of
+  gas connecting the giant star to the white dwarf must presently span about 3.2 billion
+  kilometres.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2418b/L{1}X{2}Y{3}.png
+name: Symbiotic star Mira HM Sge
+ra_hr: 19.699189573143958
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2418b/thumb.jpg
+zoom_level: 0.07710902407986814
+---
+_uuid: 926032e6-99e2-429f-a40b-97d74c8713b8
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 42.461447462615844
+description: 'This luminous Picture of the Week shows Z 229-15 — imaged here in beautiful
+  detail by the NASA/ESA Hubble Space Telescope — a celestial object that lies about
+  390 million light-years from Earth in the constellation Lyra. Z 229-15 is one of
+  those interesting celestial objects that, should you choose to research it, you
+  will find defined as several different things: sometimes as an active galactic nucleus
+  (an AGN); sometimes as a quasar; and sometimes as a Seyfert galaxy. Which of these
+  is Z 229-15 really? The answer is that it is all of these things all at once, because
+  these three definitions have significant overlap. AGNs and quasars are both described
+  in detail in the Hubble Word Bank, but in essence an AGN is a small region at the
+  heart of certain galaxies (called active galaxies) that is far brighter than just
+  the galaxy’s stars would be. The extra luminosity is due to the presence of a supermassive
+  black hole at the galaxy’s core. Material sucked into a black hole actually doesn’t
+  fall directly into it, but instead is drawn into a swirling disc, from where it
+  is inexorably tugged towards the black hole. This disc of matter gets so hot that
+  it releases a large amount of energy across the electromagnetic spectrum, and that’s
+  what makes AGNs appear so bright. Quasars are a particular type of AGN; they are
+  typically both extremely bright and extremely distant from Earth — several hundred
+  million light-years is considered nearby for a quasar, making Z 229-15 positively
+  local. Often an AGN is so bright that the rest of the galaxy cannot be seen, but
+  Seyfert galaxies are active galaxies that host very bright AGNs (quasars) while
+  the rest of the galaxy is still observable. So Z 229-15 is a Seyfert galaxy that
+  contains a quasar, and that, by definition, hosts an AGN. Classification in astronomy
+  can be a challenge! [Image Description: A spiral galaxy. It has two almost-straight
+  arms coming from the left and right of the core that meet a starry ring around the
+  galaxy’s edge. The ring is bluish in colour, and the core is golden and shining.
+  A faint halo of light also surrounds the galaxy. There is one bright star with many
+  diffraction spikes, and a few small stars all around on a black background.] Links
+  Pan: Everything, in one place, all at once'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2313a/L{1}X{2}Y{3}.png
+name: Everything, in one place, all at once
+ra_hr: 19.090518831316956
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2313a/thumb.jpg
+zoom_level: 0.17183703549184648
+---
+_uuid: eef365da-8e07-4a09-a61e-7462cbef424d
+classification: ''
+constellation: LYR
+data_set_type: Sky
+dec_deg: 33.845170658063836
+description: 'The light that the NASA/ESA Hubble Space Telescope collected to create
+  this Picture of the Week reached the telescope after a journey of 250 million years.
+  Its source was the spiral galaxy UGC 11397, which resides in the constellation Lyra
+  (The Lyre). At first glance, UGC 11397 appears to be an average spiral galaxy: it
+  sports two graceful spiral arms that are illuminated by stars and defined by dark,
+  clumpy clouds of dust. What sets UGC 11397 apart from a typical spiral lies at its
+  centre, where a supermassive black hole containing 174 million times the mass of
+  the Sun is growing. As a black hole ensnares gas, dust, and even entire stars from
+  its vicinity, this doomed matter heats up and puts on a fantastic cosmic light show.
+  Material trapped by the black hole emits light from gamma rays to radio waves and
+  can brighten and fade without warning. But in some galaxies, including UGC 11397,
+  thick clouds of dust hide much of this energetic activity from view in optical light.
+  Despite this, UGC 11397''s actively growing black hole was revealed through its
+  bright X-ray emission — high-energy light that can pierce the surrounding dust.
+  This led astronomers to classify it as a Type 2 Seyfert galaxy, a category used
+  for active galaxies whose central regions are hidden from view in visible light
+  by a doughnut-shaped cloud of dust and gas. Using Hubble, researchers will study
+  hundreds of galaxies that, like UGC 11397, harbour a supermassive black hole that
+  is gaining mass. The Hubble observations will help researchers weigh nearby supermassive
+  black holes, understand how black holes grew early in the Universe’s history, and
+  even study how stars form in the extreme environment found at the very centre of
+  a galaxy. [Image Description: A spiral galaxy, seen at an angle that gives it an
+  oval shape. It has two spiral arms that curl out from the centre. They start narrow
+  but broaden out as they wrap around the galaxy before merging into a faint halo.
+  The galaxy’s disc is golden in the centre with a bright core, and pale blue outside
+  that. A swirl of dark dust strands and speckled blue star-forming regions follow
+  the arms through the disc.] Links Pan: UGC 11397'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2525a/L{1}X{2}Y{3}.png
+name: Centre of activity
+ra_hr: 19.063526546382594
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2525a/thumb.jpg
+zoom_level: 0.2047083516964764
+---
 _uuid: 0131df94-dc3f-4e5c-ad3e-9c8ede77916c
 classification: ''
 constellation: SGR
@@ -2219,3 +2464,131 @@ name: Hubble’s view of Wolf-Rayet 124
 ra_hr: 19.19191577218273
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2307f/thumb.jpg
 zoom_level: 0.3151495760649259
+---
+_uuid: d0a4554a-a06b-4427-a756-24a4fb5e6692
+classification: ''
+constellation: CYG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 33.76535898180232
+description: This ghostly, butterfly-shaped planetary nebula, captured with Gemini
+  North, one half of the International Gemini Observatory, supported in part by the
+  U.S. National Science Foundation and operated by NSF NOIRLab, is known as Kohoutek
+  3-46. Kohoutek 3-46 derives its name from the prolific planetary nebula hunter who
+  discovered it, Czech astronomer Luboš Kohoutek. Located in the constellation Cygnus,
+  Kohoutek 3-46 is estimated to be around 20,000 years old and around 7200 light-years
+  away. The term ‘planetary nebula’ is a misnomer, since these nebulae are unrelated
+  to planets. The term originates from their planet-like round shape, more obviously
+  seen in this earlier NOIRLab Image of the Week. Kohoutek 3-46 has expanded into
+  an unusual bipolar shape, classified by its well-defined hourglass shape, prominent
+  equatorial ring and marked waist. About 10–20% of planetary nebulae are bipolar.
+  No matter the shape they take on, these glowing clouds of gas form after a star
+  of one to eight times the mass of the Sun has expanded into a red giant. As the
+  core of the red giant contracts, the star expels layers of its atmosphere into space.
+  Energetic ultraviolet radiation from the hot, exposed core then ionizes this gaseous
+  shell around it, ‘illuminating’ the planetary nebula.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2430a/L{1}X{2}Y{3}.png
+name: A ‘Butterfly’ from Death’s Door
+ra_hr: 19.833109404786452
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2430a/thumb.jpg
+zoom_level: 0.6040317925456827
+---
+_uuid: efe92b5e-e0d9-4d84-9248-c058917aff04
+classification: ''
+constellation: PAV
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -63.8576375631071
+description: Behold NGC 6744, a spiral galaxy bearing similarities to our home galaxy,
+  the Milky Way. This cosmic twin is captured here in stunning detail by the Dark
+  Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope at the U.S. National
+  Science Foundation Cerro Tololo Inter-American Observatory (CTIO), a Program of
+  NSF NOIRLab in Chile. Located around 30 million light-years away in the constellation
+  Pavo, NGC 6744 exhibits a luminous core and spiral arms spanning 175,000 light-years
+  across, a larger but similar anatomy to our Milky Way. Moreover, to the lower right
+  of NGC 6744, at the end of the spiral arm, is a faint blob. This is its companion
+  galaxy known as NGC 6744A. The companionship between these galaxies is analogous
+  to that between the Milky Way and its dwarf companion the Large Magellanic Cloud.
+  Though it’s impossible to get an external view of our galaxy, these similarities
+  offer insight into how the Milky Way might look to a distant observer. This is one
+  of the deepest images of NGC 6744 ever taken, and keen observers can spy the faint
+  extended arm on the left hand side of the galaxy — rarely visible in most images.
+  This image is part of the DESI Legacy Imaging Surveys, an ambitious effort to construct
+  the largest 3D map of the night sky with the DOE-built DECam on the Blanco Telescope
+  at NSF CTIO and other Programs of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2434a/L{1}X{2}Y{3}.png
+name: Galactic Twin NGC 6744
+ra_hr: 19.162809284591976
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2434a/thumb.jpg
+zoom_level: 3.7992927264814
+---
+_uuid: 99a403b3-2f0d-4533-bb52-370ac4134e61
+classification: ''
+constellation: AQL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 15.787671612296256
+description: The dusty disk around MWC 614 is part of a survey of 44 young massive
+  stars to investigate planet formation shows dusty, swirling disks — likely to become
+  new solar systems. The image was taken with the Gemini Planet Imager (GPI) instrument
+  on the Gemini South telescope of the International Gemini Observatory, a Program
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2212f/L{1}X{2}Y{3}.png
+name: Dusty disk around MWC 614
+ra_hr: 19.186459768395828
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2212f/thumb.jpg
+zoom_level: 0.006928562123053223
+---
+_uuid: e672718e-3faf-4df4-b28f-bf2420293ff3
+classification: ''
+constellation: SGE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 19.773201046517435
+description: Thanks to a fast reaction by observers and staff, near-simultaneous observations
+  were made of GRB221009A from Gemini South in Chile. The image is a combination of
+  4 exposures in I, J,H, K with two instruments taken in the morning of Friday 14
+  October 2022.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2224b/L{1}X{2}Y{3}.png
+name: Record-breaking Gamma-Ray Burst Caught With Gemini (no annotations)
+ra_hr: 19.21763407275831
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2224b/thumb.jpg
+zoom_level: 0.406316360389824
+---
+_uuid: 11e1ad47-e303-4162-9c95-ede4ec1d0973
+classification: ''
+constellation: VUL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 23.312667452341714
+description: To celebrate 25 years since the completion of the International Gemini
+  Observatory, students in Hawai‘i voted for the Gemini North telescope to image NGC
+  6820 — a striking emission nebula and open star cluster. The image was named Ua
+  ʻŌhiʻa Lani, the Heavenly ʻŌhiʻa Rains, after the traditional Hawaiian story of
+  the ʻŌhiʻa forests. The International Gemini Observatory is partly funded by the
+  U.S. National Science Foundation (NSF) and operated by NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2529a/L{1}X{2}Y{3}.png
+name: 'Ua ʻŌhiʻa Lani: An Image to Celebrate Gemini North’s 25th Anniversary'
+ra_hr: 19.727441052301945
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2529a/thumb.jpg
+zoom_level: 0.887419371537799
+---
+_uuid: b52a1a91-9eb2-4392-a894-d204d137bcc8
+classification: ''
+constellation: CRA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -36.85069322414195
+description: A vibrant view of the Corona Australis Molecular Cloud, one of the closest
+  star-forming regions to Earth, reveals glowing nebulae, dark dust lanes, and newborn
+  stars in a scene reminiscent of Van Gogh’s The Starry Night. At left, the young
+  binary system R Coronae Australis illuminates surrounding gas and dust, while the
+  glittering globular cluster NGC 6723 shines at upper right, far beyond the nearby
+  stellar nursery. This image was captured by the 570-megapixel DOE-fabricated Dark
+  Energy Camera (DECam), mounted on the NSF Víctor M. Blanco 4-meter Telescope at
+  Cerro Tololo Inter-American Observatory (CTIO) in Chile.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2617a/L{1}X{2}Y{3}.png
+name: Corona Australis Molecular Cloud
+ra_hr: 19.01418443094818
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2617a/thumb.jpg
+zoom_level: 5.033849580464399

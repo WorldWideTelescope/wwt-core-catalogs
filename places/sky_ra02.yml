@@ -1548,6 +1548,657 @@ name: NGC 891
 ra_hr: 2.3758333333333335
 zoom_level: 2.331666666666667
 ---
+_uuid: 462f0900-fe58-406f-a543-158b9d0ae990
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 64.82690215507404
+description: 'The supernova remnant 3C 58 contains a spinning neutron star , known
+  as PSR J0205+6449, at its center. Astronomers studied this neutron star and others
+  like it to probe the nature of matter inside these very dense objects. A new study,
+  made using NASA’s Chandra X-ray Observatory and ESA’s XMM-Newton, reveals that the
+  interiors of neutron stars may contain a type of ultra-dense matter not found anywhere
+  else in the Universe, as reported in our latest press release .
+
+
+  In this image of 3C 58, low-energy X-rays are colored red, medium-energy X-rays
+  are green, and the high-energy band of X-rays is shown in blue. The X-ray data have
+  been combined with an optical image in yellow from the Digitized Sky Survey. The
+  Chandra data show that the rapidly rotating neutron star (also known as a “pulsar”)
+  at the center is surrounded by a torus of X-ray emission and a jet that extends
+  for several light-years . The optical data shows stars in the field.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-3c58/L{1}X{2}Y{3}.png
+name: 3C 58
+ra_hr: 2.0937023739212677
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-3c58/thumb.jpg
+zoom_level: 0.6768484619926192
+---
+_uuid: 6d37073e-276e-4a62-9072-5205fba890ad
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -16.956483576575593
+description: 'This composite image features X-ray and optical data of a so-called
+  luminous fast blue optical transient (LFBOT) named AT 2024wpp. LFBOTs are a class
+  of object involving bright flashes of blue and ultraviolet light that gradually
+  fade away, leaving behind faint X-ray and radio signals. The X-ray data from NASA’s
+  Chandra X-ray Observatory shows AT 2024wpp as a blue point source within its host
+  galaxy, seen in optical data from the Legacy Survey (red and white). As the brightest
+  LFBOT ever seen, AT 2024wpp is easily detected despite being about 1.1 billion light-years
+  from Earth.
+
+
+  Two new papers report that AT 2024wpp likely came from an extreme event where a
+  black hole up to 100 times the mass of the Sun tore apart a companion star that
+  got too close. As reported in a press release from Berkeley , these papers rule
+  out two alternative explanations for AT 2024wpp, either that the LFBOT came an unusual
+  type of supernova or by gas in the galaxy falling into a black hole. After the companion
+  star was torn apart, collisions between the stellar debris and gas already pulled
+  from the companion star generated X-ray, UV and blue light.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2025-fbot/L{1}X{2}Y{3}.png
+name: AT 2024wpp
+ra_hr: 2.7015223666901247
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2025-fbot/thumb.jpg
+zoom_level: 0.1533160276623645
+---
+_uuid: 3b29944a-5503-4d82-b355-5ec5ed91a070
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -30.27475649299155
+description: ERIS, the Very Large Telescope’s newest infrared eye on the sky, captured
+  this stunning image of the inner ring of the galaxy NGC 1097. This galaxy is located
+  45 million light-years away from Earth, in the constellation Fornax. ERIS has captured
+  the gaseous and dusty ring that lies at the very centre of the galaxy. The bright
+  spots in the ring are stellar nurseries, shown in unprecedented detail. The centre
+  of this galaxy is active, with a supermassive black hole that feeds off its surroundings.
+  This image has been taken through four different filters by ERIS’s state-of-the-art
+  infrared imager, the Near Infrared Camera System — or NIX. The filters have been
+  represented here by blue, green, red and magenta, where the last one highlights
+  the compact regions in the ring. To put NIX’s resolution in perspective, this image
+  shows, in detail, a portion of the sky less than 0.03% the size of the full Moon.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ann22015a/L{1}X{2}Y{3}.png
+name: ERIS sees first light, capturing a detailed view of the inner ring of NGC 1097
+ra_hr: 2.7719548082230228
+thumbnail: https://data1.wwtassets.org/feeds/eso/ann22015a/thumb.jpg
+zoom_level: 0.0889534603485504
+---
+_uuid: edd3556d-74f6-430b-8c5d-b390a6538eaa
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.26605294930524914
+description: This image shows the orientation of the magnetic field in the distant
+  9io9 galaxy, seen here when the Universe was only 20% of its current age — the furthest
+  ever detection of a galaxy’s magnetic field. The observations were done with the
+  Atacama Large Millimeter/submillimeter Array (ALMA), in which ESO is a partner.
+  Dust grains within 9io9 are somewhat aligned with the galaxy’s magnetic field, and
+  due to this they emit polarised light, meaning that light waves oscillate along
+  a preferred direction rather than randomly. ALMA detected this polarisation signal,
+  from which astronomers could work out the orientation of the magnetic field, shown
+  here as curved lines overlaid on the ALMA image. The polarised light signal emitted
+  by the magnetically aligned dust in 9io9 was extremely faint, representing just
+  one percent of the total brightness of the galaxy, so astronomers used a clever
+  trick of nature to help them obtain this result. The team was helped by the fact
+  that 9io9, although very distant from us, had been magnified via a process known
+  as gravitational lensing. This occurs when light from a distant galaxy, in this
+  case 9io9, appears brighter and distorted as it is bent by the gravity of a very
+  large object in the foreground.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2316a/L{1}X{2}Y{3}.png
+name: ALMA view of the 9io9 galaxy
+ra_hr: 2.1614532167769362
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2316a/thumb.jpg
+zoom_level: 0.044404346927203076
+---
+_uuid: 24ed9d9c-f7d5-42ed-95d4-8cd8e86bb916
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 0.26621842798656303
+description: 'This infrared image shows the distant galaxy 9io9, seen here as a reddish
+  arc curved around a bright nearby galaxy. This nearby galaxy acts as a gravitational
+  lens: its mass curves spacetime around it, bending lightrays coming from 9io9 in
+  the background, hence its distorted shape. This colour view results from combining
+  infrared images taken with ESO’s Visible and Infrared Survey Telescope for Astronomy
+  (VISTA) in Chile and the Canada France Hawaii Telescope (CFHT) in the US.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2316b/L{1}X{2}Y{3}.png
+name: An infrared view of the 9io9 galaxy
+ra_hr: 2.1614631481871664
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2316b/thumb.jpg
+zoom_level: 0.114234165390288
+---
+_uuid: 72cb88c4-b0fc-42aa-897c-5be0337830ce
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -4.6343373619859705
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. The strange, bi-polar
+  galaxy seen here is certainly anomalous, with its compact, swirling core and two
+  open lobes at the sides. Exactly what kind of galaxy it is is unclear, and it was
+  not previously known to astronomers. It’s an example of the kinds of new and unusual
+  finds that can be made by AI-assisted data processing, even from well-known datasets.
+  Read more about this new research here. [Image description: A small image of a galaxy.
+  Its centre is a small disc containing blotches of light. Two arcs of light come
+  out from the top, one curving around to the left and the other to the right, both
+  then rejoining the galaxy at the bottom creating a lobe on each side. Light from
+  some other object just enters the frame at the top-right.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603e/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Unknown object
+ra_hr: 2.1599884355034678
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603e/thumb.jpg
+zoom_level: 0.022070939407329786
+---
+_uuid: 0567e779-f97b-4861-aa96-8ec98ff55e3a
+classification: ''
+constellation: ERI
+data_set_type: Sky
+dec_deg: -22.157883006264008
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. This image depicts a
+  gravitational lens, where the enormous mass of one galaxy distorts, bends and magnifies
+  light from another galaxy behind it, resulting in a warped image of the background
+  galaxy. The gravitational lens is easily identifiable here, with the lensed galaxy
+  forming an arc around the dense core of the foreground, lensing galaxy. Read more
+  about this new research here. [Image description: A small image of a galaxy. It’s
+  round with a bright white centre and a faint halo of light around that. A band of
+  light runs down through the galaxy, notably bending around the galaxy’s core as
+  if pushed away. This band is an image of a background galaxy, formed by gravitational
+  lensing.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603f/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Gravitational lens 1
+ra_hr: 2.959870515636951
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603f/thumb.jpg
+zoom_level: 0.021080741042899625
+---
+_uuid: df7bb81f-6e08-4188-8fc2-0bfe72fb63ff
+classification: ''
+constellation: HOR
+data_set_type: Sky
+dec_deg: -58.94203337777739
+description: 'This is a previously-undiscovered astrophysical anomaly, found in the
+  Hubble Space Telescope’s archive by researchers using a new AI-assisted method.
+  The AI tool allowed them to sift through nearly 100 million image cutouts in just
+  days, turning up rare and anomalous objects like this one. Two dramatically different
+  galaxies are revealed in this Hubble image. A compact, reddish elliptical galaxy
+  is accompanied by a blue spiral galaxy squashed into an arc shape. This is the result
+  of gravitational lensing, where light from the spiral galaxy — actually residing
+  in the background — has been bent by the mass of the heavy elliptical galaxy, creating
+  this distorted image of the spiral. Read more about this new research here. [Image
+  description: A small image of a galaxy. It is compact and oval-shaped, dark orange
+  in colour with a white spot at the very centre. Along the right edge of this galaxy
+  sits a bright blue arc, the same length as the elliptical galaxy. This is an image
+  of a background galaxy, formed by gravitational lensing.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2603g/L{1}X{2}Y{3}.png
+name: An anomaly from Hubble’s archive — Gravitational lens 2
+ra_hr: 2.9074185442991007
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2603g/thumb.jpg
+zoom_level: 0.019067584935963805
+---
+_uuid: 6b35c525-5c9d-4ea3-a18e-60fb1abd6a5e
+classification: ''
+constellation: ARI
+data_set_type: Sky
+dec_deg: 14.974152665819709
+description: The pair of strange, luminescent creatures at play in this image are
+  actually galaxies — realms of millions upon millions of stars. This galactic duo
+  is known as UGC 2369. The galaxies are interacting, meaning that their mutual gravitational
+  attraction is pulling them closer and closer together and distorting their shapes
+  in the process. A tenuous bridge of gas, dust, and stars can be seen connecting
+  the two galaxies,, during which they pulled material out into space across the diminishing
+  divide between them. Interaction with others is a common event in the history of
+  most galaxies. For larger galaxies like the Milky Way, the majority of these interactions
+  involve significantly smaller so-called dwarf galaxies. But every few aeons, a more
+  momentous event can occur. For our home galaxy, the next big event will take place
+  in about four billion years, when it will collide with its bigger neighbour, the
+  Andromeda Galaxy. Over time, the two galaxies will likely merge into one — already
+  nicknamed Milkomeda.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1931a/L{1}X{2}Y{3}.png
+name: Galactic Creatures at Play
+ra_hr: 2.9006006339493675
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1931a/thumb.jpg
+zoom_level: 0.3246956155894279
+---
+_uuid: 16bff07b-ebea-44f8-ac63-2cdb8164890f
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.14821141948089
+description: 'Galaxies are well known as the birthplaces of stars and planets thanks
+  to the overwhelmingly large amount of dust and gas within them. Over time, cold
+  gas coalesces into molecular clouds, leading to the further emergence of star-forming
+  regions. This image taken with the NASA/ESA Hubble Space Telescope depicts a fantastic
+  new class of star-forming nursery, known as Free-floating Evaporating Gaseous Globules,
+  or frEGGs for short. This object, known as J025027.7+600849, is located in the constellation
+  of Cassiopeia. When a massive new star (or stars) starts to shine while still within
+  the cool molecular cloud from which it formed, its energetic radiation can ionise
+  the cloud’s hydrogen and create a large, hot bubble of ionised gas. Amazingly, located
+  within this bubble of hot gas around a nearby massive star are the frEGGs: dark
+  compact globules of dust and gas, some of which are also giving birth to low-mass
+  stars. The boundary between the cool, dusty frEGG and hot gas bubble is seen as
+  the glowing purple/blue edges in this fascinating image. Learning more about these
+  odd objects can help astronomers understand how stars like our Sun form under external
+  influences. In fact, our Sun may have even been born in a frEGG!'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2028a/L{1}X{2}Y{3}.png
+name: A frEGGs-cellent Discovery
+ra_hr: 2.8404831636424186
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2028a/thumb.jpg
+zoom_level: 0.5545459175885943
+---
+_uuid: ff0d98b0-5244-45f9-b21d-29f3c3f9e281
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.09988004706533
+description: 'This image, taken with the NASA/ESA Hubble Space Telescope, depicts
+  a special class of star-forming nursery known as Free-floating Evaporating Gaseous
+  Globules, or frEGGs for short. This object is formally known as J025157.5+600606.
+  When a massive new star starts to shine while still within the cool molecular cloud
+  from which it formed, its energetic radiation can ionise the cloud’s hydrogen and
+  create a large, hot bubble of ionised gas. Amazingly, located within this bubble
+  of hot gas around a nearby massive star are the frEGGs: dark compact globules of
+  dust and gas, some of which are giving birth to low-mass stars. The boundary between
+  the cool, dusty frEGG and the hot gas bubble is seen as the glowing purple/blue
+  edges in this fascinating image. In July 2020 a previous ESA/Hubble Picture of the
+  Week, of J025027.7+600849, featured another frEEG.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2041a/L{1}X{2}Y{3}.png
+name: A frEGGS-plosion of Star Formation
+ra_hr: 2.8654580777205423
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2041a/thumb.jpg
+zoom_level: 0.5548551157587979
+---
+_uuid: fcb2ef34-f466-452c-9c93-850146900bcb
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -38.551179511841895
+description: The narrow galaxy elegantly curving around its spherical companion in
+  this image is a fantastic example of a truly strange and very rare phenomenon. This
+  image, taken with the NASA/ESA Hubble Space Telescope, depicts GAL-CLUS-022058s,
+  located in the southern hemisphere constellation of Fornax (The Furnace). GAL-CLUS-022058s
+  is the largest and one of the most complete Einstein rings ever discovered in our
+  Universe. The object has been nicknamed by the Principal Investigator and his team
+  who are studying this Einstein ring as the "Molten Ring", which alludes to its appearance
+  and host constellation. First theorised to exist by Einstein in his general theory
+  of relativity, this object’s unusual shape can be explained by a process called
+  gravitational lensing, which causes light shining from far away to be bent and pulled
+  by the gravity of an object between its source and the observer. In this case, the
+  light from the background galaxy has been distorted into the curve we see by the
+  gravity of the galaxy cluster sitting in front of it. The near exact alignment of
+  the background galaxy with the central elliptical galaxy of the cluster, seen in
+  the middle of this image, has warped and magnified the image of the background galaxy
+  around itself into an almost perfect ring. The gravity from other galaxies in the
+  cluster is soon to cause additional distortions. Objects like these are the ideal
+  laboratory in which to research galaxies too faint and distant to otherwise see.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2050a/L{1}X{2}Y{3}.png
+name: Rings of Relativity
+ra_hr: 2.349332004143721
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2050a/thumb.jpg
+zoom_level: 0.23187162944327339
+---
+_uuid: 5fd811cd-578f-4a93-8bc9-bf1e98aeb5b0
+classification: ''
+constellation: HOR
+data_set_type: Sky
+dec_deg: -53.04037482925703
+description: This packed ESA/Hubble Picture of the Week showcases the galaxy cluster
+  ACO S 295, as well as a jostling crowd of background galaxies and foreground stars.
+  Galaxies of all shapes and sizes populate this image, ranging from stately spirals
+  to fuzzy ellipticals. As well as a range of sizes, this galactic menagerie boasts
+  a range of orientations, with spiral galaxies such as the one at the centre of this
+  image appearing almost face on, and some edge-on spiral galaxies visible only as
+  thin slivers of light. The cluster dominates the centre of this image, both visually
+  and physically. The huge mass of the galaxy cluster has gravitationally lensed the
+  background galaxies, distorting and smearing their shapes. As well as providing
+  astronomers with a natural magnifying glass with which to study distant galaxies,
+  gravitational lensing has subtly framed the centre of this image, producing a visually
+  striking scene. Links Video of a Menagerie of Galaxies
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2120a/L{1}X{2}Y{3}.png
+name: A Menagerie of Galaxies
+ra_hr: 2.7586035614454203
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2120a/thumb.jpg
+zoom_level: 0.34852070046459555
+---
+_uuid: 0f6ac616-a3c6-4d94-a6c4-5a7a39f7d05e
+classification: ''
+constellation: ARI
+data_set_type: Sky
+dec_deg: 20.977584252749182
+description: The lazily winding spiral arms of the spectacular galaxy NGC 976 fill
+  the frame of this image from the NASA/ESA Hubble Space Telescope. This spiral galaxy
+  lies around 150 million light-years from the Milky Way in the constellation Aries.
+  Despite its tranquil appearance, NGC 976 has played host to one of the most violent
+  astronomical phenomena known — a supernova explosion. These cataclysmicly violent
+  events take place at the end of the lives of massive stars, and can outshine entire
+  galaxies for a short period. While supernovae mark the deaths of massive stars,
+  they are also responsible for the creation of heavy elements that are incorporated
+  into later generations of stars and planets. Supernovae are also a useful aid for
+  astronomers who measure the distances to faraway galaxies. The amount of energy
+  thrown out into space by supernova explosions is very uniform, allowing astronomers
+  to estimate their distances from how bright they appear to be when viewed from Earth.
+  This image — which was created using data from Hubble’s Wide Field Camera 3 — comes
+  from a large collection of Hubble observations of nearby galaxies which host supernovae
+  as well as a pulsating class of stars known as Cepheid variables. Both Cepheids
+  and supernovae are used to measure astronomical distances, and galaxies containing
+  both objects provide useful natural laboratories where the two methods can be calibrated
+  against one another.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2202a/L{1}X{2}Y{3}.png
+name: Galactic Tranquility
+ra_hr: 2.5664610768100453
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2202a/thumb.jpg
+zoom_level: 0.36907438724455405
+---
+_uuid: 874eefe9-6c5b-4ff4-988b-f8ae9f62b940
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -30.281492546115384
+description: 'This finely detailed image shows the heart of NGC 1097, a barred spiral
+  galaxy that lies about 48 million light-years from Earth in the constellation Fornax.
+  This picture reveals the intricacy of the web of stars and dust at NGC 1097’s centre,
+  with the long tendrils of dust picked out in a dark red hue. The extent to which
+  the galaxy’s structure is revealed is thanks to two instruments on the NASA/ESA
+  Hubble Space Telescope: the Wide Field Camera 3 (WFC3) and the Advanced Camera for
+  Surveys (ACS). The idea that a single image can be taken using two different cameras
+  is not very intuitive. However, it makes far more sense after delving into how beautiful
+  astronomical images like this one are composed. A helpful starting point is to consider
+  what colour is, exactly. Our eyes can detect light waves at optical wavelengths
+  between roughly 380 and 750 nanometres, using three types of receptors, each of
+  which is sensitive to just a slice of that range. Our brain interprets these specific
+  wavelengths as colours. By contrast, a telescope camera like the WFC3 or ACS is
+  sensitive to a single, broad range of wavelengths to maximise the amount of light
+  collected. Raw images from telescopes are always in greyscale, only showing the
+  amount of the light captured across all those wavelengths. Colour images from telescopes
+  are indirectly possible, however, with the help of filters. By sliding a filter
+  over the aperture of an instrument like the WFC3 or ACS, only light from a very
+  specific wavelength range is let through — one such filter used in this image is
+  for green light around 555 nanometres. This yields a greyscale image showing only
+  the amount of light with that wavelength. This multicolour image of NGC 1097 is
+  composed of images using seven different filters in total.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2211a/L{1}X{2}Y{3}.png
+name: Eye of the Galaxy
+ra_hr: 2.7721355012240037
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2211a/thumb.jpg
+zoom_level: 0.4429950857298953
+---
+_uuid: 5e941e2b-2776-45c3-97cc-ea1261b47ad9
+classification: ''
+constellation: ARI
+data_set_type: Sky
+dec_deg: 25.23843014272206
+description: The galaxy featured in this Picture of the Week has a shape unlike many
+  of the galaxies familiar to Hubble. Its thousands of bright stars evoke a spiral
+  galaxy, but it lacks the characteristic ‘winding’ structure. The shining red blossoms
+  stand out as well, twisted by clouds of dust — these are the locations of intense
+  star formation. Yet it also radiates a diffuse glow, much like an elliptical galaxy
+  and its core of older, redder stars. This galactic marvel is known to astronomers
+  as NGC 1156. NGC 1156 is located around 25 million light-years from Earth, in the
+  constellation Aries. It has a variety of different features that are of interest
+  to astronomers. A dwarf irregular galaxy, it’s also classified as isolated, meaning
+  no other galaxies are nearby enough to influence its odd shape and continuing star
+  formation. The extreme energy of freshly formed young stars gives colour to the
+  galaxy, against the red glow of ionised hydrogen gas, while its centre is densely-packed
+  with older generations of stars. Hubble has captured NGC 1156 before — this new
+  image features data from a galactic gap-filling programme simply titled “Every Known
+  Nearby Galaxy”. Astronomers noticed that only three quarters of the galaxies within
+  just over 30 million light-years of Earth had been observed by Hubble in sufficient
+  detail to study the makeup of the stars within them. They proposed that in between
+  larger projects, Hubble could take snapshots of the remaining quarter — including
+  NGC 1156. Gap-filling programmes like this one ensure that the best use is made
+  of Hubble’s valuable observing time. Links Video of A Marvel of Galactic Morphology
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2234a/L{1}X{2}Y{3}.png
+name: A Marvel of Galactic Morphology
+ra_hr: 2.9949072217456707
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2234a/thumb.jpg
+zoom_level: 0.5241426120872992
+---
+_uuid: 2014cbc9-fac9-4d84-8606-93e5eb3b5968
+classification: ''
+constellation: CAS
+data_set_type: Sky
+dec_deg: 60.71517435453445
+description: 'Just in time for the festive season, this new Picture of the Week from
+  the NASA/ESA Hubble Space Telescope features a glistening scene in holiday red.
+  This image shows a small region of the well-known nebula Westerhout 5, which lies
+  about 7000 light-years from Earth. Suffused with bright red light, this luminous
+  image hosts a variety of interesting features, including a free-floating Evaporating
+  Gaseous Globule (frEGG). The frEGG in this image is the small tadpole-shaped dark
+  region in the upper centre-left. This buoyant-looking bubble is lumbered with two
+  rather uninspiring names — [KAG2008] globule 13 and J025838.6+604259. FrEGGs are
+  a particular class of Evaporating Gaseous Globules (EGGs). Both frEGGs and EGGs
+  are regions of gas that are sufficiently dense that they photoevaporate less easily
+  than the less compact gas surrounding them. Photoevaporation occurs when gas is
+  ionised and dispersed away by an intense source of radiation — typically young,
+  hot stars releasing vast amounts of ultraviolet light. EGGs were only identified
+  fairly recently, most notably at the tips of the Pillars of Creation, which were
+  captured by Hubble in iconic images released in 1995. FrEGGs were classified even
+  more recently, and are distinguished from EGGs by being detached and having a distinct
+  ‘head-tail’ shape. FrEGGs and EGGs are of particular interest because their density
+  makes it more difficult for intense UV radiation, found in regions rich in young
+  stars, to penetrate them. Their relative opacity means that the gas within them
+  is protected from ionisation and photoevaporation. This is thought to be important
+  for the formation of protostars, and it is predicted that many FrEGGs and EGGs will
+  play host to the birth of new stars. The frEGG in this image is a dark spot in the
+  sea of red light. The red colour is caused by a particular type of light emission
+  known as H-alpha emission. This occurs when a very energetic electron within a hydrogen
+  atom loses a set amount of its energy, causing the electron to become less energetic
+  and this distinctive red light to be released. [Image description: The background
+  is filled with bright orange-red clouds of varying density. Towards the top-left
+  several large, pale blue stars with prominent cross-shaped spikes are scattered.
+  A small, tadpole-shaped dark patch floats near one of these stars. More of the same
+  dark, dense gas fills the lower-right, resembling black smoke. A bright yellow star
+  and a smaller blue star shine in front of this.] Links Video of Festive and Free-Floating'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2251a/L{1}X{2}Y{3}.png
+name: Festive and Free-Floating
+ra_hr: 2.9768225996390294
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2251a/thumb.jpg
+zoom_level: 0.5496889587394358
+---
+_uuid: ca7fb9c0-8a09-482a-a7bd-f6f6e9fe9300
+classification: ''
+constellation: FOR
+data_set_type: Sky
+dec_deg: -31.939337174066143
+description: 'The peculiar spiral galaxy ESO 415-19, which lies around 450 million
+  light-years away, stretches lazily across this image from the NASA/ESA Hubble Space
+  Telescope. While the centre of this object resembles a regular spiral galaxy, long
+  streams of stars stretch out from the galactic core like bizarrely elongated spiral
+  arms. These are tidal streams caused by some chance interaction in the galaxy’s
+  past, and give ESO 415-19 a distinctly peculiar appearance. ESO 415-19’s peculiarity
+  made it a great target for Hubble. This observation comes from an ongoing campaign
+  to explore the Arp Atlas of Peculiar Galaxies, a menagerie of some of the weirdest
+  and most wonderful galaxies that the Universe has to offer. These galaxies range
+  from bizarre lonesome galaxies to spectacularly interacting galaxy pairs, triplets,
+  and even quintets. These space oddities are spread throughout the night sky, which
+  means that Hubble can spare a moment to observe them as it moves between other observational
+  targets. This particular observation lies in a part of the night sky contained by
+  the Fornax constellation. This constellation was also the site of a particularly
+  important Hubble observation; the Hubble Ultra Deep Field. Creating the Ultra Deep
+  Field required almost a million seconds of Hubble time, and captured nearly 10,000
+  galaxies of various ages, sizes, shapes, and colours. Just as climate scientists
+  can recreate the planet’s atmospheric history from ice cores, astronomers can use
+  deep field observations to explore slices of the Universe’s history from the present
+  all the way to when the Universe was only 800 million years old! [Image description:
+  A spiral galaxy. It has a bright core with patches of dark dust, and fuzzier, dimmer
+  spiral arms in cooler colours, with spots of bright blue. Long, faint tidal streams
+  stretch from the galaxy’s arms: one up to the top of the frame, one curving down
+  to the bottom-left corner. In the top-right there is a smaller, orange elliptical
+  galaxy. The background is studded with many tiny stars and galaxies.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2252a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Long-Armed Galaxy
+ra_hr: 2.350961121773858
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2252a/thumb.jpg
+zoom_level: 0.578589750075575
+---
+_uuid: 715fc9c9-add4-467b-a2d2-19a15b078798
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 6.103295622483
+description: 'The swirls of the galaxy IC 1776 stand in splendid isolation in this
+  image from the NASA/ESA Hubble Space Telescope. This galaxy lies over 150 million
+  light-years from Earth in the constellation Pisces. IC 1776 recently played host
+  to a catastrophically violent explosion — a supernova — which was discovered in
+  2015 by the Lick Observatory Supernova Search, a robotic telescope which scours
+  the night sky in search of transient phenomena such as supernovae. A network of
+  automatic robotic telescopes are spread across the globe, operated by both professional
+  and amateur astronomers, and, without human intervention, reveal short-lived astronomical
+  phenomena such as wandering asteroids, gravitational microlensing, or supernovae.
+  Hubble investigated the aftermath of the supernova SN 2015ap during two different
+  observing programmes, both designed to comb through the debris left by supernovae
+  explosions in order to better understand these energetic events. A variety of telescopes
+  automatically follow up the detection of supernovae to obtain early measurements
+  of these events’ brightnesses and spectra. Complementing these measurements with
+  later observations which reveal the lingering energy of supernovae can shed light
+  on the systems which gave rise to these cosmic cataclysms in the first place. [Image
+  description: A spiral galaxy. It is irregularly-shaped and its spiral arms are difficult
+  to distinguish. The edges are faint and the core has a pale yellow glow. It is dotted
+  with small, wispy, blue regions where stars are forming. A few stars and small galaxies
+  in warm colours are visible around it.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2336a/L{1}X{2}Y{3}.png
+name: Galactic isolation
+ra_hr: 2.0875011844545863
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2336a/thumb.jpg
+zoom_level: 0.2631423422678635
+---
+_uuid: 77fec301-593e-4e16-84ad-279c44baf628
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -1.1503405678902636
+description: 'This image features the spiral galaxy NGC 941, which lies about 55 million
+  light-years from Earth. The data used for this image were collected by Hubble’s
+  Advanced Camera for Surveys (ACS). The beautiful NGC 941 is undoubtedly the main
+  attraction in this image; however, this hazy-looking galaxy was not the motivation
+  for the data being collected. That distinction belongs to an astronomical event
+  that took place in the galaxy years before: the supernova SN 2005ad. The location
+  of this faded supernova was observed as part of a study of multiple hydrogen-rich
+  supernovae, also known as type II supernovae, in order to better understand the
+  environments in which certain types of supernovae take place. Whilst the study was
+  conducted by professional astronomers, SN 2005ad itself owes its discovery to a
+  distinguished amateur astronomer named Kōichi Itagaki, who has discovered over 170
+  supernovae. This might raise the question of how an amateur astronomer could spot
+  something like a supernova event before professional astronomers — who have access
+  to telescopes such as Hubble. The answer is in part that the detection of supernovae
+  is a mixture of skill, facilities and luck. Most astronomical events happen over
+  time spans that dwarf human lifetimes, but supernova explosions are extraordinarily
+  fast, appearing very suddenly and then brightening and dimming over a period of
+  days or weeks. Another aspect is that professional astronomers often do not spend
+  that much time actually observing. There is a great deal of competition for time
+  on telescopes such as Hubble, and then data from a few hours of observations might
+  take weeks, months, or sometimes even years to process and analyse to their full
+  potential. Amateur astronomers can spend much more time actually observing the skies,
+  and sometimes have extremely impressive systems of telescopes, computers and software
+  that they can put to use. So many supernovae are spotted by skilful amateurs such
+  as Itagaki that there is actually an online system set up for reporting them (the
+  Transient Name Server). This is a big help to professional astronomers, because
+  with supernova events time is truly of the essence. After the discovery of SN 2005ab
+  was reported, professional astronomers were able to follow up with spectroscopic
+  studies and confirm it as a type II supernova, which eventually led to its location
+  being included in this study with Hubble. Such a study wouldn’t be possible without
+  a rich library of previous supernovae, built with the keen eyes of amateur astronomers.
+  [Image Description: A spiral galaxy, seen face-on from Earth. The spiral arms of
+  the galaxy are bright but not well defined, merging into a swirling disc with a
+  faint halo of dimmer gas around it. The core glows brightly in a lighter colour
+  and has a bit of faint dust crossing it. Two redder, visually smaller galaxies and
+  a bright star are prominent around the galaxy, with more tiny objects in the background.]
+  Links Pan: When amateur astronomers point the way'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2345a/L{1}X{2}Y{3}.png
+name: When amateur astronomers point the way
+ra_hr: 2.4743613877987327
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2345a/thumb.jpg
+zoom_level: 0.4241209023987911
+---
+_uuid: 78b41d55-c848-4525-9b76-d4ad1c430f06
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: 0.26660097984321257
+description: 'What are we looking at when we study this image? A very distant galaxy
+  that lies 19.5 billion light-years from Earth? Or a much closer luminous red galaxy
+  that is a (relatively) small 2.7 billion light-years away? Or a third galaxy that
+  appears to be fairly close to the second? The answer, perhaps confusingly, is that
+  we are looking at all three. More precisely, we are looking at light emitted from
+  all of those galaxies, even though the most distant galaxy lies directly behind
+  the first as seen from Earth. In fact, it is that very alignment that makes the
+  particular visuals in this image possible. The central bright dot in this image
+  is one of the closer galaxies, known by the lengthy — but informative — name of
+  SDSS J020941.27+001558.4 (galaxy names in this format provide precise information
+  about their location in the sky). The other bright dot above it — that appears to
+  be intersecting a curving crescent of light — is SDSS J020941.23+001600.7, the second
+  closer galaxy. And finally, that curving crescent of light itself is the ‘lensed’
+  light from the very distant galaxy. This is known as HerS J020941.1+001557, and
+  it is also an interesting example of a phenomenon known as an Einstein ring. Einstein
+  rings occur when light from a very distant object is bent (or ‘lensed’) about a
+  massive intermediate (or ‘lensing)’ object. This is possible because spacetime,
+  the fabric of the Universe itself, is bent by mass, and therefore light travelling
+  through spacetime is as well. This is much too subtle to be observed on a local
+  level, but sometimes becomes clearly observable when dealing with curvatures of
+  light on enormous, astronomical scales, for example, when the light emitted from
+  a galaxy is bent around another galaxy or galaxy cluster. When the lensed object
+  and the lensing object line up just so, the result is the distinctive Einstein ring
+  shape, which appears as a full or partial circle of light around the lensing object,
+  depending on how precise the alignment is. This partial Einstein ring is of particular
+  interest as it was identified thanks to a citizen science project — SPACE WARPS
+  — meaning that members of the public enabled the discovery of this object! [Image
+  Description: A field full of distant galaxies on a dark background. Most of the
+  galaxies are very small, but there are a few larger galaxies and some stars where
+  detail can be made out. In the very centre there is an elliptical galaxy with a
+  brightly glowing core and a broad disc. A reddish, warped ring of light, thicker
+  at one side, surrounds its core. A small galaxy intersects the ring as a bright
+  dot.] Links Pan: So near, or so far?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2401a/L{1}X{2}Y{3}.png
+name: So near, or so far?
+ra_hr: 2.1614693083919465
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2401a/thumb.jpg
+zoom_level: 0.35221861931625464
+---
+_uuid: 06032585-09c2-43d1-9e55-db607789cc28
+classification: ''
+constellation: CET
+data_set_type: Sky
+dec_deg: -0.013181928139671959
+description: 'Today’s rather aquatic-themed NASA/ESA Hubble Space Telescope Picture
+  of the Week features the spiral galaxy Messier 77, also known as the Squid Galaxy,
+  which sits 45 million light-years away in the constellation Cetus (The Whale). The
+  designation Messier 77 comes from the galaxy’s place in the famous catalogue compiled
+  by the French astronomer Charles Messier. Another French astronomer, Pierre Méchain,
+  discovered the galaxy in 1780. Both Messier and Méchain were comet hunters who catalogued
+  nebulous objects that could be mistaken for comets. Messier, Méchain, and other
+  astronomers of their time mistook the Squid Galaxy for either a spiral nebula or
+  a star cluster. This mischaracterisation isn’t surprising. More than a century would
+  pass between the discovery of the Squid Galaxy and the realisation that the ‘spiral
+  nebulae’ scattered across the sky were not part of our galaxy and were in fact separate
+  galaxies millions of light-years away. The Squid Galaxy’s appearance through a small
+  telescope — an intensely bright centre surrounded by a fuzzy cloud — closely resembles
+  one or more stars wreathed in a nebula. The name ‘Squid Galaxy’ only came about
+  recently. This name comes from the extended, filamentary structure that curls around
+  the galaxy’s disc like the tentacles of a squid. The Squid Galaxy is a great example
+  of how advances in technology and scientific understanding can completely change
+  our perception of an astronomical object — and even what we call it! A Hubble image
+  of the Squid Galaxy was previously released in 2013. This new version incorporates
+  recent observations made with different filters and updated image processing techniques.
+  [Image Description: A close-up of a spiral galaxy, seen face-on. Its center glows
+  brightly. From the sides of the galaxy’s core emerge spiral arms which wind through
+  the round disc of the galaxy, filled with shining pink spots where stars are forming
+  and more dark-red dust. Some faint stars can be seen around the galaxy, as well
+  as a particularly bright star in the lower left of the image.] Links: Pan video:
+  Messier 77'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2515a/L{1}X{2}Y{3}.png
+name: The squid and the whale
+ra_hr: 2.71129150268046
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2515a/thumb.jpg
+zoom_level: 0.46022639157067957
+---
 _uuid: 83895864-1941-4fd9-b52d-d0df870455c8
 classification: ''
 constellation: CET
@@ -1765,3 +2416,71 @@ name: Digel Cloud 2S
 ra_hr: 2.808289150776243
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2422a/thumb.jpg
 zoom_level: 0.22078242583181004
+---
+_uuid: c4b7d31a-745f-4ceb-beea-e126a5da6546
+classification: ''
+constellation: PER
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 37.341886551395724
+description: 'Approximately as bright in the night sky as Proxima Centauri, this quiescent
+  spiral galaxy known as NGC 1058 betrays its unassuming appearance with a record
+  of supernovae and starburst activity. Captured by the Gemini Multi-Object Spectrograph
+  (GMOS) at Gemini North, operated by NSF NOIRLab, the galaxy lies about 30 million
+  light-years away in the constellation of Perseus as part of the NGC 1023 Group.
+  A Seyfert Type 2 galaxy, NGC 1058 hosts a luminous center with a mix of blues and
+  pinks along its arms that indicate active regions of star formation. Three supernovae
+  have been observed in the galaxy: SN 1961V, SN 1969L, and SN 2007gr. SN 1961V has
+  been enveloped in mystery as its explosion is yet to be understood. Although a faint
+  shell of expanding gas can just be resolved by astronomers, some are skeptical because
+  there is a remaining bright star near the position of its wake. As the ‘supernova’
+  gradually fades into the night, the incriminating star continues to shine with an
+  unusually long decay time. You can see another view of NGC 1058 from Kitt Peak National
+  Observatory (KPNO), a Program of NSF NOIRLab, here.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2403a/L{1}X{2}Y{3}.png
+name: Hidden Among Supernovae
+ra_hr: 2.724246242262488
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2403a/thumb.jpg
+zoom_level: 0.7813986573827567
+---
+_uuid: 6db9c9ab-a3c2-4c6d-958c-39eb1d671ebf
+classification: ''
+constellation: FOR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -24.79043088636476
+description: 'In the southern constellation of Fornax lies NGC 922, a peculiar galaxy
+  with a structure that has puzzled astronomers for years. Previously, researchers
+  thought its distinctive features — the stellar plume and off-center galactic bar
+  — resulted from a collision with a nearby dwarf galaxy some 330 million years ago.
+  However, new observations have revealed an umbrella-like tidal tail, seen in this
+  image taken with the DOE-built DECam on the U.S. National Science Foundation Víctor
+  M. Blanco 4-meter Telescope at the Cerro Tololo Inter-American Observatory (CTIO),
+  a Program of NSF NOIRLab. These observations contradict the previous collision theory
+  by showing that this newly detected tail doesn’t align with the trajectory of the
+  dwarf galaxy. Moreover, the dwarf galaxy itself shows signs of ongoing star formation
+  and has a well-defined structure, which is inconsistent with the aftermath of a
+  direct collision. So, a new hypothesis has emerged: that these complex features
+  may be the result of a merger with a ‘stripped’ dwarf galaxy that lost much of its
+  material through past interactions with other galaxies. As scientists rewrite the
+  history of NGC 922, these tidal features make this galaxy a valuable subject for
+  understanding how galaxies evolve after interactions.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2439a/L{1}X{2}Y{3}.png
+name: The Tidal Tales of NGC 922
+ra_hr: 2.417774195433333
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2439a/thumb.jpg
+zoom_level: 1.1759231714949596
+---
+_uuid: ab1ce9c9-713e-496c-b618-936474b9e3ba
+classification: ''
+constellation: CET
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -5.3403866875434804
+description: A deep image from the Dark Energy Survey showing the field covered by
+  one of the individual detectors in the Dark Energy Camera.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2401f/L{1}X{2}Y{3}.png
+name: Dark Energy Camera Deep Image
+ra_hr: 2.24646152872516
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2401f/thumb.jpg
+zoom_level: 1.5053188962822595

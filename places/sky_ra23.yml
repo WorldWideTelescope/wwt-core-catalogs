@@ -1611,6 +1611,623 @@ name: NGC 7789
 ra_hr: 23.9566666666667
 zoom_level: 20.705
 ---
+_uuid: 72a013b7-3cc1-46fc-afcb-15183f57d478
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.81488312101981
+description: 'NASA''s Chandra X-ray Observatory has captured many spectacular images
+  of cosmic phenomena over its two decades of operations, but perhaps its most iconic
+  is the supernova remnant Cassiopeia A.
+
+
+  Located about 11,000 light-years from Earth, Cas A (as it''s nicknamed) is the glowing
+  debris field left behind after a massive star exploded. When the star ran out of
+  fuel, it collapsed onto itself and blew up as a supernova , possibly briefly becoming
+  one of the brightest objects in the sky. (Although astronomers think that this happened
+  around the year 1680, there are no verifiable historical records to confirm this.)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-firstlight/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2019)
+ra_hr: 23.39106728083345
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-firstlight/thumb.jpg
+zoom_level: 1.0262222504087661
+---
+_uuid: 00ebddae-bc68-4358-be6a-f236dbd89d1f
+classification: ''
+constellation: PHE
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -42.7201357374833
+description: 'The Phoenix galaxy cluster contains the first confirmed supermassive
+  black hole that is unable to prevent large numbers of stars from forming in the
+  core of the galaxy cluster where it resides. This result, reported in our latest
+  press release , was made by combining data from NASA''s Chandra X-ray Observatory
+  and Hubble Space Telescope, and the NSF''s Karl Jansky Very Large Array (VLA). A
+  new composite image shows data from each telescope. X-rays from Chandra depict hot
+  gas in purple and radio emission from the VLA features jets in red. Optical light
+  data from Hubble show galaxies (in yellow), and filaments of cooler gas where stars
+  are forming (in light blue).
+
+
+  Galaxy clusters are the largest structures in the cosmos that are held together
+  by gravity, and they consist of hundreds or even thousands of galaxies embedded
+  in hot gas and invisible dark matter . The galaxies in their centers of clusters
+  contain the largest supermassive black holes known. In the case of the Phoenix Cluster,
+  the black hole in its core has a mass equivalent to 5.8 billion suns.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2019-phoenix/L{1}X{2}Y{3}.png
+name: Phoenix Cluster
+ra_hr: 23.74552325621674
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2019-phoenix/thumb.jpg
+zoom_level: 0.12593364151608474
+---
+_uuid: f68ed876-4fec-40fd-88a9-d632d4c84815
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.81493024610464
+description: 'For the first time, astronomers have measured and mapped polarized X-rays
+  from the remains of an exploded star, using NASA’s Imaging X-ray Polarimetry Explorer
+  (IXPE). The findings, which come from observations of a stellar remnant called Cassiopeia
+  A, shed new light on the nature of young supernova remnants , which accelerate particles
+  close to the speed of light.
+
+
+  Launched on Dec. 9, 2021, IXPE, a collaboration between NASA and the Italian Space
+  Agency, is the first satellite that can measure the polarization of X-ray light
+  with this level of sensitivity and clarity.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2022-casa_streams/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2022)
+ra_hr: 23.391097213005455
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2022-casa_streams/thumb.jpg
+zoom_level: 1.026732260322564
+---
+_uuid: 5348abd3-13c8-4c78-bd3b-429ac0f54f4e
+classification: ''
+constellation: CAS
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.815909585457604
+description: 'For the first time astronomers have combined data from NASA’s Chandra
+  X-ray Observatory and James Webb Space Telescope to study the well-known supernova
+  remnant Cassiopeia A (Cas A). As described in our latest press release , this work
+  has helped explain an unusual structure in the debris from the destroyed star called
+  the “Green Monster”, first discovered in Webb data in April 2023. The research has
+  also uncovered new details about the explosion that created Cas A about 340 years
+  ago, from Earth’s perspective.
+
+
+  A new composite image contains X-rays from Chandra (blue), infrared data from Webb
+  (red, green, blue), and optical data from Hubble (red and white). The outer parts
+  of the image also include infrared data from NASA’s Spitzer Space Telescope (red,
+  green and blue). The outline of the Green Monster can be seen by mousing over the
+  image.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2024-casa/L{1}X{2}Y{3}.png
+name: Cassiopeia A (2024)
+ra_hr: 23.390964117203364
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2024-casa/thumb.jpg
+zoom_level: 1.054940676168267
+---
+_uuid: 6f811911-aa2e-4532-8f6e-34f1fb03be2e
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -12.292460750518204
+description: The galaxy NGC 7727 was born from the merger of two galaxies that started
+  around a billion years ago. The cosmic dance of the two galaxies has resulted in
+  the spectacular wispy shape of NGC 7727. At the heart of the galaxy, two supermassive
+  black holes are spiralling closer to each other, expected to merge within 250 million
+  years, the blink of an eye in astronomical time. This image of NGC 7727 was captured
+  by the FOcal Reducer and low dispersion Spectrograph 2 (FORS2) instrument at ESO’s
+  Very Large Telescope (VLT).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2211a/L{1}X{2}Y{3}.png
+name: NGC 7727’s spectacular galactic dance as seen by the VLT
+ra_hr: 23.665058001154712
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2211a/thumb.jpg
+zoom_level: 1.2231138884405424
+---
+_uuid: 05e42f24-c43d-4b0d-a030-da66b8a158ec
+classification: ''
+constellation: GRU
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -42.3705924126699
+description: Lurking about 70 million light years away from Earth in the constellation
+  Grus, you will find the galaxy NGC 7582 — a spiral galaxy harbouring a supermassive
+  black hole at its core. These images were captured as part of a study using the
+  MUSE instrument on ESO’s Very Large Telescope (VLT) to uncover the effect of an
+  active black hole on the formation of stars in the galaxy. The galaxy contains an
+  active galactic nucleus (AGN) — an extremely energetic central engine powered by
+  the supermassive black hole gobbling up material in its immediate surroundings.
+  Matter heats up in this process, launching huge amounts of energy and powerful winds
+  into the surrounding area. But what effect does this have on the galaxy at large?
+  To find out, a recent study, led by Stéphanie Juneau from NSF's NOIRLab in the USA,
+  looked at the distribution of different ionised elements in the galaxy. This image
+  shows oxygen, nitrogen and hydrogen in blue, green and red respectively. The red
+  glowing areas are regions of high star formation activity, whereas the dominant
+  blue regions show the cone-shaped material flowing out of the AGN. Compare it with
+  this image, which covers the same area, shows a more classical view of this galaxy,
+  with dust lanes obscuring blue and orange starlight. MUSE also allowed the team
+  to map the motion of the stars and gas. They discovered that NGC 7582 may have a
+  structure surrounding its central supermassive black hole that shields the rest
+  of the galaxy from the harsh outflow of energy coming from the AGN, diverting it
+  away from it in the form of an extremely powerful wind. Alternative versions of
+  this image Side-by-side comparison Interactive comparison Video alternating between
+  both images Individual stellar image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2206c/L{1}X{2}Y{3}.png
+name: A black hole caught blowing a gust
+ra_hr: 23.30658357358173
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2206c/thumb.jpg
+zoom_level: 0.173061235678167
+---
+_uuid: 160a9b44-c3f9-4ab7-a611-37d379bbb15e
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -33.50937788735744
+description: 'A Hubble Space Telescope image of the host galaxy of an exceptionally
+  powerful Fast Radio Burst, FRB20220610A. Hubble’s sensitivity and sharpness reveals
+  a compact group of multiple galaxies that may be in the process of merging. They
+  existed when the Universe was only 5 billion years old. FRB 20220610A was first
+  detected on June 10, 2022 by the Australian Square Kilometre Array Pathfinder (ASKAP)
+  radio telescope in Western Australia, and confirmed to come from a distant origin
+  by the European Southern Observatory’s Very Large Telescope in Chile. [Image description:
+  This image from the Hubble Space Telescope shows a field of blue, red, orange, yellow
+  and white distant galaxies against the black backdrop of space.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2402c/L{1}X{2}Y{3}.png
+name: Hubble photographs home of farthest fast radio burst (clean image)
+ra_hr: 23.405724692591587
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2402c/thumb.jpg
+zoom_level: 0.19648244441212315
+---
+_uuid: bb9729d6-7df3-4111-a129-915d1b0a2aeb
+classification: ''
+constellation: AQR
+data_set_type: Sky
+dec_deg: -15.284723613073389
+description: 'This image features R Aquarii, a symbiotic binary star that lies only
+  roughly 1,000 light-years from Earth in the constellation Aquarius. This is a type
+  of binary star system consisting of a white dwarf and a red giant that is surrounded
+  by a large, dynamic nebula. [Image description: A bright binary star surrounded
+  by a nebula. The star, in the centre, is a large white spot surrounded by a circular
+  glow. It has a large, X-shaped set of diffraction spikes around it. The nebula extends
+  far above, below, left and right of the star in long, arcing shapes made of thin,
+  multicoloured filaments — mostly red and greenish colours, but lit in a bright cyan
+  near the star where its light illuminates the gas.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2413a/L{1}X{2}Y{3}.png
+name: R Aquarii
+ra_hr: 23.73051846113259
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2413a/thumb.jpg
+zoom_level: 0.26094591291500124
+---
+_uuid: 92dd7f40-7219-4896-a264-648f97f2f3a5
+classification: ''
+constellation: PHE
+data_set_type: Sky
+dec_deg: -42.70188919316654
+description: 'The Phoenix galaxy cluster contains the first confirmed supermassive
+  black hole that is unable to prevent large numbers of stars from forming in the
+  core of the galaxy cluster where it resides. Optical observations with the NASA/ESA
+  Hubble Space Telescope provide evidence for further cooling of gas near the center
+  of the Phoenix Cluster. Ten billion solar masses of cooler gas are located along
+  filaments to the north and south of the black hole, which likely originate from
+  outbursts by the supermassive black hole located in the center of the image. This
+  image was captured using observations from various telescopes. Optical light data
+  from Hubble show galaxies (in yellow), and filaments of cooler gas where stars are
+  forming (in light blue). Link: NASA Press Release'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo1944a/L{1}X{2}Y{3}.png
+name: A Weakened Black Hole Allows Its Galaxy to Awaken
+ra_hr: 23.745544683582697
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo1944a/thumb.jpg
+zoom_level: 0.12578609706
+---
+_uuid: e66f28be-9e0b-43ff-902f-15f75d37e635
+classification: ''
+constellation: CEP
+data_set_type: Sky
+dec_deg: 67.39552064117504
+description: 'This NASA/ESA Hubble Space Telescope image shows the largest planet-forming
+  disc ever observed around a young star. It spans nearly 640 billion kilometers,
+  roughly 40 times the diameter of our Solar System. Tilted nearly edge-on as seen
+  from Earth, the dark, dusty disk resembles a hamburger. Hubble reveals it to be
+  unusually chaotic, with bright wisps of material extending far above and below the
+  disk—more than seen in any similar circumstellar disk. Cataloged as IRAS 23077+6707,
+  the system is located approximately 1,000 light-years from Earth. The discovery
+  marks a new milestone for Hubble and offers fresh insight into planet formation
+  in extreme environments across the galaxy. [Image description: Near the center is
+  an object that resembles an edge-on view of a hamburger. There is a diagonal dark
+  strip (the meat patty) of dust, running from 1 o’clock to 7 o’clock, that obscures
+  a central star. Curving away from either side of the dark strip are glowing white
+  clouds (the buns) where dust is reflecting starlight. Bright blue finger-like wisps
+  of material extend far above and below the dark center plane. A few dozen stars,
+  some with four diffraction spikes, are scattered on the black background of space.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo2606/L{1}X{2}Y{3}.png
+name: Circumstellar disc IRAS 23077+6707
+ra_hr: 23.162216450097045
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo2606/thumb.jpg
+zoom_level: 0.15833994720715272
+---
+_uuid: 9033d398-6d26-4be1-b25f-3ede3839bd41
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 4.532911076025117
+description: The galaxy depicted in this Picture of the Week is a barred spiral known
+  as NGC 7541, seen here as viewed by the NASA/ESA Hubble Space Telescope, in the
+  constellation of Pisces (The Fishes). A barred spiral is a galaxy with whirling,
+  pinwheeling, spiral arms, and a bright centre that is intersected by a bar of gas
+  and stars. This bar cuts directly through the galaxy’s central region, and is thought
+  to invigorate the region somewhat, sparking activity and fuelling myriad processes
+  that may otherwise have never occurred or have previously ground to a halt (star
+  formation and active galactic nuclei being key examples). We think bars exist in
+  up to two-thirds of all spiral galaxies, including our own home, the Milky Way.
+  NGC 7541 is actually observed to have a higher-than-usual star formation rate, adding
+  weight to the theory that spiral bars act as stellar nurseries, corralling and funnelling
+  inwards the material and fuel needed to create and nurture new baby stars. Along
+  with its nearby companion NGC 7537, the galaxy makes up a pair of galaxies located
+  about 110 million light-years away from us.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2004a/L{1}X{2}Y{3}.png
+name: Bars and Baby Stars
+ra_hr: 23.245470858608034
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2004a/thumb.jpg
+zoom_level: 0.3289934902925819
+---
+_uuid: bd55fc2f-db41-4f96-b6f0-a7d71ff58bb1
+classification: ''
+constellation: AND
+data_set_type: Sky
+dec_deg: 41.33943363689761
+description: Observed with the NASA/ESA Hubble Space Telescope, the faint galaxy featured
+  in this image is known as UGC 12588. Unlike many spiral galaxies, UGC 12588 displays
+  neither a bar of stars across its centre nor the classic prominent spiral arm pattern.
+  Instead, to a viewer, its circular, white and mostly unstructured centre makes this
+  galaxy more reminiscent of a cinnamon bun than a mega-structure of stars and gas
+  in space. Lying in the constellation of Andromeda in the Northern hemisphere, this
+  galaxy is classified as a spiral galaxy. Unlike the classic image of a spiral galaxy,
+  however, the huge arms of stars and gas in UGC 12588 are very faint, undistinguished,
+  and tightly wound around its centre. The clearest view of the spiral arms comes
+  from the bluer stars sprinkled around the edges of the galaxy that highlight the
+  regions where new star formation is most likely taking place.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2046a/L{1}X{2}Y{3}.png
+name: Cosmic Cinnamon Bun
+ra_hr: 23.410837527289765
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2046a/thumb.jpg
+zoom_level: 0.5277909927794545
+---
+_uuid: f39003da-112d-4fdd-8640-fedededf61f5
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 22.42182277058325
+description: This week’s Hubble/ESA Picture of the Week features NGC 7678 — a galaxy
+  located approximately 164 million light-years away in the constellation of Pegasus
+  (The Winged Horse). With a diameter of around 115 000 light-years, this bright spiral
+  galaxy is a similar size to our own galaxy (the Milky Way), and was discovered in
+  1784 by the German-British astronomer William Herschel. The Atlas of Peculiar Galaxies
+  is a catalogue which was produced in 1966 by the American astronomer Halton Arp.
+  NGC 7678 is among the 338 galaxies presented in this catalogue, which organises
+  peculiar galaxies according to their unusual features. Catalogued here as Arp 28,
+  this galaxy is listed together with six others in the group “spiral galaxies with
+  one heavy arm”.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2112a/L{1}X{2}Y{3}.png
+name: A Peculiar Sight
+ra_hr: 23.47448071536338
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2112a/thumb.jpg
+zoom_level: 0.3457176852260001
+---
+_uuid: 4a55fd9e-0438-4454-bd41-5f2f852589f3
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 29.476237706375265
+description: This observation from the NASA/ESA Hubble Space Telescope showcases Arp
+  86, a peculiar pair of interacting galaxies which lies roughly 220 million light-years
+  from Earth in the constellation Pegasus. Arp 86 is composed of the two galaxies
+  NGC 7752 and NGC 7753 — NGC 7753 is the large spiral galaxy dominating this image,
+  and NGC 7752 is its smaller companion. The diminutive companion galaxy almost appears
+  to be attached to NGC 7753, and it is this peculiarity that has earned the designation
+  “Arp 86” — signifying that the galaxy pair appears in the Atlas of Peculiar Galaxies
+  compiled by the astronomer Halton Arp in 1966. The gravitational squabble between
+  the two galaxies is doomed to end catastrophically for NGC 7752. It will eventually
+  either be flung out into intergalactic space or be entirely engulfed by its far
+  larger neighbour. Hubble observed Arp 86 as part of a larger effort to understand
+  the connections between young stars and the clouds of cold gas in which they form.
+  Hubble gazed into star clusters and clouds of gas and dust in a variety of environments
+  dotted throughout nearby galaxies. Combined with measurements from ALMA, a gigantic
+  radio telescope perched high in the Chilean Andes, these Hubble observations provide
+  a treasure trove of data for astronomers working to understand how stars are born.
+  These observations also helped sow the seeds of future research with an upcoming
+  space telescope, the NASA/ESA James Webb Space Telescope (JWST). This telescope,
+  due to launch later this year, will study star formation in dusty regions such as
+  the galaxies of Arp 86. Links Video of Hubble Spies a Pair of Squabbling Galaxies
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2142a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Pair of Squabbling Galaxies
+ra_hr: 23.78411675375569
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2142a/thumb.jpg
+zoom_level: 0.5494213508253533
+---
+_uuid: f8132193-3793-416d-ba80-767e6dc624e2
+classification: ''
+constellation: PHE
+data_set_type: Sky
+dec_deg: -40.81080217906763
+description: The subject of this image is a group of three galaxies, collectively
+  known as NGC 7764A. They were imaged by the NASA/ESA Hubble Space Telescope, using
+  both its Advanced Camera for Surveys (ACS) and Wide Field Camera 3 (WFC3). The two
+  galaxies in the upper right of the image appear to be interacting with one another
+  — indeed, the long trails of stars and gas extending from them both give the impression
+  that they have both just been struck at great speed, thrown into disarray by the
+  bowling-ball-shaped galaxy to the lower left of the image. In reality, however,
+  interactions between galaxies happen over very long time periods, and galaxies rarely
+  collide head-on with one another. It is also unclear whether the galaxy to the lower
+  left is actually interacting with the other two, although they are so relatively
+  close in space that it seems possible that they are. By happy coincidence, the collective
+  interaction between these galaxies have caused the two on the upper right to form
+  a shape, which from our Solar System's perspective, ressembles the starship known
+  as the USS Enterprise from Star Trek! NGC 7764A, which lies about 425 million light
+  years from Earth in the constellation Phoenix, is a fascinating example of just
+  how awkward astronomical nomenclature can be. The three galaxies are individually
+  referred to as NGC 7764A1, NGC 7764A2 and NGC 7764A3, and just to be really difficult,
+  an entirely separate galaxy, named NGC 7764, sits in the skies about a Moon’s distance
+  (as seen from Earth) away. This rather haphazard naming makes more sense when we
+  consider that many of the catalogues for keeping track of celestial bodies were
+  compiled well over 100 years ago, long before modern technology made standardising
+  scientific terminology much easier. As it is, many astronomical objects have several
+  different names, or might have names that are so similar to other objects’ names
+  that they cause confusion.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2204a/L{1}X{2}Y{3}.png
+name: Strike!
+ra_hr: 23.8900296084571
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2204a/thumb.jpg
+zoom_level: 0.42087918067898844
+---
+_uuid: 1972e01e-754b-4198-a2ba-02272db2ccb3
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 8.88335405679344
+description: This striking image from the NASA/ESA Hubble Space Telescope showcases
+  Arp 298, a stunning pair of interacting galaxies. Arp 298 — which comprises the
+  two galaxies NGC 7469 and IC 5283 — lies roughly 200 million light-years from Earth
+  in the constellation Pegasus. The larger of the two galaxies pictured here is the
+  barred spiral galaxy NGC 7469, and IC 5283 is its diminutive companion. NGC 7469
+  is also host to an active, supermassive black hole and a bright ring of star clusters.
+  The “Arp” in this galaxy pair’s name signifies that they are listed in the Atlas
+  of Peculiar Galaxies compiled by the astronomer Halton Arp. The Atlas of Peculiar
+  Galaxies is a rogues’ gallery of weird and wonderful galaxies containing peculiar
+  structures, featuring galaxies exhibiting everything from segmented spiral arms
+  to concentric rings. This interacting galaxy pair is a familiar sight for Hubble
+  — a portrait of the merging galaxies in Arp 298 was published in 2008. This image
+  of Arp 298 contains data from three separate Hubble proposals. By combining observations
+  from three proposals, Arp 298 is captured in glorious detail in seven different
+  filters from two of Hubble’s instruments — the Wide Field Camera 3 and the Advanced
+  Camera for Surveys. The process of planning Hubble observations starts with a proposal
+  — a detailed plan of what an astronomer intends to observe and their scientific
+  motivation for doing so. Once a year, these proposals are gathered and judged in
+  a gruelling review process which assess their scientific merit and feasibility.
+  Fewer than 20% of the proposed observations in any given year will make it through
+  this process and be approved, which makes observing time with Hubble highly prized
+  indeed. This system will be one of the first galaxies observed with the NASA/ESA/CSA
+  James Webb Space Telescope as part of the Director's Discretionary Early Release
+  Science Programs in Summer 2022.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2208a/L{1}X{2}Y{3}.png
+name: Hubble Captures a Peculiar Galactic Pair
+ra_hr: 23.054538158379202
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2208a/thumb.jpg
+zoom_level: 0.4355172029891074
+---
+_uuid: a2e3e2b2-5df4-4d7b-b7b7-2ff1c9e6d409
+classification: ''
+constellation: GRU
+data_set_type: Sky
+dec_deg: -43.42233357865235
+description: This image from the NASA/ESA Hubble Space Telescope shows the barred
+  spiral galaxy NGC 7496, which lies over 24 million light-years away in the constellation
+  Grus. This constellation, whose name is Latin for crane, is one of four constellations
+  collectively known as the Southern Birds. The others are Pavo, Phoenix and Tucana,
+  which depict a peacock, phoenix, and toucan respectively. The rest of the night
+  sky is also home to a flock of ornithological constellations, including an eagle
+  (Aquilla), swan (Cygnus), crow (Corvus), and dove (Columba). This image comes from
+  a collection of observations delving into the relationship between young stars and
+  the cold, dense clouds of gas in which they form. In addition to observations with
+  Hubble’s Wide Field Camera 3 and Advanced Camera for Surveys, the astronomers behind
+  this project gathered data using the Atacama Large Millimeter/submillimeter Array
+  (ALMA), one of the largest radio telescopes in the world. As well as shedding light
+  on the speed and efficiency of star formation in a variety of galactic environments,
+  this project is also creating a treasury of data incorporating both Hubble and ALMA
+  observations. This treasure trove of data from two of the world’s most capable observatories
+  will contribute to wider research into star formation, as well as paving the way
+  for future science with the James Webb Space Telescope. Links Video of Hubble Goes
+  Galactic Birdwatching
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2222a/L{1}X{2}Y{3}.png
+name: Hubble Goes Galactic Birdwatching
+ra_hr: 23.1633770990648
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2222a/thumb.jpg
+zoom_level: 0.4065020743307063
+---
+_uuid: 02ade31d-805d-487d-8742-26c056296858
+classification: ''
+constellation: PEG
+data_set_type: Sky
+dec_deg: 21.145425263088356
+description: 'The galaxy JW100 features prominently in this image from the NASA/ESA
+  Hubble Space Telescope, with streams of star-forming gas dripping from the disc
+  of the galaxy like streaks of fresh paint. These tendrils of bright gas are formed
+  by a process called ram pressure stripping, and their resemblance to dangling tentacles
+  has led astronomers to refer to JW100 as a ‘jellyfish’ galaxy. It is located in
+  the constellation Pegasus, over 800 million light-years away. Ram pressure stripping
+  occurs when galaxies encounter the diffuse gas that pervades galaxy clusters. As
+  galaxies plough through this tenuous gas it acts like a headwind, stripping gas
+  and dust from the galaxy and creating the trailing streamers that prominently adorn
+  JW100. The bright elliptical patches in the image are other galaxies in the cluster
+  that hosts JW100. As well as JW100’s bright tendrils, this image also contains a
+  remarkably bright area of diffuse light towards the top of this image which contains
+  two bright blotches at its core. This is the core of IC 5338, the brightest galaxy
+  in the galaxy cluster, known as a cD galaxy. It’s not unusual for cD galaxies to
+  exhibit multiple nuclei, as they are thought to grow by consuming smaller galaxies,
+  the nuclei of which can take a long time to be absorbed. The bright points of light
+  studding its outer fringes are a rich population of globular clusters. This observation
+  took advantage of the capabilities of Hubble’s Wide Field Camera 3, and is part
+  of a sequence of observations designed to explore star formation in the tendrils
+  of jellyfish galaxies. These tendrils represent star formation under extreme conditions,
+  and could help astronomers understand the process of star formation elsewhere in
+  the universe. [Image Description: A thin spiral galaxy is seen edge-on in the lower
+  right. Its bulge and arms are very bright, mixing reddish and bluish light. Patchy
+  blue trails extend below it, resembling tentacles, made from star-forming regions.
+  Six small, reddish elliptical galaxies are scattered around. A very large elliptical
+  galaxy with two cores sits by the top of the frame.] Links First science paper in
+  the Astrophysical Journal Second science paper in the Astrophysical Journal Pan:
+  Portrait of a galactic jellyfish'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2312a/L{1}X{2}Y{3}.png
+name: Portrait of a galactic jellyfish
+ra_hr: 23.60740515210144
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2312a/thumb.jpg
+zoom_level: 0.38475989543877087
+---
+_uuid: e1205261-b707-4681-af66-360a54c052d9
+classification: ''
+constellation: PSC
+data_set_type: Sky
+dec_deg: 1.6268748133061293
+description: 'The tranquil spiral galaxy UGC 12295 basks leisurely in this image from
+  the NASA/ESA Hubble Space Telescope. This galaxy lies around 192 million light-years
+  away in the constellation Pisces, and is almost face-on when viewed from Earth,
+  displaying a bright central bar and tightly wound spiral arms. Despite appearing
+  as an island of tranquillity in this image, UGC 12295 played host to a catastrophically
+  violent explosion — a supernova — that was first detected in 2015. This supernova
+  prompted two different teams of astronomers to propose Hubble observations of UGC
+  12295 that would sift through the wreckage of this vast stellar explosion. Supernovae
+  are the explosive deaths of massive stars, and are responsible for forging many
+  of the elements found here on Earth. The first team of astronomers used Hubble’s
+  Wide Field Camera 3 (WFC3) to examine the detritus left behind by the supernova
+  in order to better understand the evolution of matter in our Universe. The second
+  team of astronomers also used WFC3 to explore the aftermath of UGC 12295’s supernova,
+  but their investigation focused on returning to the sites of some of the best-studied
+  nearby supernovae. Hubble’s keen vision can reveal lingering traces of these energetic
+  events, shedding light on the nature of the systems that host supernovae. [Image
+  Description: A broad spiral galaxy seen directly face-on. It has two bright spiral
+  arms that extend from a bar, which shines from the very centre. Additional fainter
+  arms branch off from these, studded with bright blue patches of star formation.
+  Small, distant galaxies are dotted around it, on a dark background.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2330a/L{1}X{2}Y{3}.png
+name: Galactic island of tranquillity
+ra_hr: 23.006554439364326
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2330a/thumb.jpg
+zoom_level: 0.37425567222908446
+---
+_uuid: 77e444c2-29e7-4006-8b58-3138b03a4931
+classification: ''
+constellation: SCL
+data_set_type: Sky
+dec_deg: -36.10005111759129
+description: 'This glittering image shows the spiral galaxy IC 5332, which lies about
+  30 million light-years away in the constellation Sculptor, and has an almost face-on
+  orientation to Earth. To explain what is meant by ‘face-on’, it is helpful to visualise
+  a spiral galaxy as an (extremely) large disc. If the galaxy is oriented so that
+  it appears circular and disc-shaped from our perspective here on Earth, then we
+  can say that it is ‘face-on’. In contrast, if it is oriented so that it appears
+  squashed and oval-shaped, then we would say that it is ‘edge-on’. The key thing
+  is that the same galaxy would look extremely different from our perspective depending
+  on whether it was face-on or edge-on as seen from Earth. Check out these previous
+  Hubble Pictures of the Week for examples of another face-on spiral galaxy and an
+  almost edge-on spiral galaxy. IC 5332 is designated as an SABc-type galaxy in the
+  De Vaucouleurs system of galaxy classification. The ‘S’ is straightforward, identifying
+  it as a spiral galaxy, which it clearly is, given the well-defined arms of bright
+  stars and darker dust that curl outwards from the galaxy’s dense and bright core.
+  The ‘AB’ is a little more complex. It means that the galaxy is weakly barred, which
+  refers to the shape of the galaxy’s centre. The majority of spiral galaxies do not
+  spiral out from a single point, but rather from an elongated bar-type structure.
+  SAB galaxies — which are also known as intermediate spiral galaxies — do not have
+  a clear bar-shape at their core, but also do not spiral out from a single point,
+  instead falling somewhere in between. The lowercase ‘c’ describes how tightly wound
+  the spiral arms are: ‘a’ would indicate very tightly wound, and ‘d’ very loosely
+  wound. Thus, IC 5332 is quite an intermediate spiral galaxy on many fronts: weakly
+  barred, with quite loosely wound arms, and almost completely face-on! [Image Description:
+  A close-in view of a spiral galaxy. It is seen face-on, showing its circular shape
+  and tightly winding spiral arms. The galaxy glows brightly in the centre and dims
+  to cool colours towards the edge. Dark, faint filaments of dust and brightly glowing,
+  pink and orange bubbles of star formation mark the face of the galaxy.] Links Pan:
+  ‘S’ is for ‘Spiral’, ‘AB’ is for … ‘Weakly Barred’'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2342a/L{1}X{2}Y{3}.png
+name: ‘S’ is for ‘Spiral’, ‘AB’ is for … ‘Weakly Barred’
+ra_hr: 23.574037515265168
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2342a/thumb.jpg
+zoom_level: 0.4481783397099104
+---
+_uuid: 4b8af19c-38d7-448c-9d82-0ec4345aa858
+classification: ''
+constellation: TUC
+data_set_type: Sky
+dec_deg: -65.95101886707722
+description: 'This striking image captures the interacting galaxy pair known as Arp-Madore
+  2339-661, so named because they belong to the Arp-Madore catalogue of peculiar galaxies.
+  However, this particular peculiarity might be even odder than first meets the eye,
+  as there are in fact three galaxies interacting here, not just two. The two clearly
+  defined galaxies are NGC 7733 (smaller, lower right) and NGC 7734 (larger, upper
+  left). The third galaxy is currently referred to as NGC 7733N, and can actually
+  be spotted in this picture if you look carefully at the upper arm of NGC 7733, where
+  there is a visually notable knot-like structure, glowing with a different colour
+  to the arm and obscured by dark dust. This could easily pass as part of NGC 7733,
+  but analysis of the velocities (speed, but also considering direction) involved
+  in the galaxy shows that this knot has a considerable additional redshift, meaning
+  that it is very likely its own entity and not part of NGC 7733. This is actually
+  one of the many challenges that observational astronomers face: working out whether
+  an astronomical object really is just one, or one lying in front of another as seen
+  from Earth’s perspective! All three galaxies lie quite close to each other, roughly
+  500 million light-years from Earth in the constellation Tucana, and, as this image
+  shows, they are interacting gravitationally with one another. In fact, some science
+  literature refers to them as a ‘merging group’, meaning that they are on a course
+  to ultimately become a single entity. [Image Description: Two spiral galaxies. Each
+  glows brightly in the centre, where a bar stretches from side to side. The upper
+  one is more round and its arms form two thin rings. The lower galaxy is flatter
+  and its arms make one outer ring; a dusty knot atop its upper arm marks out a third
+  object. Gravity is pulling gas and dust together where the galaxies come close.
+  A number of small galaxies surround them on a black background.] Links Pan: A dynamic
+  duo … or trio?'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2343a/L{1}X{2}Y{3}.png
+name: A dynamic duo … or trio?
+ra_hr: 23.710628625786917
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2343a/thumb.jpg
+zoom_level: 0.4990175497971107
+---
+_uuid: b4878c3c-a7c2-4d1e-801c-b9852d9657b0
+classification: ''
+constellation: GRU
+data_set_type: Sky
+dec_deg: -39.56993987029137
+description: 'While it may appear unassuming at first glance, just another spiral
+  galaxy among thousands in the Universe, this subject of the ESA/Hubble Picture of
+  the Week has plenty to study. NGC 7456 is its name, located over 51 million light-years
+  away in the constellation Grus (the Crane). In this image we see in fine detail
+  the patchy spiral arms of this galaxy, followed by clumps of dark, obscuring dust.
+  Blossoms of glowing pink are rich reservoirs of gas where new stars are forming,
+  illuminating the clouds around them and causing the gas to emit this tell-tale red
+  light. The Hubble programme which collected this data is focused on stellar activity
+  just like this, tracking new stars, clouds of hydrogen and star clusters to learn
+  how the galaxy has evolved through time. Hubble, with its ability to capture visible,
+  ultraviolet and some infrared light, is not the only observatory focused on NGC
+  7456. ESA’s XMM-Newton satellite has imaged X-rays from the galaxy on multiple occasions,
+  discovering a number of so-called ultraluminous X-ray sources. These small, compact
+  objects emit terrifically powerful X-rays, much more than would be expected for
+  their size. Astronomers are still trying to pin down what powers these extreme objects,
+  and NGC 7456 contributes a few more examples. On top of that, the region around
+  the galaxy’s supermassive black hole is spectacularly bright and energetic, making
+  NGC 7456 an active galaxy. Whether looking at its core or its outskirts, at visible
+  light or X-rays, this galaxy has something interesting to show! [Image Description:
+  A spiral galaxy. It shines brightly at the centre, and most of its disc also glows
+  in warm colours. Its two spiral arms, which wind outwards from the centre, are made
+  up mostly of large patches of bright blue specks. They also contain thin, reddish
+  clouds of dust, and bright pink bubbles of glowing gas, where stars are forming.
+  Distant galaxies can be seen around the galaxy as small orange spots, on a dark
+  background.] Links Pan: NGC 7456'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2535a/L{1}X{2}Y{3}.png
+name: A galaxy with lots to see
+ra_hr: 23.036310914870924
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2535a/thumb.jpg
+zoom_level: 0.31400992810635847
+---
 _uuid: 415b4528-6f14-425f-a353-f6fb464f1554
 classification: ''
 constellation: SCL
@@ -1735,3 +2352,41 @@ name: Parallel field to protostar IRAS23385
 ra_hr: 23.680947991644253
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2409a/thumb.jpg
 zoom_level: 0.3274756934531572
+---
+_uuid: da5c5f52-2e56-4e72-bbf6-c0e5dbd4aeaf
+classification: ''
+constellation: PEG
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 33.3599134348978
+description: A unique ultra-faint dwarf galaxy has been discovered in the outer fringes
+  of the Andromeda Galaxy thanks to the sharp eyes of an amateur astronomer examining
+  archival data from the US Department of Energy-fabricated Dark Energy Camera on
+  the Víctor M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory
+  (CTIO) and processed by the Community Science and Data Center (CSDC). Follow-up
+  by professional astronomers using the International Gemini Observatory revealed
+  that the dwarf galaxy — Pegasus V — contains very few heavier elements and is likely
+  to be a fossil of the first galaxies. All three facilities involved are Programs
+  of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2214a/L{1}X{2}Y{3}.png
+name: The ultra-faint dwarf galaxy Pegasus V
+ra_hr: 23.307750336293168
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2214a/thumb.jpg
+zoom_level: 0.46490199301128243
+---
+_uuid: f38469f6-7425-4a81-b708-67bc913e5536
+classification: ''
+constellation: AQR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -12.29203122530788
+description: Gemini South, one half of the International Gemini Observatory operated
+  by NSF NOIRLab, captures the billion-year-old aftermath of a double spiral galaxy
+  collision. At the heart of this chaotic interaction, entwined and caught in the
+  midst of the chaos, is a pair of supermassive black holes — the closest such pair
+  ever recorded from Earth.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2329a/L{1}X{2}Y{3}.png
+name: Gemini South Reveals Tangled Spiral Arms of the Peculiar Galaxy NGC 7727
+ra_hr: 23.66508153799273
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2329a/thumb.jpg
+zoom_level: 0.8729533034889496

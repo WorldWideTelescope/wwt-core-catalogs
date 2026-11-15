@@ -4,8 +4,11 @@ default_copyright: Copyright European Southern Observatory
 default_license_id: CC-BY-4.0
 default_constellations_handle: eso
 default_prepend_catfile: eso
-publish_url_prefix: http://data1.wwtassets.org/feeds/eso/
+publish_url_prefix: https://data1.wwtassets.org/feeds/eso/
 astropix_publisher_id: eso
 
 djangoplicity:
-  base_url: https://eso.org/public/images/
+  base_url: https://www.eso.org/public/images/
+  # eso.org's archive listings are now /archive/search/list/<n>/ (the old
+  # /page/<n>/ form returns 404, so a refresh would find nothing).
+  search_page_name: list

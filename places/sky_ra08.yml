@@ -1009,6 +1009,335 @@ ra_hr: 8.37116926666667
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2011-032.jpg
 zoom_level: 12.515540992
 ---
+_uuid: 3900a9b4-27bf-437f-85d8-f7d5ad763995
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.986715155093655
+description: This image shows a spectacular view of the orange and pink clouds that
+  make up what remains after the explosive death of a massive star — the Vela supernova
+  remnant. This detailed image consists of 554 million pixels, and is a combined mosaic
+  image of observations taken with the 268-million-pixel OmegaCAM camera at the VLT
+  Survey Telescope, hosted at ESO’s Paranal Observatory. OmegaCAM can take images
+  through several filters that each let the telescope see the light emitted in a distinct
+  colour. To capture this image, four filters have been used, represented here by
+  a combination of magenta, blue, green and red. The result is an extremely detailed
+  and stunning view of both the gaseous filaments in the remnant and the foreground
+  bright blue stars that add sparkle to the image.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2214a/L{1}X{2}Y{3}.png
+name: The Vela supernova remnant imaged by the VLT Survey Telescope
+ra_hr: 8.523883407531214
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2214a/thumb.jpg
+zoom_level: 14.27134113509138
+---
+_uuid: ca7724aa-4841-43f1-b80b-2d0549dd411b
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -47.499078999999995
+description: This is an 80-million-pixel picture of the star cluster RCW 38, located
+  5500 light-years away in the constellation Vela. RCW 38 is a young cluster containing
+  about 2000 stars, and is bursting with star-forming activity. The picture was taken
+  with ESO’s Visible and Infrared Survey Telescope for Astronomy (VISTA), operating
+  in Chile’s Atacama Desert. It shows a mixture of gas, dust and stars, creating an
+  extravagant, yet spectacular landscape. As VISTA observes infrared light, it is
+  able to peer through most of the dust in this region, which would block our view
+  when observing in visible light. Behind the dust, VISTA is showing young stars within
+  dusty cocoons and cold ‘failed’ stars known as brown dwarfs, thus revealing the
+  secrets within these young stellar nurseries.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2503a/L{1}X{2}Y{3}.png
+name: The RCW 38 cluster in infrared light
+ra_hr: 8.985189960000001
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2503a/thumb.jpg
+zoom_level: 7.118698319999998
+---
+_uuid: fc0b9dfd-2893-427a-bda9-3eebf9d2c591
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -49.154645317848825
+description: NGC 2547 is a southern open cluster in Vela, discovered by Abbe Lacaille
+  in 1751-1752 from South Africa.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/perez-ngc_2547/L{1}X{2}Y{3}.png
+name: NGC 2547
+ra_hr: 8.159804683817724
+thumbnail: https://data1.wwtassets.org/feeds/eso/perez-ngc_2547/thumb.jpg
+zoom_level: 17.768232886635605
+---
+_uuid: 766ee2c7-eff3-476e-a42d-56cc7c41489e
+classification: ''
+constellation: CNC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 10.776646276512777
+description: In this Picture of the Week we peer closer into the galaxy UGC 4211,
+  where astronomers have discovered two supermassive black holes on the verge of merging,
+  separated by just 750 lightyears — the closest to have been found to date and less
+  than half of the previous record. They used ESO’s Very Large Telescope (VLT), the
+  Atacama Large Millimeter/submillimeter Array (ALMA), of which ESO is a partner,
+  and other telescopes to detect the bright light produced as the black holes engulf
+  material in their vicinity. The image shown here was made using data from the MUSE
+  instrument on ESO’s VLT in Chile, and it shows a classical view of this galaxy,
+  with dust lanes obscuring starlight. Check the alternative versions in the links
+  below, which reveal the presence of two supermassive black holes swallowing material
+  from their surroundings. Combining data from the VLT, ALMA and other telescopes,
+  a team led by Michael Koss at Eureka Scientific in the US could identify these two
+  black holes and study them in detail. These black holes likely found each other
+  when their host galaxies collided and merged. Observing this system will help improve
+  our understanding of how galaxies and their supermassive black holes grow as they
+  merge. Alternative versions of this image Side-by-side comparison Interactive comparison
+  Gaseous image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2302b/L{1}X{2}Y{3}.png
+name: Closest pair of supermassive black holes as seen by MUSE
+ra_hr: 8.079551289781268
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2302b/thumb.jpg
+zoom_level: 0.023138857007272976
+---
+_uuid: 787d0f49-8b2e-4fa1-9ad8-59f217a26768
+classification: ''
+constellation: CNC
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 10.776646276512777
+description: In this Picture of the Week we peer closer into the galaxy UGC 4211,
+  where astronomers have discovered two supermassive black holes on the verge of merging,
+  separated by just 750 lightyears — the closest to have been found to date and less
+  than half of the previous record. They used ESO’s Very Large Telescope (VLT), the
+  Atacama Large Millimeter/submillimeter Array (ALMA), of which ESO is a partner,
+  and other telescopes to detect the bright light produced as the black holes engulf
+  material in their vicinity. The image shown here was made using data from the MUSE
+  instrument on ESO’s VLT in Chile. It shows emission from oxygen, nitrogen and hydrogen
+  in blue, green and red respectively. Red indicates areas of star formation, and
+  the bright white central region indicates the presence of two supermassive black
+  holes swallowing material from their surroundings. Combining data from the VLT,
+  ALMA and other telescopes, a team led by Michael Koss at Eureka Scientific in the
+  US could identify these two black holes and study them in detail. These black holes
+  likely found each other when their host galaxies collided and merged. Observing
+  this system will help improve our understanding of how galaxies and their supermassive
+  black holes grow as they merge. Alternative versions of this image Side-by-side
+  comparison Interactive comparison Stellar image
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/potw2302c/L{1}X{2}Y{3}.png
+name: Closest pair of supermassive black holes as seen by MUSE
+ra_hr: 8.079551289781268
+thumbnail: https://data1.wwtassets.org/feeds/eso/potw2302c/thumb.jpg
+zoom_level: 0.023138857007272976
+---
+_uuid: 1f2f1a7e-af7c-4388-9394-07fabd2860b2
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -11.426591574803801
+description: Pictured here is the captivating galaxy NGC 2525. Located nearly 70 million
+  light-years from Earth, this galaxy is part of the constellation of Puppis in the
+  southern hemisphere. Together with the Carina and the Vela constellations, it makes
+  up an image of the Argo from ancient greek mythology. Another kind of monster, a
+  supermassive black hole, lurks at the centre of NGC 2525. Nearly every galaxy contains
+  a supermassive black hole, which can range in mass from hundreds of thousands to
+  billions of times the mass of the Sun. Hubble has captured a series of images of
+  NGC2525 as part of one of its major investigations; measuring the expansion rate
+  of the Universe, which can help answer fundamental questions about our Universe’s
+  very nature. ESA/Hubble has now published a unique time-lapse of this galaxy and
+  it’s fading supernova.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2018b/L{1}X{2}Y{3}.png
+name: Galaxy NGC 2525
+ra_hr: 8.093819520913629
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2018b/thumb.jpg
+zoom_level: 0.440605453533504
+---
+_uuid: 632993a4-f1aa-402b-99b4-7ae7cc6defa9
+classification: ''
+constellation: LYN
+data_set_type: Sky
+dec_deg: 36.05704208129255
+description: 'In celebration of Halloween, Hubble brings you this inky image of the
+  galaxy cluster Abell 611, located roughly 3.2 billion light years from Earth. This
+  object is a popular target for investigating dark matter, in part because of the
+  numerous examples of strong gravitational lensing visible amongst the cluster’s
+  intricate web of galaxies. [Image Description: Hundreds of small galaxies appear
+  across this view. Their colours vary. Some are shades of orange, while others are
+  white. Most appear as fuzzy ovals, but a few have distinct spiral arms. There are
+  also many thin, long, orange arcs that curve around the centre of the image, where
+  there is a prominent orange glow.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2213a/L{1}X{2}Y{3}.png
+name: A Cosmic Cobweb
+ra_hr: 8.015776904567293
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2213a/thumb.jpg
+zoom_level: 0.34709354228286193
+---
+_uuid: be1e5680-4082-417c-b265-638511ff4c04
+classification: ''
+constellation: GEM
+data_set_type: Sky
+dec_deg: 26.613892811572214
+description: 'A luminous swirl set against the deep black of space, the barred spiral
+  galaxy IC 486 glows with a soft, ethereal light in this new ESA/Hubble Picture of
+  the Month image. IC 486 lies right on the edge of the constellation Gemini (the
+  Twins), around 380 million light-years from Earth. Classified as a barred spiral
+  galaxy, it features a bright central bar-shaped structure from which its spiral
+  arms unfurl, wrapping around the core in a smooth, almost ring-like pattern. Hubble’s
+  keen eye reveals subtle variations in colour across the galaxy. The pale, luminous
+  centre is dominated by older stars, while faint bluish regions in the surrounding
+  disc trace pockets of more recent star formation. Wisps of dust thread through the
+  galaxy’s structure, gently obscuring light and tracing regions of increased molecular
+  gas where new stars are likely to form. At the galaxy’s centre a noticeable white
+  glow outshines the starlight around it. This is light given off by IC 486’s active
+  galactic nucleus (AGN), powered by a supermassive black hole more than 100 million
+  times the mass of the Sun. Every sufficiently large galaxy hosts a supermassive
+  black hole at its centre, but some of these black holes are particularly ravenous,
+  marshalling vast amounts of gas and dust into swirling accretion discs from which
+  they feed. The intense heat generated by the orbiting disc of material generates
+  intense radiation up to and including X-rays, which can outshine the entire rest
+  of the galaxy. In these cases, the galaxy is known as an active galaxy, with an
+  AGN at its centre. The data used to make this image comes from two separate observing
+  programmes — #17310 (PI: M. J. Koss) and #15444 (PI: A. J. Barth) — with similar
+  aims: to survey nearby active galaxies like IC 486 and record detailed, high-quality
+  images of their central black holes and the stars near the core of the galaxy. By
+  combining Hubble’s sharp imaging with large comprehensive samples, these programmes
+  are enabling detailed comparisons of how stars, gas, dust, and black holes interact
+  in galaxy centres. A key goal of this work is to understand how galaxies grow by
+  linking their large-scale structures, such as bars and spiral arms, to activity
+  in their nuclei. To achieve this, the research teams are leveraging both expert
+  classifications and citizen science through Galaxy Zoo, with datasets that will
+  ultimately be released to the public. In parallel, the same images are being used
+  to test how well large language models and other machine learning techniques can
+  reproduce or extend human classifications, offering a new way to scale galaxy morphology
+  studies to the largest surveys that are currently being performed with the Euclid
+  telescope. Beyond IC 486 itself, the image is peppered with distant background galaxies
+  and foreground stars. Some stars appear with characteristic diffraction spikes,
+  while the more diffuse, reddish smudges are far more distant galaxies scattered
+  across the cosmos. Though it may appear calm and orderly, IC 486 is a dynamic system
+  shaped by gravity and stellar evolution. Over millions of years, its structure will
+  continue to evolve as stars are born, age, and fade, contributing to the ongoing
+  story of galactic life in the Universe. [Image Description: A face-on view of the
+  barred spiral galaxy IC 486, showing a bright, elongated central bar and softly
+  curving, ring-like spiral arms with subtle blue star-forming regions and dark dust
+  lanes, set against a black background dotted with distant galaxies and a few foreground
+  stars.] Links IC 486 (wide-field view) Image on ESA website Pan video: IC 486 Pan
+  video: IC 486 (wide-field view)'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potm2603a/L{1}X{2}Y{3}.png
+name: Where spiral arms and star formation meet
+ra_hr: 8.005850841784467
+thumbnail: https://data1.wwtassets.org/feeds/hst/potm2603a/thumb.jpg
+zoom_level: 0.2537178559064558
+---
+_uuid: 434c8a2f-da98-4e76-a540-9c9f79cea6c1
+classification: ''
+constellation: CNC
+data_set_type: Sky
+dec_deg: 28.474287992476068
+description: Looking deep into the Universe, the NASA/ESA Hubble Space Telescope catches
+  a passing glimpse of the numerous arm-like structures that sweep around this barred
+  spiral galaxy, known as NGC 2608. Appearing as a slightly stretched, smaller version
+  of our Milky Way, the peppered blue and red spiral arms are anchored together by
+  the prominent horizontal central bar of the galaxy. In Hubble photos, bright Milky
+  Way stars will sometimes appear as pinpoints of light with prominent lens flares.
+  A star with these features is seen in the lower right corner of the image, and another
+  can be spotted just above the pale centre of the galaxy. The majority of the fainter
+  points around NGC 2608, however, lack these features, and upon closer inspection
+  they are revealed to be thousands of distant galaxies. NGC 2608 is just one among
+  an uncountable number of kindred structures. Similar expanses of galaxies can be
+  observed in other Hubble images such as the Hubble Deep Field which recorded over
+  3000 galaxies in one field of view.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2023a/L{1}X{2}Y{3}.png
+name: One Amongst Millions
+ra_hr: 8.588118042564664
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2023a/thumb.jpg
+zoom_level: 0.33958297948935695
+---
+_uuid: 127d17dc-66e8-48c9-8d68-f67bc06ff429
+classification: ''
+constellation: VEL
+data_set_type: Sky
+dec_deg: -51.01009526245975
+description: Herbig-Haro objects are some of the rarer sights in the night sky, taking
+  the form of thin spindly jets of matter floating amongst the surrounding gas and
+  stars. The two Herbig-Haro objects catalogued as HH46 and HH47, seen in this image
+  taken with the NASA/ESA Hubble Space Telescope, were spotted in the constellation
+  of Vela (The Sails), at a distance of over 1400 light-years from Earth. Prior to
+  its discovery in 1977 by the American astronomer R. D. Schwartz, the exact mechanism
+  by which these multi-coloured objects formed was unknown. Before 1997 it was theorised
+  by Schwartz and others that the objects could be a type of reflection nebula, or
+  a type of shock wave formed from the gas emitted from a star interacting with the
+  surrounding matter. The mystery was finally solved when a protostar, unseen in this
+  image, was discovered at the centre of the long jets of matter. The outflows of
+  matter, some 10 light-years across, were ejected from the newly born star and violently
+  propelled outwards at speeds of over 150 kilometres per second. Upon reaching the
+  surrounding gas, the collision created the bright shock waves seen here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2107a/L{1}X{2}Y{3}.png
+name: Tantrums of a Baby Star
+ra_hr: 8.428998445292091
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2107a/thumb.jpg
+zoom_level: 0.3460271699565206
+---
+_uuid: 1359b258-b9b3-4a2e-b3e1-13d9b54d6d8f
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -0.9706792220155654
+description: The ultra-diffuse galaxy GAMA 526784 appears as a tenuous patch of light
+  in this image from the NASA/ESA Hubble Space Telescope. This wispy object resides
+  in the constellation Hydra, roughly four billion light-years from Earth. Ultra-diffuse
+  galaxies such as GAMA 526784 have a number of peculiarities. For example, their
+  dark matter content can be either extremely low or extremely high — ultra-diffuse
+  galaxies have been observed with an almost complete lack of dark matter, whereas
+  others consist of almost nothing but dark matter. Another oddity of this class of
+  galaxies is their anomalous abundance of bright globular clusters, something not
+  observed in other types of galaxies. Hubble captured GAMA 526784 with the Advanced
+  Camera for Surveys (ACS), which was installed in 2002 by astronauts during Hubble
+  Servicing Mission 3B. Since then, the instrument has played a pivotal role in some
+  of Hubble’s most impressive scientific results, including capturing the Hubble Ultra
+  Deep Field. The ACS has also photographed Pluto in advance of the New Horizon mission,
+  observed gargantuan gravitational lenses and found fully formed galaxies in the
+  early Universe. This image comes from a set of Hubble observations designed to shed
+  light on the properties of ultra-diffuse galaxies. Hubble’s keen vision allowed
+  astronomers to study GAMA 526784 in high resolution at ultraviolet wavelengths,
+  helping to gauge the sizes and ages of the compact star-forming regions studding
+  the galaxy.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2217a/L{1}X{2}Y{3}.png
+name: Hubble Spies a Tenuous Diffuse Galaxy
+ra_hr: 8.95255462762328
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2217a/thumb.jpg
+zoom_level: 0.24646318565009087
+---
+_uuid: fbe2a188-3b61-4a46-a03a-c476362e7d7a
+classification: ''
+constellation: PUP
+data_set_type: Sky
+dec_deg: -25.49962906024931
+description: 'Featured in this NASA/ESA Hubble Space Telescope Picture of the Week
+  is the spiral galaxy NGC 2566, which sits 76 million light-years away in the constellation
+  Puppis. A prominent bar of stars stretches across the centre of this galaxy, and
+  spiral arms emerge from each end of the bar. Because NGC 2566 appears tilted from
+  our perspective, its disc takes on an almond shape, giving the galaxy the appearance
+  of a cosmic eye. As NGC 2566 gazes at us, astronomers gaze right back, using Hubble
+  to survey the galaxy’s star clusters and star-forming regions. The Hubble data are
+  especially valuable for studying stars that are just a few million years old; these
+  stars are bright at the ultraviolet and visible wavelengths to which Hubble is sensitive.
+  Using these data, researchers will measure the ages of NGC 2566’s stars, helping
+  to piece together the timeline of the galaxy’s star formation and the exchange of
+  gas between star-forming clouds and stars themselves. Several other astronomical
+  observatories have examined NGC 2566, including the NASA/ESA/CSA James Webb Space
+  Telescope. The Webb data complement this Hubble image, adding a view of NGC 2566’s
+  warm, glowing dust to Hubble’s stellar portrait. At the long-wavelength end of the
+  electromagnetic spectrum, NGC 2566 has also been observed by the Atacama Large Millimeter/submillimeter
+  Array (ALMA). ALMA is a network of 66 radio telescopes that work together as one
+  to capture detailed images of the clouds of gas in which stars form. Together, Hubble,
+  Webb and ALMA provide an overview of the formation, lives and deaths of stars in
+  galaxies across the Universe. [Image Description: An oval-shaped spiral galaxy.
+  Its core is a compact, glowing blue spot. A bright bar of light, lined with dark
+  reddish dust, extends horizontally to the edge of the disc. A spiral arm emerges
+  from each end of the bar and follows the edge of the disc, lined with blue and red
+  glowing patches of stars, to the opposite end and a little off the galaxy. Blue
+  stars are scattered between us and the galaxy.] Links Pan of NGC 2566'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2451a/L{1}X{2}Y{3}.png
+name: Seeing eye to eye
+ra_hr: 8.312664052128346
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2451a/thumb.jpg
+zoom_level: 0.45717747221225247
+---
 _uuid: 5f220c5f-a447-408d-a46c-ce76b35b9c24
 classification: ''
 constellation: PUP
@@ -1136,3 +1465,50 @@ name: NGC 2566 (HST image)
 ra_hr: 8.312755390842172
 thumbnail: https://data1.wwtassets.org/feeds/jwst/potm2412c/thumb.jpg
 zoom_level: 0.3821280952499354
+---
+_uuid: 71741e9d-7381-47ca-bbde-4db6f9a02c6b
+classification: ''
+constellation: UMA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 58.728825200723634
+description: The very unusual galaxy NGC 2685, also known as the Helix Galaxy, is
+  located about 40 million light-years away in the constellation Ursa Major. This
+  image was captured by the Gemini North telescope, one half of the International
+  Gemini Observatory, operated by NSF NOIRLab which is funded by the U.S. National
+  Science Foundation. NGC 2685 is a peculiar lenticular galaxy known as a polar ring
+  galaxy. A ring of gas, stars, and dust orbits NGC 2685 perpendicular to the flat
+  plane of the host galaxy. This odd crossing of planes is believed to be evidence
+  of galaxy interactions, mergers, or tidal accretion events. Current research suggests
+  that the present structure of NGC 2685 was formed when it captured material from
+  another galaxy, which was strung out into an encircling ring. This galaxy is one
+  of our closest known polar ring galaxies and is therefore one of the easiest of
+  its kind to study. Owing to its odd characteristics, it has been called the most
+  unusual galaxy in the Shapley-Ames Catalog of Bright Galaxies and appears as number
+  336 in astronomer Halton Arp's Atlas of Peculiar Galaxies. You can see another view
+  of this galaxy, captured in 1998 by the WIYN 0.9-meter Telescope of Kitt Peak National
+  Observatory, a Program of NSF NOIRLab, here.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2415a/L{1}X{2}Y{3}.png
+name: 'NGC 2685: A Helix in the Sky'
+ra_hr: 8.926809118651125
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2415a/thumb.jpg
+zoom_level: 0.8334891676673877
+---
+_uuid: 8d01ae3f-fa9b-4f1d-9f70-69d015f21b3f
+classification: ''
+constellation: VEL
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -43.86745651465135
+description: The knotted young stellar jet, MHO 1502, is captured in this image from
+  Chile by the international Gemini Observatory, a Program of NSF's NOIRLab. The stellar
+  jet is embedded in an area of star formation known as an HII region. The bipolar
+  jet is composed of a chain of knots, suggesting that its source, thought to be two
+  stars, has been intermittently emitting material. These crystal-clear observations
+  were made using the Gemini South telescope’s adaptive optics system, which helps
+  astronomers counteract the blurring effects of atmospheric turbulence.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2204c/L{1}X{2}Y{3}.png
+name: Young stellar jet MHO 1502
+ra_hr: 8.759468415489305
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2204c/thumb.jpg
+zoom_level: 0.2261616767035058

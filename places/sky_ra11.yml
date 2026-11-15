@@ -2358,6 +2358,716 @@ ra_hr: 11.6699656
 thumbnail: http://wwtfiles.blob.core.windows.net/vamp/thumb-Wise-WISE2010-046.jpg
 zoom_level: 6.25777769088778
 ---
+_uuid: 10d09476-366e-484f-8c8e-d7d072da030b
+classification: ''
+constellation: CAR
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -60.93641035387383
+description: 'Scientists using NASA’s IXPE (Imaging X-ray Polarimetry Explorer) directly
+  measured the magnetic fields of PSR J1101−6101, a pulsar located within what is
+  often referred to as the “Lighthouse” Nebula, for the first time.
+
+
+  A pulsar is a type of neutron star — the dense core leftover when a massive star
+  collapses — with a strong magnetic field that spins incredibly fast. The pulsar
+  at the center of the Lighthouse nebula is rotating at 16 times per second.'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/chandra/2026-lighthouse/L{1}X{2}Y{3}.png
+name: Lighthouse Pulsar (PSR J1101-6101)
+ra_hr: 11.038189852964585
+thumbnail: https://data1.wwtassets.org/feeds/chandra/2026-lighthouse/thumb.jpg
+zoom_level: 3.138247728052824
+---
+_uuid: fe6c706d-3e52-4cd2-8e9c-fe4f8b36f8c6
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.68694239500773
+description: This image shows the HH 909 A object in the Chamaeleon constellation.
+  New stars are born in the colourful clouds of gas and dust seen here. The infrared
+  observations underlying this image reveal new details in the star-forming regions
+  that are usually obscured by the clouds of dust. The image was produced with data
+  collected by the VIRCAM instrument, which is attached to the VISTA telescope at
+  ESO’s Paranal Observatory in Chile. The observations were done as part of the VISIONS
+  survey, which will allow astronomers to better understand how stars form in these
+  dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307d/L{1}X{2}Y{3}.png
+name: An infrared view of the HH 909 A object in Chamaeleon
+ra_hr: 11.138902814135927
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307d/thumb.jpg
+zoom_level: 2.2233052061865273
+---
+_uuid: 7f59e3fa-9458-4228-aa15-3429264d6e1c
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.38696799241603
+description: This image shows the IRAS 11051-7706 object in the Chamaeleon constellation.
+  New stars are born in the colourful clouds of gas and dust seen here. The infrared
+  observations underlying the image reveal new details in the star-forming regions
+  that are usually obscured by the clouds of dust. The image was produced with data
+  collected by the VIRCAM instrument, which is attached to the VISTA telescope at
+  ESO’s Paranal Observatory in Chile. The observations were done as part of the VISIONS
+  survey, which will allow astronomers to better understand how stars form in these
+  dust-enshrouded regions.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2307e/L{1}X{2}Y{3}.png
+name: An infrared view of the IRAS 11051-7706 object in Chamaeleon
+ra_hr: 11.113787021037716
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2307e/thumb.jpg
+zoom_level: 1.339872409941569
+---
+_uuid: 2f99c960-9b52-41c3-a8e3-825dd5faf2ef
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -76.4423888
+description: This infrared image, taken with ESO’s Visible and Infrared Telescope
+  for Astronomy (VISTA) shows the position in the sky of the rogue planet Cha 1107-7626.
+  The planet is a dot located exactly at the centre of the frame.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/eso2516b/L{1}X{2}Y{3}.png
+name: Location in the sky of the rogue planet Cha 1107-7626 (infrared)
+ra_hr: 11.1188
+thumbnail: https://data1.wwtassets.org/feeds/eso/eso2516b/thumb.jpg
+zoom_level: 9.044253989365181
+---
+_uuid: 91232a65-9d14-43bb-9761-1298c021ee9e
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.98128805964327
+description: This image of the nearby galaxy NGC 3627, taken with the Atacama Large
+  Millimeter/submillimeter Array (ALMA), in which ESO is a partner, shows the distribution
+  of cold clouds of molecular gas, which provide the raw material from which stars
+  form. NGC 3627 is a spiral galaxy located approximately 31 million light-years from
+  Earth in the constellation Leo. The images were taken as part of the Physics at
+  High Angular resolution in Nearby GalaxieS (PHANGS) project, which is making high-resolution
+  observations of nearby galaxies with telescopes operating across the electromagnetic
+  spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-alma-cc/L{1}X{2}Y{3}.png
+name: The NGC 3627 galaxy as seen with ALMA
+ra_hr: 11.337585254345397
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-alma-cc/thumb.jpg
+zoom_level: 0.45158003833572247
+---
+_uuid: edacd103-168f-47e2-bf4e-159af50249da
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.981328188542399
+description: This image of the nearby galaxy NGC 3627, taken with the Multi-Unit Spectroscopic
+  Explorer (MUSE) on ESO’s Very Large Telescope (VLT), combines green, red and infrared
+  filters to reveal the distribution of stars. NGC 3627 is a spiral galaxy located
+  approximately 31 million light-years from Earth in the constellation Leo. The images
+  were taken as part of the Physics at High Angular resolution in Nearby GalaxieS
+  (PHANGS) project, which is making high-resolution observations of nearby galaxies
+  with telescopes operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-cc/L{1}X{2}Y{3}.png
+name: The NGC 3627 galaxy as seen with MUSE on ESO’s VLT
+ra_hr: 11.337588381138731
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-cc/thumb.jpg
+zoom_level: 0.3395468048318643
+---
+_uuid: 92441531-732e-4382-b55c-beefb625e45d
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 12.981384663884413
+description: This image of the nearby galaxy NGC 3627 was taken with the Multi-Unit
+  Spectroscopic Explorer (MUSE) on ESO’s Very Large Telescope (VLT). The bright reddish
+  glows map warm clouds of hydrogen (Hα), marking the presence of newly born stars,
+  while the bluish regions (a combination of green, red and infrared filters) reveal
+  the distribution of slightly older stars. NGC 3627 is a spiral galaxy located approximately
+  31 million light-years from Earth in the constellation Leo. The images were taken
+  as part of the Physics at High Angular resolution in Nearby GalaxieS (PHANGS) project,
+  which is making high-resolution observations of nearby galaxies with telescopes
+  operating across the electromagnetic spectrum.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-ha/L{1}X{2}Y{3}.png
+name: Warm gas clouds and stars in NGC 3627 mapped with MUSE on ESO’s VLT
+ra_hr: 11.337588226659078
+thumbnail: https://data1.wwtassets.org/feeds/eso/ngc3627-muse-ha/thumb.jpg
+zoom_level: 0.339167748358937
+---
+_uuid: e14672cb-a792-416a-bc75-6218c2afecaf
+classification: ''
+constellation: MUS
+data_set_type: Sky
+dec_deg: -64.84257433150661
+description: 'Hubble has used microlensing to measure the mass of a white dwarf star.
+  The dwarf, called LAWD 37, is a burned-out star in the centre of this NASA/ESA Hubble
+  Space Telescope image. Though its nuclear fusion furnace has shut down, trapped
+  heat is sizzling on the surface at roughly 100 000 degrees Celsius, causing the
+  stellar remnant to glow fiercely. The white dwarf has a ‘spike’ because it is so
+  bright that the light ‘bled’ into the Hubble camera’s CCD detector. This interfered
+  with one of the observing dates for measuring that background star’s position on
+  the sky. [Image Description: A single bright blue star dominates the scene against
+  a dark background with many small stars visible in the distance.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/heic2301a/L{1}X{2}Y{3}.png
+name: LAWD 37
+ra_hr: 11.764043401759016
+thumbnail: https://data1.wwtassets.org/feeds/hst/heic2301a/thumb.jpg
+zoom_level: 0.1627663025099137
+---
+_uuid: 70539e3e-5491-4ef8-b1dc-50dc5052a407
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -31.67082447603857
+description: 'Tiny galaxy HIPASS J1131–31 peeks out from behind the glare of star
+  TYC 7215-199-1, a Milky Way star positioned between Hubble and the galaxy. One hundred
+  years ago, this fast-moving foreground star would have appeared directly in the
+  line of sight, and the "Peekaboo" galaxy would not have been detectable at all.
+  With the resolution and sensitivity of the NASA/ESA Hubble Space Telescope, astronomers
+  resolved 60 stars in the galaxy and were struck by the fact that they all appear
+  to be relatively young—a few billion years old or younger. This is very unusual
+  in the nearby universe, which has had about 13 billion years of cosmic history to
+  develop. Peekaboo''s stars indicate that it is one of the youngest and least-chemically-enriched
+  galaxies ever detected in the local universe. The small galaxy presents astronomers
+  with a unique opportunity for future in-depth analysis of a chemical environment
+  typically only found in the very distant, early universe, where detailed study of
+  individual stars'' chemical makeup is not possible. Peekaboo is, in effect, a direct
+  portal into the past, allowing us to discover what the universe was like near the
+  dawn of time. [Image Description: A large bright star is centered, with four long
+  rays extending in an X shape. Between the rays on the right is a small blue peanut-shaped
+  galaxy with some bright spots. Smaller similar stars and orange background galaxies
+  fill image.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/opo22051a/L{1}X{2}Y{3}.png
+name: Tiny, Hidden Galaxy Provides A Peek Into The Past
+ra_hr: 11.5262117176502
+thumbnail: https://data1.wwtassets.org/feeds/hst/opo22051a/thumb.jpg
+zoom_level: 0.3104792743219859
+---
+_uuid: 1891b94d-bc1e-4777-9b00-9e42222cedeb
+classification: ''
+constellation: HYA
+data_set_type: Sky
+dec_deg: -30.30637526808407
+description: The NASA/ESA Hubble Space Telescope sees galaxies of all shapes, sizes,
+  brightnesses, and orientations in the cosmos. Sometimes, the telescope gazes at
+  a galaxy oriented sideways — as shown here. The spiral galaxy featured in this Picture
+  of the Week is called NGC 3717, and it is located about 60 million light-years away
+  in the constellation of Hydra (The Sea Serpent). Seeing a spiral almost in profile,
+  as Hubble has here, can provide a vivid sense of its three-dimensional shape. Through
+  most of their expanse, spiral galaxies are shaped like a thin pancake. At their
+  cores, though, they have bright, spherical, star-filled bulges that extend above
+  and below this disc, giving these galaxies a shape somewhat like that of a flying
+  saucer when they are seen edgeon. NGC 3717 is not captured perfectly edge-on in
+  this image; the nearer part of the galaxy is tilted ever so slightly down, and the
+  far side tilted up. This angle affords a view across the disc and the central bulge
+  (of which only one side is visible).
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1940a/L{1}X{2}Y{3}.png
+name: A Spiral in Profile
+ra_hr: 11.52546176682793
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1940a/thumb.jpg
+zoom_level: 0.4257587837438815
+---
+_uuid: a1d1cb93-34b4-4c5b-939c-bc28139ca5de
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -37.99644073256482
+description: For this Picture of the Week, the NASA/ESA Hubble Space Telescope turned
+  its powerful eye towards an emission line galaxy called NGC 3749. When astronomers
+  explore the contents and constituent parts of a galaxy somewhere in the Universe,
+  they use various techniques and tools. One of these is to spread out the incoming
+  light from that galaxy into a spectrum and explore its properties. This is done
+  in much the same way as a glass prism spreads white light into its constituent wavelengths
+  to create a rainbow. By hunting for specific signs of emission from various elements
+  within a galaxy’s spectrum of light — so-called emission lines — or, conversely,
+  the signs of absorption from other elements — so-called absorption lines — astronomers
+  can start to deduce what might be happening within. If a galaxy’s spectrum shows
+  many absorption lines and few emission lines, this suggests that its star-forming
+  material has been depleted and that its stars are mainly old, while the opposite
+  suggests it might be bursting with star formation and energetic stellar newborns.
+  This technique known as spectroscopy, can tell us about a galaxy’s type and composition,
+  the density and temperature of any emitting gas, the star formation rate, or how
+  massive the galaxy’s central black hole might be. While not all galaxies display
+  strong emission lines, NGC 3749 does! It lies over 135 million light-years away,
+  and is moderately luminous. The galaxy has been used a “control” in studies of especially
+  active and luminous galaxies — those with centres known as active galactic nuclei,
+  which emit copious amounts of intense radiation. In comparison to these active cousins,
+  NGC 3749 is classified as inactive, and has no known signs of nuclear activity.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw1946a/L{1}X{2}Y{3}.png
+name: Emission Versus Absorption
+ra_hr: 11.597840842133524
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw1946a/thumb.jpg
+zoom_level: 0.4258433692346022
+---
+_uuid: 21ad9be2-4b4e-49b1-9f30-cb3e1ecd15fb
+classification: ''
+constellation: CRT
+data_set_type: Sky
+dec_deg: -16.854610606205224
+description: The barred spiral galaxy NGC 3887, seen here as viewed by the Wide Field
+  Camera 3 aboard the NASA/ESA Hubble Space Telescope, lies over 60 million light-years
+  away from us in the southern constellation of Crater (The Cup); it was discovered
+  on 31 December 1785 by the German/British astronomer William Herschel. Its orientation
+  to us, while not exactly face-on, allows us to see NGC 3887’s spiral arms and central
+  bulge in detail, making it an ideal target for studying a spiral galaxy’s winding
+  arms and the stars within them. The very existence of spiral arms was for a long
+  time a problem for astronomers. The arms emanate from a spinning core and should
+  therefore become wound up ever more tightly, causing them to eventually disappear
+  after a (cosmologically) short amount of time. It was only in the 1960s that astronomers
+  came up with the solution to this winding problem; rather than behaving like rigid
+  structures, spiral arms are in fact areas of greater density in a galaxy’s disc,
+  with dynamics similar to those of a traffic jam. The density of cars moving through
+  a traffic jam increases at the centre of the jam, where they move more slowly. Spiral
+  arms function in a similar way; as gas and dust move through the density waves they
+  become compressed and linger, before moving out of them again.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2009a/L{1}X{2}Y{3}.png
+name: A Galactic Traffic Jam
+ra_hr: 11.784601581585203
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2009a/thumb.jpg
+zoom_level: 0.11327837829881476
+---
+_uuid: da76cdbb-a962-48a0-a133-90cdbfba2e8a
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 48.31818524112844
+description: In the forests of the night lies a barred spiral galaxy called NGC 3583,
+  imaged here by the NASA/ESA Hubble Space Telescope. This is a barred spiral galaxy
+  with two arms that twist out into the Universe. This galaxy is located 98 million
+  light-years away from the Milky Way. Two supernovae exploded in this galaxy, one
+  in 1975 and another, more recently, in 2015. There are a few different ways that
+  supernova can form. In the case of these two supernovae, the explosions evolved
+  from two independent binary star systems in which the stellar remnant of a Sun-like
+  star, known as a white dwarf, was collecting material from its companion star. Feeding
+  off of its partner, the white dwarf gorged on the material until it reached a maximum
+  mass. At this point, the star collapsed inward before exploding outward in a brilliant
+  supernova. Two of these events were spotted in NGC 3583, and though not visible
+  in this picture of the week, we can still marvel at the galaxy’s fearful symmetry.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2018a/L{1}X{2}Y{3}.png
+name: Galaxy Galaxy, Burning Bright!
+ra_hr: 11.236336482256304
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2018a/thumb.jpg
+zoom_level: 0.40839481521314963
+---
+_uuid: 4f1d886e-fe42-42c9-bd60-84c6756ebd7d
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 59.43261998976277
+description: Far away in the Ursa Major constellation is a swirling galaxy that would
+  not look out of place on a coffee made by a starry-eyed barista. NGC 3895 is a barred
+  spiral galaxy that was first spotted by William Herschel in 1790 and was later observed
+  by the NASA/ESA Hubble Space Telescope. Hubble's orbit high above the Earth's distorting
+  atmosphere allows astronomers to make the very high resolution observations that
+  are essential to opening new windows on planets, stars and galaxies — such as this
+  beautiful view of NGC 3895. The telescope is positioned approximately 570 km above
+  the ground, where it whirls around Earth at 28 000 kilometres per hour and takes
+  96 minutes to complete one orbit.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2021a/L{1}X{2}Y{3}.png
+name: One Large Stellar Latte To Go
+ra_hr: 11.817779913205271
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2021a/thumb.jpg
+zoom_level: 0.11389092335293138
+---
+_uuid: 88f87bd6-d7d9-4862-b90a-3bf2a507581f
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -37.44785355800641
+description: In this image, the NASA/ESA Hubble Space Telescope captures a side-on
+  view of NGC 3568, a barred spiral galaxy roughly 57 million light-years from the
+  Milky Way in the constellation Centaurus. In 2014 the light from a supernova explosion
+  in NGC 3568 reached Earth — a sudden flare of light caused by the titanic explosion
+  accompanying the death of a massive star. Whilst most astronomical discoveries are
+  the work of teams of professional astronomers, this supernova was discovered by
+  amateur astronomers from the Backyard Observatory Supernova Search in New Zealand.
+  Dedicated amateur astronomers often make intriguing discoveries — particularly of
+  fleeting astronomical phenomena such as supernovae. This Hubble observation comes
+  from a hoard of data built up to pave the way for future science with the upcoming
+  NASA/ESA/CSA James Webb Space Telescope. By combining ground-based observations
+  with data from Hubble’s Advanced Camera for Surveys and Wide Field Camera 3, astronomers
+  have built a treasure trove of data on the connections between young stars and the
+  clouds of cold gas in which they form. One of Webb’s key science goals is to explore
+  the life cycle of stars — particularly how and where stars are born. Since Webb
+  observes at infrared wavelengths, it will be able to peer through the clouds of
+  gas and dust in stellar nurseries and observe the fledgling stars within. Webb’s
+  superb sensitivity will even allow astronomers to directly investigate faint protostellar
+  cores — the earliest stages of star birth.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2150a/L{1}X{2}Y{3}.png
+name: Hubble Gazes Sidelong at NGC 3568
+ra_hr: 11.180433590917533
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2150a/thumb.jpg
+zoom_level: 0.47330449436569766
+---
+_uuid: a17de955-8290-4dd9-a6c3-47f5cebaa4b2
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 58.53680193254471
+description: The massive galaxy cluster Abell 1351 is captured in this image by the
+  NASA/ESA Hubble Space Telescope’s Wide Field Camera 3 and Advanced Camera for Surveys.
+  This galaxy cluster lies in the constellation Ursa Major in the northern hemisphere.
+  This image is filled with streaks of light, which are actually the images of distant
+  galaxies. The streaks are the result of gravitational lensing, an astrophysical
+  phenomenon that occurs when a massive celestial body such as a galaxy cluster distorts
+  spacetime sufficiently strongly to affect the path of light passing through it —
+  almost as if the light were passing through a gigantic lens. Gravitational lensing
+  comes in two varieties — strong and weak — and both can give astronomers an insight
+  into the distribution of mass within a lensing galaxy cluster such as Abell 1351.
+  This observation is part of an astronomical album comprising snapshots of some of
+  the most massive galaxy clusters. This menagerie of massive clusters demonstrates
+  interesting astrophysical phenomena such as strong gravitational lensing, as well
+  as showcasing spectacular examples of violent galaxy evolution. To obtain this astronomical
+  album, astronomers proposed a Snapshot Program to be slotted into Hubble’s packed
+  observing schedule. These Snapshot Programs are lists of separate, relatively short
+  exposures which can fit into gaps between longer Hubble observations. Having a large
+  pool of Snapshot candidates to dip into allows Hubble to use every second of observing
+  time possible and to maximise the scientific output of the observatory. Links Video
+  of An Snapshot of a Massive Cluster
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2225a/L{1}X{2}Y{3}.png
+name: Snapshot of a Massive Cluster
+ra_hr: 11.70686507665561
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2225a/thumb.jpg
+zoom_level: 0.3491648542461095
+---
+_uuid: 66c9f522-45fa-4ccf-84b6-0e927c8b2cca
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 36.006324400563706
+description: Two overlapping spiral galaxies are pictured in this image from the NASA/ESA
+  Hubble Space Telescope. The two galaxies, which have the uninspiring names SDSS
+  J115331 and LEDA 2073461, lie more than a billion light-years from Earth. Despite
+  appearing to collide in this image, the alignment of the two galaxies is likely
+  just by chance — the two are not actually interacting. While these two galaxies
+  might simply be ships that pass in the night, Hubble has captured a dazzling array
+  of interacting galaxies in the past. This image is one of many Hubble observations
+  delving into highlights of the Galaxy Zoo project. Originally established in 2007,
+  the Galaxy Zoo project and its successors are massive citizen science projects which
+  crowdsource galaxy classifications from a pool of hundreds of thousands of volunteers.
+  These volunteers classify galaxies imaged by robotic telescopes and are often the
+  first to ever set eyes on an astronomical object. Over the course of the original
+  Galaxy Zoo project, volunteers discovered a menagerie of weird and wonderful galaxies
+  such as unusual 3-armed spiral galaxies and colliding ring galaxies. The astronomers
+  coordinating the project applied for Hubble time to observe the most unusual inhabitants
+  of the Galaxy Zoo — but true to the project’s crowdsourced roots, the list of targets
+  was chosen by a public vote. Links Video of A Galactic Overlap
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2236a/L{1}X{2}Y{3}.png
+name: Galactic Overlap
+ra_hr: 11.892084697453027
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2236a/thumb.jpg
+zoom_level: 0.2784710902861226
+---
+_uuid: 36c20fe9-ad39-4abc-b3e5-3f5ea2cee5b9
+classification: ''
+constellation: VIR
+data_set_type: Sky
+dec_deg: -3.852529114077483
+description: 'This image from the NASA/ESA Hubble Space Telescope shows two of the
+  galaxies in the galactic triplet Arp 248 — also known as Wild''s Triplet — which
+  lies around 200 million light-years from Earth in the constellation Virgo. The two
+  large spiral galaxies visible in this image — which flank a smaller, unrelated background
+  spiral galaxy — seem to be connected by a luminous bridge. This elongated stream
+  of stars and interstellar dust is known as a tidal tail, and it was formed by the
+  mutual gravitational attraction of the two foreground galaxies. This observation
+  comes from a project which delves into two rogues’ galleries of weird and wonderful
+  galaxies: A Catalogue Of Southern Peculiar Galaxies And Associations, compiled by
+  astronomers Halton Arp and Barry Madore, and the Atlas of Peculiar Galaxies, compiled
+  by Halton Arp. Each collection contains a menagerie of spectacularly peculiar galaxies,
+  including interacting galaxies such as Arp 248, as well as one- or three-armed spiral
+  galaxies, galaxies with shell-like structures, and a variety of other space oddities.
+  Hubble used its Advanced Camera for Surveys to scour this menagerie of eccentric
+  galaxies in search of promising candidates for future observations with the NASA/ESA/CSA
+  James Webb Space Telescope, the Atacama Large Millimeter/submillimeter Array, and
+  Hubble itself. With such a wealth of astronomical objects to study in the night
+  sky, projects such as this, which guide future observations, are a valuable investment
+  of observing time. As well as the scientific merits of observing these weird and
+  wonderful galaxies, they were also — very unusually — selected as Hubble targets
+  because of their visual appeal to the general public! [Image description: Two spiral
+  galaxies are viewed almost face-on; they are a mix of pale blue and yellow in colour,
+  crossed by strands of dark red dust. They lie in the upper-left and lower-right
+  corners. A long, faint streak of pale blue joins them, extending from an arm of
+  one galaxy and crossing the field diagonally. A small spiral galaxy, orange in colour,
+  is visible edge-on, left of the lower galaxy.] Links Video of Hubble Inspects A
+  Pair of Space Oddities'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2244a/L{1}X{2}Y{3}.png
+name: Hubble Inspects A Pair of Space Oddities
+ra_hr: 11.777999678833986
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2244a/thumb.jpg
+zoom_level: 0.5670837823061241
+---
+_uuid: 7b055caf-4819-4d79-b75f-8bb69b673f3f
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 28.55136455738884
+description: 'This Picture of the Week prominently features two galaxies: NGC 3558
+  in the lower left, and LEDA 83465 in the upper right. Both galaxies lie roughly
+  450 million light years from Earth. The two galaxies are separated from one another
+  by a distance of roughly 150 000 light years, which might sound vast, until we consider
+  that our nearest galactic neighbour — the Andromeda galaxy — is a whopping 2.5 million
+  light years distant from the Milky Way galaxy. In galactic terms, the two galaxies
+  pictured here are practically on top of one another. This is because they belong
+  to a crowded and chaotic galaxy cluster known as Abell 1185, which is packed with
+  galaxies that are interacting with one another via gravity. These galactic interactions
+  have sometimes led to dramatic results, such as galaxies being torn apart completely.
+  This fate has not befallen NGC 3558, which currently retains its integrity as both
+  an elliptical galaxy and a low-ionisation nuclear emission-line region, or LINER.
+  In fact, it probably attained its present form by devouring smaller galaxies in
+  the cluster — galaxies much like LEDA 83465. LINERs are a particular type of galactic
+  nucleus or core, and are distinguished by the chemical fingerprints written into
+  the light that they emit. As their name suggests, LINERs emit light which suggests
+  that many of the atoms and molecules within these galactic cores have either been
+  weakly ionised or not ionised at all. Ionisation is the process by which atoms or
+  molecules lose or gain electrons. In galaxies, it is driven by a variety of processes
+  — from shockwaves travelling through galaxies, to radiation from massive stars or
+  from hot gas in accretion discs. In the case of LINERs, this means that many of
+  the atoms and molecules within the galaxies have lost either a single electron,
+  or have retained all their electrons. The mechanism that drives this weak ionisation
+  in LINERs such as NGC 3558 is still debated amongst astronomers. [Image Description:
+  Two galaxies are prominent among many much smaller background galaxies in the darkness
+  of space. The larger galaxy is an elliptical galaxy, radiating light in a perfectly
+  even sphere from a bright centre. The smaller galaxy is a barred spiral, with arms
+  that are wispy like fog connected to a bar crossing the galaxy’s shining core. The
+  shape of the arms makes the smaller galaxy notably squarish.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2341a/L{1}X{2}Y{3}.png
+name: LINER on collision course
+ra_hr: 11.18199430519298
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2341a/thumb.jpg
+zoom_level: 0.5402257933402532
+---
+_uuid: 052e9350-82cd-4fd7-9ba1-75f1b6f42ca8
+classification: ''
+constellation: CEN
+data_set_type: Sky
+dec_deg: -37.74169057952644
+description: 'This image features NGC 3783, a bright barred spiral galaxy about 130
+  million light-years from Earth, that also lends its name to the eponymous NGC 3783
+  galaxy group. Like galaxy clusters, galaxy groups are aggregates of gravitationally
+  bound galaxies. Galaxy groups, however, are less massive and contain fewer members
+  than galaxy clusters do: where galaxy clusters can contain hundreds or even thousands
+  of constituent galaxies, galaxy groups do not typically include more than 50. The
+  Milky Way is actually part of a galaxy group, known as the Local Group, which contains
+  two other large galaxies (Andromeda and the Triangulum galaxy), as well as several
+  dozen satellite and dwarf galaxies. The NGC 3783 galaxy group, meanwhile, contains
+  47 galaxies. It also seems to be at a fairly early stage of its evolution, making
+  it an interesting object of study. Whilst the focus of this image is the spiral
+  galaxy NGC 3783, the eye is equally drawn to the very bright object in the lower
+  right part of this image. This is the star HD 101274. The perspective in this image
+  makes the star and the galaxy look like close companions, but this is an illusion.
+  HD 101274 lies only about 1530 light-years from Earth, meaning it is about 85 thousand
+  times closer than NGC 3783. This explains how a single star can appear to outshine
+  an entire galaxy! NGC 3783 is a type-1 Seyfert galaxy, which is a galaxy with a
+  bright central region — so it’s particularly bright itself, as far as galaxies go.
+  In this image it is recorded by Hubble in incredible detail, from its glowing central
+  bar to its narrow, winding arms and the dust threaded through them, thanks to five
+  separate images taken in different wavelengths of light. In fact, the galactic centre
+  is bright enough to Hubble that it exhibits diffraction spikes, normally only seen
+  on stars such as HD 101274. [Image Description: A spiral galaxy, seen face-on to
+  the viewer. The bright centre of the galaxy is crossed by a glowing bar, and it
+  is surrounded by tightly-wound spiral arms, forming a circular shape with relatively
+  clear edges. Faraway galaxies can be seen around it, along with a few bright stars,
+  on a dark background. One star to the right of the galaxy is very large and extremely
+  bright with long diffraction spikes around it.]'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2416a/L{1}X{2}Y{3}.png
+name: The eponymous NGC 3783
+ra_hr: 11.65054675431726
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2416a/thumb.jpg
+zoom_level: 0.44674136011966503
+---
+_uuid: d690e7e1-baef-4949-99d4-5650eca4120c
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 11.471763926116243
+description: 'Measuring the distance to truly remote objects like galaxies, quasars
+  and galaxy clusters is a crucial task in astrophysics, particularly when it comes
+  to studying the early Universe, but it’s a difficult one. Only in the case of a
+  few nearby objects like the Sun, planets and some nearby stars can we measure their
+  distances directly. Beyond that, various indirect methods need to be used; one of
+  the most important is by examining Type Ia supernovae, and this is where the NASA/ESA
+  Hubble Space Telescope comes in. NGC 3810, the galaxy featured in this image, was
+  the host of a Type Ia supernova in 2022. In early 2023 Hubble focused on this and
+  a number of other galaxies to closely examine recent Type Ia supernovae. This kind
+  of supernova results from a white dwarf exploding, and they all have a very consistent
+  brightness. That allows them to be used to measure distances: we know how bright
+  a Type Ia supernova should be, so we can tell how far away it must be from how dim
+  it appears. One uncertainty in this method is that intergalactic dust in between
+  Earth and a supernova blocks some of its light. How do you know how much of the
+  reduction in light is caused by distance, and how much by dust? With the help of
+  Hubble, there’s a clever workaround: take images of the same Type Ia supernovae
+  in ultraviolet light, which is almost completely blocked by dust, and in infrared
+  light, which passes through dust almost unaffected. By carefully noting how much
+  light comes through at each wavelength, the relationship between supernova brightness
+  and distance can be calibrated to account for dust. Hubble can observe both these
+  wavelengths of light in great detail with the same instrument. That makes it the
+  perfect tool for this experiment, and indeed, some of the data used to make this
+  beautiful image of NGC 3810 were focused on its 2022 supernova. You can see it as
+  a point of light just below the galactic nucleus, or in the annotated image here.
+  There are many ways to measure cosmic distances; because Type Ia supernovae are
+  so bright, they are one of the most useful and accurate tools, when they’re spotted.
+  Many other methods must be used as well, either as an independent check against
+  other distance measurements or to measure at much closer or farther distances. One
+  such method that also works for galaxies is comparing their rotation speed to their
+  brightness; based on that method, NGC 3810 is found to be 50 million light-years
+  from Earth. [Image Description: A spiral galaxy seen almost face-on. Large spiral
+  arms whirl out from its centre, filling the scene. They glow faintly blue from the
+  stars within, with some small bright patches of blue and pink marking areas of star
+  formation. They are overlaid with thin filaments of dark reddish dust that block
+  light. The galaxy’s centre shines brightly white.] Links NGC 3810 with annotated
+  supernova Pan of NGC 3810'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2428a/L{1}X{2}Y{3}.png
+name: The difference between distance and dust
+ra_hr: 11.682985706080588
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2428a/thumb.jpg
+zoom_level: 0.34810910411024276
+---
+_uuid: 28af673a-47f4-4483-b2f2-2eef880afab1
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 14.787624342242012
+description: 'The spiral galaxy NGC 3596 is on display in this NASA/ESA Hubble Space
+  Telescope Picture of the Week, which incorporates six different wavelengths of light.
+  NGC 3596 is situated 90 million light-years from Earth in the constellation Leo.
+  The galaxy was discovered in 1784 by astronomer William Herschel, the namesake of
+  ESA’s Herschel Space Observatory. NGC 3596 appears almost perfectly face-on when
+  viewed from Earth, showcasing the galaxy’s neatly wound spiral arms. The bright
+  arms mark where the galaxy’s stars, gas and dust are concentrated. Star formation
+  is also most active in a galaxy’s spiral arms, as shown by the brilliant pink star-forming
+  regions and young blue stars tracing NGC 3596’s arms in this image. What causes
+  these spiral arms to form? It’s a surprisingly difficult question to answer, partly
+  because of the remarkable diversity of spiral galaxies. Some have clear spiral arms,
+  while others have patchy, feathery arms. Some have prominent bars across their centres,
+  while others have compact, circular nuclei. Some have close neighbours, while others
+  are isolated. Early ideas of how spiral arms formed were stumped by what’s called
+  the ‘winding problem’. If a galaxy’s spiral arms are coherent structures, the arms
+  would be wound tighter and tighter as the galaxy spins, until the arms are no longer
+  visible. Now, researchers believe that spiral arms represent a pattern of high-density
+  and low-density areas rather than a physical structure. As stars, gas and dust orbit
+  within a galaxy’s disc, they pass in and out of the spiral arms. Much like cars
+  moving through a traffic jam, these materials slow down and bunch up as they enter
+  a spiral arm, before emerging and continuing their journey through the galaxy. [Image
+  Description: A spiral galaxy viewed face-on, with a slightly oval-shaped disc. The
+  centre is a bright white spot surrounded by a golden glow. Two spiral arms extend
+  out from the centre, wrapping around the galaxy and broadening out to form the thick
+  outer edge of the disc. Thin reddish strands of dust and bright pink spots follow
+  the arms through the disc. Faint strands of stars extend from the arms’ tips, out
+  beyond the disc.] Links Pan video: NGC 3596'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2518a/L{1}X{2}Y{3}.png
+name: Face to face with a spiral’s arms
+ra_hr: 11.25170342626546
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2518a/thumb.jpg
+zoom_level: 0.4241526389305952
+---
+_uuid: 6c6ef33d-5dbf-48ff-b85e-68bb3cd9f0fa
+classification: ''
+constellation: CRT
+data_set_type: Sky
+dec_deg: -23.087224216932555
+description: 'The stately and inclined spiral galaxy NGC 3511 is the subject of this
+  NASA/ESA Hubble Space Telescope Picture of the Week. The galaxy is located 43 million
+  light-years away in the constellation Crater (The Cup). From Hubble’s vantage point
+  in orbit around Earth, NGC 3511 is tilted by about 70 degrees, intermediate between
+  face-on galaxies that display picture-perfect spiral arms and edge-on galaxies that
+  reveal only their dense, flattened discs. Astronomers are studying NGC 3511 as part
+  of a survey of the star formation cycle in nearby galaxies. For this observing programme,
+  Hubble will record the appearance of 55 local galaxies using five filters that allow
+  in different wavelengths, or colours, of light. One of these filters allows only
+  a specific wavelength of red light to pass through. Giant clouds of hydrogen gas
+  glow in this red colour when energised by ultraviolet light from hot young stars.
+  As this image shows, NGC 3511 contains many of these bright red gas clouds, some
+  of which are curled around clusters of brilliant blue stars. Hubble will help astronomers
+  catalogue and measure the ages of these stars, which are typically less than a few
+  million years old and several times more massive than the Sun. [Image Description:
+  A spiral galaxy in space. It is seen tilted at an angle, as a stormy disc filled
+  with clouds of stars and dust. It is coloured more yellowish in the centre, and
+  bluer out to the edge of the disc, where the ends of curved spiral arms break away
+  from the disc. Spots of red light scattered through the galaxy mark where stars
+  are actively forming. The galaxy is on a black background.] Links Pan video: NGC
+  3511'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2520a/L{1}X{2}Y{3}.png
+name: A spiral so inclined
+ra_hr: 11.056538002967098
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2520a/thumb.jpg
+zoom_level: 0.43702324082730964
+---
+_uuid: 5be122d1-368f-44ca-affe-95e088be74f4
+classification: ''
+constellation: LEO
+data_set_type: Sky
+dec_deg: 18.13577213261808
+description: 'A single member of a galaxy pair takes centre stage in this NASA/ESA
+  Hubble Space Telescope Picture of the Week. This beautiful spiral galaxy is NGC
+  3507, which is situated about 46 million light-years away in the constellation Leo.
+  NGC 3507 is classified as a barred spiral because the galaxy’s sweeping spiral arms
+  emerge from the ends of a central bar of stars rather than the central point of
+  the galaxy. Though pictured solo here, NGC 3507 actually travels the Universe with
+  a galactic partner named NGC 3501 that is located outside the frame. NGC 3501 was
+  featured in a previous Picture of the Week. While NGC 3507 is a quintessential galactic
+  pinwheel, its partner resembles a streak of quicksilver across the sky. Despite
+  looking completely different, both are spiral galaxies, simply seen from different
+  angles. For galaxies that are just a few tens of millions of light-years away, like
+  NGC 3507 and NGC 3501, features like spiral arms, dusty gas clouds, and brilliant
+  star clusters are on full display. More distant galaxies appear less detailed. See
+  if you can spot any faraway galaxies in this image: they tend to be orange or yellow
+  and can be anywhere from circular and starlike to narrow and elongated, with hints
+  of spiral arms. Astronomers use instruments called spectrometers to split the light
+  from these distant galaxies to study the nature of these objects in the early Universe.
+  In addition to these far-flung companions, NGC 3507 is joined by a far nearer object,
+  marked by four spikes of light: a star within the Milky Way, a mere 436 light-years
+  away from Earth. [Image Description: A spiral galaxy seen face-on. Its centre is
+  crossed by a broad bar of light. A glowing spiral arm extends from each end of this
+  bar, both making almost a full turn through the galaxy’s disc before fading out.
+  The arms contain sparkling blue stars, pink spots of star formation, and dark threads
+  of dust that follow both spiral arms into and across the central bar. A foreground
+  star sits atop the galaxy.] Links Pan: NGC 3507'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2521a/L{1}X{2}Y{3}.png
+name: Paired pinwheel seen solo
+ra_hr: 11.057028105715514
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2521a/thumb.jpg
+zoom_level: 0.44228233318678245
+---
+_uuid: 370547d2-8f54-4f72-9d42-f1f2589ec1c9
+classification: ''
+constellation: UMA
+data_set_type: Sky
+dec_deg: 49.237160464848074
+description: 'This glittering blue galaxy and subject of today’s ESA/Hubble Picture
+  of the Week is a blue compact dwarf galaxy called Markarian 178 (Mrk 178). This
+  galaxy, which is substantially smaller than our own Milky Way, lies 13 million light-years
+  away in the constellation Ursa Major (The Great Bear). Mrk 178 is one of more than
+  1500 Markarian galaxies. These galaxies get their name from the Armenian astrophysicist
+  Benjamin Markarian, who compiled a list of galaxies that were surprisingly bright
+  in ultraviolet light. While the bulk of the galaxy is blue owing to an abundance
+  of young, hot stars with little dust shrouding them, Mrk 178 gets a red hue from
+  a collection of massive stars, which are especially concentrated in the brightest,
+  reddish region near the galaxy’s edge. This azure cloud is home to a large number
+  of rare objects called Wolf–Rayet stars. Wolf–Rayet stars are massive stars that
+  are casting off their atmospheres through powerful winds. Because Mrk 178 contains
+  so many Wolf–Rayet stars, the bright emission lines from these stars’ hot stellar
+  winds are etched upon the galaxy’s spectrum. Particularly ionised hydrogen and oxygen
+  appear as a red colour to Mrk 178 in this photo, observed using some of Hubble’s
+  specialised light filters. Massive stars enter the Wolf–Rayet phase just before
+  they collapse into black holes or neutron stars. Because Wolf–Rayet stars last for
+  only a few million years, researchers know that something must have triggered a
+  recent burst of star formation in Mrk 178. At first glance, it’s not clear what
+  could be the cause — Mrk 178 doesn’t seem to have any close galactic neighbours
+  that could have stirred up its gas to form new stars. Astronomers believe that it
+  was triggered by the interaction with a smaller satellite, as revealed by the presence
+  of low surface brightness tidal features detected around Mrk178 in deep imaging
+  acquired with the Large Binocular Telescope. Future high resolution Hubble data
+  will be crucial to study the detailed star formation history of Mrk 178. [Image
+  Description: A pale blue dwarf galaxy seen on the black backdrop of space with some
+  faraway galaxies. The galaxy itself resembles a fuzzy cloud of tightly-packed stars,
+  with a broad halo of stars dispersed around it. Several small, glowing patches of
+  gas are spread across the galaxy’s core, where very hot stars are concentrated.]
+  Links Pan: Mrk 178'
+foreground_image_set_url: https://data1.wwtassets.org/feeds/hst/potw2549a/L{1}X{2}Y{3}.png
+name: Massive stars make their mark
+ra_hr: 11.558353331589931
+thumbnail: https://data1.wwtassets.org/feeds/hst/potw2549a/thumb.jpg
+zoom_level: 0.549545429932208
+---
 _uuid: 0fd9f65e-1b43-4f0a-8ea8-78eeb983d00e
 classification: ''
 constellation: LEO
@@ -2566,3 +3276,101 @@ name: MACS J1149.5+2223
 ra_hr: 11.824843046554728
 thumbnail: https://data1.wwtassets.org/feeds/jwst/weic2522b/thumb.jpg
 zoom_level: 0.4108060722345016
+---
+_uuid: 8b514570-43dd-48de-b38f-fa0dc6e30733
+classification: ''
+constellation: CRT
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -19.899339839934303
+description: This unbarred spiral galaxy in the constellation Crater features a bright
+  central core, where a supermassive black hole lies, surrounded by a disk of hot,
+  young stars and spiral arms laced with streams of dust and more young stars. The
+  irregular, outstretched shape of its arms is likely due to gravitational influence
+  from an encounter with one of its galactic neighbors. NGC 3981 is a member of the
+  NGC 4038 Group of galaxies, which also contains the well-known interacting Antennae
+  Galaxies. The NGC 4038 Group is a small component of the Virgo Supercluster, the
+  immense collection of galaxies that hosts our own Milky Way Galaxy. The unfurling
+  arms of NGC 3981 appear to dissolve right into the cosmos in this image captured
+  by the DOE-built Dark Energy Camera (DECam) on the Víctor M. Blanco 4-meter Telescope
+  at the U.S. National Science Foundation Cerro Tololo Inter-American Observatory
+  (CTIO), a Program of NSF NOIRLab.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/iotw2425a/L{1}X{2}Y{3}.png
+name: The Unfurling Spiral Arms of NGC 3981
+ra_hr: 11.932944580753382
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/iotw2425a/thumb.jpg
+zoom_level: 2.1628526677639788
+---
+_uuid: 26110d4b-8d01-48b4-9c3f-b351133c7b0b
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.72958532324618
+description: This ethereal image, captured from Chile by the international Gemini
+  Observatory, a Program of NSF NOIRLab, looks as delicate as a butterfly’s wing.
+  It is, however, a structure known as the Chamaeleon Infrared Nebula, which is located
+  near the center of the even larger Chamaeleon I dark cloud, one of the nearest star-forming
+  regions in our Milky Way.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2129a/L{1}X{2}Y{3}.png
+name: Chamaeleon Infrared Nebula
+ra_hr: 11.144001498452324
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2129a/thumb.jpg
+zoom_level: 0.8191141291237967
+---
+_uuid: 00558e1c-d304-4186-8cff-dfe955c5fc72
+classification: ''
+constellation: HYA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -28.53534363517546
+description: The symmetrical, onion-like layers of shell galaxy NGC 3923 are showcased
+  in this galaxy-rich image (zoom in here!) taken by the US Department of Energy’s
+  (DOE) Dark Energy Camera mounted on the National Science Foundation’s (NSF) Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab. A nearby, massive galaxy cluster is also captured exhibiting
+  the phenomenon known as gravitational lensing.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2325a/L{1}X{2}Y{3}.png
+name: NGC 3923
+ra_hr: 11.838080643867738
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2325a/thumb.jpg
+zoom_level: 11.726599226426274
+---
+_uuid: a4391c74-f15b-47b5-ac2c-3901ee72024b
+classification: ''
+constellation: LEO
+cxstatus: skip
+data_set_type: Sky
+dec_deg: 13.599346025186804
+description: NGC 3628, sometimes nicknamed the Hamburger Galaxy or Sarah's Galaxy,
+  is an unbarred spiral galaxy about 35 million light-years away in the constellation
+  Leo. Extending to the left of NGC 3628 for around 300,000 light-years is a ‘tidal
+  tail’ — an elongated region of stars that arises as a result of gravitational interaction
+  with another galaxy. Embedded within this tidal tail is the ultra-compact dwarf
+  galaxy known as NGC 3628-UCD1. This image was captured by the US Department of Energy’s
+  (DOE) Dark Energy Camera mounted on the National Science Foundation’s (NSF) Víctor
+  M. Blanco 4-meter Telescope at Cerro Tololo Inter-American Observatory in Chile,
+  a Program of NSF NOIRLab. NGC 3628 was not part of the survey of the Virgo Cluster.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2330c/L{1}X{2}Y{3}.png
+name: NGC 3628 and an example of an ultra-compact dwarf galaxy (no annotations)
+ra_hr: 11.3404790402
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2330c/thumb.jpg
+zoom_level: 4.024926302325486
+---
+_uuid: a2ad9335-3b96-4ae6-85cc-5aabba09fe89
+classification: ''
+constellation: CHA
+cxstatus: skip
+data_set_type: Sky
+dec_deg: -77.55934740734662
+description: The ominous Chamaeleon I dark cloud, the nearest star-forming region
+  to Earth, is captured in this image taken with the 570-megapixel Department of Energy-fabricated
+  Dark Energy Camera mounted on the U.S. National Science Foundation Víctor M. Blanco
+  4-meter Telescope at Cerro Tololo Inter-American Observatory, a Program of NSF NOIRLab.
+  Chamaeleon I is one portion of the larger Chamaeleon Complex and is home to three
+  reflection nebulae that are brightly illuminated by nearby newly formed stars.
+foreground_image_set_url: https://data1.wwtassets.org/feeds/noirlab/noirlab2519a/L{1}X{2}Y{3}.png
+name: The Ominous Chamaeleon I Dark Cloud
+ra_hr: 11.116566769764402
+thumbnail: https://data1.wwtassets.org/feeds/noirlab/noirlab2519a/thumb.jpg
+zoom_level: 13.44956181569765
