@@ -1,0 +1,84 @@
+2018-a1033,legacy:r,0.77,0.77,0.004
+2018-e0102,cda-hips,0.277,0.00,0.005
+2018-imbhs,hips:2mass,1.417,0.17,0.005
+2018-kes75,ps1:r,0.275,0.50,0.005
+2018-m16,press:heic1501a,0.043,nan,nan
+2018-m51,press:heic0506a,0.104,0.03,0.004
+2018-ring,press:opo0415a,0.018,0.02,0.002
+2018-sgra_swarm,cda-hips,0.914,0.02,0.005
+2019-a1758,legacy:r,0.25,0.97,0.005
+2019-coma,legacy:r,3.012,0.88,0.008
+2019-firstlight,press:heic0609a,0.105,0.38,0.006
+2019-gsn069,skyview:DSS2 Red,1.272,0.98,0.005
+2019-ngc3079,press:opo0128b,0.072,0.00,0.008
+2019-ngc6338,legacy:r,0.351,0.83,0.004
+2019-phoenix,legacy:r,0.151,0.00,0.004
+2019-tycho,skyview:DSS2 Red,0.559,0.60,0.005
+2020-a2261,hips:2mass,0.861,0.02,0.002
+2020-a2384,skyview:DSS2 Red,1.806,0.80,0.007
+2020-crab3d,ps1:r,0.296,0.00,0.004
+2020-ic4593,press:opo0733d,0.065,0.00,0.001
+2020-kepler,cda-hips,0.694,0.00,0.005
+2020-sonify2,legacy:r,0.5,0.35,0.004
+2020-terzan5,ps1:r,0.238,0.02,0.005
+2021-j1818,hips:wise,2.569,0.02,0.005
+2021-msh1552,cda-hips,1.208,0.00,0.006
+2021-nclump,hips:2mass,0.709,0.00,0.005
+2021-sgrae,hips:2mass,0.945,0.00,0.004
+2021-sonify3,cda-hips,0.349,0.02,0.005
+2021-sonify4,skyview:DSS2 Red,1.223,0.03,0.006
+2021-v404cyg,skyview:DSS2 Red,1.727,0.98,0.009
+2022-a98,press:noao-abell98,0.061,0.85,0.007
+2022-casa_streams,press:heic0609a,0.098,0.22,0.006
+2022-g292,hips:wise,1.66,0.00,0.005
+2022-j2030,press:iotw2530a,0.134,0.27,0.009
+2022-ngc3293,press:eso1422a,0.092,0.05,0.005
+2022-ngc4424,press:potw1713a,0.012,0.00,0.006
+2022-sgra,press:sci26006a,0.033,0.02,0.005
+2022-snr0519,press:potw1317a,0.005,0.02,0.007
+2022-sonify6,skyview:DSS2 Red,1.147,1.00,0.005
+2022-spiderweb,legacy:r,0.232,0.35,0.003
+2022-zetaoph,hips:wise,6.384,0.50,0.006
+2023-30dor,press:weic2212a,0.067,nan,nan
+2023-a2256,hips:sdss,0.813,0.92,0.007
+2023-cena,press:eso1221a,0.46,0.03,0.005
+2023-elgordo,press:elgordo1,0.019,0.00,0.005
+2023-etacar,cda-hips,0.232,nan,nan
+2023-m84,cda-hips,0.419,0.18,0.006
+2023-msh1552,skyview:DSS2 Red,1.056,0.08,0.005
+2023-ngc2264,hips:2mass,2.929,0.67,0.005
+2023-ngc253,press:noao-ngc253,0.39,0.13,0.015
+2023-sn1006,hips:2mass,1.074,0.27,0.005
+2023-spiders,press:heic2409a,0.135,0.00,0.005
+2023-tycho,skyview:DSS2 Red,0.717,0.90,0.007
+2023-uhz1,legacy:r,0.19,0.00,0.005
+2024-3c58,hips:sdss,0.434,0.93,0.014
+2024-casa,press:heic0609a,0.134,0.20,0.006
+2024-cena,cda-hips,0.385,0.02,0.002
+2024-guitar,hips:2mass,0.655,0.02,0.002
+2024-ngc602,press:weic2425b,0.05,0.00,0.003
+2024-snr1181,hips:2mass,0.595,0.67,0.005
+2024-sonify8,skyview:DSS2 Red,2.068,0.50,0.008
+2024-timelapse,cda-hips,0.692,0.02,0.005
+2024-z8338,skyview:DSS2 Red,2.321,0.33,0.006
+2025-30dor,press:heic1206a,0.252,0.00,0.008
+2025-bhtde,press:opo2515,0.002,0.00,0.005
+2025-bullet,legacy:r,0.28,0.05,0.003
+2025-casa,cda-hips,0.384,0.00,0.005
+2025-champagne,legacy:r,0.296,0.32,0.003
+2025-fbot,legacy:r,0.188,0.03,0.005
+2025-g181,legacy:r,1.099,0.93,0.005
+2025-helix,legacy:r,3.997,0.43,0.008
+2025-msh1552,skyview:DSS2 Red,0.571,0.15,0.005
+2026-250th,hips:2mass,0.59,0.17,0.005
+2026-30dor,press:weic2212a,0.109,nan,nan
+2026-a2029,legacy:r,0.932,0.98,0.005
+2026-at2016blu,legacy:r,0.447,0.57,0.004
+2026-csc,cda-hips,0.4,0.00,0.005
+2026-heart,hips:wise,1.738,0.63,0.005
+2026-kepler,hips:wise,1.399,0.00,0.005
+2026-lighthouse,hips:2mass,0.52,0.08,0.006
+2026-m101,legacy:r,0.582,0.18,0.005
+2026-m83,press:opo0929c,0.248,0.02,0.004
+2026-rcw86,skyview:DSS2 Red,1.668,0.27,0.005
+2026-sgrc,skyview:DSS2 Red,1.202,0.75,0.006

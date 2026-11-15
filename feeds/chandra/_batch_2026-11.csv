@@ -1,0 +1,65 @@
+id,name,bands,wcs_source,nodata_alpha,tiles_MB,credits_url,existing_chandra_in_wwt
+2018-a1033,Abell 1033,"XRay,Visible,Radio","registered: legacy:r (30 matches, rms 0.77"")",,2.8,https://chandra.harvard.edu/photo/2018/a1033/,Chandra 2015/a1033 (2015)
+2018-crab,Crab Nebula (2018),"XRay,Visible,IR",AVM (TAN) from image.tif,,17.6,https://chandra.harvard.edu/photo/2018/crab/,Crab Nebula (2006); Crab Nebula (1999); Crab Nebula (2008); Crab Nebula (2011)
+2018-e0102,E0102-72.3,"XRay,Visible","registered: cda-hips (13 matches, rms 0.277"")",,68.9,https://chandra.harvard.edu/photo/2018/e0102/,
+2018-kes75,Kes 75,"XRay,Visible","registered: ps1:r (64 matches, rms 0.275"")",,5.5,https://chandra.harvard.edu/photo/2018/kes75/,Kes 75 (2008)
+2018-m16,The Eagle Nebula (M16),"XRay,Visible","registered: press:heic1501a (3929 matches, rms 0.043"")",,19.5,https://chandra.harvard.edu/photo/2018/m16/,Eagle Nebula;M16 (2007)
+2018-perseus,Perseus Cluster,XRay,AVM (TAN) from image.tif,,16.7,https://chandra.harvard.edu/photo/2018/perseus/,Perseus A: A Monster Galaxy at the Heart of Perseus Cluster;Perseus A;NGC 1275 (2008); Perseus A (2000); Perseus Cluster (2005); Perseus A (2014); Chandra 2014/perseusvirgo(a) (2014)
+2018-ring,AM 0644-741,"XRay,Visible","registered: press:opo0415a (2323 matches, rms 0.018"")",,34.7,https://chandra.harvard.edu/photo/2018/ring/,
+2018-sgra_swarm,Sagittarius A* Swarm,XRay,"registered: cda-hips (81 matches, rms 0.914"")",,5.9,https://chandra.harvard.edu/photo/2018/sgra_swarm/,Sagittarius A*: Sgr A*: Galactic Center (2001); Galactic Center (2000); Chandra 2013/sgra_gas (2013); Chandra 2013/sgra (2013); Sgr A* (2014); Sagittarius A* (2015); SGR 1745-2900 (2015); Sagittarius A*; Galactic Center (2003)
+2019-a1758,Abell 1758,"XRay,Visible","registered: legacy:r (14 matches, rms 0.25"")",,3.1,https://chandra.harvard.edu/photo/2019/a1758/,Abell 1758 (2010)
+2019-coma,Coma Cluster,"XRay,Visible","registered: legacy:r (17 matches, rms 3.012"")",,6.1,https://chandra.harvard.edu/photo/2019/coma/,Coma Cluster (2002); Chandra 2013/coma (2013)
+2019-firstlight,Cassiopeia A (2019),"XRay,Visible","registered: press:heic0609a (63 matches, rms 0.105"")",,19.6,https://chandra.harvard.edu/photo/2019/firstlight/,Cassiopeia A (2005); Cassiopeia A (2011); Cassiopeia A (2002); Cassiopeia A (1999); Cas A (2006); Cas A (2009); Chandra 2012/casa (2012)
+2019-ngc3079,NGC 3079,"XRay,Visible","registered: press:opo0128b (444 matches, rms 0.072"")",,5.3,https://chandra.harvard.edu/photo/2019/ngc3079/,NGC 3079 (2003)
+2019-ngc6338,NGC 6338,"XRay,Visible","registered: legacy:r (27 matches, rms 0.351"")",,25.0,https://chandra.harvard.edu/photo/2019/ngc6338/,
+2019-phoenix,Phoenix Cluster,"XRay,Radio,Visible","registered: legacy:r (23 matches, rms 0.151"")",,22.4,https://chandra.harvard.edu/photo/2019/phoenix/,Chandra 2015/phoenix (2015)
+2019-tycho,Tycho's Supernova Remnant (2019),"XRay,Visible","registered: skyview:DSS2 Red (199 matches, rms 0.559"")",,11.1,https://chandra.harvard.edu/photo/2019/tycho/,Tycho's SNR (2009); Chandra 2016/tycho (2016); Tycho's Supernova Remnant (2002); Tycho's Supernova Remnant (2005); Tycho's Supernova Remnant (2011)
+2020-a2261,Abell 2261,"XRay,Visible,IR","registered: hips:2mass (24 matches, rms 0.861"")",,12.1,https://chandra.harvard.edu/photo/2020/a2261/,
+2020-a2384,Abell 2384,"XRay,Radio,Visible","registered: skyview:DSS2 Red (27 matches, rms 1.806"")",,9.6,https://chandra.harvard.edu/photo/2020/a2384/,
+2020-crab3d,Crab Nebula (2020),XRay,"registered: ps1:r (23 matches, rms 0.296"")",,20.1,https://chandra.harvard.edu/photo/2020/crab3d/,Crab Nebula (2006); Crab Nebula (1999); Crab Nebula (2008); Crab Nebula (2011)
+2020-ic4593,IC 4593,"XRay,Visible","registered: press:opo0733d (43 matches, rms 0.065"")",applied T=0,2.9,https://chandra.harvard.edu/photo/2020/ic4593/,
+2020-kepler,Kepler's Supernova Remnant (2020),XRay,"registered: cda-hips (106 matches, rms 0.694"")",,6.5,https://chandra.harvard.edu/photo/2020/kepler/,Kepler's Supernova Remnant (Infrared) (2004); Kepler's Supernova Remnant (Optical) (2004); Kepler's Supernova Remnant (2007); Kepler's Supernova Remnant (2012); Chandra 2013/kepler (2013); Kepler's Supernova Remnant (2004); Kepler's Supernova Remnant (Lower Energy XRay) (2004); Kepler's Supernova Re
+2021-v404cyg,V404 Cygni,"XRay,Visible","registered: skyview:DSS2 Red (24 matches, rms 1.727"")",,19.1,https://chandra.harvard.edu/photo/2021/v404cyg/,
+2022-a98,Abell 98,"XRay,Visible","registered: press:noao-abell98 (3240 matches, rms 0.061"")",,24.9,https://chandra.harvard.edu/photo/2022/a98/,
+2022-casa_streams,Cassiopeia A (2022),"XRay,Visible","registered: press:heic0609a (111 matches, rms 0.098"")",,61.8,https://chandra.harvard.edu/photo/2022/casa_streams/,Cassiopeia A (2005); Cassiopeia A (2011); Cassiopeia A (2002); Cassiopeia A (1999); Cas A (2006); Cas A (2009); Chandra 2012/casa (2012)
+2022-ngc3293,NGC 3293,"XRay,IR,Visible","registered: press:eso1422a (414 matches, rms 0.092"")",,14.6,https://chandra.harvard.edu/photo/2022/ngc3293/,
+2022-snr0519,SNR 0519-69.0,"XRay,Visible","registered: press:potw1317a (2517 matches, rms 0.005"")",,8.8,https://chandra.harvard.edu/photo/2022/snr0519/,Chandra 2015/iy1(b) (2015)
+2022-zetaoph,Zeta Ophiuchi,"XRay,IR","registered: hips:wise (33 matches, rms 6.384"")",,26.0,https://chandra.harvard.edu/photo/2022/zetaoph/,
+2023-30dor,Tarantula Nebula (2023),"XRay,IR","registered: press:weic2212a (11143 matches, rms 0.067"")",,44.1,https://chandra.harvard.edu/photo/2023/30dor/,Tarantula Nebula (2012); Tarantula Nebula (2011)
+2023-a2256,Abell 2256,"XRay,Radio,Visible","registered: hips:sdss (55 matches, rms 0.813"")",,14.8,https://chandra.harvard.edu/photo/2023/a2256/,
+2023-cena,Centaurus A,"XRay,Visible","registered: press:eso1221a (179 matches, rms 0.46"")",,19.7,https://chandra.harvard.edu/photo/2023/cena/,Centaurus A Arcs (2002); Centaurus A Jet (2003); Centaurus A (2008); Centaurus A (2001); Centaurus A (1999); Centaurus A (2014); NGC 5128 (2016)
+2023-elgordo,El Gordo,"XRay,IR","registered: press:elgordo1 (3040 matches, rms 0.019"")",,32.8,https://chandra.harvard.edu/photo/2023/elgordo/,"El Gordo (2012); El Gordo: Monster ""El"" Gordo Galaxy Cluster is Bigger than Thought (2014)"
+2023-etacar,Eta Carinae,XRay,"registered: cda-hips (19 matches, rms 0.232"")",,3.9,https://chandra.harvard.edu/photo/2023/etacar/,Eta Carinae (2007); Eta Carinae (1999); Eta Carinae (2014)
+2023-m84,M84,"XRay,Visible,Radio","registered: cda-hips (15 matches, rms 0.419"")",,6.4,https://chandra.harvard.edu/photo/2023/m84/,M84 (2008)
+2023-msh1552,MSH 15-52 (2023),"XRay,IR","registered: skyview:DSS2 Red (78 matches, rms 1.056"")",,19.0,https://chandra.harvard.edu/photo/2023/msh1552/,B1509-58 in SNR G320.4-1.2 (2001)
+2023-ngc2264,NGC 2264,"XRay,Visible,IR","registered: hips:2mass (21 matches, rms 2.929"")",,19.1,https://chandra.harvard.edu/photo/2023/ngc2264/,
+2023-sn1006,SN 1006,"XRay,IR","registered: hips:2mass (19 matches, rms 1.074"")",,15.6,https://chandra.harvard.edu/photo/2023/sn1006/,SN 1006 (2005); SN 1006 (2008); SN 1006 (2013)
+2023-spiders,Omega Centauri,"XRay,Visible,IR","registered: press:heic2409a (83 matches, rms 0.135"")",applied T=0,31.3,https://chandra.harvard.edu/photo/2023/spiders/,
+2023-tycho,Tycho's Supernova Remnant (2023),"XRay,Visible","registered: skyview:DSS2 Red (206 matches, rms 0.717"")",applied T=0,7.2,https://chandra.harvard.edu/photo/2023/tycho/,Tycho's SNR (2009); Chandra 2016/tycho (2016); Tycho's Supernova Remnant (2002); Tycho's Supernova Remnant (2005); Tycho's Supernova Remnant (2011)
+2024-3c58,3C 58,"XRay,Visible","registered: hips:sdss (27 matches, rms 0.434"")",,10.7,https://chandra.harvard.edu/photo/2024/3c58/,3C58 (2001)
+2024-casa,Cassiopeia A (2024),"XRay,Visible,IR","registered: press:heic0609a (22 matches, rms 0.134"")",,29.1,https://chandra.harvard.edu/photo/2024/casa/,Cassiopeia A (2005); Cassiopeia A (2011); Cassiopeia A (2002); Cassiopeia A (1999); Cas A (2006); Cas A (2009); Chandra 2012/casa (2012)
+2024-cena,Centaurus A Knots,XRay,"registered: cda-hips (56 matches, rms 0.385"")",,20.9,https://chandra.harvard.edu/photo/2024/cena/,Centaurus A Jet (2003); Centaurus A (2008); Centaurus A (2001); Centaurus A (1999); Centaurus A (2014); NGC 5128 (2016)
+2024-guitar,Guitar Nebula,"XRay,Visible","registered: hips:2mass (12 matches, rms 0.655"")",,10.1,https://chandra.harvard.edu/photo/2024/guitar/,Chandra 2015/archives(f) (2015)
+2024-ngc602,NGC 602,"XRay,IR","registered: press:weic2425b (107 matches, rms 0.05"")",,76.1,https://chandra.harvard.edu/photo/2024/ngc602/,Chandra 2013/ngc602 (2013)
+2024-snr1181,SNR 1181,"XRay,Visible,IR","registered: hips:2mass (21 matches, rms 0.595"")",,7.0,https://chandra.harvard.edu/photo/2024/snr1181/,
+2024-z8338,Zwicky 8338,"XRay,Visible","registered: skyview:DSS2 Red (12 matches, rms 2.321"")",,16.1,https://chandra.harvard.edu/photo/2024/z8338/,
+2025-30dor,Tarantula Nebula (2025),"XRay,IR,Visible,Radio","registered: press:heic1206a (48 matches, rms 0.252"")",,9.4,https://chandra.harvard.edu/photo/2025/30dor/,Tarantula Nebula (2012); Tarantula Nebula (2002); Tarantula Nebula (2011)
+2025-bhtde,AT2024tvd,"XRay,Ultraviolet","registered: press:opo2515 (734 matches, rms 0.002"")",,6.4,https://chandra.harvard.edu/photo/2025/bhtde/,
+2025-bullet,Bullet Cluster,XRay,"registered: legacy:r (13 matches, rms 0.28"")",,108.9,https://chandra.harvard.edu/photo/2025/bullet/,Bullet Cluster (2008); 1E 0657-56 (2002); 1E 0657-56 (2006)
+2025-champagne,Champagne Cluster,"XRay,Visible","registered: legacy:r (34 matches, rms 0.296"")",,21.7,https://chandra.harvard.edu/photo/2025/champagne/,
+2025-fbot,AT 2024wpp,"XRay,Visible","registered: legacy:r (12 matches, rms 0.188"")",,1.1,https://chandra.harvard.edu/photo/2025/fbot/,
+2025-g181,PSZ2 G181.06+48.47,"XRay,Visible,Radio","registered: legacy:r (14 matches, rms 1.099"")",,14.4,https://chandra.harvard.edu/photo/2025/g181/,
+2025-helix,Helix Nebula,"XRay,Ultraviolet,Visible,IR","registered: legacy:r (14 matches, rms 3.997"")",,15.6,https://chandra.harvard.edu/photo/2025/helix/,
+2025-infinity,Infinity Galaxy,"XRay,IR",AVM:image.tif,,13.3,https://chandra.harvard.edu/photo/2025/infinity/,
+2025-msh1552,MSH 15-52 (2025),"XRay,Radio,HydrogenAlpha","registered: skyview:DSS2 Red (140 matches, rms 0.571"")",,22.7,https://chandra.harvard.edu/photo/2025/msh1552/,B1509-58 in SNR G320.4-1.2 (2001)
+2026-30dor,Tarantula Nebula (2026),"XRay,IR,Visible","registered: press:weic2212a (1319 matches, rms 0.109"")",,68.4,https://chandra.harvard.edu/photo/2026/30dor/,Tarantula Nebula (2012); Tarantula Nebula (2011)
+2026-a2029,Abell 2029,"XRay,Visible","registered: legacy:r (38 matches, rms 0.932"")",,9.0,https://chandra.harvard.edu/photo/2026/a2029/,
+2026-at2016blu,AT 2016blu,"XRay,Visible","registered: legacy:r (80 matches, rms 0.447"")",,29.7,https://chandra.harvard.edu/photo/2026/at2016blu/,
+2026-csc,Sagittarius A*,XRay,"registered: cda-hips (79 matches, rms 0.4"")",,15.8,https://chandra.harvard.edu/photo/2026/csc/,Sagittarius A*: Sgr A*: Galactic Center (2001); Galactic Center (2000); Chandra 2013/sgra_gas (2013); Chandra 2013/sgra (2013); Sgr A* (2014); Sagittarius A* (2015); SGR 1745-2900 (2015); Sagittarius A*; Galactic Center (2003)
+2026-heart,IC 5146,"XRay,IR,Visible","registered: hips:wise (23 matches, rms 1.738"")",applied T=0,26.8,https://chandra.harvard.edu/photo/2026/heart/,
+2026-kepler,Kepler's Supernova Remnant (2026),"XRay,Visible","registered: hips:wise (14 matches, rms 1.399"")",,16.0,https://chandra.harvard.edu/photo/2026/kepler/,Kepler's Supernova Remnant (Infrared) (2004); Kepler's Supernova Remnant (Optical) (2004); Kepler's Supernova Remnant (2007); Kepler's Supernova Remnant (2012); Chandra 2013/kepler (2013); Kepler's Supernova Remnant (2004); Kepler's Supernova Remnant (Lower Energy XRay) (2004); Kepler's Supernova Re
+2026-lighthouse,Lighthouse Pulsar (PSR J1101-6101),"XRay,Radio,Visible","registered: hips:2mass (74 matches, rms 0.52"")",,13.9,https://chandra.harvard.edu/photo/2026/lighthouse/,Chandra 2014/igrj11014 (2014)
+2026-m101,M101,"XRay,Visible","registered: legacy:r (57 matches, rms 0.582"")",,119.9,https://chandra.harvard.edu/photo/2026/m101/,SN 1970G (2005); M101 (2008)
+2026-m83,M83,"XRay,Visible","registered: press:opo0929c (958 matches, rms 0.248"")",,20.5,https://chandra.harvard.edu/photo/2026/m83/,M83 (2012); M83 (2003)
+2026-sgrc,Sagittarius C,"XRay,Visible,Radio","registered: skyview:DSS2 Red (39 matches, rms 1.202"")",,21.2,https://chandra.harvard.edu/photo/2026/sgrc/,
+2026-trebleclef,VLSS J0318.9+5755,"XRay,IR,Radio",AVM:image.tif,,18.7,https://chandra.harvard.edu/photo/2026/trebleclef/,
