@@ -1,0 +1,24 @@
+id,decision,reason
+2018-imbhs,reject,COSMOS mosaic with illustration inset; registration did not match DSS
+2020-terzan5,reject,side-by-side optical/X-ray panels
+2021-sonify3,reject,collage of several objects (sonification release)
+2021-sonify4,reject,collage of several objects (sonification release)
+2024-timelapse,reject,side-by-side panels
+2026-250th,reject,collage of several objects
+2020-sonify2,reject,collage of several objects (sonification release)
+2024-sonify8,reject,collage of several objects (sonification release)
+2022-sonify6,reject,duplicate of 2021-v404cyg (sonification reuse)
+2021-msh1552,hold,zoom insets drawn on the image
+2021-nclump,hold,zoom inset with label; DSS check unavailable
+2022-g292,hold,zoom inset and text label
+2023-uhz1,hold,two labelled insets
+2025-casa,hold,zoom inset
+2026-rcw86,hold,drawn annotation circle
+2018-m51,hold,annotation circle and label (ULX)
+2019-gsn069,hold,zoom inset
+2022-ngc4424,hold,labelled inset
+2022-sgra,hold,labelled inset and text label
+2022-spiderweb,hold,labelled inset and text labels
+2025-ngc6099,hold,labelled inset (AVM placement; fact-sheet RA wrong)
+2021-j1818,hold,registration (WISE; rms 2.6") not confirmable by eye
+2021-sgrae,hold,registration (2MASS) not confirmable by eye

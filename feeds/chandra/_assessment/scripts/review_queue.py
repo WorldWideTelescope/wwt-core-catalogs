@@ -37,7 +37,9 @@ def avm_centres(path):
     out = []
     for s in avm_sets(path):
         try:
-            out.append(tuple(float(re.sub(r'[^0-9eE+.-]', '', x)) for x in s['Spatial.ReferenceValue'][:2]))
+            c = tuple(float(re.sub(r'[^0-9eE+.-]', '', x)) for x in s['Spatial.ReferenceValue'][:2])
+            if 0 <= c[0] <= 360 and -90 <= c[1] <= 90:
+                out.append(c)
         except Exception:
             pass
     return out

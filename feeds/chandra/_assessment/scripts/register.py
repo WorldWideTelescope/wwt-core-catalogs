@@ -227,7 +227,7 @@ def match(C, cs, R, rs, floor=None):
     Cw, Rw = clahe.apply(Cw), clahe.apply(Rw)
     s_exp = (cs / zc) / (rs / zr)
     res = _match_sift(Cw, Rw, s_exp)
-    if res is None or res[1].sum() < MIN_INLIERS:
+    if floor is None and (res is None or res[1].sum() < MIN_INLIERS):  # point search only on the sharp pass
         pm = match_points(Cw, Rw, s_exp)
         if pm is not None and (res is None or len(pm[1]) > res[1].sum()):
             A, pcp, prp = pm
@@ -303,12 +303,12 @@ def match_points(Cw, Rw, s_exp, rotations=(0.0, -3.0, 3.0, 180.0)):
     pr_all = detect_points(Rw, 300)
     if len(pc_all) < 10 or len(pr_all) < 10:
         return None
-    q = min(1.0, 1024 / max(Rw.shape))
+    q = min(1.0, 768 / max(Rw.shape))
     H, W = int(Rw.shape[0] * q) + 1, int(Rw.shape[1] * q) + 1
     FR = np.fft.rfft2(_render(pr_all * q, (H, W)))
     cC = np.array([Cw.shape[1] / 2, Cw.shape[0] / 2], np.float32)
     best = []
-    for s in s_exp * np.geomspace(1 / 2.5, 2.5, 33):
+    for s in s_exp * np.geomspace(1 / 2.5, 2.5, 25):
         for rot in rotations:
             c, sn = math.cos(math.radians(rot)), math.sin(math.radians(rot))
             M = s * np.array([[c, -sn], [sn, c]], np.float32)
